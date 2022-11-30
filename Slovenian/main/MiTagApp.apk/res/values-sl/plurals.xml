@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="tags_description">
+        <item quantity="other">aplikacij</item>
+        <item quantity="one">aplikacija</item>
+    </plurals>
+    <plurals name="play_description">
+        <item quantity="other">naloge</item>
+        <item quantity="one">naloga</item>
+    </plurals>
+    <plurals name="history_description">
+        <item quantity="other">zapisov</item>
+        <item quantity="one">zapis</item>
+    </plurals>
+    <plurals name="select_n_item">
+        <item quantity="other">Izbrano: %d</item>
+        <item quantity="zero">Izberite elemente</item>
+        <item quantity="one">%d izbran</item>
+    </plurals>
+</resources>

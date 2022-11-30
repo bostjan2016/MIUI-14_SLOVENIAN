@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="account_user_gender_name">
+        <item>Moški</item>
+        <item>Ženska</item>
+     </string-array>
+     <string-array name="feedback_tag_list">
+        <item>Hrošč</item>
+        <item>Predlog</item>
+        <item>Ostalo</item>
+     </string-array>
+     <string-array name="playback_streaming_quality">
+        <item>Samod.</item>
+        <item>Nizko</item>
+        <item>Srednje</item>
+        <item>Visoko</item>
+        <item>Zelo visoko</item>
+     </string-array>
+</resources>

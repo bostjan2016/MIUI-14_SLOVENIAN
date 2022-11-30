@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Hlajenje</item>
+        <item>Gretje</item>
+        <item>Razvlaževanje</item>
+        <item>Ventilator</item>
+    </string-array>
+    <string-array name="answer">
+        <item>"Vaša naprava se lahko seznani samo s Mi TV, Mi Box in nekaj drugimi Android napravami z uporabo WiFi."</item>
+        <item>"Preverite ali ste izbrali A/C v procesu seznanjanja. Sledite navodilom na napravi dokler seznanitev ni končana."</item>
+        <item>Ne. Trenutno lahko uporabljate Mi 4, Mi 4c in Redmi Note 2 kot daljinski upravljalec.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Ned.</item>
+        <item>Pon.</item>
+        <item>Tor.</item>
+        <item>Sre.</item>
+        <item>Čet.</item>
+        <item>Pet.</item>
+        <item>Sob.</item>
+    </string-array>
+    <string-array name="question">
+        <item>Zakaj moj telefon stalno išče bežične naprave?</item>
+        <item>"Zakaj lahko samo vključim ne pa tudi izključim A/C ?"</item>
+        <item>Ali lahko uporabljam Mi 3, Mi 2i Redmi kot IR daljinec?</item>
+    </string-array>
+    <string-array name="assistant_tab">
+        <item>Video</item>
+        <item>Posnetek zaslona</item>
+        <item>Aplikacija</item>
+    </string-array>
+    <string-array name="epg_channel_tab">
+        <item>Celovit</item>
+        <item>Zberi</item>
+        <item>CCTV</item>
+        <item>TV</item>
+        <item>HD</item>
+        <item>Nedavno</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar">
+        <item>Vsi kanali</item>
+        <item>Priljubljeni kanali</item>
+        <item>CCTV kanali</item>
+        <item>Satelitski TV kanali</item>
+        <item>HD kanali</item>
+        <item>Nedavno gledano</item>
+    </string-array>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+</resources>

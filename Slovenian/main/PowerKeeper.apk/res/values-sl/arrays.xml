@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="action_name_translate">
+        <item>Maks. osvetlitev zaslona</item>
+        <item>Maks. CPU frekvenca</item>
+        <item>Način zaslona</item>
+        <item>Uporaba CPU-a</item>
+        <item>Podatkovna povezava</item>
+        <item>Lokacija</item>
+        <item>Prvo obvestilo</item>
+        <item>Obvestila na zakl. zaslonu</item>
+        <item>Omeji podatkovne povezave v ozadju</item>
+     </string-array>
+     <string-array name="action_param_translate">
+        <item>Nič</item>
+        <item>Privzeto</item>
+        <item>Slike</item>
+        <item>Film</item>
+        <item>Varčevanje baterije</item>
+        <item>Balansirano</item>
+        <item>Zmogljivost</item>
+        <item>Vključi</item>
+        <item>Izključi</item>
+        <item>Takoj</item>
+        <item>Čez 10 min</item>
+        <item>Čez 30 min</item>
+        <item>Kadar je zaslon izključen</item>
+     </string-array>
+     <string-array name="app_groups">
+        <item>V tem načinu</item>
+        <item>Neizbrano</item>
+        <item>Ostalo</item>
+     </string-array>
+     <string-array name="emode_app_groups">
+        <item>Sistemske aplikacije</item>
+        <item>Ostale aplikacije</item>
+        <item>Izbrane aplikacije</item>
+     </string-array>
+     <string-array name="event_name_translate">
+        <item>Aplikacija se izvaja v ospredju</item>
+        <item>Zaslon vključen</item>
+        <item>Zaslon izključen</item>
+        <item>Zaslon izključen več kot 10 min</item>
+        <item>Cel zaslon</item>
+        <item>Izhod iz celega zaslona</item>
+        <item>Aplikacija se izvaja v ozadju</item>
+        <item>Naprava se polni</item>
+        <item>"Naprava se ne polni"</item>
+        <item>Naprava je v stanju mirovanja</item>
+     </string-array>
+     <string-array name="group_name_translate">
+        <item>Privzeto</item>
+        <item>Skriti način</item>
+        <item>Način branja</item>
+        <item>Predstavnosti</item>
+     </string-array>
+     <string-array name="hmode_app_classify1">
+        <item>Lastno</item>
+        <item>MIUI Varčevanje baterije</item>
+     </string-array>
+     <string-array name="hmode_app_classify2">
+        <item>Aktivne aplikacije</item>
+        <item>Neaktivne aplikacije</item>
+     </string-array>
+     <string-array name="hmode_app_groups">
+        <item>Prilagojeno</item>
+        <item>Prihranek baterije</item>
+     </string-array>
+     <string-array name="invisible_app_groups">
+        <item>Izbrano</item>
+        <item>Neizbrano</item>
+     </string-array>
+     <string-array name="pc_manage_active_app_items">
+        <item>Postavite aplikacije v mirovanje</item>
+        <item>Varčevanje baterije</item>
+     </string-array>
+     <string-array name="power_checker_abnormal_groups">
+        <item>Se izvaja</item>
+        <item>Nedavno</item>
+     </string-array>
+     <string-array name="power_checker_group_prefix">
+        <item>Zdaj</item>
+        <item>Ozadje</item>
+        <item>Nedavno</item>
+     </string-array>
+     <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item>Preveč zdaj</item>
+        <item>Preveč v teh dneh</item>
+     </string-array>
+     <string-array name="power_checker_rank_groups">
+        <item>Visoko</item>
+        <item>Normalno</item>
+     </string-array>
+     <string-array name="power_checker_recent_group_titles">
+        <item>Blokiranje globokega mirovanja</item>
+        <item>Blokiranje mirovanja</item>
+        <item>Iskanje WiFi</item>
+        <item>Uporaba GPS-a</item>
+        <item>Zasedenost CPU-a</item>
+        <item>Pogosto zbujanje naprave</item>
+     </string-array>
+     <string-array name="power_checker_running_group_titles">
+        <item>Blokiranje globokega mirovanja</item>
+        <item>Blokiranje mirovanja</item>
+        <item>Iskanje WiFi-ja</item>
+        <item>Z uporabo GPS</item>
+        <item>Zaseda CPU</item>
+        <item>Pogosta bujenja naprave</item>
+     </string-array>
+     <string-array name="power_mode_entries">
+        <item>Zmogljivost</item>
+        <item>Uravnoteženo</item>
+     </string-array>
+     <string-array name="thermal_entries">
+        <item>Privzeti način upravljanja z temperaturo</item>
+        <item>Zmogljiv način</item>
+     </string-array>
+     <string-array name="thermal_summaries">
+        <item>Prednost kontroli temperature</item>
+        <item>Prednost zmogljivosti</item>
+        <item>Ni podprto v ekstremnem načinu</item>
+     </string-array>
+</resources>

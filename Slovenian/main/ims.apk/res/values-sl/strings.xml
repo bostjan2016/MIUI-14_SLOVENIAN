@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="call_hold_label">Klic na čakanju :</string>
+  <string name="call_resume_label">Klic nastavljen :</string>
+  <string name="device_is_hd_capable">Naprava je sposobna za HD</string>
+  <string name="error_msg_cancelled">Odpovedano</string>
+  <string name="error_msg_failed">Ni uspelo</string>
+  <string name="error_msg_reinvite_collision">Ponovi klic</string>
+  <string name="incoming_call_failed_low_battery">Dohodni klic ni uspel zaradi slabe baterije.</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Ohranjevalnik zaslona v obliki fotografije</string>
+  <string name="flipper_screensaver_name">Okvir fotografije</string>
+  <string name="local_source_name">Fotografije na napravi</string>
+  <string name="need_to_configure">Fotografija ni izbrana.</string>
+  <string name="no_photos">Na napravi ni fotografij.</string>
+  <string name="photodream_select_all">Izberi vse</string>
+  <string name="photodream_select_none">Prekliči vse</string>
+  <string name="posts_album_name">Fotografije iz objav</string>
+  <string name="stock_photo_album_name">Arhivske fotografije</string>
+  <string name="table_screensaver_name">Tabela fotografij</string>
+  <string name="unknown_album_name">Neimenovani album</string>
+</resources>

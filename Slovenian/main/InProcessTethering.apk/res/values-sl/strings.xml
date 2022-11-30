@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="disable_tether_notification_message">Za podrobnosti se obrnite na skrbnika</string>
+     <string name="disable_tether_notification_title">Deljenje je onemogočeno</string>
+     <string name="notification_channel_tethering_status">Pr. dost. točka &amp; status deljenja</string>
+     <string name="tethered_notification_message">Tapnite za nastavitev.</string>
+     <string name="tethered_notification_title">Pr. dost. točka ali deljenje aktivno</string>
+</resources>

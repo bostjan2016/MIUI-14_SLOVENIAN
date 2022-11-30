@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="settings_search_earth">
+        <item>Dom</item>
+        <item>Slika ozadja/Super Slika ozadja/Začetna</item>
+        <item>Zemlja;Super Slika ozadja;Zemlja izdaja;Slika ozadja</item>
+     </string-array>
+     <string-array name="settings_search_geometry">
+        <item>Geometrija</item>
+        <item>Slika ozadja/Super Slika ozadja/Geometrija</item>
+        <item>Geometrija;Abstrakt;Super Slika ozadja;Slika ozadja</item>
+     </string-array>
+     <string-array name="settings_search_mars">
+        <item>Rdeči planet</item>
+        <item>Slika ozadja/Super Slika ozadja/Rdeči planet</item>
+        <item>Mars;Mars izdaja;Super Slika ozadja;Slika ozadja</item>
+     </string-array>
+     <string-array name="settings_search_saturn">
+        <item>Saturnovi prstani</item>
+        <item>Slika ozadja/Super Slika ozadja/Saturnovi prstani</item>
+        <item>Saturn;Saturnovi prstani;Super Slika ozadja;Slika ozadja</item>
+     </string-array>
+     <string-array name="settings_search_snowmountain">
+        <item>Sneženi vrhovi</item>
+        <item>Slika ozadja/Super Slika ozadja/Sneženi vrhovi</item>
+        <item>Sneženi vrhovi;Gore;Super Slika ozadja;Slika ozadja</item>
+     </string-array>
+     <string-array name="settings_search_superwp">
+        <item>Super Slika ozadja</item>
+        <item>Slika ozadja/Super Slika ozadja</item>
+        <item>Super Slika ozadja;Slika ozadja;Dinamično ozadje;3D Slika ozadja</item>
+     </string-array>
+     <string-array name="settings_search_weather">
+        <item>Vreme</item>
+        <item>Slika ozadja/Super Slika ozadja/Vreme</item>
+        <item>Vreme;Vremenske informacije;Super Slika ozadja;Slika ozadja</item>
+     </string-array>
+     <string-array name="super_wallpaper_list_ids">
+        <item>snežne planine</item>
+        <item>geometrija</item>
+        <item>saturn</item>
+        <item>zemlja</item>
+        <item>mars</item>
+     </string-array>
+</resources>

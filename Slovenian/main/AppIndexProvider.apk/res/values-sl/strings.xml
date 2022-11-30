@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Nastavitve</string>
+  <string name="application_desc">Aplikacija</string>
+  <string name="search_label">Nastavitve</string>
+  <string name="settings_description">Nastavitve</string>
+</resources>

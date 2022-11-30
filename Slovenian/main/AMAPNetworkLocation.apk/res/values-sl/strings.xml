@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="agree">Strinjam se</string>
+  <string name="app_label">Lokacija omrežja</string>
+  <string name="disagree">Ne strinjam se</string>
+  <string name="location_warning_do_not_show_again">"Ne kaži več"</string>
+  <string name="location_warning_message">"Dovoli AutoNavi storitvi lociranja zbiranje anonimnih podatkov o lokaciji. Nekateri podatki so lahko shranjeni v napravi, zbiranje pa se lahko dogaja tudi če ni odprta nobena aplikacija. Možni so stroški uporabe podatkov med tem procesom."</string>
+  <string name="location_warning_title">Soglasje lokacije</string>
+  <string name="persmission_close">Zapri</string>
+  <string name="persmission_message">Da bo storitev pravilno delovala potrebuje dodatna dovoljenja. Dovolite ji, ko vas vpraša.</string>
+  <string name="persmission_message2">Da bo storitev pravilno delovala potrebuje dostop do prostora za shranjevanje. Dovolite ji, ko vas vpraša.</string>
+  <string name="persmission_message3">Da bo storitev pravilno delovala potrebuje dostop do vaše lokacije. Dovolite ji ko vas vpraša.</string>
+  <string name="persmission_message4">Da bo storitev pravilno delovala potrebuje dostop do vaše naprave. Dovolite ji ko vas vpraša.</string>
+  <string name="persmission_message5">"Da bo storitev pravilno delovala potrebuje dodatna dovoljenja. Dovoljenja lahko urejate v Nastavitvah."</string>
+  <string name="persmission_message6">"Da bo storitev pravilno delovala potrebuje dostop do vaše lokacije. Dovoljenja lahko urejate v Nastavitvah."</string>
+  <string name="persmission_message7">"Da bo storitev pravilno delovala potrebuje dostop do vaše naprave. Dovoljenja lahko urejate v Nastavitvah."</string>
+  <string name="persmission_message8">"Da bo storitev pravilno delovala potrebuje dostop do prostora za shranjevanje. Dovoljenja lahko urejate v Nastavitvah."</string>
+  <string name="persmission_notification_text">Tapnite za odobritev</string>
+  <string name="persmission_notification_title">Lokacija omrežja potrebuje dovoljenja</string>
+  <string name="persmission_ok">V redu</string>
+  <string name="persmission_settings">Nastavitve</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string-array name="sleep_duration_values">
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>45 minut</item>
+        <item>1 ura</item>
+	  </string-array>
+    <string-array name="presetlist_edit_category">
+        <item>Preimenuj</item>
+        <item>Izberite samodejno</item>
+        <item>Odstrani</item>
+    </string-array>
+    <string-array name="rf_cfg">
+        <item>Dobiti parametre postaj</item>
+        <item>Dobiti parametre postaj ponoviti 20 krat</item>
+        <item>Dobiti parametre iskanja postaj</item>
+        <item>Dobiti parametre FM Frekvenc</item>
+        <item>Nastavitev parametrov FM iskanja</item>
+    </string-array>
+    <string-array name="cfg_rf">
+        <item>Nastavi FM RSSI Delta</item>
+        <item>Nastavi Mejo signala</item>
+        <item>RF Statistika</item>
+    </string-array>
+    <string-array name="stats_options">
+        <item>Dodatne možnosti</item>
+        <item>Nastavitev parametrov FM iskanja</item>
+        <item>RF Statistika</item>
+    </string-array>
+</resources>

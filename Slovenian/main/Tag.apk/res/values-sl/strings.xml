@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_call">Pokliči %s</string>
+  <string name="action_text">Pošlji sporočilo %s</string>
+  <string name="app_name">Oznake</string>
+  <string name="button_done">Končano</string>
+  <string name="call_phone_permission_denied">Za klicanje ta aplikacija potrebuje dostop do dovoljenj telefona. Dovoljenja lahko urejate v nastavitvah</string>
+  <string name="empty_tag_prompt">Ta oznaka je prazna.</string>
+  <string name="external_storage_permission_denied">Za dostop do datotek aplikacija potrebuje dovoljenje za dostop zo zunanje shrambe. Dovoljenja lahko upravljate v nastavitvah</string>
+  <string name="import_vcard">Uvoz stikov ^1</string>
+  <string name="mime_display_name">Podatki iz oznake NFC</string>
+  <string name="tag_empty">Prazna oznaka</string>
+  <string name="tag_unknown">Neznan tip oznake</string>
+  <string name="title_existing_tag">Oznaka</string>
+  <string name="title_scanned_tag">Nova oznaka prebrana</string>
+  <string name="vcard_title">Kontakt informacije za ^1</string>
+</resources>

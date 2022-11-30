@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="height_array">
+        <item>Centimeter</item>
+        <item>Meter</item>
+        <item>Čevelj</item>
+        <item>Inča</item>
+     </string-array>
+     <string-array name="mortgage_repayment">
+        <item>Enaki obroki</item>
+        <item>Manjši obroki</item>
+     </string-array>
+     <string-array name="operatorDescs">
+        <item>levi oklepaj</item>
+        <item>desni oklepaj</item>
+        <item>faktorsko</item>
+        <item>naravni logaritem</item>
+        <item>logaritem</item>
+        <item>kvadratni koren</item>
+        <item>deljeno z</item>
+        <item>množeno z</item>
+        <item>plus</item>
+        <item>minus</item>
+        <item>pika </item>
+        <item>moč</item>
+        <item>tangens</item>
+        <item>sinus</item>
+        <item>kosinus</item>
+        <item>pi</item>
+        <item>enako</item>
+     </string-array>
+     <string-array name="unit_data_order_area_">
+        <item>kv.km</item>
+        <item>ha</item>
+        <item>ar</item>
+        <item>kv.m</item>
+        <item>kv.dm</item>
+        <item>kv.cm</item>
+        <item>kv.mm</item>
+        <item>kv.um</item>
+        <item>aker</item>
+        <item>kv.mi</item>
+        <item>kv.jard</item>
+        <item>kv.čevelj</item>
+        <item>kv.inč</item>
+        <item>kv.rd</item>
+        <item>qing</item>
+        <item>mu</item>
+        <item>kv.chi</item>
+        <item>kv.cun</item>
+     </string-array>
+     <string-array name="unit_data_order_time_">
+        <item>let</item>
+        <item>teden</item>
+        <item>dan</item>
+        <item>h</item>
+        <item>min</item>
+        <item>s</item>
+        <item>ms</item>
+        <item>us</item>
+        <item>ps</item>
+     </string-array>
+     <string-array name="unit_data_order_volume_">
+        <item>kub.m</item>
+        <item>kub.dm</item>
+        <item>kub.cm</item>
+        <item>kub.mm</item>
+        <item>hl</item>
+        <item>l</item>
+        <item>dl</item>
+        <item>cl</item>
+        <item>ml</item>
+        <item>kub.čevelj</item>
+        <item>kub.inč</item>
+        <item>kub.yard</item>
+        <item>kub.af</item>
+     </string-array>
+     <string-array name="weight_array">
+        <item>Kilogram</item>
+        <item>Funt</item>
+     </string-array>
+</resources>

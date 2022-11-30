@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="account_user_gender_name">
+        <item>Moški</item>
+        <item>Ženska</item>
+     </string-array>
+     <string-array name="language_name_list">
+        <item>Azərbaycan</item>
+        <item>Melayu</item>
+        <item>Bosanski</item>
+        <item>Català</item>
+        <item>Čeština</item>
+        <item>Dansk</item>
+        <item>Deutsch</item>
+        <item>Eesti</item>
+        <item>English</item>
+        <item>Español</item>
+        <item>Euskara</item>
+        <item>Français</item>
+        <item>Galego</item>
+        <item>Hausa</item>
+        <item>Hrvatski</item>
+        <item>Indonesia</item>
+        <item>Italiano</item>
+        <item>Latviešu</item>
+        <item>Lietuvių</item>
+        <item>Magyar</item>
+        <item>Malti</item>
+        <item>Nederlands</item>
+        <item>Norsk bokmål</item>
+        <item>"O'zbek"</item>
+        <item>Polski</item>
+        <item>Português</item>
+        <item>Română</item>
+        <item>Shqip</item>
+        <item>Slovenčina</item>
+        <item>Slovenščina</item>
+        <item>Suomi</item>
+        <item>Svenska</item>
+        <item>Tiếng Việt</item>
+        <item>Türkçe</item>
+        <item>Eλληνικά</item>
+        <item>Беларуская</item>
+        <item>български</item>
+        <item>Қазақ тілі</item>
+        <item>Македонски</item>
+        <item>Русский</item>
+        <item>Српски</item>
+        <item>Українська</item>
+        <item>ქართული</item>
+        <item>հայերեն</item>
+        <item>עברית</item>
+        <item>اردو</item>
+        <item>العربية</item>
+        <item>فارسی</item>
+        <item>नेपाली</item>
+        <item>मराठी</item>
+        <item>हिंदी</item>
+        <item>অসমীয়া</item>
+        <item>বাংলা</item>
+        <item>ਪੰਜਾਬੀ</item>
+        <item>ગુજરાતી</item>
+        <item>தமிழ்</item>
+        <item>తెలుగు</item>
+        <item>ಕನ್ನಡ</item>
+        <item>മലയാളം</item>
+        <item>ไทย</item>
+        <item>မြန်မာ</item>
+        <item>ខ្មែរ</item>
+        <item>한국어</item>
+        <item>日本語</item>
+        <item>简体中文</item>
+        <item>繁體中文</item>
+     </string-array>
+     <string-array name="menu_theme_setting">
+        <item>Bela</item>
+        <item>Rumena</item>
+        <item>Siva</item>
+        <item>Rjava</item>
+        <item>Zelena</item>
+        <item>Modra</item>
+     </string-array>
+     <string-array name="nf_ad_feedback_reason">
+        <item>Ni zanimivo</item>
+        <item>Ponavljajoče</item>
+        <item>Slaba kvaliteta</item>
+        <item>Neprimerne fotografije</item>
+        <item>Goljufive informacije</item>
+     </string-array>
+     <string-array name="nf_feedback_reason">
+        <item>Eksplicitna vsebina</item>
+        <item>Laž</item>
+        <item>Stare novice</item>
+        <item>Ekstremistični pogledi</item>
+        <item>Subliminalno oglaševanje</item>
+	<item>"Ni mi všeč"</item>
+     </string-array>
+     <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Nazaj/naprej</item>
+        <item>Preklopi med zavihki</item>
+        <item>Nič</item>
+     </string-array>
+     <string-array name="pref_homepage_choices">
+        <item>Privzeta začetna stran</item>
+        <item>Po meri</item>
+     </string-array>
+     <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Tablica</item>
+     </string-array>
+     <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Navpični pogled</item>
+        <item>Vodoravni pogled</item>
+     </string-array>
+     <string-array name="pref_security_do_not_track_keys">
+        <item>Vklop</item>
+        <item>Samo v načinu brez beleženja zgodovine</item>
+        <item>Izklopi</item>
+     </string-array>
+     <string-array name="pref_text_zoom_choices">
+        <item>Drobno</item>
+        <item>Majhno</item>
+        <item>Normalno</item>
+        <item>Veliko</item>
+        <item>Ogromno</item>
+     </string-array>
+     <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Namizje</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+     </string-array>
+     <string-array name="pref_web_permissions">
+        <item>Omeji</item>
+        <item>Vprašaj</item>
+        <item>Dovoli</item>
+     </string-array>
+     <string-array name="pref_web_permissions_sub_one">
+        <item>Omeji</item>
+        <item>Vprašaj</item>
+     </string-array>
+     <string-array name="pref_web_permissions_sub_two">
+        <item>Omeji</item>
+        <item>Dovoli</item>
+     </string-array>
+     <string-array name="protection_name">
+        <item>Samod.</item>
+        <item>Nič</item>
+        <item>Nov uporabnik</item>
+     </string-array>
+     <string-array name="setting_swipe_up_target">
+        <item>Iskanje</item>
+        <item>Novice</item>
+     </string-array>
+     <string-array name="shortcut_dialog_delete">
+        <item>Izbriši</item>
+        <item>Ne, hvala</item>
+     </string-array>
+     <string-array name="shortcut_dialog_keep">
+        <item>V redu</item>
+        <item>Sledi</item>
+     </string-array>
+     <string-array name="shortcut_dialog_title">
+        <item>Sporočilo iz brskalnika</item>
+        <item>Spremljajte OI z Mi</item>
+     </string-array>
+     <string-array name="speed_result_tips">
+        <item>Trenutna omrežna povezava je zelo počasna. Kaže, da ste na območju s slabo pokritostjo omrežja.</item>
+        <item>Trenutna omrežna povezava je počasna.</item>
+        <item>Niso bile najdene težave z omrežno povezavo.</item>
+        <item>Trenutna omrežna povezava je hitra. Dovolj je za gledanje filmov!</item>
+        <item>Trenutna omrežna povezava je zelo hitra. Odlično vam gre!</item>
+     </string-array>
+     <string-array name="user_guide_info_array">
+        <item>Prenesite videoposnetke in slike iz družbenih medijev</item>
+        <item>Shranite fotografije in videoposnetke iz WhatsAppa</item>
+        <item>Uredite datoteke v vaši napravi in jih naredite zasebne</item>
+     </string-array>
+     <string-array name="user_guide_title_array">
+        <item>Prenesite videoposnetke</item>
+        <item>Shranjevalec WhatsAppa</item>
+        <item>Zasebne datoteke</item>
+     </string-array>
+</resources>

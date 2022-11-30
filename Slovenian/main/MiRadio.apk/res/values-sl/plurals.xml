@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="Nalbum_total_songs">
+        <item quantity="other">Skupaj %d pesmi</item>
+        <item quantity="one">Skupaj %d pesem</item>
+     </plurals>
+     <plurals name="Nassociate_songs">
+        <item quantity="other">Iskanje ovitkov in besedil (%1$d/%2$d)</item>
+        <item quantity="one">Iskanje ovitka in besedila (%1$d/%2$d)</item>
+     </plurals>
+     <plurals name="Nbackup_songs">
+        <item quantity="other">Kopiranje pesmi, %1$d še ostalo (%2$.1fMB)</item>
+        <item quantity="one">Kopiranje pesmi, %1$d pesem še ostala (%2$.1fMB)</item>
+     </plurals>
+     <plurals name="Ndownload_fee_alert_message">
+        <item quantity="other">"Na zahtevo založnika %d izbranih pesmi ne more biti prenešeno zastonj. Dodane bodo v prenose."</item>
+        <item quantity="one">"Na zahtevo založnika %d izbrana pesem ne more biti prenešena zastonj. Dodana bo v prenose."</item>
+     </plurals>
+     <plurals name="Nnowplaying_songs">
+        <item quantity="other">(%d pesmi)</item>
+        <item quantity="one">(%d pesem)</item>
+     </plurals>
+     <plurals name="Nquit_warning">
+        <item quantity="other">Predvajanje končano čez %d minut</item>
+        <item quantity="one">Predvajanje končano čez %d minuto</item>
+     </plurals>
+     <plurals name="Nsleep_quit_warning">
+        <item quantity="other">%d minut ostane</item>
+        <item quantity="one">%d minuta ostane</item>
+     </plurals>
+     <plurals name="Nsleep_quit_warning_custom">
+        <item quantity="other">Po meri:%d minut ostane</item>
+        <item quantity="one">Po meri:%d minuta ostane</item>
+     </plurals>
+     <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Napravljeno %1$s | skupaj %2$d pesmi</item>
+        <item quantity="one">Napravljeno %1$s | skupaj %2$d pesem</item>
+     </plurals>
+     <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">"%d pesmi še ni var. kopirano v Cloud. Ustavim?"</item>
+        <item quantity="one">"%d pesem še ni var. kopirana v Cloud. Ustavim?"</item>
+     </plurals>
+     <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d pesmi dodano na seznam predvajanja</item>
+        <item quantity="one">%d pesem dodana na seznam predvajanja</item>
+     </plurals>
+     <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d pesmi odstranjeno iz seznam predvajanja</item>
+        <item quantity="one">%d pesem odstranjena iz seznam predvajanja</item>
+     </plurals>
+     <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d podobnih pesmi</item>
+        <item quantity="one">%d podobna pesem</item>
+     </plurals>
+     <plurals name="Nunbackup_audios">
+        <item quantity="other">"%1$d pesmi ni var. kopirano (%2$.1fMB)"</item>
+        <item quantity="one">"%1$d pesem ni var. kopirana (%2$.1fMB)"</item>
+     </plurals>
+     <plurals name="Nupload_song_button">
+        <item quantity="other">Var. kopiraj %1$d pesmi (%2$.1fMB)</item>
+        <item quantity="one">Var. kopiraj %1$d pesem (%2$.1fMB)</item>
+     </plurals>
+     <plurals name="a_hour_ago">
+        <item quantity="other">pred 1 uro</item>
+     </plurals>
+     <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">pred 1 uro</item>
+     </plurals>
+     <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pred pol ure</item>
+     </plurals>
+     <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Čez 1 uro</item>
+     </plurals>
+     <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Čez pol ure</item>
+     </plurals>
+     <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Takoj</item>
+     </plurals>
+     <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">čez %d min</item>
+        <item quantity="one">čez 1 min</item>
+     </plurals>
+     <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Pravkar</item>
+     </plurals>
+     <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred 1 min</item>
+     </plurals>
+     <plurals name="chapter_count">
+        <item quantity="other">" (%1$d epizod)"</item>
+        <item quantity="one">" (%1$d epizoda)"</item>
+     </plurals>
+     <plurals name="check_in_day_label">
+        <item quantity="other">%1$d dni</item>
+        <item quantity="one">%1$d dan</item>
+     </plurals>
+     <plurals name="comment_count">
+        <item quantity="other">%d komentarjev</item>
+        <item quantity="one">%d komentar</item>
+     </plurals>
+     <plurals name="comment_input_length_invalid">
+        <item quantity="other">Lahko vnesete do %1$d znakov.</item>
+        <item quantity="one">Lahko vnesete do %1$d znak.</item>
+     </plurals>
+     <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Izbrišem %d stvari?</item>
+        <item quantity="one">Izbrišem %d stvar?</item>
+     </plurals>
+     <plurals name="dialog_delete_descript">
+        <item quantity="other">Izbrišem %d stvari?</item>
+        <item quantity="one">Izbrišem %d stvar?</item>
+     </plurals>
+     <plurals name="dialog_remove_descript">
+        <item quantity="other">Odstranim %d stvari?</item>
+        <item quantity="one">Odstranim %d stvar?</item>
+     </plurals>
+     <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">Izbrišem %d pesmi iz Xiaomi Clouda? Izbrisane bodo tudi iz seznama predvajanja.</item>
+        <item quantity="one">Izbrišem %d pesem iz Xiaomi Clouda? Izbrisana bo tudi iz seznama predvajanja.</item>
+     </plurals>
+     <plurals name="download_finished">
+        <item quantity="other">&lt;font color=\"red\">%d pesmi&lt;/font> prenešeno</item>
+        <item quantity="one">&lt;font color==\"red\">%d pesem&lt;/font> prenešena</item>
+     </plurals>
+     <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%d prenosov odstranjeno</item>
+        <item quantity="one">%d prenos odstranjen</item>
+     </plurals>
+     <plurals name="download_running">
+        <item quantity="other">&lt;font color=\"red\">%d pesmi&lt;/font> prenašanje</item>
+        <item quantity="one">&lt;font color==\"red\">%d pesem&lt;/font> prenašanje</item>
+     </plurals>
+     <plurals name="fm_download_fm_count">
+        <item quantity="other">Prenešeno %1$d epizod</item>
+        <item quantity="one">Prenešena %1$d epizoda</item>
+     </plurals>
+     <plurals name="half_hour_ago">
+        <item quantity="other">Pred pol ure</item>
+     </plurals>
+     <plurals name="hours_ago">
+        <item quantity="other">pred %1$d urami</item>
+        <item quantity="one">pred %1$d uro</item>
+     </plurals>
+     <plurals name="in_a_hour">
+        <item quantity="other">Čez 1 uro</item>
+     </plurals>
+     <plurals name="in_half_hour">
+        <item quantity="other">Čez pol ure</item>
+     </plurals>
+     <plurals name="in_less_than_one_minute">
+        <item quantity="other">Takoj</item>
+     </plurals>
+     <plurals name="in_num_minutes">
+        <item quantity="other">čez %d minut</item>
+        <item quantity="one">čez 1 minuto</item>
+     </plurals>
+     <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Pravkar</item>
+     </plurals>
+     <plurals name="minutes_ago">
+        <item quantity="other">pred %1$d minutami</item>
+        <item quantity="one">pred %1$d minuto</item>
+     </plurals>
+     <plurals name="multichoice_title">
+        <item quantity="other">%d stvari izbranih</item>
+        <item quantity="one">%d stvar izbrana</item>
+     </plurals>
+     <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Prenašanje %1$d pesmi</item>
+        <item quantity="one">Prenašanje %1$d pesmi</item>
+     </plurals>
+     <plurals name="notification_download_failed_more">
+        <item quantity="other">"Ne morem prenesti %1$d pesmi"</item>
+        <item quantity="one">"Ne morem prenesti %1$d pesem"</item>
+     </plurals>
+     <plurals name="notification_download_success_more">
+        <item quantity="other">%1$d pesmi</item>
+        <item quantity="one">%1$d pesem</item>
+     </plurals>
+     <plurals name="notification_rec_content">
+        <item quantity="other">%d FM posnetkov</item>
+        <item quantity="one">%d FM posnetek</item>
+     </plurals>
+     <plurals name="num_minutes_ago">
+        <item quantity="other">pred %d minut</item>
+        <item quantity="one">pred 1 minuto</item>
+     </plurals>
+     <plurals name="reader_count">
+        <item quantity="other">%d sledilcev</item>
+        <item quantity="one">%d sledilec</item>
+     </plurals>
+     <plurals name="send_songs_toast">
+        <item quantity="other">%d pesmi bo poslano</item>
+        <item quantity="one">%d peemi bo poslana</item>
+     </plurals>
+     <plurals name="skipped_online_songs_tips">
+        <item quantity="other">Preskočeno %d pesmi. V nastavitvah vklopite spletne storitve in jih poslušajte.</item>
+        <item quantity="one">Preskočena %d pesem. V nastavitvah vklopite spletne storitve in jo poslušajte.</item>
+     </plurals>
+     <plurals name="song_already_favorite">
+        <item quantity="other">Pesmi so že priljubljene.</item>
+        <item quantity="one">Pesem je že priljubljena.</item>
+     </plurals>
+     <plurals name="songs_count">
+        <item quantity="other">%d pesmi</item>
+        <item quantity="one">%d pesem</item>
+     </plurals>
+     <plurals name="swipe_to_load_head_complete_success">
+        <item quantity="other">Tu je %1$d posodobitev:</item>
+        <item quantity="one">Tu je %1$d posodobitev:</item>
+     </plurals>
+     <plurals name="toast_channel_searched">
+        <item quantity="other">Skenirano %1$d postaj</item>
+        <item quantity="one">%1$d postaja skenirana</item>
+     </plurals>
+     <plurals name="total_chapter_count">
+        <item quantity="other">%1$d epizod</item>
+        <item quantity="one">%1$d epizoda</item>
+     </plurals>
+</resources>

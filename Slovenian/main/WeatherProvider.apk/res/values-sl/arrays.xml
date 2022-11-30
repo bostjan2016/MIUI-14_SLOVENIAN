@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>Sončno</item>
+        <item>Oblačno</item>
+        <item>Oblačno</item>
+        <item>Megleno</item>
+        <item>Močan dež</item>
+        <item>Ploha</item>
+        <item>Močan dež</item>
+        <item>Nevihta</item>
+        <item>Dež</item>
+        <item>Močan dež</item>
+        <item>Zmeren dež</item>
+        <item>Rahel dež</item>
+        <item>Dež s snegom</item>
+        <item>Metež</item>
+        <item>Sneg</item>
+        <item>Gost sneg</item>
+        <item>Zmeren sneg</item>
+        <item>Rahel sneg</item>
+        <item>Močna peščena nevihta</item>
+        <item>Peščena nevihta</item>
+        <item>Pesek</item>
+        <item>Vetrovno</item>
+        <item>Toča</item>
+        <item>Prah</item>
+        <item>Meglica</item>
+        <item>Leden dež</item>
+        <item>Ni podatkov</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Najslabše</item>
+        <item>Slabše</item>
+        <item>Srednje</item>
+        <item>Močno</item>
+        <item>Najmočnejše</item>
+    </string-array>
+</resources>

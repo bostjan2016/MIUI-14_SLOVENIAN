@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="application_name">Animirane slike ozadja</string>
+  <string name="configure_wallpaper">Nastavitve…</string>
+  <string name="live_wallpaper_empty">Ni animiranih slik ozadja.</string>
+  <string name="live_wallpaper_loading">Nalaganje animiranih slik ozadja…</string>
+  <string name="live_wallpaper_picker_label">V živo</string>
+  <string name="live_wallpaper_picker_title">Izberite animirano sliko ozadja</string>
+  <string name="live_wallpaper_preview_title">Predogled animiranih slik ozadja</string>
+  <string name="set_live_wallpaper">Nastavi sliko ozadja</string>
+  <string name="wallpaper_cancel">Prekliči</string>
+  <string name="wallpaper_instructions">Nastavi sliko za ozadje</string>
+  <string name="wallpaper_title_and_author">%1$s Avtorja: %2$s</string>
+</resources>

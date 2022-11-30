@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+     <string-array name="korea_permission_groups_descriptions">
+        <item>Za identificiranje sinhroniziranih stvari</item>
+        <item>Za sinhronizacijo sporočil</item>
+        <item>Za sinhronizacijo stikov</item>
+        <item>Za sinhronizacijo dogodkov v koledarju</item>
+        <item>Za sinhronizacijo stvari ki uporabljajo shrambo</item>
+     </string-array>
+     <string-array name="korea_permission_groups_names">
+        <item>Telefon</item>
+        <item>SMS</item>
+        <item>Stiki</item>
+        <item>Koledar</item>
+        <item>Shramba</item>
+     </string-array>
+     <string-array name="micloud_entrance_subtitleArray">
+        <item>Sinhronizirajte svoje stike, sporočila, beležke, koledar in še veliko drugega</item>
+        <item>Izdelajte var. kopije aplikacij, nastavitve začetnega zaslona in ozadja</item>
+        <item>Izdelajte var. kopije pomembnih nastavitev vključno z WiFi in zaslonom</item>
+        <item>"Če je naprava izgubljena jo zaklenite na daljavo"</item>
+     </string-array>
+     <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sinhronizirajte svoje stike, sporočila, beležke, koledar in še veliko drugega</item>
+        <item>Izdelajte var. kopije aplikacij, nastavitve začetnega zaslona in ozadja</item>
+        <item>Izdelajte var. kopije pomembnih nastavitev vključno z WiFi in zaslonom</item>
+        <item>"Če je naprava izgubljena jo zaklenite na daljavo"</item>
+     </string-array>
+     <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Sinhronizirajte svoje stike, sporočila, beležke, koledar in še več</item>
+        <item>Napravite var. kopije aplikacij, videz zač. zaslona in ozadja</item>
+        <item>Napravite var. kopije važnih stvari, vključno WiFi in zaslon</item>
+        <item>"Napravo zaklenite na daljavo, če jo izgubite"</item>
+     </string-array>
+     <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>Sinhronizirajte svoje fotografije, zapiske, posnetke in drugo</item>
+        <item>"Zaklenite napravo na daljavo, če je izgubljena"</item>
+     </string-array>
+     <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Sinhronizirajte svoje stike, sporočila, beležke, koledar in še več</item>
+        <item>Napravite var. kopije aplikacij, videz zač. zaslona in ozadja</item>
+        <item>Napravite var. kopije važnih stvari, vključno WiFi in zaslon</item>
+        <item>"Napravo zaklenite na daljavo, če jo izgubite"</item>
+     </string-array>
+     <string-array name="micloud_entrance_titleArray">
+        <item>Sinhr. podatke aplikacije</item>
+        <item>Izdelajte Var. kopijo videza začetnega zaslona</item>
+        <item>Izdelajte Var. kopije nastavitev sistema</item>
+        <item>Najdi napravo</item>
+     </string-array>
+     <string-array name="micloud_entrance_titleArray_pad">
+        <item>Sinhronizirajte podatke aplikacij</item>
+        <item>Najdi napravo</item>
+     </string-array>
+     <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
+        <item>Za identifikacijo vaše naprave</item>
+        <item>Za lociranje naprave in premik na izgubljeni način dela</item>
+     </string-array>
+     <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Za iskanje naprave in preklop v izgubljeni način</item>
+        <item>"Za iskanje te naprave, ko ni povezana s spletom"</item>
+        <item>"Za dostop do telefonske številke za iskanje te naprave, ko ni povezana s spletom"</item>
+     </string-array>
+     <string-array name="privacy_dialog_sync_runtime_perm_desc">
+        <item>Za sinhronizacijo dogodkov</item>
+        <item>Za sinhronizacijo sporočil</item>
+        <item>Za sinhronizacijo sporočil</item>
+        <item>Za sinhronizacijo stikov</item>
+        <item>Za sinhronizacijo stikov</item>
+        <item>Za shranjevanje stvari v vašo napravo (npr. slike, videoposnetki, pesmi)</item>
+     </string-array>
+     <string-array name="privacy_dialog_sync_runtime_perm_title">
+        <item>Dostop do dogodkov koledarja</item>
+        <item>Pošiljanje SMS</item>
+        <item>Branje MMS</item>
+        <item>Dostop do stikov</item>
+        <item>Urejanje in brisanje stikov</item>
+        <item>Dostop do fotografij in datotek</item>
+     </string-array>
+     <string-array name="settings_search_backup_manage">
+        <item>Var. kopije</item>
+        <item>Nastavitve var. kopije</item>
+        <item>Cloud;Napravi var. kopijo;var. kopija;Cloud storitve;Mi Cloud;Začetni zaslon;Videz;Aplikacije;Urejanje var. kopij;Povrni</item>
+     </string-array>
+     <string-array name="settings_search_backup_setting">
+        <item>Napravite var. kopijo začetnega zaslona v Mi Cloud</item>
+        <item>Napravite var. kopijo videza začetnega zaslona, popis nameščenih aplikacij in nastavitev sistema</item>
+        <item>Cloud;var. kopija;var. kopija;Cloud storitve;Mi Cloud;Začetni zaslon;Videz;Aplikacije;Nastavitve;Pogostost var. kopije;Urejanje var. kopij;Povrni</item>
+     </string-array>
+     <string-array name="settings_search_browser">
+        <item>Sinhr. brskalnik z Mi Cloudom</item>
+        <item>Vključi sinhr.</item>
+        <item>Brskalnik;Cloud;Sinhr.;Cloud storitve;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_calendar">
+        <item>Sinhr. koledar z Mi Cloudom</item>
+        <item>Vključi sinhr.</item>
+        <item>Koledar;Cloud;Sinhr.;Cloud storitve;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_contacts">
+        <item>Sinhr. stike s Mi Cloudom</item>
+        <item>Vključi/nastavi sinhr.</item>
+        <item>Stiki;Zgodovina klicev;Cloud;Sinhr.;Cloud storitve;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_dial">
+        <item>Sinhr. zgodovino klicev z Mi Cloudom</item>
+        <item>Vključi/nastavi sinhr.</item>
+        <item>Zgodovina klicev;Cloud;Sinhr.;Cloud storitve;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_find_pad">
+        <item>Najdi napravo</item>
+        <item>"Izbrišite podatke in zaklenite napravo če je izgubljena"</item>
+        <item>Najdi napravo;Izgubljen;Cloud;Sinhr.;Cloud storitve;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_find_phone">
+        <item>Najdi napravo</item>
+        <item>"Izbrišite podatke in zaklenite napravo če je izgubljena"</item>
+        <item>Najdi napravo;Izgubljen;Cloud;Sinhr.;Cloud storitve;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_gallery">
+        <item>Sinhr. galerijo s Mi Cloudom</item>
+        <item>Vključi/nastavi sinhr.</item>
+        <item>Galerija;Fotografije;Cloud;Sinhr.;Cloud storitve;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_music">
+        <item>Sinhr. glasbo z Mi Cloudom</item>
+        <item>Vključi sinhr.</item>
+        <item>Glasba;Cloud;Sinhr.;Cloud storitve;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_notes">
+        <item>Sinhr. beležke z Mi Cloudom</item>
+        <item>Vključi sinhr.</item>
+        <item>Beležke;Cloud;Sinhr.;Cloud storitve;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_notes_v2">
+        <item>Sinhr. beležke z Mi Cloudom</item>
+        <item>Vključi sinhr.</item>
+        <item>Beležke;Cloud;Sinhr.;Cloud storitve;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_personal_assistant">
+        <item>Sinhr. zakl. aplikacij z Mi Cloudom</item>
+        <item>Vključi sinhr.</item>
+        <item>Zakl. aplikacij;Zavihki;Cloud;Sinhr.;Cloud storitve;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_phrase">
+        <item>Sinhr. hite odgovore</item>
+        <item>Vključi sinhr.</item>
+        <item>Hitri odgovori;Odložišče;Medpomnilnik;Cloud;Sinhr.;Cloud storitve</item>
+     </string-array>
+     <string-array name="settings_search_recorder">
+        <item>Sinhr. posnetke z Mi Cloudom</item>
+        <item>Vključi/nastavi sinhr.</item>
+        <item>Snemalnik;Cloud;Sinhr.;Cloud storitve;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_recycle_bin">
+        <item>Izbrisane stvari iz Mi Clouda</item>
+        <item>Povrnitev stikov, fotografij, sporočil in še več</item>
+        <item>Smeti;Izbrisane stvari;Koš za smeti;Vrni;Cloud storitve;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_recycle_bin_pad">
+        <item>Izbrisane stvari v oblaku Xiaomi</item>
+        <item>Obnovi fotografije, zapiske in drugo</item>
+        <item>Smeti;Izbrisane stvari;Koš;Obnovi;Storitve oblaka;Xiaomi oblak</item>
+     </string-array>
+     <string-array name="settings_search_restore_device">
+        <item>Vrnite stvari iz Mi Clouda</item>
+        <item>V svojo napravo prenesite stvari iz var. kopije</item>
+        <item>Cloud;var. kopija;var. kopija;Vrni;Cloud storitve;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_security">
+        <item>Varnostna sinhr. Clouda</item>
+        <item>Vključi sinhr.</item>
+        <item>Varnost;Cloud;Sinhr.;Cloud storitve;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_security_pad">
+        <item>Varnostna sinhronizacija v oblaku</item>
+        <item>Vključi sinh.</item>
+        <item>Varnost;Oblak;Xiaomi oblak;Sinh.;Storitve oblaka</item>
+     </string-array>
+     <string-array name="settings_search_sms">
+        <item>Sinhr. sporočila z Mi Cloudom</item>
+        <item>Vključi/nastavi sinhr.</item>
+        <item>Sporočila;SMS;MMS;Cloud;Sinhr.;Cloud storitve;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_subscribe_vip">
+        <item>Mi Cloud članstvo</item>
+        <item>Nadgradite svoje članstvo, imejte več prostora za shranjevanje in zavarujte svoje podatke</item>
+        <item>Premalo prostora za shranjevanje;Članstvo;Shramba;Prostor za shranjevanje;Cloud;Sinhr.;Cloud storitve;Mi Cloud;Mega;Ultra;VIP;Kopija;Kopija;Povrni;Smeti;Izbrisane stvari;Koš za smeti</item>
+     </string-array>
+     <string-array name="settings_search_sync_manage">
+        <item>Mi Cloud. Vse Mi storitve na enem mestu.</item>
+        <item>Dostopajte do vaših fotografij, stikov, sporočil in naprav od kjerkoli</item>
+        <item>Premalo prostora za shranjevanje;Članstvo;Shramba;Prostor za shranjevanje;Cloud;Sinhr.;Cloud storitve;Mi Cloud;Smeti;Izbrisane stvari;Varnost</item>
+     </string-array>
+     <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi Cloud. Vse storitve Mi na enem mestu.</item>
+        <item>Dostopajte do svojih fotografij, zapiskov in naprav od kjer koli</item>
+        <item>Premalo prostora;Članstvo;Shramba;Prostor za shranjevanje;Oblak;Sinhronizacija;Storitve v oblaku;Xiaomi Cloud;Smetnjak;Izbrisane stvari;Varnost</item>
+     </string-array>
+     <string-array name="settings_search_wlan">
+        <item>Sinhr. WiFi nastavitve z Mi Cloudom</item>
+        <item>Vključi sinhr.</item>
+        <item>WiFi;wifi;WLAN;Cloud;Sinhr.;Cloud storitve;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_wlan_china">
+        <item>Sinhr. WiFi nastavitve z Mi Cloudom</item>
+        <item>Vključi sinhr.</item>
+        <item>WiFi;wifi;WLAN;Cloud;Sinhr.;Cloud storitve;Xiaomi Cloud</item>
+     </string-array>
+     <string-array name="user_detail_fixed_items">
+        <item>Prikaz sinhroniziranih stvari</item>
+        <item>Podrobnosti o shrambi</item>
+     </string-array>
+</resources>

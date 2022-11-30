@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="acc_category_color_description">
+        <item>Bela</item>
+        <item>Temno modra</item>
+        <item>Svetlo modra</item>
+        <item>Rdeča</item>
+        <item>Zelena</item>
+        <item>Pink</item>
+        <item>Rjava</item>
+        <item>Siva</item>
+     </string-array>
+     <string-array name="acc_magic_matting_background_description">
+        <item>Izberite sliko</item>
+        <item>Prozorno ozadje</item>
+     </string-array>
+     <string-array name="account_user_gender_name">
+        <item>Moški</item>
+        <item>Ženska</item>
+     </string-array>
+     <string-array name="activities_title">
+        <item>Poseben dan</item>
+        <item>Dan za zapomnit</item>
+        <item>Živahni trenutki</item>
+     </string-array>
+     <string-array name="annual_foods_title">
+        <item>Slastno leto</item>
+        <item>Trije tečaji. Štiri sezone.</item>
+     </string-array>
+     <string-array name="annual_travel_title">
+        <item>Pozdravljen svet!</item>
+        <item>Na cesti</item>
+        <item>Kalejdoskop krajev</item>
+     </string-array>
+     <string-array name="autumn_season_title">
+        <item>Jesenski sijaj</item>
+        <item>Sijajni padec</item>
+     </string-array>
+     <string-array name="baby_sexy">
+        <item>Deček</item>
+        <item>Deklica</item>
+     </string-array>
+     <string-array name="backup_automatically_key_words">
+        <item>Shrani fotografije</item>
+        <item>Sinhr. fotografije z Mi Cloud</item>
+     </string-array>
+     <string-array name="card_last_week_day">
+        <item>Zadnji ponedeljek</item>
+        <item>Zadnji torek</item>
+        <item>Zadnja sreda</item>
+        <item>Zadnji četrtek</item>
+        <item>Zadnji petek</item>
+     </string-array>
+     <string-array name="chinese_new_year_eve_title">
+        <item>Noč za zapomnit</item>
+        <item>Nova stran</item>
+        <item>Ognjemeti</item>
+     </string-array>
+     <string-array name="chinese_new_year_title">
+        <item>Srečno novo leto!</item>
+        <item>Zora novega leta</item>
+     </string-array>
+     <string-array name="chinese_zodiac_year">
+        <item>Leto Opice</item>
+        <item>Leto Petelina</item>
+        <item>Leto Psa</item>
+        <item>Leto Pujsa</item>
+        <item>Leto Podgane</item>
+        <item>Leto Vola</item>
+        <item>Leto Tigra</item>
+        <item>Leto Tigra</item>
+        <item>Leto Zmaja</item>
+        <item>Leto Kače</item>
+        <item>Leto Konja</item>
+        <item>Leto Koze</item>
+     </string-array>
+     <string-array name="city_title">
+        <item>Mestne pokrajine</item>
+        <item>Ulice in vogali</item>
+     </string-array>
+     <string-array name="flowers_title">
+        <item>Nežni cvetni listi</item>
+        <item>V polnem razcvetu</item>
+     </string-array>
+     <string-array name="forest_title">
+        <item>V divjino</item>
+        <item>Divje in svobodno</item>
+     </string-array>
+     <string-array name="group_people_title">
+        <item>Naša druženja</item>
+        <item>V družbi prijateljev</item>
+        <item>Dolgo časa se nismo videli</item>
+     </string-array>
+     <string-array name="holiday_last_year">
+        <item>"Zadnje Novo leto"</item>
+        <item>"Zadnje Valentinovo"</item>
+        <item>Zadnji Dan dela</item>
+        <item>"Zadnji Otroški dan"</item>
+        <item>Zadnji Dan državnosti</item>
+        <item>Zadnji Božič</item>
+     </string-array>
+     <string-array name="holiday_past_year">
+        <item>"Novoletni dan skozi leta"</item>
+        <item>"Valentinovo skozi leta"</item>
+        <item>Dan dela skozi leta</item>
+        <item>"Otroški dan skozi leta"</item>
+        <item>Dan državnosti skozi leta</item>
+        <item>Božič skozi leta</item>
+     </string-array>
+     <string-array name="important_people_title">
+        <item>Vaši najljubši predmeti</item>
+        <item>Sorodne duše</item>
+        <item>"Življenjski svetli trenutki"</item>
+     </string-array>
+     <string-array name="last_month">
+        <item>Januar</item>
+        <item>Februar</item>
+        <item>Marec</item>
+        <item>April</item>
+        <item>Maj</item>
+        <item>Junij</item>
+        <item>Julij</item>
+        <item>Avgust</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>December</item>
+     </string-array>
+     <string-array name="last_some_day_babies_title">
+        <item>Zaposlen v odraščanju</item>
+        <item>Lepše in bolj luštno</item>
+        <item>Mali raziskovalec</item>
+     </string-array>
+     <string-array name="last_some_day_fit_title">
+        <item>Dnevnik fitnesa</item>
+        <item>Močnejše in močnejše</item>
+     </string-array>
+     <string-array name="last_some_day_foods_title">
+        <item>Dober tek!</item>
+        <item>Še en zalogaj?</item>
+        <item>Uživajte v obroku!</item>
+     </string-array>
+     <string-array name="last_some_day_playground_title">
+        <item>Nasmehnite se in pomahajte!</item>
+        <item>Čas predvajanja</item>
+     </string-array>
+     <string-array name="last_some_day_ski_title">
+        <item>Odlično na prostem</item>
+        <item>Sledi v snegu</item>
+     </string-array>
+     <string-array name="last_some_day_sports_title">
+        <item>Neustavljivo</item>
+        <item>Ostati v formi</item>
+     </string-array>
+     <string-array name="last_some_day_wedding_title">
+        <item>Velik dan</item>
+        <item>Po prehodu!</item>
+     </string-array>
+     <string-array name="last_week_baby_title">
+        <item>Čas za igro</item>
+        <item>"Otroški vikend"</item>
+        <item>Majhno</item>
+     </string-array>
+     <string-array name="last_weekend_title">
+        <item>Moji vikendi</item>
+        <item>Delčki življenja</item>
+        <item>Vikend spomini</item>
+     </string-array>
+     <string-array name="last_year_group_people">
+        <item>Novi prijatelji in stari prijatelji</item>
+        <item>"Lanskoletna druženja"</item>
+     </string-array>
+     <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Prosti čas</item>
+        <item>Morski vetrič</item>
+        <item>Sanje</item>
+        <item>Oblaki</item>
+        <item>Misli</item>
+        <item>Popki</item>
+        <item>Metamorfoza</item>
+        <item>Globina</item>
+        <item>Razmišljanja</item>
+        <item>Minimalistično</item>
+        <item>Uganka</item>
+        <item>Megla</item>
+     </string-array>
+     <string-array name="magic_effects_description">
+        <item>Ozadja spremenite v skice</item>
+        <item>Ozadja v stilu akvarela</item>
+        <item>Cyberpunk retro</item>
+        <item>Napačno postavljeni vertikalni segmenti</item>
+        <item>Nejasna zamegljenost</item>
+        <item>Futuristični občutek</item>
+     </string-array>
+     <string-array name="magic_effects_title">
+        <item>Skica</item>
+        <item>Akvarel</item>
+        <item>RGB</item>
+        <item>Rolete</item>
+        <item>Megleno okno</item>
+        <item>Tech</item>
+     </string-array>
+     <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Barvni obris</item>
+        <item>Črtkani obris</item>
+        <item>Fluorescentni obris</item>
+        <item>Barvna senca</item>
+        <item>Električni val</item>
+        <item>Trenutno</item>
+        <item>Valovi</item>
+        <item>Delci</item>
+        <item>Besedilo</item>
+        <item>Krila</item>
+        <item>Angel</item>
+     </string-array>
+     <string-array name="magic_idp_size_category">
+        <item>Splošno</item>
+        <item>Potovanje</item>
+        <item>Delo</item>
+        <item>Dokumenti</item>
+        <item>Izobraževanje</item>
+        <item>Izpiti</item>
+     </string-array>
+     <string-array name="magic_idp_size_category_certificates">
+        <item>Socialna varnost</item>
+        <item>Izjava o zdravju</item>
+        <item>Zdravstveno zavarovanje</item>
+        <item>ID</item>
+        <item>Dovoljenje za bivanje</item>
+     </string-array>
+     <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>En cun</item>
+        <item>Dva cuna</item>
+        <item>Manjši en cun</item>
+        <item>Manjša dva cuna</item>
+     </string-array>
+     <string-array name="magic_idp_size_category_education">
+        <item>Prijava za sprejem</item>
+        <item>Mreža učencev</item>
+        <item>Mreža učencev za osnovne šole</item>
+        <item>Profil študentske mreže</item>
+        <item>Vpis na univerzo</item>
+        <item>NCEE</item>
+        <item>Nadaljuj</item>
+     </string-array>
+     <string-array name="magic_idp_size_category_examination">
+        <item>Preizkus angleškega jezika 1</item>
+        <item>Preizkus angleškega jezika 2</item>
+        <item>Preizkus angleškega jezika 3</item>
+        <item>Preskus usposobljenosti za klic PU 1</item>
+        <item>Preskus usposobljenosti za klic PU 2</item>
+        <item>Stopnja angleškega testa</item>
+        <item>PET za fakultete</item>
+        <item>PET Stopnja 3</item>
+        <item>Državni računalniški izpit 1</item>
+        <item>Državni računalniški izpit 2</item>
+     </string-array>
+     <string-array name="magic_idp_size_category_profession">
+        <item>Potrdilo učitelja za osnovno in srednjo šolo</item>
+        <item>Certifikat učiteljev</item>
+        <item>Vozniško dovoljenje</item>
+        <item>Dovoljenje za vodiča</item>
+        <item>Dovoljenje za elektronski vodnik</item>
+        <item>Državni sodni izpit</item>
+        <item>Elektronsko prvovrstno potrdilo konstruktorja</item>
+        <item>Potrdilo drugorazrednega konstruktorja</item>
+        <item>Izpit za mladi računovodski naslov</item>
+        <item>Certificiran javni računovodja</item>
+        <item>Pekinško vodniško dovoljenje</item>
+        <item>Vmesni izpit iz računovodstva</item>
+        <item>Izpit za višji računovodski naziv</item>
+        <item>Potrdilo o računovodski usposobljenosti</item>
+        <item>Izpit za pooblaščenega računovodjo</item>
+     </string-array>
+     <string-array name="magic_idp_size_category_visa">
+        <item>ZDA</item>
+        <item>Vietnam</item>
+        <item>Japonska</item>
+        <item>Hong Kong in Macao</item>
+        <item>Južna Koreja</item>
+        <item>Tajska (turist)</item>
+        <item>Tajska (ob prihodu)</item>
+        <item>Indija</item>
+        <item>Izrael</item>
+        <item>Tajvan</item>
+        <item>Malezija</item>
+        <item>Nova Zelandija</item>
+        <item>Italija</item>
+        <item>Argentina</item>
+        <item>Brazilija</item>
+        <item>Islandija</item>
+        <item>Kenija</item>
+     </string-array>
+     <string-array name="menu_copy_or_move">
+        <item>Premesti</item>
+        <item>Kopiraj</item>
+        <item>Prekliči</item>
+     </string-array>
+     <string-array name="month">
+        <item>Januar</item>
+        <item>Februar</item>
+        <item>Marec</item>
+        <item>April</item>
+        <item>Maj</item>
+        <item>Junij</item>
+        <item>Julij</item>
+        <item>Avgust</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>December</item>
+     </string-array>
+     <string-array name="month_last_year">
+        <item>Zadnji Januar</item>
+        <item>Zadnji Februar</item>
+        <item>Zadnji Marec</item>
+        <item>Zadnji April</item>
+        <item>Zadnji Maj</item>
+        <item>Zadnji Junij</item>
+        <item>Zadnji Julij</item>
+        <item>Zadnji Avgust</item>
+        <item>Zadnji September</item>
+        <item>Zadnji Oktober</item>
+        <item>Zadnji November</item>
+        <item>Zadnji December</item>
+     </string-array>
+     <string-array name="monthly_babies_title">
+        <item>"Zrasel si!"</item>
+        <item>"Spet si zrasel!"</item>
+     </string-array>
+     <string-array name="monthly_foods_title">
+        <item>Moj osebni menu</item>
+        <item>Okusni spomini</item>
+        <item>Drugo pomoč, prosim!</item>
+     </string-array>
+     <string-array name="mountain_title">
+        <item>"Najboljši razgledi na svetu"</item>
+        <item>Nadaljujte s plezanjem</item>
+     </string-array>
+     <string-array name="owner_relation">
+        <item>Oče</item>
+        <item>Mama</item>
+        <item>Ded po očetovi strani</item>
+        <item>Babica po očetovi strani</item>
+        <item>Ded po materini strani</item>
+        <item>Babica po materini strani</item>
+     </string-array>
+     <string-array name="parties_title">
+        <item>Skupaj</item>
+        <item>Dobri časi</item>
+        <item>Skladno</item>
+     </string-array>
+     <string-array name="people_travel_title">
+        <item>Kamor nas pripelje cesta</item>
+        <item>Potovanja so dobro deljena</item>
+     </string-array>
+     <string-array name="quarterly_babies_title">
+        <item>Vesela pomlad</item>
+        <item>Veselo poletje</item>
+        <item>Vesela jesen</item>
+        <item>Vesela zima</item>
+     </string-array>
+     <string-array name="quarterly_foods_title">
+        <item>Spomladanski obroki</item>
+        <item>Poletne dobrote</item>
+        <item>Jesenski prazniki</item>
+        <item>Zimski umik</item>
+     </string-array>
+     <string-array name="recent_group_people">
+        <item>Skupaj</item>
+        <item>Povezave</item>
+     </string-array>
+     <string-array name="relation_with_me">
+        <item>Jaz</item>
+        <item>Otrok</item>
+        <item>Družina</item>
+        <item>Sodelavci</item>
+        <item>Sošolci</item>
+        <item>Prijatelji</item>
+        <item>Nezdruženo</item>
+     </string-array>
+     <string-array name="season">
+        <item>Pomlad</item>
+        <item>Poletje</item>
+        <item>Jesen</item>
+        <item>Zima</item>
+     </string-array>
+     <string-array name="season_last_year">
+        <item>Zadnja spomlad</item>
+        <item>Zadnje poletje</item>
+        <item>Zadnja jesen</item>
+        <item>Zadnja zima</item>
+     </string-array>
+     <string-array name="sharer_relation_addressive">
+        <item>Oče</item>
+        <item>Mama</item>
+        <item>Ded po očetovi strani</item>
+        <item>Babica po očetovi strani</item>
+        <item>Ded po materini strani</item>
+        <item>Babica po materini strani</item>
+     </string-array>
+     <string-array name="sports_title">
+        <item>Samo naprej</item>
+        <item>Polno energije</item>
+     </string-array>
+     <string-array name="spring_season_title">
+        <item>Cvetovi spomladi</item>
+        <item>Pomlad je v zraku</item>
+        <item>Hojla pomlad!</item>
+     </string-array>
+     <string-array name="summer_season_title">
+        <item>Delček poletja</item>
+        <item>Kjer se poletje ne konča</item>
+     </string-array>
+     <string-array name="sunrise_sunset_title">
+        <item>Zlate ure</item>
+        <item>Zlati žarki</item>
+     </string-array>
+     <string-array name="three_month_baby_title">
+        <item>Tako hitro rastejo</item>
+        <item>"Otroške fotografije"</item>
+     </string-array>
+     <string-array name="weekend_title">
+        <item>Zadnji vikendi</item>
+        <item>Dnevi za pomnjenje</item>
+        <item>Dnevni dogodki</item>
+        <item>Navadno &amp; nenavadno</item>
+     </string-array>
+     <string-array name="winter_season_title">
+        <item>Zimski dnevi</item>
+        <item>Zimska pravljica</item>
+     </string-array>
+</resources>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="a_hour_ago">
+        <item quantity="other">pred 1 uro</item>
+     </plurals>
+     <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">pred 1 uro</item>
+     </plurals>
+     <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pred pol ure</item>
+     </plurals>
+     <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Čez 1 uro</item>
+     </plurals>
+     <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Čez pol ure</item>
+     </plurals>
+     <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Takoj</item>
+     </plurals>
+     <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">čez %d min</item>
+        <item quantity="one">čez 1 min</item>
+     </plurals>
+     <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Pravkar</item>
+     </plurals>
+     <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred 1 min</item>
+     </plurals>
+     <plurals name="backup_message_wechat_video">
+        <item quantity="other">"%1$d videoposnetki v pogovorih WeChat bodo kmalu potekli. Varnostno kopiram v notranji pomnilnik naprave?"</item>
+        <item quantity="one">"%1$d video v pogovorih WeChat bo kmalu potekel. Varnostno kopiram v notranji pomnilnik naprave?"</item>
+     </plurals>
+     <plurals name="clockin_day_count">
+        <item quantity="other">Prijavljeni %1$s dni zaporedoma, samo nadaljujte tako!</item>
+        <item quantity="one">Prijavljen %1$s dan zapored, nadaljujte tako!</item>
+     </plurals>
+     <plurals name="clockin_days">
+        <item quantity="other">Prijavljen %1$s dni zapored</item>
+        <item quantity="one">Prijavljen %1$s dan zapored</item>
+     </plurals>
+     <plurals name="clockin_new_chip">
+        <item quantity="other">Imate &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> točk</item>
+        <item quantity="one">Imate &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> točko</item>
+     </plurals>
+     <plurals name="days_ago">
+        <item quantity="other">pred %1$d dnevi</item>
+        <item quantity="one">pred %1$d dnevom</item>
+     </plurals>
+     <plurals name="delete_cloud_files">
+        <item quantity="other">Želite izbrisati %1$d datotek iz vseh svojih naprav in oblaka? Datoteke Mi Drive je mogoče obnoviti iz nedavno izbrisanih stvari.</item>
+        <item quantity="one">Želite izbrisati %1$d datoteko iz vseh svojih naprav in oblaka? Datoteke Mi Drive je mogoče obnoviti iz nedavno izbrisanih stvari.</item>
+     </plurals>
+     <plurals name="delete_files">
+        <item quantity="other">Izbrišem %1$d datotek?</item>
+        <item quantity="one">Izbrišem %1$d datoteko?</item>
+     </plurals>
+     <plurals name="delete_files_confirm">
+        <item quantity="other">Izbrišem %1$d datotek</item>
+        <item quantity="one">Izbrišem %1$d datoteko</item>
+     </plurals>
+     <plurals name="delete_folders">
+        <item quantity="other">Izbrišem %1$d map?</item>
+        <item quantity="one">Izbrišem %1$d mapo?</item>
+     </plurals>
+     <plurals name="delete_folders_confirm">
+        <item quantity="other">" in %1$d map?"</item>
+        <item quantity="one">" in %1$d mapo?"</item>
+     </plurals>
+     <plurals name="directory_item_count">
+        <item quantity="other">%d stvari</item>
+        <item quantity="one">%d stvar</item>
+     </plurals>
+     <plurals name="file_count">
+        <item quantity="other"> %1$d stvari</item>
+        <item quantity="one"> %1$d stvar</item>
+     </plurals>
+     <plurals name="follow_count">
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> sledilcev</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> sledilec</item>
+     </plurals>
+     <plurals name="found_new_files">
+        <item quantity="other">Najdeno novih datotek: %1$d</item>
+        <item quantity="one">Najdena %1$d nova datoteka</item>
+     </plurals>
+     <plurals name="gems">
+        <item quantity="other">%1$s draguljev</item>
+        <item quantity="one">%1$s dragulj</item>
+     </plurals>
+     <plurals name="half_hour_ago">
+        <item quantity="other">Pred pol ure</item>
+     </plurals>
+     <plurals name="hours_ago">
+        <item quantity="other">Pred %1$d urami</item>
+        <item quantity="one">Pred %1$d uro</item>
+     </plurals>
+     <plurals name="in_a_hour">
+        <item quantity="other">Čez 1 uro</item>
+     </plurals>
+     <plurals name="in_half_hour">
+        <item quantity="other">Čez pol ure</item>
+     </plurals>
+     <plurals name="in_less_than_one_minute">
+        <item quantity="other">Takoj</item>
+     </plurals>
+     <plurals name="in_num_minutes">
+        <item quantity="other">čez %d min</item>
+        <item quantity="one">čez 1 minuto</item>
+     </plurals>
+     <plurals name="items_picture">
+        <item quantity="other"> (%1$d stvari)</item>
+        <item quantity="one"> (%1$d stvar)</item>
+     </plurals>
+     <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Pravkar</item>
+     </plurals>
+     <plurals name="mins_ago">
+        <item quantity="other">Pred %1$d min</item>
+        <item quantity="one">Pred %1$d min</item>
+     </plurals>
+     <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">izbrano %d stvari</item>
+        <item quantity="one">izbrana %d stvar</item>
+     </plurals>
+     <plurals name="more_gems">
+        <item quantity="other">Zberite &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> več draguljev za sodelovanje v žrebanju za srečo.</item>
+        <item quantity="one">Zberite &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> več draguljev za sodelovanje v žrebanju za srečo.</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Nova obvestila: %d</item>
+        <item quantity="one">%d novo obvestilo</item>
+     </plurals>
+     <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">"Ne morem sinhronizirati %1$s datotek"</item>
+        <item quantity="one">"Ne morem sinhronizirati %1$s datoteke"</item>
+     </plurals>
+     <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"Sinhronizirano %1$s datotek | "</item>
+        <item quantity="one">"Sinhronizirana %1$s datoteka | "</item>
+     </plurals>
+     <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">Čakanje na omrežno povezavo. %1$s preostalih datotek.</item>
+        <item quantity="one">Čakanje na omrežno povezavo. %1$s preostala datoteka.</item>
+     </plurals>
+     <plurals name="numSelectedFile">
+        <item quantity="other">Izbrano %1$d stvari</item>
+        <item quantity="one">Izbrana %1$d stvar</item>
+     </plurals>
+     <plurals name="num_minutes_ago">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred 1 minuto</item>
+     </plurals>
+     <plurals name="number_of_comment_flow">
+        <item quantity="other">%1$s komentarjev</item>
+        <item quantity="one">%1$s komentar</item>
+     </plurals>
+     <plurals name="original_user_days">
+        <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> dni</item>
+        <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> dan</item>
+     </plurals>
+     <plurals name="original_user_fans">
+        <item quantity="other">• Imate &lt;font color=#fc7050>%1$s&lt;/font> sledilcev!</item>
+        <item quantity="one">• Imate &lt;font color=#fc7050>%1$s&lt;/font> sledilca!</item>
+     </plurals>
+     <plurals name="original_user_play_1">
+        <item quantity="other">• Naložili ste &lt;font color=#fc7050>%1$s&lt;/font> videoposnetkov,</item>
+        <item quantity="one">• Naložili ste &lt;font color=#fc7050>%1$s&lt;/font> videoposnetek,</item>
+     </plurals>
+     <plurals name="original_user_play_2">
+        <item quantity="other">Osrečili ste &lt;font color=#fc7050>%1$s&lt;/font> oseb!</item>
+        <item quantity="one">Osrečili ste &lt;font color=#fc7050>%1$s&lt;/font> osebo!</item>
+     </plurals>
+     <plurals name="remote_video_update">
+        <item quantity="other">Najdeno %1$s novih videov</item>
+        <item quantity="one">Najden %1$s nov video</item>
+     </plurals>
+     <plurals name="search_head_hint_all">
+        <item quantity="other">Rezultatov iskanja (%1$d stvari)</item>
+        <item quantity="zero">Rezultatov iskanja (%1$d stvari)</item>
+        <item quantity="one">Rezultat iskanja (%1$d stvar)</item>
+        <item quantity="two">Rezultata iskanja (%1$d stvari)</item>
+        <item quantity="few">Rezultati iskanja (%1$d stvari)</item>
+        <item quantity="many">Rezultatov iskanja (%1$d stvari)</item>
+     </plurals>
+     <plurals name="search_head_hint_app">
+        <item quantity="other">Datotek (%2$d) apl. %1$s</item>
+        <item quantity="one">Datoteka (%2$d) apl. %1$s</item>
+     </plurals>
+     <plurals name="search_head_hint_file">
+        <item quantity="other">Datotek %1$s (%2$d)</item>
+        <item quantity="one">Datoteka %1$s (%2$d)</item>
+     </plurals>
+     <plurals name="search_head_hint_tag">
+        <item quantity="other">Datotek %1$s (%2$d)</item>
+        <item quantity="one">Datoteka %1$s (%2$d)</item>
+     </plurals>
+     <plurals name="seconds">
+        <item quantity="other">%1$d sek</item>
+        <item quantity="one">%1$d sek</item>
+     </plurals>
+     <plurals name="text_group_count">
+        <item quantity="other">%d stvari</item>
+        <item quantity="one">%d stvar</item>
+     </plurals>
+     <plurals name="total_topic_num">
+        <item quantity="other">Tem: %1$s</item>
+        <item quantity="one">%1$s tema</item>
+     </plurals>
+     <plurals name="total_user_num">
+        <item quantity="other">Oseb: %1$s</item>
+        <item quantity="one">%1$s oseba</item>
+     </plurals>
+     <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">Preostalo (%1$d) datotek za prenos</item>
+        <item quantity="one">Preostala (%1$d) datoteka za prenos</item>
+     </plurals>
+     <plurals name="ui_bar_txt_transport_progress">
+        <item quantity="other">Preostalo (%1$d) datotek za poslati</item>
+        <item quantity="one">Preostala (%1$d) datoteka za poslati</item>
+     </plurals>
+     <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">Preostalo (%1$d) datotek za nalaganje</item>
+        <item quantity="one">Preostala (%1$d) datoteka za nalaganje</item>
+     </plurals>
+     <plurals name="user_follow_me_items">
+        <item quantity="other">sledilcev</item>
+        <item quantity="one">sledilec</item>
+     </plurals>
+     <plurals name="user_sign_limt">
+        <item quantity="other">Lahko vpišete %d znakov</item>
+        <item quantity="one">Lahko vpišete %d znak</item>
+     </plurals>
+     <plurals name="user_upload_items">
+        <item quantity="other">videoposnetkov</item>
+        <item quantity="one">videoposnetek</item>
+     </plurals>
+     <plurals name="video_ad_download_tip">
+        <item quantity="other"> Prenosov</item>
+        <item quantity="one"> Prenos</item>
+     </plurals>
+     <plurals name="video_count">
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> videoposnetkov</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> videoposnetek</item>
+     </plurals>
+     <plurals name="video_items">
+        <item quantity="other"> %1$d stvari</item>
+        <item quantity="one"> %1$d stvar</item>
+     </plurals>
+     <plurals name="video_num">
+        <item quantity="other">%1$s videoposnetkov</item>
+        <item quantity="one">%1$s videoposnetek</item>
+     </plurals>
+     <plurals name="video_play_num">
+        <item quantity="other">%1$s predvajano</item>
+        <item quantity="one">%1$s predvajano</item>
+     </plurals>
+     <plurals name="video_publish_watchable_hint">
+        <item quantity="other">Pridobite %1$d sledilcev da nadgradite svoj status​</item>
+        <item quantity="one">Pridobite %1$d sledilca da nadgradite svoj status</item>
+     </plurals>
+</resources>

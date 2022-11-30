@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="settings_search_mirror">
+        <item>Screen Combo</item>
+        <item>Povezava &amp; deljenje/Screen Combo</item>
+        <item>Screen Combo;Multiscreen;Predvajanje zaslona;PC;Računalnik</item>
+     </string-array>
+     <string-array name="settings_tips_message">
+        <item>"1. Pred uporabo storitve Screen Combo izklopite prenosno dostopno točko, Mi Share ali oddajanje v mobilni napravi.
+2. Izključite WiFi na mobilni napravi in računalniku.
+3. Preverite ali je vaša mobilna naprava blizu računalnikaa."</item>
+        <item>Vaš računalnik uporablja Bluetooth za zaznavanje prej povezanih mobilnih naprav. Prepričajte se, da je v mobilni napravi vklopljen Bluetooth.</item>
+        <item>"Mobilne naprave ne morejo sinhronizirati podatkov z računalniki, ko je zaslon zaklenjen. Screen Combo privzeto ne omogoča zaklepanja zaslona, ​​ko je vaša mobilna naprava povezana z računalnikom. To lahko spremenite v nastavitvah."</item>
+        <item>"1. Izbrani telefoni Xiaomi z Androidom Q ali novejšim podpirajo Screen Combo. Če po skeniranju kode QR vidite spletno mesto MIUI, vaša naprava še ni podprta.
+2. Če želite v računalniku uporabljati Screen Combo, najprej namestite najnovejšo različico Mi Smart Share."</item>
+     </string-array>
+     <string-array name="settings_tips_title">
+        <item>"Se ne morete povezati s pomočjo QR kode?"</item>
+        <item>"Ne morete najti mobilnih naprav s pomočjo računalnika?"</item>
+        <item>"Ne morete zakleniti svojo mobilno napravo?"</item>
+        <item>Kompatibilnost</item>
+     </string-array>
+</resources>

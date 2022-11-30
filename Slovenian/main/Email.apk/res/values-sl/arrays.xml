@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="all_month_str">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Maj</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Avg</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dec</item>
+     </string-array>
+     <string-array name="calendar_remind_string_array">
+        <item>Zvečer</item>
+        <item>Jutri</item>
+        <item>Vikend</item>
+        <item>Naslednji teden</item>
+        <item>Naslednji mesec</item>
+        <item>Izberite datum</item>
+     </string-array>
+     <string-array name="compose_modes">
+        <item>Odgovor</item>
+        <item>Odgovori vsem</item>
+        <item>Naprej</item>
+     </string-array>
+     <string-array name="error_message_respond">
+        <item>LOGIN Napaka pri prijavi ali napaka gesla</item>
+        <item>LOGIN Napaka pri prijavi ali napaka gesla</item>
+        <item>Napaka pri prijavi ali napaka gesla</item>
+        <item>LOGIN napaka, neveljavno uporabniško ime/geslo</item>
+        <item>LOGIN errno:1424, račun ne obstaja(md return:2100001)</item>
+        <item>ERR.LOGIN.DOMAINNOTEXIST</item>
+        <item>Za prijavo uporabite pooblaščeno kodo. Več informacij na https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>Koda ni pravilna. Več informacij na https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>LOGIN Napaka pri prijavi uporabnik je suspendiran</item>
+        <item>LOGIN failure, Nantai vedno bolj spletena\ufffd</item>
+        <item>LOGIN errno:1423, napaka uporabniškega gesla(sp return:2200019)</item>
+        <item>AUTHENTICATIONFAILED LOGIN Neveljavne poverilnice</item>
+        <item>Prijava ni uspela. Geslo je napačno ali storitev ni odprta</item>
+        <item>LOGIN imap4 ni podprto</item>
+        <item>LOGIN errno:1328, imap po meri izklopljen</item>
+        <item>LOGIN Uporabnik z napako pri prijavi je onemogočen</item>
+        <item>LOGIN uporabnik na črnem seznamu</item>
+        <item>LOGIN ni uspelo. Račun je blokiran. Prijavite se v svoj račun prek spletnega brskalnika, da preverite svojo identiteto.</item>
+        <item>LOGIN uporabnik na črnem seznamu</item>
+        <item>LOGIN errno:1412 status=51 Geslo se dolgo ni spremenilo. Prosimo, spremenite geslo. http://mail.10086.cn</item>
+        <item>LOGIN imap4 ni podprto</item>
+        <item>LOGIN ni uspelo. Račun je blokiran. Prijavite se v svoj račun prek spletnega brskalnika, da preverite svojo identiteto.</item>
+        <item>ERR Neveljaven uporabnik za prijavo ali geslo</item>
+        <item>Prijava ni uspela. Za prijavo uporabite geslo aplikacije. Več informacij na http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
+        <item>ERR pop3 po meri izklopljeno</item>
+        <item>LOGIN Napaka pri prijavi - napaka uporabniškega imena ali gesla</item>
+        <item>Neveljavna prijava ali geslo</item>
+        <item>na črnem seznamu, preklopite svoje omrežje ali se prijavite na  https://mail.sohu.com to setup client ip whitelist</item>
+        <item>java.net.UnknownHostException: Gostitelja ni mogoče razrešiti</item>
+        <item>odjemalec onemogočen, spremenite stanje na spletnem mestu https://mail.sohu.com</item>
+        <item>brez začetnega gesla, prijavite se https://mail.sohu.com to generate client password</item>
+     </string-array>
+     <string-array name="general_preference_text_zoom_summary_array">
+        <item>Majčkeno</item>
+        <item>Majhno</item>
+        <item>Normalne velikosti</item>
+        <item>Veliko</item>
+        <item>Ogromno</item>
+     </string-array>
+     <string-array name="menu_att_mgr_sort_string_array">
+        <item>Nedavno pregledano</item>
+        <item>Format</item>
+        <item>Ime</item>
+        <item>Pošiljatelj</item>
+        <item>Datum prejema</item>
+     </string-array>
+     <string-array name="moveto_folder_sections">
+        <item>Sistem</item>
+        <item>Pogosto uporab.</item>
+        <item>Vse mape</item>
+     </string-array>
+     <string-array name="prefEntries_autoAdvance">
+        <item>Novejša sporočila</item>
+        <item>Starejša sporočila</item>
+        <item>Prihodna pošta</item>
+     </string-array>
+     <string-array name="prefEntries_contact_add">
+        <item>Vsi</item>
+        <item>Samo pošiljatelji</item>
+     </string-array>
+     <string-array name="prefEntries_removal_action">
+        <item>Pokaži samo arhiviranje</item>
+        <item>Pokaži samo brisanje</item>
+        <item>Pokaži arhiviranje in brisanje</item>
+     </string-array>
+     <string-array name="prefSummaries_autoAdvance">
+        <item>Prikaz novejšega razgovora po brisanju</item>
+        <item>Prikaz starejšega razgovora po brisanju</item>
+        <item>Prikaz prihodne pošte po brisanju</item>
+     </string-array>
+     <string-array name="prefSummaries_removal_action_summary">
+        <item>Pokaži samo arhiviranje</item>
+        <item>Pokaži samo brisanje</item>
+        <item>Pokaži arhiviranje in brisanje</item>
+     </string-array>
+     <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Stran:</item>
+        <item>E-pošta:</item>
+        <item>Mobitel:</item>
+        <item>telefon:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-pošta:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>E-pošta:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+     </string-array>
+     <string-array name="signature_normal_string_array_next">
+        <item>Naslov:</item>
+        <item>Tel:</item>
+        <item>Ime:</item>
+        <item>E-pošta:</item>
+        <item>Mobitel:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Poštna številka:</item>
+     </string-array>
+     <string-array name="signature_special_string_array">
+        <item>Pogoji:</item>
+        <item>E-pošta Pogoji</item>
+        <item>Pošlji via WPSMail</item>
+        <item>Poslano z</item>
+        <item>Poslano z</item>
+        <item>Hvala,</item>
+        <item>Prisrčen pozdrav</item>
+     </string-array>
+     <string-array name="signature_special_string_array_next">
+        <item>Hvala,</item>
+        <item>Prisrčen pozdrav</item>
+        <item>Poslano iz mojega</item>
+        <item>Originalno sporočilo</item>
+        <item>Poslano iz mojega</item>
+        <item>Poslano iz</item>
+        <item>Iz</item>
+        <item>To sporočilo</item>
+        <item>Pogoji</item>
+        <item>E-pošta Pogoji</item>
+     </string-array>
+     <string-array name="sync_status">
+        <item>Sinhr. uspela</item>
+        <item>Napaka omrežja.</item>
+        <item>Neuspešna prijava.</item>
+        <item>Napaka v varnosti povezave.</item>
+        <item>Neuspešna sinhr.</item>
+        <item>Napaka strežnika.</item>
+     </string-array>
+</resources>

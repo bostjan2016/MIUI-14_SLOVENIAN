@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Preberi me</string>
+  <string name="bakc_key_toast_txt">Za izhod ponovno pritisnite tipko Nazaj</string>
+  <string name="cta_dialog_button_text">Strinjam se in nikoli ne svetuj</string>
+  <string name="cta_dialog_msg">"Uporabili boste uporabniški priročnik ki vam ga nudi podjetje Xiaomi, katera vam nudi več vznemerljivih operacij. Za nudenje nedotaknjenih in učinkovitih informacij morate uporabniški priročnik samodejno posodobiti preko WiFi-ja. Se strinjate?
+ *Opomba: za izhod pritisnite tipko Nazaj"</string>
+  <string name="cta_dialog_title">Nasvet</string>
+  <string name="downloading_data">Prenašanje…</string>
+  <string name="downloading_error">Napaka pri prenosu, poskusite kasneje!</string>
+  <string name="loading_userbook">Prenašanje…</string>
+  <string name="non_wifi_not_download_data">"Ne morem uporabiti vašo podatkovno povezavo, poskusite ponovno ko boste povezani na WiFi omrežje"</string>
+</resources>

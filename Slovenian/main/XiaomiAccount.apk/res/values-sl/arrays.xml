@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="account_user_gender_name">
+        <item>Moški</item>
+        <item>Ženska</item>
+     </string-array>
+     <string-array name="education">
+        <item>Osnovna šola</item>
+        <item>Mala šola</item>
+        <item>Srednja šola</item>
+        <item>Srednja strokovna šola</item>
+        <item>Fakulteta</item>
+        <item>"Magisterij"</item>
+        <item>"Doktorat"</item>
+     </string-array>
+     <string-array name="question_no1">
+        <item>Družina</item>
+        <item>"Ime babice po očetovi strani"</item>
+        <item>"Ime dedka po očetovi strani"</item>
+        <item>"Ime dedka po mamini strani"</item>
+        <item>"Ime babice po mamini strani"</item>
+        <item>"Očetov rojstni dan"</item>
+        <item>"Mamin rojstni dan"</item>
+        <item>"Kakšna je razlika v letih vaših staršev (leta in meseci)?"</item>
+     </string-array>
+     <string-array name="question_no2">
+        <item>Alma mater</item>
+        <item>Ime vašega predsednika razreda v osnovni šoli?</item>
+        <item>Ime vašega predsednika razreda v srednji šoli?</item>
+        <item>Vaša študentska ID štev. na faksu?</item>
+        <item>"Ime vašega sostanovalca na faksu?"</item>
+        <item>"Ime vašega mentorja na faksu?"</item>
+     </string-array>
+     <string-array name="question_no3">
+        <item>Osebni podatki</item>
+        <item>Kako vas kličejo starši?</item>
+        <item>Zadnjih 6 črk vašega potnega lista</item>
+        <item>V kateri bolnišnici ste rojeni?</item>
+        <item>"Ime vašega najboljšega prijatelja?"</item>
+     </string-array>
+     <string-array name="question_no4">
+        <item>Prvič</item>
+        <item>"Ime vašega hišnega ljubljenčka?"</item>
+        <item>"Ime vaše prve simpatije?"</item>
+        <item>Ime podjetja v katerem ste dobili prvo zaposlitev</item>
+     </string-array>
+     <string-array name="question_no5">
+        <item>Zakon</item>
+        <item>Kje ste se poročili?</item>
+        <item>"Ime vašega partnerja"</item>
+        <item>"Rojstni dan partnerja"</item>
+     </string-array>
+     <string-array name="settings_search_account_and_authority">
+        <item>Računi</item>
+        <item>Dodajte in urejajte račune drugih ponudnikov</item>
+        <item>Avtorizacija;Račun;Mi Račun;Dodaj;Seznani;Xiaomi;Pokaži;SNS;WeChat;Google;Weibo</item>
+     </string-array>
+     <string-array name="settings_search_account_and_authority_global">
+        <item>Računi</item>
+        <item>Dodajte in urejajte račune drugih oseb</item>
+        <item>Računi;SNS;Facebook;Google;Mi Račun;Račun;Xiaomi Račun</item>
+     </string-array>
+     <string-array name="settings_search_account_and_authority_non_global">
+        <item>Računi</item>
+        <item>Dodajte in urejajte račune drugih oseb</item>
+        <item>Računi;SNS;WeChat;QQ;Mi Račun;Račun;Xiaomi Račun</item>
+     </string-array>
+     <string-array name="settings_search_change_password">
+        <item>Zamenjaj geslo</item>
+        <item>Zamenjaj geslo Mi Računa</item>
+        <item>Mi Račun;Račun;Račun pomoč;Center za pomoč</item>
+     </string-array>
+     <string-array name="settings_search_help_center">
+        <item>Pomoč</item>
+        <item>Dobite pomoč in podporo za Mi Račun</item>
+        <item>Xiaomi;Račun;Mi Račun;Pomoč;Podpora;Pokaži</item>
+     </string-array>
+     <string-array name="settings_search_login_2_step_verify">
+        <item>Dvonivojsko preverjanje</item>
+        <item>Nastavite dvonivojsko preverjanje za vaš Mi Račun</item>
+        <item>Prijava;Prijava;v 2 korakih;Preverjanje;Xiaomi;Račun;Mi Račun;Račun</item>
+     </string-array>
+     <string-array name="settings_search_login_and_security">
+        <item>Varnost računa</item>
+        <item>Telefon za obnovitev in e-pošta; Urejanje gesla</item>
+        <item>Varnost računa;Vpis;Telefon za obnovitev;E-pošta za obnovitev;Zaščita računa;Tel.številka;E-pošta;Spremeni geslo;Dodaj tel.štev.;Dodaj e-pošto;Mi Račun;Račun</item>
+     </string-array>
+     <string-array name="settings_search_manage_device">
+        <item>Naprave</item>
+        <item>Urejajte naprave povezane z vašim Mi Računom</item>
+        <item>Urejajte naprave;Moje naprave;Naprave;Seznam naprav;Mi Račun;Račun</item>
+     </string-array>
+     <string-array name="settings_search_payment_information">
+        <item>Informacije o plačevanju</item>
+        <item>Preglejte in urejajte informacije o plačevanju</item>
+        <item>Plačaj;Plačilo;Način plačila;Mi Račun;Račun</item>
+     </string-array>
+     <string-array name="settings_search_privacy_policy">
+        <item>Pravila o zasebnosti</item>
+        <item>Pokaži Pravila o zasebnosti Mi Računa</item>
+        <item>Xiaomi;Račun;Mi Račun;Zasebnost;Pravila;Pokaži</item>
+     </string-array>
+     <string-array name="settings_search_security_email_address">
+        <item>E-pošta za obnovitev</item>
+        <item>Dodajte e-pošto za obnovitev</item>
+        <item>E-pošta za obnovitev;E-pošta;Dodaj e-pošto;Mi Račun;Račun</item>
+     </string-array>
+     <string-array name="settings_search_security_phone_number">
+        <item>Telefon za obnovitev</item>
+        <item>Dodaj telefon za obnovitev</item>
+        <item>Telefon za obnovitev;Dodaj telefon;Mi Račun;Račun</item>
+     </string-array>
+     <string-array name="settings_search_system_ad">
+        <item>Oglasi</item>
+        <item>Urejanje sistemskih oglasov</item>
+        <item>Oglasi;Mi Račun;Račun</item>
+     </string-array>
+     <string-array name="settings_search_user_information">
+        <item>Informacije računa</item>
+        <item>Preglejte fotografijo vašega profila in urejajte podatke o računu</item>
+        <item>Osebne info;fotografija;vzdevek;račun info;Mi ID;ID;Mi Račun;Račun</item>
+     </string-array>
+     <string-array name="settings_search_user_protocol">
+        <item>Pogoji uporabe</item>
+        <item>Pogoji uporabe</item>
+        <item>Mi Račun;Račun;Pogoji uporabe;EULA</item>
+     </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="control_center_independent_tiles_mobile">
+        <item>celica</item>
+        <item>wifi</item>
+     </string-array>
+     <string-array name="control_center_independent_tiles_wifi">
+        <item>wifi</item>
+        <item>bt</item>
+     </string-array>
+</resources>

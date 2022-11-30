@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="account_user_gender_name">
+        <item>Moški</item>
+        <item>Ženska</item>
+     </string-array>
+     <string-array name="aritst_gender_filter_api">
+        <item>vse</item>
+        <item>moški</item>
+        <item>ženska</item>
+        <item>skupina</item>
+     </string-array>
+     <string-array name="recommendation_desc_week">
+        <item>Priporočila nedelja</item>
+        <item>Priporočila ponedeljek</item>
+        <item>Priporočila torek</item>
+        <item>Priporočila sreda</item>
+        <item>Priporočila četrtek</item>
+        <item>Priporočila petek</item>
+        <item>Priporočila sobota</item>
+     </string-array>
+</resources>

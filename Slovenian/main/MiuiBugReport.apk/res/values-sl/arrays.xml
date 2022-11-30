@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="account_user_gender_name">
+        <item>Moški</item>
+        <item>Ženska</item>
+     </string-array>
+     <string-array name="net_diag_err_link_quality">
+        <item>Slaba povezava WiFi. Preklopite brezžične pasove ali znova zaženite usmerjevalnik.</item>
+        <item>"Ni mogoče dostopati do omrežja. Znova se povežite z WiFi ali znova zaženite usmerjevalnik."</item>
+     </string-array>
+     <string-array name="net_diag_err_link_quality_china">
+        <item>Slaba povezava WiFi. Preklopite brezžične pasove ali znova zaženite usmerjevalnik.</item>
+        <item>"Ni mogoče dostopati do omrežja. Znova se povežite z WiFi ali znova zaženite usmerjevalnik."</item>
+     </string-array>
+     <string-array name="net_diag_err_network_connectivity">
+        <item>Za dostop do omrežja je potrebno preverjanje pristnosti</item>
+        <item>"Dostop do omrežja je omejen. Prilagodite čas na tej napravi in preverite omrežne nastavitve usmerjevalnika."</item>
+        <item>Napaka omrežja. Preverite HTTP nastavitve strežnika proxy.</item>
+        <item>Napaka omrežja. Preverite, ali lahko usmerjevalnik dostopa do spleta.</item>
+        <item>"Ni mogoče vzpostaviti povezave z omrežjem. Znova se povežite z WiFi ali znova zaženite usmerjevalnik."</item>
+     </string-array>
+     <string-array name="net_diag_err_network_connectivity_china">
+        <item>Za dostop do omrežja je potrebno preverjanje pristnosti</item>
+        <item>"Dostop do omrežja je omejen. Prilagodite čas na tej napravi in preverite omrežne nastavitve usmerjevalnika."</item>
+        <item>Napaka omrežja. Preverite HTTP nastavitve strežnika proxy.</item>
+        <item>Napaka omrežja. Preverite, ali lahko usmerjevalnik dostopa do spleta.</item>
+        <item>"Ni mogoče vzpostaviti povezave z omrežjem. Znova se povežite z WiFi ali znova zaženite usmerjevalnik."</item>
+     </string-array>
+     <string-array name="net_diag_err_network_dns">
+        <item>"Napaka strežnika DNS. Preverite konfiguracijo DNS usmerjevalnika."</item>
+        <item>"Velike zamude pri strežniku DNS. Preverite konfiguracijo DNS usmerjevalnika."</item>
+        <item>"Ni mogoče dostopati do prehoda. Znova se povežite z WiFi ali znova zaženite usmerjevalnik."</item>
+     </string-array>
+     <string-array name="net_diag_err_network_dns_china">
+        <item>"Napaka strežnika DNS. Preverite konfiguracijo DNS usmerjevalnika."</item>
+        <item>"Velike zamude pri strežniku DNS. Preverite konfiguracijo DNS usmerjevalnika."</item>
+        <item>"Ni mogoče dostopati do prehoda. Znova se povežite z WiFi ali znova zaženite usmerjevalnik."</item>
+     </string-array>
+     <string-array name="net_diag_err_network_latency">
+        <item>Velike zamude iz lokalnega omrežja. Znova zaženite usmerjevalnik ali se povežite z drugim omrežjem.</item>
+        <item>Velike zamude pri spletu. Preverite nastavitve omrežja operaterja ali se povežite z drugim omrežjem.</item>
+     </string-array>
+     <string-array name="net_diag_err_network_parameters">
+        <item>Preklopite s statičnega IP na DHCP</item>
+     </string-array>
+     <string-array name="net_diag_err_network_protocol">
+        <item>Napaka omrežnega protokola. Znova se povežite z WiFi ali znova zaženite napravo.</item>
+     </string-array>
+     <string-array name="net_diag_err_network_protocol_china">
+        <item>Napaka omrežnega protokola. Znova se povežite z WiFi ali znova zaženite napravo.</item>
+     </string-array>
+     <string-array name="net_diag_err_network_rssi">
+        <item>Premaknite se na območje z boljšo pokritostjo z WiFi</item>
+     </string-array>
+     <string-array name="net_diag_err_network_rssi_china">
+        <item>Premaknite se na območje z boljšo pokritostjo z WiFi</item>
+     </string-array>
+     <string-array name="net_diag_err_network_topology">
+        <item>"Preverite DHCP nastavitve usmerjevalnika in žično povezavo"</item>
+     </string-array>
+</resources>

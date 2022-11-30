@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Še %1$d korakov in postali boste voip razvijalec.</item>
+        <item quantity="one">Še %1$d korak in postali boste voip razvijalec.</item>
+    </plurals>
+    <plurals name="show_nondev_countdown">
+        <item quantity="other">Še %1$d korakov do izhoda iz načina voip razvijalec .</item>
+        <item quantity="one">Še %1$d korak do izhoda iz načina voip razvijalec .</item>
+    </plurals>
+</resources>

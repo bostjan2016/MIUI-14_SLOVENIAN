@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Da boste telefonirali in pošiljali sporočila preko WiFi-ja morate zahtevati od mobilnega operaterja da vam nastavi to storitev. Potem ponovno vključite WiFi klice v nastavitvah.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Registrirajte se pri mobilnem operaterju</item>
+    </string-array>
+</resources>

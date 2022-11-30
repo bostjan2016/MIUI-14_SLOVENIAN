@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="screenrecorder_settings_orientation">
+        <item>Samod.</item>
+        <item>Navpično</item>
+        <item>Vodoravno</item>
+     </string-array>
+     <string-array name="screenrecorder_settings_sound">
+        <item>Utišaj</item>
+        <item>Mikrofon</item>
+        <item>Zvoki sistema</item>
+     </string-array>
+     <string-array name="screenrecorder_settings_storage_location">
+        <item>Notranji pomnilnik</item>
+        <item>Zunanji pomnilnik</item>
+     </string-array>
+</resources>

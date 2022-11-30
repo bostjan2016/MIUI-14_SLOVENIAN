@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="attachment_chooser">
+        <item>Kamera</item>
+        <item>Galerija</item>
+     </string-array>
+     <string-array name="contact_entries">
+        <item>Ime</item>
+        <item>Vzdevek</item>
+        <item>Telefon</item>
+        <item>E-pošta</item>
+        <item>Organizacija</item>
+        <item>IM</item>
+        <item>SIP Telefon</item>
+        <item>Rojstni dan</item>
+        <item>Spletna lokacija</item>
+        <item>Naslov</item>
+        <item>Beležka</item>
+     </string-array>
+     <string-array name="first_guide_contents">
+        <item>Dobro došli v beležke!</item>
+        <item>Napravite beležko</item>
+        <item>Uporabljate lahko tekst, slike in posnetke glasu. Bogata knjižnica stilov in pisav vam bo pomagala</item>
+        <item>Opomniki vam lahko pomagajo pri planiranju vašega naslednjega potovanja ali sestavljanju seznama nakupov.</item>
+        <item>Delite beležke</item>
+        <item>Posnetke zaslona lahko izdelate v beležki samodejno, nato jih delite z prijatelji.</item>
+        <item>Napravi &amp; zamenjaj mape</item>
+        <item>Pritisnite puščico spodaj da boste naredili novo mapo ali premikali med obstoječimi.</item>
+     </string-array>
+     <string-array name="folder_operations">
+        <item>Preimenuj</item>
+        <item>Izbriši</item>
+     </string-array>
+     <string-array name="font_size_names">
+        <item>Majhno</item>
+        <item>Srednje</item>
+        <item>Veliko</item>
+        <item>Ogromno</item>
+     </string-array>
+     <string-array name="note_sort_way">
+        <item>Po datumu spremembe</item>
+        <item>Po datumu izdelave</item>
+     </string-array>
+     <string-array name="second_guide_contents">
+        <item>Glasovne beležke</item>
+        <item>Napravite beležke s pomočjo tekst-v-govor orodja.</item>
+     </string-array>
+     <string-array name="second_guide_contents_pad_or_inter">
+        <item>Glasovne beležke</item>
+        <item>Lahko napravite glasovne beležke. Enostavno tapnite ikono, posnemite svoj glas in shranite avdio datoteko v beležko.</item>
+     </string-array>
+     <string-array name="welcome_notes_content">
+        <item>"Dobro došli v Beležki
+"</item>
+        <item>"Izdelajte beležko
+Pritisnite + za izdelavo beležke."</item>
+        <item>"Izberite predlogo
+Uporabite predloge za zamenjavo ozadja in stila svoje beležke.
+Pritisnite desno tipko na dnu beležke za izbiro predloge."</item>
+        <item>"Izdelajte mapo
+Organizirajte svoje beležke v mapah.
+Obstajata 2 načina za izdelavo mape:
+1. Pritisnite ikono mape v zgornjem desnem kotu in pritisnite +.
+2. Držite beležko dokler se ne pojavi skočni menu in izberite \"Prestavi v\" - \"Nova mapa\"."</item>
+        <item>"Skrijte beležko
+Zaščitite osebne beležke z geslom.
+Obstajata 2 načina da skrijete beležko:
+1. Pritisnite tipko \"Več\" v zgornjem desnem kotu beležke in izberite \"Skrij\".
+2. Držite beležko dokler se ne pojavi skočni meni in izberite \"Skrij\".</item>
+        <item>"In še veliko čudovitih opravil!		
+- Slike, kontrolne liste, opomniki.
+
+Dodajanje slike
+Pritisnite ikono slike na dnu beležke za dodajanje slike.
+Fotografijo lahko posnamete ali izberete iz Galerije.
+Ko beležka vsebuje sliko, bo ta slika uporabljena kot miniatura beležke v mrežnem prikazu.
+
+Izdelava kontrolne liste
+Potrditveni okvir je bistveni element seznama obveznosti.
+Pritisnite ikono potrditvenega okvirja na dnu beležke za dodajanje potrditvenega okvirja v odlomek teksta.
+Označite potrditveni okvir ko je nekaj opravljeno.
+
+Nastavitev opomnika
+Nastavite opomnike neposredno iz beležk.
+Pritisnite tipko \"Več\" v zgornjem desnem kotu beležke, izberite \"Opomniki\", nastavite čas.
+"</item>
+     </string-array>
+</resources>

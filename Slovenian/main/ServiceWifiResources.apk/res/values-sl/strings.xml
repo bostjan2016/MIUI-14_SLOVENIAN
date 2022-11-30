@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accept">Dovoli</string>
+    <string name="decline">Zavrni</string>
+    <string name="dlg_ok">V redu</string>
+    <string name="notification_channel_network_alerts">Opozorila omrežja</string>
+    <string name="notification_channel_network_available">Omrežja na voljo</string>
+    <string name="notification_channel_network_status">Omrežja status</string>
+    <string name="ok">V redu</string>
+    <string name="wifiResourcesAppLabel">Sistem WiFi viri</string>
+    <string name="wifi_available_action_all_networks">Vsa omrežja</string>
+    <string name="wifi_available_action_connect">Poveži</string>
+    <string name="wifi_available_content_failed_to_connect">Tapnite za ogled vseh omrežij</string>
+    <string name="wifi_available_title">Poveži se z odprtim omrežjem WiFi</string>
+    <string name="wifi_available_title_connected">Vzpostavljena povezava z omrežjem WiFi</string>
+    <string name="wifi_available_title_connecting">Povezava z omrežjem WiFi</string>
+    <string name="wifi_available_title_failed_to_connect">Ne morem se povezati na omrežje</string>
+     <string name="wifi_ca_cert_dialog_abort_text">"Ne, ne poveži se"</string>
+     <string name="wifi_ca_cert_dialog_continue_text">Da, poveži se</string>
+     <string name="wifi_ca_cert_dialog_message_contact_text">"Stik:
+%1$s
+
+"</string>
+     <string name="wifi_ca_cert_dialog_message_hint">"Temu omrežju dovolite povezavo samo, če so spodnje informacije videti pravilne.
+
+"</string>
+     <string name="wifi_ca_cert_dialog_message_issuer_name_text">"Ime izdajatelja:
+%1$s
+
+"</string>
+     <string name="wifi_ca_cert_dialog_message_organization_text">"Organizacija:
+%1$s
+
+"</string>
+     <string name="wifi_ca_cert_dialog_message_server_name_text">"Ime strežnika:
+%1$s
+
+"</string>
+     <string name="wifi_ca_cert_dialog_message_signature_name_text">"Podpis:
+%1$s
+
+"</string>
+     <string name="wifi_ca_cert_dialog_preT_abort_text">"Ne povezuj se"</string>
+     <string name="wifi_ca_cert_dialog_preT_continue_text">Vseeno se poveži</string>
+     <string name="wifi_ca_cert_dialog_preT_message_hint">Omrežju %1$s manjka potrdilo.</string>
+     <string name="wifi_ca_cert_dialog_preT_message_link">Naučite se dodajati potrdila</string>
+     <string name="wifi_ca_cert_dialog_preT_title">"Tega omrežja ni mogoče preveriti"</string>
+     <string name="wifi_ca_cert_dialog_title">Ali je to omrežje zaupanja vredno?</string>
+     <string name="wifi_ca_cert_failed_to_install_ca_cert">Namestitev potrdila ni uspela.</string>
+     <string name="wifi_ca_cert_notification_message">Preden se povežete, preglejte podrobnosti omrežja za %1$s. Tapnite za nadaljevanje.</string>
+     <string name="wifi_ca_cert_notification_preT_abort_text">"Ne povezuj se"</string>
+     <string name="wifi_ca_cert_notification_preT_continue_text">Vseeno se poveži</string>
+     <string name="wifi_ca_cert_notification_preT_message">Omrežju %1$s manjka potrdilo. Tapnite, če želite izvedeti, kako dodati potrdila.</string>
+     <string name="wifi_ca_cert_notification_preT_title">"Tega omrežja ni mogoče preveriti"</string>
+     <string name="wifi_ca_cert_notification_title">Omrežje je treba preveriti</string>
+     <string name="wifi_cannot_connect_with_randomized_mac_message">Tapnite, da spremenite nastavitve zasebnosti in poskusite znova</string>
+     <string name="wifi_cannot_connect_with_randomized_mac_title">"Ne morem se povezati z %1$s"</string>
+     <string name="wifi_connect_alert_message">Aplikacija %1$s se želi povezati z omrežjem Wifi %2$s</string>
+     <string name="wifi_connect_alert_title">Dovolim povezavo?</string>
+     <string name="wifi_connect_default_application">Aplikacija</string>
+     <string name="wifi_disable_mac_randomization_dialog_confirm_text">Spremeni nastavitve</string>
+     <string name="wifi_disable_mac_randomization_dialog_failure">"Ne morem spremeniti nastavitve zasebnosti"</string>
+     <string name="wifi_disable_mac_randomization_dialog_message">"Za povezavo mora %1$s uporabiti naslov MAC vaše naprave, edinstven identifikator. Trenutno vaša nastavitev zasebnosti za to omrežje uporablja naključni identifikator. 
+
+Ta sprememba bo morda omogočila, da bodo naprave v bližini sledile lokaciji vaše naprave."</string>
+     <string name="wifi_disable_mac_randomization_dialog_network_not_found">Ne najdem omrežij</string>
+     <string name="wifi_disable_mac_randomization_dialog_success">Nastavitev je posodobljena. Poskusite znova vzpostaviti povezavo.</string>
+     <string name="wifi_disable_mac_randomization_dialog_title">Spremenim nastavitve zasebnosti?</string>
+     <string name="wifi_eap_error_message_code_16384">%1$s : EAP napaka preverjanja pristnosti 16384</string>
+     <string name="wifi_eap_error_message_code_16385">%1$s : EAP napaka preverjanja pristnosti 16385</string>
+     <string name="wifi_eap_error_message_code_32756">%1$s : EAP napaka preverjanja pristnosti 32756</string>
+     <string name="wifi_eap_error_message_code_32760">%1$s : EAP napaka preverjanja pristnosti 32760</string>
+     <string name="wifi_eap_error_message_code_32761">%1$s : EAP napaka preverjanja pristnosti 32761</string>
+     <string name="wifi_eap_error_message_code_32762">%1$s : EAP napaka preverjanja pristnosti 32762</string>
+     <string name="wifi_eap_error_message_code_32763">%1$s : EAP napaka preverjanja pristnosti 32763</string>
+     <string name="wifi_eap_error_message_code_32764">%1$s : EAP napaka preverjanja pristnosti 32764</string>
+     <string name="wifi_eap_error_message_code_32765">%1$s : EAP napaka preverjanja pristnosti 32765</string>
+     <string name="wifi_eap_error_message_code_32766">%1$s : EAP napaka preverjanja pristnosti 32766</string>
+     <string name="wifi_eap_error_message_code_32767">%1$s : EAP authentication error 32767</string>
+     <string name="wifi_eap_error_message_unknown_error_code">%1$s : EAP napaka preverjanja pristnosti, neznana koda napake</string>
+     <string name="wifi_enable_request_dialog_message">WiFi lahko izklopite v hitrih nastavitvah</string>
+     <string name="wifi_enable_request_dialog_negative_button">"Ne dovoli"</string>
+     <string name="wifi_enable_request_dialog_positive_button">Dovoli</string>
+     <string name="wifi_enable_request_dialog_title">Dovolim %1$s da vklopi WiFi?</string>
+     <string name="wifi_interface_priority_approve">Dovoli</string>
+     <string name="wifi_interface_priority_message">To lahko povzroči težave za %3$s.</string>
+     <string name="wifi_interface_priority_message_plural">To lahko povzroči težave pri teh aplikacijah: %3$s.</string>
+     <string name="wifi_interface_priority_reject">"Ne dovoli"</string>
+     <string name="wifi_interface_priority_title">%1$s želi uporabiti omrežni vir</string>
+     <string name="wifi_p2p_enter_pin_message">Vnesite zahtevani PIN:</string>
+     <string name="wifi_p2p_frequency_conflict_message">"Telefon bo začasno prekinil povezavo z WiFi, medtem ko je povezan z %1$s"</string>
+     <string name="wifi_p2p_from_message">Od:</string>
+     <string name="wifi_p2p_invitation_sent_title">Povabilo poslano</string>
+     <string name="wifi_p2p_invitation_to_connect_title">Povabilo k povezovanju</string>
+     <string name="wifi_p2p_show_pin_message">PIN:</string>
+     <string name="wifi_p2p_to_message">Za:</string>
+     <string name="wifi_sim_required_message">Za povezavo z %1$s vstavite %2$s SIM</string>
+     <string name="wifi_sim_required_title">Povezava WiFi je prekinjena</string>
+     <string name="wifi_softap_auto_shutdown_timeout_expired_summary">Ni priključenih naprav. Tapnite za spreminjanje.</string>
+     <string name="wifi_softap_auto_shutdown_timeout_expired_title">Dostopna točka je izklopljena</string>
+     <string name="wifi_suggestion_action_allow_app">Dovoli</string>
+     <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_carrier">Poveži</string>
+     <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_confirmation">Poveži</string>
+     <string name="wifi_suggestion_action_disallow_app">Ne, hvala</string>
+     <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_carrier">"Ne poveži"</string>
+     <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_confirmation">"Ne poveži"</string>
+     <string name="wifi_suggestion_content">%s predlaganih omrežij. Naprava se lahko samodejno poveže.</string>
+     <string name="wifi_suggestion_imsi_privacy_content">Ta omrežja prejmejo ID SIM, ki se lahko uporablja za sledenje lokaciji naprave</string>
+     <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">"Če se povežete, lahko %s omrežij WiFi dostopa do edinstvenega ID-ja, povezanega z vašo kartico SIM, ali ga delijo z drugimi. To lahko omogoči sledenje lokaciji vaše naprave."</string>
+     <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">Potrdim povezavo?</string>
+     <string name="wifi_suggestion_imsi_privacy_title">Povežem z %s WiFi?</string>
+     <string name="wifi_suggestion_title">Dovolim predlagana omrežja WiFi?</string>
+     <string name="wifi_wakeup_enabled_content">"Ste blizu shranjenega omrežja: %1$s"</string>
+     <string name="wifi_wakeup_enabled_title">WiFi se samodejno vklopi</string>
+     <string name="wifi_wakeup_onboarding_action_disable">"Ne vklopi nazaj"</string>
+     <string name="wifi_wakeup_onboarding_subtext">"Ko ste blizu visokokakovostnega shranjenega omrežja"</string>
+     <string name="wifi_wakeup_onboarding_title">WiFi se bo samodejno vklopil</string>
+     <string name="wifi_watchdog_network_disabled">"Ne morem se povezati z WiFi"</string>
+     <string name="wifi_watchdog_network_disabled_detailed">" ima slabo spletno povezavo."</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="app_install_count">
+    <item quantity="one">Prenos: %1$s</item>
+    <item quantity="other">Prenosov: %1$s</item>
+  </plurals>
+  <plurals name="app_user_used">
+    <item quantity="one">Uporabnik: %1$s</item>
+    <item quantity="other">Uporabnikov: %1$s</item>
+  </plurals>
+  <plurals name="match_brand_selection_des">
+    <item quantity="one">Znamka na voljo: 1</item>
+    <item quantity="other">Znamke na voljo: %d</item>
+  </plurals>
+   <plurals name="days_ago">
+        <item quantity="other">Pred %1$d dnevi</item>
+        <item quantity="zero">Pred %1$d dni</item>
+        <item quantity="one">Pred %1$d dnevom</item>
+        <item quantity="two">Pred %1$d dnevoma</item>
+        <item quantity="few">Pred %1$d dnevi</item>
+        <item quantity="many">Pred %1$d dnevi</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Pred %1$d uro</item>
+        <item quantity="zero">Pred %1$d urami</item>
+        <item quantity="one">Pred %1$d uro</item>
+        <item quantity="two">Pred %1$d urama</item>
+        <item quantity="few">Pred %1$d urami</item>
+        <item quantity="many">Pred %1$d urami</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">Pred %1$d min</item>
+        <item quantity="zero">Pred %1$d min</item>
+        <item quantity="one">Pred %1$d min</item>
+        <item quantity="two">Pred %1$d min</item>
+        <item quantity="few">Pred %1$d min</item>
+        <item quantity="many">Pred %1$d min</item>
+    </plurals>
+</resources>

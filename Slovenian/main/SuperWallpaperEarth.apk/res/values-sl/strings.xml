@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
+    <string name="abc_action_bar_up_description">Pomik navzgor</string>
+    <string name="abc_action_menu_overflow_description">Več možnosti</string>
+    <string name="abc_action_mode_done">Končano</string>
+    <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
+    <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
+    <string name="abc_capital_off">IZKLOP</string>
+    <string name="abc_capital_on">VKLOP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meni+</string>
+    <string name="abc_search_hint">Iskanje…</string>
+    <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
+    <string name="abc_searchview_description_query">Iskalna poizvedba</string>
+    <string name="abc_searchview_description_search">Iskanje</string>
+    <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
+    <string name="abc_searchview_description_voice">Glasovno iskanje</string>
+    <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
+    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Strni</string>
+    <string name="copy">Kopiraj</string>
+	<string name="earth_position_content_0">Hrvaški narodni park rt Kamenjak v Sredozemlju ima izjemno čisto in prozorno modro obalo. Tu posebne geološke zemeljske oblike tvorijo globoke pečine, primerne za potapljanje. Vsako poletje svetlo sonce in topla sredozemska voda privabljata nešteto ljubiteljev na prostem.</string>
+    <string name="earth_position_content_1">"Terase so eden najbolj neverjetnih načinov za preoblikovanje oblike površine.
+Kitajske terase so večinoma razširjene v gorskih predelih Jiangnana. To je zato, ker je na teh območjih več dežja in več gora. Na gori so zgrajene terase. Terase Longji v Longshengu, Guilin, Guangxi, so bile zgrajene v dinastiji Yuan in imajo skoraj 700 let zgodovine. Starodavna starodavna vasica Zhuang Longji še danes hrani številne spomenike."</string>
+    <string name="earth_position_content_2">Ilulissat se nahaja sredi zahodne obale Grenlandije, 200 kilometrov severno od arktičnega kroga. Bujni ledeni fjord Ilulissat je dolg 56 kilometrov. Izvir je ledenik Jacob Harbor. Je največji ledenik na severni polobli. Vsako leto iz fjorda izvira 20 milijard ton ledene mrzlice in sledi toku na severu. Nato zavije proti jugu in se izliva v Atlantski ocean.</string>
+    <string name="earth_position_title_0">"Hrvaška
+Mediteranski narodni park"</string>
+    <string name="earth_position_title_1">"Guangxi, Kina
+Terase Guilin Longji"</string>
+    <string name="earth_position_title_2">"Grenland
+Ilulissat Iceberg"</string>
+    <string name="expand_button_title">Napredno</string>
+    <string name="not_set">Ni nastavljeno</string>
+    <string name="preference_copied">Povzetek \"%1$s\" kopiran v odložišče.</string>
+    <string name="search_menu_title">Išči</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">IZKLJUČENO</string>
+    <string name="v7_preference_on">VKLJUČENO</string>
+</resources>

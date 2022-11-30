@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="hd_record_scenes_entries">
+        <item>Glasba</item>
+        <item>Glas</item>
+        <item>Intervju</item>
+        <item>HD</item>
+     </string-array>
+     <string-array name="interview_record_scenes_entries">
+        <item>Glasba</item>
+        <item>Glas</item>
+        <item>Intervju</item>
+     </string-array>
+     <string-array name="record_quality_entries">
+        <item>Visoko</item>
+        <item>Standardno</item>
+        <item>Nizko</item>
+     </string-array>
+     <string-array name="record_scenes_entries">
+        <item>Glasba</item>
+        <item>Glas</item>
+     </string-array>
+     <string-array name="record_scenes_summaries">
+        <item>Posnemite skozi 2 kanala, poslušajte stereo zvok v slušalkah</item>
+        <item>"Približajte mikrofon bližje viru zvoka za boljšo kakovost"</item>
+        <item>Postavite telefon med 2 osebe da lahko obe jasno snemate</item>
+        <item>Tehnologija visoko dinamičnega razpona omogoča da mikrofon snema zvok zelo natančno</item>
+     </string-array>
+     <string-array name="record_scenes_summaries_stereo">
+        <item>Posnemite skozi 2 kanala, poslušajte stereo zvok v slušalkah</item>
+        <item>"Približajte mikrofon bližje viru zvoka za boljšo kvaliteto"</item>
+        <item>Postavite telefon med 2 osebi da boste jasno posneli njun razgovor</item>
+        <item>Tehnologija visoko dinamičnega razpona omogoča da mikrofon snema zvok zelo natančno</item>
+     </string-array>
+</resources>

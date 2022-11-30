@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="animator_duration_scale_entries">
+        <item>Animacija izključena</item>
+        <item>Hitrost animacije 0,5x</item>
+        <item>Hitrost animacije 1x</item>
+        <item>Hitrost animacije 1,5x</item>
+        <item>Hitrost animacije 2x</item>
+        <item>Hitrost animacije 5x</item>
+        <item>Hitrost animacije 10x</item>
+     </string-array>
+     <string-array name="app_process_limit_entries">
+        <item>Standardna omejitev</item>
+        <item>Ni procesov v ozadju</item>
+        <item>Največ 1 proces</item>
+        <item>Največ 2 procesa</item>
+        <item>Največ 3 procesi</item>
+        <item>Največ 4 procesi</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Izbira sistema (privzeto)</item>
+        <item>16 bitov po vzorcu</item>
+        <item>24 bitov po vzorcu</item>
+        <item>32 bitov po vzorcu</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Izbira sistema (privzeto)</item>
+        <item>16 bitov po vzorcu</item>
+        <item>24 bitov po vzorcu</item>
+        <item>32 bitov po vzorcu</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Izbira sistema (privzeto)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Izbira sistema (privzeto)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Optimizirano za kakovost avdio predvajanja</item>
+        <item>Uravnotežena kakovost avdio predvajanja in povezave</item>
+        <item>Optimizirano za kakovost povezave</item>
+        <item>Najboljši rezultat (prilagodljiva hitrost prenosa)</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Optimizirano za kakovost avdio predvajanja (990 kbps/909 kbps)</item>
+        <item>Uravnotežena kakovost avdio predvajanja in povezave (660 kbps/606 kbps)</item>
+        <item>Optimizirano za kakovost povezave (330 kbps/303 kbps)</item>
+        <item>Najboljši rezultat (prilagodljiva hitrost prenosa)</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Izbira sistema (privzeto)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Izbira sistema (privzeto)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Izbira sistema (privzeto)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Izbira sistema (privzeto</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+     </string-array>
+     <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, aktivno</item>
+        <item>, aktivno (predstavnosti)</item>
+        <item>, aktivno (telefon)</item>
+     </string-array>
+     <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+     </string-array>
+     <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (privzeto)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+     </string-array>
+     <string-array name="bluetooth_map_version_values">
+        <item>map12</item>
+        <item>map13</item>
+        <item>map14</item>
+     </string-array>
+     <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Privzeto)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+     </string-array>
+     <string-array name="bt_hci_snoop_log_entries">
+        <item>Onemogočeno</item>
+        <item>Omogočeno filtrirano</item>
+        <item>Omogočeno</item>
+     </string-array>
+     <string-array name="bt_hci_snoop_log_values">
+        <item>onemogočeno</item>
+        <item>filtrirano</item>
+        <item>polno</item>
+     </string-array>
+     <string-array name="cdma_system_select_choices">
+        <item>Samo osnovno</item>
+        <item>Samodejno</item>
+     </string-array>
+     <string-array name="clir_display_values">
+        <item>Privzeta nastavitev omrežja</item>
+        <item>Skrij številko</item>
+        <item>Pokaži številko</item>
+     </string-array>
+     <string-array name="clir_values_default_only">
+        <item>PRIVZETO</item>
+     </string-array>
+     <string-array name="color_mode_descriptions">
+        <item>Izboljšane barve</item>
+        <item>Naravno doživetje barv doživljaj boje</item>
+        <item>Barve optimizirane za digitalno vsebino</item>
+     </string-array>
+     <string-array name="color_mode_names">
+        <item>Živobarvno (privzeto)</item>
+        <item>Naravno</item>
+        <item>Standardno</item>
+     </string-array>
+     <string-array name="config_rcs_provision_error_on_publish_response">
+        <item>404 ni najdeno</item>
+     </string-array>
+     <string-array name="config_volte_provision_error_on_publish_response">
+        <item>403 ni pooblastila za prisotnost</item>
+     </string-array>
+     <string-array name="debug_hw_overdraw_entries">
+        <item>Izključeno</item>
+        <item>Pokaži področja slojnih izrisov</item>
+        <item>Pokaži področja za deuteranomalijo</item>
+     </string-array>
+     <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (privzeto)</item>
+        <item>OpenGL (Skia)</item>
+     </string-array>
+     <string-array name="dtmf_tone_entries">
+        <item>Normalno</item>
+        <item>Dolgo</item>
+     </string-array>
+     <string-array name="enable_opengl_traces_entries">
+        <item>Nič</item>
+        <item>Logcat</item>
+        <item>Systrace (grafika)</item>
+        <item>Klicni snop za opravilo glGetError</item>
+     </string-array>
+     <string-array name="enable_opengl_traces_values">
+        <item>0</item>
+        <item>1</item>
+        <item>systrace</item>
+        <item>napaka</item>
+     </string-array>
+     <string-array name="hdcp_checking_summaries">
+        <item>Ne uporabljaj HDCP preverjanje</item>
+        <item>Uporabljaj HDCP preverjanje samo za DRM vsebino</item>
+        <item>Zmeraj uporabljaj HDCP preverjanje</item>
+     </string-array>
+     <string-array name="hdcp_checking_titles">
+        <item>Ne preverjaj</item>
+        <item>Preveri samo DRM vsebino</item>
+        <item>Zmeraj preveri</item>
+     </string-array>
+     <string-array name="ims_call_cap_types">
+        <item>Zvok</item>
+        <item>Video</item>
+     </string-array>
+     <string-array name="ims_call_types">
+        <item>Zvok</item>
+        <item>Video</item>
+        <item>CS Zvok</item>
+     </string-array>
+     <string-array name="ims_video_cs_call_types">
+        <item>Video</item>
+        <item>CS Zvok</item>
+     </string-array>
+     <string-array name="ims_voice_cs_call_types">
+        <item>Zvok</item>
+        <item>CS Zvok</item>
+     </string-array>
+     <string-array name="livetalk_about_info_array">
+        <item>- Podpira domače in mednarodne številke telefona.</item>
+        <item>"- Vsak klic porabi 1Kb mobilnih podatkov (uporabljaj redno mobilno omrežje ko nimate mobilne podatkovne povezave)."</item>
+        <item>- Vaš operater vam lahko zaračuna gostovanje za uporabo te storitve.</item>
+        <item>- Morate vključiti brezplačno poslušanje za uporabo te storitve, drugače vam operater lahko zaračuna stroške v gostovanju.</item>
+        <item>- Služba za podporo: YunZhiXun, RonLianYunTongXun, LTSC</item>
+     </string-array>
+     <string-array name="overlay_display_devices_entries">
+        <item>Nič</item>
+        <item>480 p</item>
+        <item>480 p (varno)</item>
+        <item>720 p</item>
+        <item>720 p (varno)</item>
+        <item>1080 p</item>
+        <item>1080 p (varno)</item>
+        <item>4000</item>
+        <item>4000 (varno)</item>
+        <item>4000 (povečanje razločnosti)</item>
+        <item>4000 (poveč. razloč., varno)</item>
+        <item>720 p, 1080 p (dvojni zaslon)</item>
+     </string-array>
+     <string-array name="overlay_display_devices_values">
+        <item></item>
+        <item>720x480/142</item>
+        <item>720x480/142,varno</item>
+        <item>1280x720/213</item>
+        <item>1280x720/213,varno</item>
+        <item>1920x1080/320</item>
+        <item>1920x1080/320,varno</item>
+        <item>3840x2160/320</item>
+        <item>3840x2160/320,varno</item>
+        <item>1920x1080/320|3840x2160/640</item>
+        <item>1920x1080/320|3840x2160/640,secure</item>
+        <item>1280x720/213;1920x1080/320</item>
+     </string-array>
+     <string-array name="preferred_network_mode_choices">
+        <item>GSM/WCDMA prednostno</item>
+        <item>GSM samo</item>
+        <item>WCDMA samo</item>
+        <item>GSM/WCDMA samod.</item>
+        <item>CDMA/EvDo samod.</item>
+        <item>CDMA brez EvDo</item>
+        <item>EvDo samo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>Global</item>
+        <item>LTE</item>
+        <item>LTE / WCDMA</item>
+        <item>TDSCDMA samo</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>NR samo</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
+     </string-array>
+     <string-array name="preferred_network_mode_choices_world_mode">
+        <item>Global</item>
+        <item>LTE / CDMA</item>
+        <item>LTE / GSM / UMTS</item>
+     </string-array>
+     <string-array name="select_logd_size_lowram_titles">
+        <item>Izključeno</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+     </string-array>
+     <string-array name="select_logd_size_summaries">
+        <item>Izključeno</item>
+        <item>64 KB /medpomnilnik dnevnika</item>
+        <item>256 KB /medpomnilnik dnevnika</item>
+        <item>1 MB /medpomnilnik dnevnika</item>
+        <item>4 MB /medpomnilnik dnevnika</item>
+        <item>16 MB /medpomnilnik dnevnika</item>
+     </string-array>
+     <string-array name="select_logd_size_titles">
+        <item>Izključeno</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
+     </string-array>
+     <string-array name="select_logpersist_summaries">
+        <item>Izključeno</item>
+        <item>Vsi medpomnilniki dnevnika</item>
+        <item>Vse razen medpomnilnika dnevnika radia</item>
+        <item>samo medpomnilnik dnevnika jedra</item>
+     </string-array>
+     <string-array name="select_logpersist_titles">
+        <item>Izključeno</item>
+        <item>Vse</item>
+        <item>Vse razen radia</item>
+        <item>samo jedro</item>
+     </string-array>
+     <string-array name="select_logpersist_values">
+        <item></item>
+        <item>vse</item>
+        <item>privzeto,varnost,jedro</item>
+        <item>jedro</item>
+     </string-array>
+     <string-array name="show_non_rect_clip_entries">
+        <item>Izključeno</item>
+        <item>Modro nepravokotno področje izreza</item>
+        <item>Poudari testirane ukaze z zeleno</item>
+     </string-array>
+     <string-array name="show_non_rect_clip_values">
+        <item>skrij</item>
+        <item>regija</item>
+        <item>poudarek</item>
+     </string-array>
+     <string-array name="track_frame_time_entries">
+        <item>Izključeno</item>
+        <item>Na zaslonu v obliki traku</item>
+        <item>V ukazu adb shell dumpsys gfxinfo</item>
+     </string-array>
+     <string-array name="transition_animation_scale_entries">
+        <item>Animacija izključena</item>
+        <item>Hitrost animacije 0,5x</item>
+        <item>Hitrost animacije 1x</item>
+        <item>Hitrost animacije 1,5x</item>
+        <item>Hitrost animacije 2x</item>
+        <item>Hitrost animacije 5x</item>
+        <item>Hitrost animacije 10x</item>
+     </string-array>
+     <string-array name="tts_rate_entries">
+        <item>Zelo počasi</item>
+        <item>Počasi</item>
+        <item>Normalno</item>
+        <item>Hitro</item>
+        <item>Hitreje</item>
+        <item>Zelo hitro</item>
+        <item>Pospešeno</item>
+        <item>Zelo pospešeno</item>
+        <item>Najhitreje</item>
+     </string-array>
+     <string-array name="tty_mode_entries">
+        <item>Izključen je TTY</item>
+        <item>TTY je poln</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+     </string-array>
+     <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Trojni način</item>
+     </string-array>
+     <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Trojni način</item>
+     </string-array>
+     <string-array name="usb_configuration_titles">
+        <item>Polnjenje</item>
+        <item>MTP (protokol za prenos medijev)</item>
+        <item>PTP (protokol za prenos fotografij)</item>
+        <item>RNDIS (USB ethernet)</item>
+        <item>Audio vir</item>
+        <item>MIDI</item>
+     </string-array>
+     <string-array name="wifi_status">
+        <item></item>
+        <item>Preverjanje</item>
+        <item>Povezovanje…</item>
+        <item>Avtentikacija…</item>
+        <item>Pridobivanje IP naslova</item>
+        <item>Povezano</item>
+        <item>Ustavljeno</item>
+        <item>Izklop</item>
+        <item>Niste povezani</item>
+        <item>Neuspešno</item>
+        <item>Blokirano</item>
+        <item>Začasno izogibanje slabe povezave</item>
+     </string-array>
+     <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Preverjanje…</item>
+        <item>Povezovanje na omrežje %1$s…</item>
+        <item>Avtentikacija z omrežjem %1$s…</item>
+        <item>Pridobivanje IP naslova omrežja %1$s…</item>
+        <item>Povezano z omrežjem %1$s</item>
+        <item>Ustavljeno</item>
+        <item>Izklop iz omrežja %1$s…</item>
+        <item>Niste povezani</item>
+        <item>Neuspešno</item>
+        <item>Blokirano</item>
+        <item>Začasno izogibanje slabe povezave</item>
+     </string-array>
+     <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Iskanje…</item>
+        <item>Povezovanje…</item>
+        <item>Avtentikacija…</item>
+        <item>Pridobivanje IP naslova…</item>
+        <item>Povezano</item>
+        <item>Ustavljeno</item>
+        <item>Izklop iz omrežja…</item>
+        <item>Niste povezani</item>
+        <item>Neuspešno</item>
+        <item>Blokirano</item>
+        <item>Začasno izogibanje slabe povezave</item>
+     </string-array>
+     <string-array name="window_animation_scale_entries">
+        <item>Animacija izključena</item>
+        <item>Hitrost animacije 0,5x</item>
+        <item>Hitrost animacije 1x</item>
+        <item>Hitrost animacije 1,5x</item>
+        <item>Hitrost animacije 2x</item>
+        <item>Hitrost animacije 5x</item>
+        <item>Hitrost animacije 10x</item>
+     </string-array>
+     <string-array name="window_animation_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+     </string-array>
+</resources>

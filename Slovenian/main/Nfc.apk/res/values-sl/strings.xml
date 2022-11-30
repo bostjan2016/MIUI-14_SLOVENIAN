@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_nfc_enabled">NFC omogočen.</string>
+  <string name="app_name">Storitev NFC</string>
+  <string name="beam_canceled">Prenos je preklican</string>
+  <string name="beam_complete">Prenos končan</string>
+  <string name="beam_failed">Prenos se ni končal</string>
+  <string name="beam_handover_not_supported">Prejemnikova naprava ne podpira prenosa velikih datotek.</string>
+  <string name="beam_outgoing">Prenašanje ...</string>
+  <string name="beam_progress">Dohodni prenos ...</string>
+  <string name="beam_touch_to_view">Dotaknite se za prikaz</string>
+  <string name="beam_try_again">Znova združi naprave</string>
+  <string name="cancel">Prekliči</string>
+  <string name="complete_with">Dokončaj z aplikacijo</string>
+  <string name="confirm_pairing">Ste prepričani da želite seznaniti napravo Bluetooth %1$s?</string>
+  <string name="connect_headset_failed">Priklop ni bil mogoč</string>
+  <string name="connected_headset">Povezan</string>
+  <string name="connecting_headset">Povezovanje</string>
+  <string name="could_not_use_app">Aplikacije %1$s ni bilo mogoče uporabiti.</string>
+  <string name="default_pay_app_removed">Vaša prednostna storitev za Dotakni se &amp; Plačaj je odstranjena. Izberem drugo?</string>
+  <string name="disconnected_headset">Prekinjena povezava</string>
+  <string name="disconnecting_headset">Prekinjanje povezave</string>
+  <string name="failed_to_enable_bt">Bluetootha ni mogoče omogočiti</string>
+  <string name="inbound_me_profile_text">Tapnite če želite dodati to osebo kot stik.</string>
+  <string name="inbound_me_profile_title">Stik prejet preko NFC-ja</string>
+  <string name="nfcUserLabel">NFC</string>
+  <string name="outbound_me_profile_text">Tapnite če želite tej osebi poslati svoje podatke za stik.</string>
+  <string name="outbound_me_profile_title">Pošiljanje preko NFC-ja končano</string>
+  <string name="pair_no">Ne</string>
+  <string name="pair_yes">Da</string>
+  <string name="pairing_headset">Seznanjanje</string>
+  <string name="pairing_headset_failed">Seznanjanje ni uspelo</string>
+  <string name="pay_with">Plačaj z</string>
+  <string name="tap_again_to_complete">Znova se dotaknite da dokončate z %1$s</string>
+  <string name="tap_again_to_pay">Znova se dotaknite da plačate z %1$s</string>
+  <string name="touch">Dotaknite se da pošljete</string>
+  <string name="transaction_failure">Transakcije ni bilo mogoče dokončati z %1$s.</string>
+</resources>

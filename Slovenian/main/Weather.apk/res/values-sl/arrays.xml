@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="aqi_detail_title">
+        <item>Dobro</item>
+        <item>Zmerno</item>
+        <item>Nezdravo za občutljive</item>
+        <item>Nezdravo</item>
+        <item>Zelo nezdravo</item>
+        <item>Tvegano</item>
+     </string-array>
+     <string-array name="aqi_value">
+        <item>Dobro</item>
+        <item>Še v redu</item>
+        <item>Zmerno onesnaženo</item>
+        <item>Slabo</item>
+        <item>Zelo slabo</item>
+        <item>Hudo</item>
+        <item>Preko indeksa</item>
+     </string-array>
+     <string-array name="breeze">
+        <item>&lt;Sila 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
+     </string-array>
+     <string-array name="dislike_alert_dialog_selectitems">
+        <item>Ne zanima me</item>
+        <item>Slaba kvaliteta vsebine</item>
+     </string-array>
+     <string-array name="hot_city">
+        <item>Ljubljana</item>
+        <item>Maribor</item>
+        <item>Celje</item>
+        <item>Kranj</item>
+        <item>Koper</item>
+        <item>Novo Mesto</item>
+        <item>Ptuj</item>
+        <item>Zagorje ob Savi</item>
+        <item>Kamnik</item>
+        <item>Jesenice</item>
+        <item>Nova Gorica</item>
+        <item>Domzale</item>
+        <item>Skofja Loka</item>
+        <item>Murska Sobota</item>
+        <item>Izola</item>
+        <item>Postojna</item>
+        <item>Logatec</item>
+        <item>Kocevje</item>
+        <item>Vrhnika</item>
+        <item>Slovenj Gradec</item>
+        <item>Zgornje Jezersko</item>
+        <item>Izlake</item>
+     </string-array>
+     <string-array name="indices_car_wash">
+        <item>Ugodno</item>
+        <item>Neugodno</item>
+     </string-array>
+     <string-array name="indices_sport">
+        <item>Ugodno</item>
+        <item>Neugodno</item>
+     </string-array>
+     <string-array name="indices_uv_level">
+        <item>Slab</item>
+        <item>Srednji</item>
+        <item>Močan</item>
+     </string-array>
+     <string-array name="minute_rain_array">
+        <item>Močno</item>
+        <item>Zmerno</item>
+        <item>Lahko</item>
+     </string-array>
+     <string-array name="pollution_level_desc_arr">
+        <item>Izvrstno</item>
+        <item>Dobro</item>
+        <item>Malo onesnaženo</item>
+        <item>Zmerno onesnaženo</item>
+        <item>Močno onesnaženo</item>
+        <item>Kritično onesnaženo</item>
+        <item>Nad indeksom</item>
+     </string-array>
+     <string-array name="weather_type">
+        <item>Jasno</item>
+        <item>Oblačno</item>
+        <item>Oblačno</item>
+        <item>Megleno</item>
+        <item>Močna nevihta</item>
+        <item>Naliv</item>
+        <item>Nevihta</item>
+        <item>Nevihta</item>
+        <item>Dež</item>
+        <item>Močne padavine</item>
+        <item>Zmeren dež</item>
+        <item>Rahel dež</item>
+        <item>Mešanica dežja in snega</item>
+        <item>Snežni vihar</item>
+        <item>Sneg</item>
+        <item>Močno sneženje</item>
+        <item>Zmerno sneženje</item>
+        <item>Rahlo sneženje</item>
+        <item>Močna peščena nevihta</item>
+        <item>Peščena nevihta</item>
+        <item>Pesek</item>
+        <item>Vetrovno</item>
+        <item>Toča</item>
+        <item>Prah</item>
+        <item>Megla</item>
+        <item>Ledeni dež</item>
+        <item></item>
+     </string-array>
+     <string-array name="wind_direction">
+        <item>Sever</item>
+        <item>Severovzhod</item>
+        <item>Vzhod</item>
+        <item>Jugovzhod</item>
+        <item>Jug</item>
+        <item>Jugozahod</item>
+        <item>Zahod</item>
+        <item>Severozahod</item>
+     </string-array>
+     <string-array name="wind_direction_simple">
+        <item>S</item>
+        <item>SV</item>
+        <item>V</item>
+        <item>JV</item>
+        <item>J</item>
+        <item>JZ</item>
+        <item>Z</item>
+        <item>SZ</item>
+     </string-array>
+     <string-array name="wind_power">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+     </string-array>
+     <string-array name="wind_power_setting_unit_values">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+     </string-array>
+     <string-array name="wind_unit_detail">
+        <item>Beaufortova lestvica</item>
+        <item>Kilometrov na uro (km/h)</item>
+        <item>Metrov na sekundo (m/s))</item>
+        <item>Milj na uro (mph)</item>
+        <item>Vozlov (kn)</item>
+     </string-array>
+     <string-array name="wind_unit_replace">
+        <item>Sila %1$s</item>
+        <item>%1$skm/h</item>
+        <item>%1$sm/s</item>
+        <item>%1$smph</item>
+        <item>%1$skn</item>
+     </string-array>
+     <string-array name="wind_unit_simple">
+        <item>Beaufortova lestvica</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
+     </string-array>
+</resources>

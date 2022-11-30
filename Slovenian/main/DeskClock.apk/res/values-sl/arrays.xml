@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="alarm_in_furture">
+        <item>Budilka čez manj kot 1 minuto</item>
+        <item>Budilka čez %1$s</item>
+        <item>Budilka čez %2$s</item>
+        <item>Budilka čez %1$s %2$s</item>
+        <item>Budilka čez %3$s</item>
+        <item>Budilka čez %1$s %3$s</item>
+        <item>Budilka čez %2$s %3$s</item>
+        <item>Budilka čez %1$s %2$s %3$s</item>
+     </string-array>
+     <string-array name="alarm_repeat_type">
+        <item>Enkrat</item>
+        <item>Dnevno</item>
+        <item>Delavnik</item>
+        <item>Prosti dnevi</item>
+        <item>Pon - Pet</item>
+        <item>Po meri</item>
+     </string-array>
+     <string-array name="alarm_repeat_type_no_workdays">
+        <item>Enkrat</item>
+        <item>Dnevno</item>
+        <item>Pon - Pet</item>
+        <item>Po meri</item>
+     </string-array>
+     <string-array name="alarm_set">
+        <item>"Zvonjenje budilke nastavljeno čez manj kot 1 minuto."</item>
+        <item>"Zvonjenje budilke nastavljeno čez %1$s."</item>
+        <item>"Zvonjenje budilke nastavljeno čez %2$s."</item>
+        <item>"Zvonjenje budilke nastavljeno čez %1$s in %2$s."</item>
+        <item>"Zvonjenje budilke nastavljeno čez %3$s."</item>
+        <item>"Zvonjenje budilke nastavljeno čez %1$s in %3$s."</item>
+        <item>"Zvonjenje budilke nastavljeno čez %2$s in %3$s."</item>
+        <item>"Zvonjenje budilke nastavljeno čez %1$s %2$s in %3$s.</item>
+     </string-array>
+     <string-array name="aqi_value">
+        <item>Dobro</item>
+        <item>Zadovoljivo</item>
+        <item>Zmerno onesnaženo</item>
+        <item>Slabo</item>
+        <item>Zelo slabo</item>
+        <item>Kritično</item>
+     </string-array>
+     <string-array name="auto_silence_entries">
+        <item>Nikoli</item>
+        <item>1 minuta</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>20 minut</item>
+        <item>25 minut</item>
+        <item>30 minut</item>
+     </string-array>
+     <string-array name="bedtime_guide_repeat_type">
+        <item>Pon - Pet</item>
+        <item>Vsak dan</item>
+        <item>Delovnik</item>
+     </string-array>
+     <string-array name="bedtime_repeat_entries">
+        <item>Vsak dan</item>
+        <item>Pon - Pet</item>
+        <item>Delovnik</item>
+        <item>Po meri</item>
+     </string-array>
+     <string-array name="clock_bg_setting_entries">
+        <item>Bela</item>
+        <item>Črna</item>
+        <item>Samod.</item>
+     </string-array>
+     <string-array name="days">
+        <item>Včeraj</item>
+        <item>Danes</item>
+        <item>Jutri</item>
+     </string-array>
+     <string-array name="days_of_week">
+        <item>Ned</item>
+        <item>Pon </item>
+        <item>Tor</item>
+        <item>Sre</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sob</item>
+     </string-array>
+     <string-array name="notification_adv_time_entries">
+        <item>Ob določenem času</item>
+        <item>15 minut prej</item>
+        <item>30 minut prej</item>
+        <item>1 uro prej</item>
+        <item>Nič</item>
+     </string-array>
+     <string-array name="snooze_duration_entries">
+        <item>1 minuta</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>20 minut</item>
+        <item>25 minut</item>
+        <item>30 minut</item>
+     </string-array>
+     <string-array name="stat_volume_button_behaviors">
+        <item>Ne</item>
+        <item>Odloži za kasneje</item>
+        <item>Izključi</item>
+     </string-array>
+     <string-array name="timer_duration">
+        <item>Skupaj %1$s</item>
+        <item>Skupaj %2$s</item>
+        <item>Skupaj %1$s%2$s</item>
+        <item>Skupaj %3$s</item>
+        <item>Skupaj %1$s%3$s</item>
+        <item>Skupaj %2$s%3$s</item>
+        <item>Skupaj %1$s%2$s%3$s</item>
+     </string-array>
+     <string-array name="volume_button_setting_entries">
+        <item>"Ne naredi nič"</item>
+        <item>"Zavrni"</item>
+        <item>"Odloži alarm"</item>
+     </string-array>
+     <string-array name="weather_tips_value">
+        <item>Zmanjšajte aktivnosti na odprtem</item>
+        <item>Ceste so spolzke</item>
+        <item>Vreme je nevihtno, bodite previdni!</item>
+        <item>Zrak je onesnažen, nosite masko!</item>
+        <item>Vzemi dežnik za ven</item>
+        <item>Bodite previdni na cesti</item>
+        <item>Peščeni vihar prihaja, nosite masko!</item>
+        <item>Ugoden dan!</item>
+     </string-array>
+</resources> 

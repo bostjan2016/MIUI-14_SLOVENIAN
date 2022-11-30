@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="app_ops_labels">
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Vibriranje</item>
+        <item>Branje stikov</item>
+        <item>Spreminjanje stikov</item>
+        <item>Branje seznama klicev</item>
+        <item>Spreminjanje seznama klicev</item>
+        <item>Branje koledarja</item>
+        <item>Spreminjanje koledarja</item>
+        <item>Lokacija</item>
+        <item>Objavljanje obvestil</item>
+        <item>Lokacija</item>
+        <item>Klic na telefon</item>
+        <item>Branje SMS-ov/MMS-ov</item>
+        <item>Pisanje SMS-ov/MMS-ov</item>
+        <item>Prejemanje SMS-ov/MMS-ov</item>
+        <item>Prejemanje SMS-ov/MMS-ov</item>
+        <item>Prejemanje SMS-ov/MMS-ov</item>
+        <item>Prejemanje SMS-ov/MMS-ov</item>
+        <item>Pošiljanje SMS-ov/MMS-ov</item>
+        <item>Branje SMS-ov/MMS-ov</item>
+        <item>Pisanje SMS-ov/MMS-ov</item>
+        <item>Spreminjanje nastavitev</item>
+        <item>Umik na vrh</item>
+        <item>Dostop do obvestil</item>
+        <item>Kamera</item>
+        <item>Snemanje zvoka</item>
+        <item>Predvajanje avdioposnetkov</item>
+        <item>Beri odložišče</item>
+        <item>Spreminjanje dohodne pošte</item>
+        <item>Spremeni odložišče</item>
+        <item>Medijski gumbi</item>
+        <item>Audiofokus</item>
+        <item>Glavna glasnost</item>
+        <item>Glasnost glasu</item>
+        <item>Glasnost zvonjenja</item>
+        <item>Glasnost medija</item>
+        <item>Glasnost alarma</item>
+        <item>Glasnost obvestil</item>
+        <item>Glasnost Bluetootha</item>
+        <item>Zadrži v aktivnem stanju</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Vklj./izklj WiFi</item>
+        <item>Vklj./izklj Bluetooth</item>
+        <item>Vklj./izklj. podatke</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Zaženi kodo zagona</item>
+     </string-array>
+     <string-array name="config_autoTimeSourcesPriority">
+        <item>omrežje</item>
+        <item>telefonija</item>
+     </string-array>
+
+     <string-array name="emailAddressTypes">
+        <item>Začetna</item>
+        <item>Delo</item>
+        <item>Ostalo</item>
+        <item>Po meri</item>
+     </string-array>
+     <string-array name="fingerprint_acquired_vendor">
+        <item>Poskusite ponovno</item>
+        <item></item>
+        <item></item>
+        <item>Popolnoma pokrijte čitalec in malo močneje pritisnite</item>
+        <item></item>
+        <item>Popolnoma pokrijte čitalec in malo močneje pritisnite</item>
+        <item>Popolnoma pokrijte čitalec in malo močneje pritisnite</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Popolnoma pokrijte čitalec in malo močneje pritisnite</item>
+        <item>Popolnoma pokrijte čitalec in malo močneje pritisnite</item>
+        <item>"Prehitro! Ne morem prepoznati prstnega odtisa"</item>
+        <item>Malo premaknite prst in poskusite ponovno</item>
+        <item>Odmaknite prst s čitalca in poskusite ponovno</item>
+        <item>Prst držite malo dlje na čitalcu</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Premaknite prst počasi</item>
+        <item>Prstni odtis je dodan, uporabite drugi prst</item>
+     </string-array>
+     <string-array name="imAddressTypes">
+        <item>Začetna</item>
+        <item>Delo</item>
+        <item>Ostalo</item>
+        <item>Prilagojeno</item>
+     </string-array>
+     <string-array name="network_switch_type_name">
+        <item>mobilni podatki</item>
+        <item>WiFi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+     </string-array>
+     <string-array name="organizationTypes">
+        <item>Služba</item>
+        <item>Drugo</item>
+        <item>Po meri</item>
+     </string-array>
+     <string-array name="phoneTypes">
+        <item>Začetna</item>
+        <item>Mobilni</item>
+        <item>Služba</item>
+        <item>Službeni faks</item>
+        <item>Domači faks</item>
+        <item>Pozivnik</item>
+        <item>Drugo</item>
+        <item>Po meri</item>
+     </string-array>
+     <string-array name="postalAddressTypes">
+        <item>Začetna</item>
+        <item>Delo</item>
+        <item>Ostalo</item>
+        <item>Po meri</item>
+     </string-array>
+     <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Za telefoniranje in klicanje preko WiFi-ja, morate zahtevati od mobilnega operaterja, da vam vklopi to storitev. Nato ponovno vključite klice v Nastavitvah.</item>
+     </string-array>
+     <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Registrirajte se pri mobilnem operaterju</item>
+     </string-array>
+</resources>

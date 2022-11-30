@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">StepsProvider</string>
+  <string name="permstep_description">"Dovolite aplikaciji branje podatkov o številu korakov na telefonu"</string>
+  <string name="permstep_label">Preberi korake</string>
+</resources>

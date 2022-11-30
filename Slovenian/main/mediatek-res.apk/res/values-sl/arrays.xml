@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bootup_mode">
+        <item>Dve SIM kartici</item>
+        <item>SIM1</item>
+        <item>SIM2</item>
+    </string-array>
+    <string-array name="gprs_mode_1">
+        <item>SIM1</item>
+        <item>Ne povežite podatkov.</item>
+        <item>Prekliči</item>
+    </string-array>
+    <string-array name="gprs_mode_2">
+        <item>SIM2</item>
+        <item>Ne povežite podatkov.</item>
+        <item>Prekliči</item>
+    </string-array>
+</resources>

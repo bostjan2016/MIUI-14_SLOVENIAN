@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Pojdi na začetno</string>
+    <string name="abc_action_bar_up_description">Pojdi gor</string>
+    <string name="abc_action_menu_overflow_description">Dodatne možnosti</string>
+    <string name="abc_action_mode_done">Končano</string>
+    <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
+    <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
+    <string name="abc_capital_off">IZKLJUČENO</string>
+    <string name="abc_capital_on">VKLJUČENO</string>
+    <string name="abc_search_hint">Preišči</string>
+    <string name="abc_searchview_description_clear">Izbriši povpraševanje</string>
+    <string name="abc_searchview_description_query">Povpraševanje za iskanje</string>
+    <string name="abc_searchview_description_search">Iskanje</string>
+    <string name="abc_searchview_description_submit">Pošlji povpraševanje</string>
+    <string name="abc_searchview_description_voice">Glasovno iskanje</string>
+    <string name="abc_shareactionprovider_share_with">Deljenje z</string>
+    <string name="abc_shareactionprovider_share_with_application">Deli preko aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Strni</string>
+	<string name="about">"XiaomiEU Orodja v1.0 je koncept ki temelji na MIUI aplikaciji Varnost, projektiran od ZduneX25
+2018 Vse pravice pridržane."</string>
+    <string name="app_name">XiaomiEU Orodja</string>
+    <string name="btn_cancel">Prekliči</string>
+    <string name="btn_next">Naprej</string>
+    <string name="carousel_desc">Samod. urejanje zakl. zaslona</string>
+    <string name="carousel_title">Wallpaper carousel</string>
+    <string name="dialog_desc">Za zdaj lahko izberete samo uporabo sprememb preko ikone delovne površine, izbira vzorca bo povzročila FC.</string>
+    <string name="dialog_title">OPOZORILO!</string>
+    <string name="domain_desc">Dodeljevanje URL tem aplikacijam</string>
+    <string name="domain_title">URL domena</string>
+    <string name="dpi_desc">Napredna orodja za prilagajanje velikosti zaslona kot so zoomiranje, dodatna urejanja velikosti črk in možnost urejanja DPI-ja celega vmesnika.</string>
+    <string name="dpi_title">DPI urejanje</string>
+    <string name="hardware_test">Preverite če je vse v redu</string>
+    <string name="hardware_title">Test strojne opreme</string>
+    <string name="oreo_desc">Vgrajena mini igra ki bo odpihnila paro ali enostavno pregnala dolgčas.</string>
+    <string name="oreo_title">Oreo Easter Egg</string>
+    <string name="power_desc">Prihranite nekaj baterije med mirovanjem</string>
+    <string name="power_title">Energija</string>
+    <string name="ram_desc">Statistika porabe spomina ki vam omogoča da spremljate kateri proces najbolj porablja vaš RAM.</string>
+    <string name="ram_title">Poraba RAM-a</string>
+    <string name="search_menu_title">Išči</string>
+    <string name="space_desc">Še en zasebni prostor</string>
+    <string name="space_title">Drugi prostor</string>
+    <string name="theme_desc">Prilagodite videz naprave</string>
+    <string name="theme_title">Teme</string>
+    <string name="tools">Orodja</string>
+</resources>

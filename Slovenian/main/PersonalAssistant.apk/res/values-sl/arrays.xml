@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="agenda_weeks_of_year">
+        <item>Teden 1</item>
+        <item>Teden 2</item>
+        <item>Teden 3</item>
+        <item>Teden %1$d</item>
+     </string-array>
+     <string-array name="app_commute_tab_array">
+        <item>Avtomobil</item>
+        <item>Javni prevoz</item>
+        <item>Taxi</item>
+     </string-array>
+     <string-array name="app_health_setting_text_array_duration">
+        <item>10 minut</item>
+        <item>20 minut</item>
+        <item>30 minut</item>
+        <item>60 minut</item>
+     </string-array>
+     <string-array name="base_day_time_space">
+        <item>Noč</item>
+        <item>Noč</item>
+        <item>Jutro</item>
+        <item>Popoldne</item>
+        <item>Popoldne</item>
+        <item>Večer</item>
+        <item></item>
+     </string-array>
+     <string-array name="day_time_space">
+        <item>Noč</item>
+        <item>Jutro</item>
+        <item>Dopoldne</item>
+        <item>Poldne</item>
+        <item>Popoldne</item>
+        <item>Pozno popoldne</item>
+        <item>Večer</item>
+     </string-array>
+     <string-array name="detail_font_size">
+        <item>Majhno</item>
+        <item>Normalno</item>
+        <item>Veliko</item>
+     </string-array>
+     <string-array name="pa_covid_items_default">
+        <item>COVID-19</item>
+        <item>Zdravje koda</item>
+        <item>PCR</item>
+        <item>Visokotvegana območja</item>
+     </string-array>
+     <string-array name="pa_home_week_days">
+        <item>Nedelja</item>
+        <item>Ponedeljek</item>
+        <item>Torek</item>
+        <item>Sreda</item>
+        <item>Četrtek</item>
+        <item>Petek</item>
+        <item>Sobota</item>
+        <item>Nedelja</item>
+     </string-array>
+     <string-array name="pa_stock_color_schema_value_array">
+        <item>Rdeča - gor, zelena - dol</item>
+        <item>Zelena - gor, rdeča - dol</item>
+     </string-array>
+     <string-array name="stock_color_schema">
+        <item>Rdeča - gor, zelena - dol</item>
+        <item>Zelena - gor, rdeča - dol</item>
+     </string-array>
+</resources>

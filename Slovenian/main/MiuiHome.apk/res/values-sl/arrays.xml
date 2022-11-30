@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="animation_rate_entries">
+        <item>Sproščeno</item>
+        <item>Uravnoteženo</item>
+        <item>Hitro</item>
+     </string-array>
+     <string-array name="editing_mode_entries">
+        <item>Ozadje</item>
+        <item>Pripomočki</item>
+        <item>Nastavitve</item>
+     </string-array>
+     <string-array name="gadget_weather_image">
+        <item>Vedro</item>
+        <item>Oblačno</item>
+        <item>Meglica</item>
+        <item>Megleno</item>
+        <item>Huda nevihta</item>
+        <item>Nevihta z dežjem</item>
+        <item>Huda ploha</item>
+        <item>Nevihta z grmenjem</item>
+        <item>Ploha</item>
+        <item>Huda ploha</item>
+        <item>Dež</item>
+        <item>Umirjen dež</item>
+        <item>Poledica</item>
+        <item>Snežna nevihta</item>
+        <item>Nanosi snega</item>
+        <item>Velika količina snega</item>
+        <item>Sneg</item>
+        <item>Majhna količina snega</item>
+        <item>Močan peščeni vihar</item>
+        <item>Peščeni vihar</item>
+        <item>Slab peščeni vihar</item>
+        <item>Peščeni vihar</item>
+        <item>Toča</item>
+        <item>Plavajoč prah</item>
+        <item>Meglica</item>
+     </string-array>
+     <string-array name="gadget_weather_theme_type_entries">
+        <item>Privzeto</item>
+        <item>Klasično</item>
+     </string-array>
+     <string-array name="global_search_mode_entries">
+        <item>Nič</item>
+        <item>Podrsaj gor</item>
+        <item>Okno za iskanje</item>
+     </string-array>
+     <string-array name="global_search_provider_entries">
+        <item>Privzeto</item>
+        <item>Google</item>
+     </string-array>
+     <string-array name="icon_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+     </string-array>
+     <string-array name="minus_screen_entries">
+        <item>Nič</item>
+        <item>Osebni asistent</item>
+        <item>Google</item>
+     </string-array>
+     <string-array name="transformation_entries">
+        <item>Klasično drsanje (brez premika)</item>
+        <item>Križno utišanje</item>
+        <item>Premetavanje</item>
+        <item>Stran</item>
+        <item>Slap</item>
+        <item>Vrtenje</item>
+        <item>Kocka</item>
+     </string-array>
+     <string-array name="wallpaper_scroll_entries">
+        <item>Privzete nastavitve teme</item>
+        <item>Sredina</item>
+        <item>Levo</item>
+        <item>Desno</item>
+     </string-array>
+</resources>
