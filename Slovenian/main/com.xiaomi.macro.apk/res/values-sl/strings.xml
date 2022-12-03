@@ -2,7 +2,7 @@
 <resources>
      <string name="abc_action_bar_home_description">Na začetno stran</string>
      <string name="abc_action_bar_up_description">Gor</string>
-     <string name="abc_action_menu_overflow_description">Višje</string>
+     <string name="abc_action_menu_overflow_description">Več možnosti</string>
      <string name="abc_action_mode_done">Končano</string>
      <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
      <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
@@ -25,7 +25,7 @@
      <string name="abc_searchview_description_submit">Pošlji zahtevo</string>
      <string name="abc_searchview_description_voice">Glasovno iskanje</string>
      <string name="abc_shareactionprovider_share_with">Deljenje z</string>
-     <string name="abc_shareactionprovider_share_with_application">Deli preko aplikacije %s</string>
+     <string name="abc_shareactionprovider_share_with_application">Deli preko %s</string>
      <string name="abc_toolbar_collapse_description">Strni</string>
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="app_name">MiMacro</string>
@@ -33,7 +33,7 @@
      <string name="cancel">Prekliči</string>
      <string name="character_counter_content_description">Vnešeno znakov %1$d od %2$d</string>
      <string name="four_guide_introduce">Pritisnite tipko [Macro] na zaslonu da boste zagnali nastavljeno makro funkcijo</string>
-     <string name="gamebox_macro">Kombinacija</string>
+     <string name="gamebox_macro">Kombinacije</string>
      <string name="gb_game_macro_action_count">Ponovi</string>
      <string name="gb_game_macro_action_count_desc">Število izvedb opravila</string>
      <string name="gb_game_macro_action_delay">Odloži</string>
@@ -44,7 +44,7 @@
      <string name="gb_game_macro_action_speed">Hitrost</string>
      <string name="gb_game_macro_action_speed_desc">Prilagodite hitrost opravila</string>
      <string name="gb_game_macro_action_track">Vizualizirajte poteze</string>
-     <string name="gb_game_macro_action_track_desc">Vizualizirajte dotike in umike</string>
+     <string name="gb_game_macro_action_track_desc">Vizualizirajte dotike in potege</string>
      <string name="gb_game_macro_action_unit_times">%sX</string>
      <string name="gb_game_macro_apply">Uporabi</string>
      <string name="gb_game_macro_button_alpha">Prozornost tipke</string>
@@ -58,11 +58,11 @@
      <string name="gb_game_macro_create_message">Dotaknite se spodnjega gumba, da začnete snemati kombinacijo.</string>
      <string name="gb_game_macro_delete">Izbriši</string>
      <string name="gb_game_macro_enable">Izključeno</string>
-     <string name="gb_game_macro_guide_tips">Po začetku izvedite več dejanj, da jih kombinirate v kombinaciji.</string>
+     <string name="gb_game_macro_guide_tips">Po začetku izvedite več dejanj, da jih kombinirate v kombinacijo.</string>
      <string name="gb_game_macro_guide_tips_two">Tapnite za dodeljevanje tipke</string>
      <string name="gb_game_macro_play_count">Število ponavljanj</string>
-     <string name="gb_game_macro_preview">Pregled</string>
-     <string name="gb_game_macro_preview_macro">Pregled</string>
+     <string name="gb_game_macro_preview">Predogled</string>
+     <string name="gb_game_macro_preview_macro">Predogled</string>
      <string name="gb_game_macro_re_record">Začnite znova</string>
      <string name="gb_game_macro_record_action">Tapnite za začetek snemanja</string>
      <string name="gb_game_macro_save">Shrani</string>
@@ -78,13 +78,13 @@
      <string name="notification_title">Macro</string>
      <string name="number_times">Številka izvedb opravila</string>
      <string name="ok">V redu</string>
-     <string name="one_guide_introduce">Kliknite Novo da boste napravili makroukaz</string>
+     <string name="one_guide_introduce">Kliknite Novo, da ustvarite makro</string>
      <string name="operation_track">nadzor opravil</string>
-     <string name="operation_track_explain">Ali je viden postopek diapozitiva</string>
+     <string name="operation_track_explain">Ali je vidna operacija točkovnega drsenja</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
-     <string name="play_delay">Odloži predvajanje</string>
-     <string name="play_delay_explain">Uporabite s funkcijo obešanja zaslona</string>
-     <string name="play_delay_not_null_tips">Najprej nastavite odložitev</string>
+     <string name="play_delay">zakasnitev predvajanja</string>
+     <string name="play_delay_explain">Uporabite s storitvijo obešanja zaslona</string>
+     <string name="play_delay_not_null_tips">Najprej nastavite zamik</string>
      <string name="play_speed">Hitrost predvajanja</string>
      <string name="play_speed_explain">Prilagodite množitelj hitrosti predvajanja</string>
      <string name="play_speed_not_null_tips">Najprej nastavite hitrost</string>
