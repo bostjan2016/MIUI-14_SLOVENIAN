@@ -276,6 +276,7 @@
      <string name="continue_check">Izberi</string>
      <string name="continue_to_do">Nadaljuj</string>
      <string name="copy">Kopiraj</string>
+     <string name="copy_toast_msg">Povezava je bila kopirana v odložišče</string>
      <string name="data_selected">Izbrane stvari</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
@@ -403,6 +404,9 @@
      <string name="facebook_group_gif">GIF-i</string>
      <string name="facebook_group_image">Slike</string>
      <string name="facebook_group_video">Videoposnetki</string>
+     <string name="fallback_menu_item_copy_link">Kopiraj povezavo</string>
+     <string name="fallback_menu_item_open_in_browser">Odpri v brskalniku</string>
+     <string name="fallback_menu_item_share_link">Deli povezavo</string>
      <string name="file">Datoteka</string>
      <string name="file_not_found">Datoteka ni najdena</string>
      <string name="find_device_operation_failure_rpc">"Opravila ni mogoče izvršiti zaradi RPC napake. "</string>

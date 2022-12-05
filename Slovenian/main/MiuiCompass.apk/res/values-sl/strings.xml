@@ -235,10 +235,10 @@
      <string name="morning">Jutro</string>
      <string name="new_cta_app_purpose">Prikaz smeri in koordinat</string>
      <string name="new_cta_v2_app_purpose">Prikaz smeri, koordinat, atmosferskega tlaka in trenutne nadmorske višine</string>
-     <string name="new_permission_camera_desc">Za umerjanje</string>
+     <string name="new_permission_camera_desc">Za prikaz predogledov v živo</string>
      <string name="new_permission_location_desc">Za prikaz koordinat</string>
-     <string name="night">Evening</string>
-     <string name="noon">Midday</string>
+     <string name="night">Večer</string>
+     <string name="noon">Poldne</string>
      <string name="not_allowed">Ni dovoljeno</string>
      <string name="not_set">Ni nastavljeno</string>
      <string name="open_camera">Uporabi kamero</string>
