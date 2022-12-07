@@ -53,7 +53,7 @@
      <string name="add_contact_dlg_message_fmt">Dodam \"%s\" med stike?</string>
      <string name="add_display_photo_entry">Dodaj fotografijo profila</string>
      <string name="add_field">Dodaj novo polje</string>
-     <string name="add_field_toast">Ni več polja za dodajanje.</string>
+     <string name="add_field_toast">Ni več polj za dodajanje.</string>
      <string name="add_incall_show_entry">Dodaj video</string>
      <string name="add_new_account">Dodaj nov račun</string>
      <string name="add_new_entry_for_section">Dodaj novo</string>
@@ -114,7 +114,7 @@
      <string name="bh_card_order_detail">Info o naročilu</string>
      <string name="bh_card_order_name">Paket storitev</string>
      <string name="bh_card_order_pay_price">Plačan znesek</string>
-     <string name="bh_card_order_price">Price</string>
+     <string name="bh_card_order_price">Cena</string>
      <string name="bh_charge_confirm">Dodam %2$s CNY v %1$s?</string>
      <string name="bh_charge_continue">Napolni</string>
      <string name="bh_charge_number">Polnjenje %1$s</string>
@@ -373,7 +373,7 @@
      <string name="calllog_record_searching_toast">Iskanje posnetkov klicev…</string>
      <string name="callrecordview_item_newcontact">"Nov stik"</string>
      <string name="callrecordview_item_op_time_minutes_seconds">%1$d minut %2$d sekund</string>
-     <string name="callrecordview_item_op_time_missed">Klic ni uspel</string>
+     <string name="callrecordview_item_op_time_missed">Ne morem se povezati</string>
      <string name="callrecordview_item_op_time_only_minutes">%d minut</string>
      <string name="callrecordview_item_op_time_only_seconds">%d sekund</string>
      <string name="callrecordview_item_op_time_rejected">"Zavrnjeno"</string>
@@ -402,7 +402,7 @@
      <string name="callrecordview_menu_misim">Mi SIM</string>
      <string name="callrecordview_menu_mobiledata">Nakup podatkov</string>
      <string name="callrecordview_menu_paste">Prilepi</string>
-     <string name="callrecordview_menu_recharge">Top up</string>
+     <string name="callrecordview_menu_recharge">Doplačilo</string>
      <string name="callrecordview_menu_save_to_group">Shrani zgodovino klicev v skupino</string>
      <string name="callrecordview_menu_settings">Nastavitve</string>
      <string name="callrecordview_menu_show">Filtriraj</string>
@@ -529,7 +529,7 @@ Vizitke stikov so izključene"</string>
      <string name="contact_detail_profile_switch_on_fail_toast">"Ne morem izključiti vizitke</string>
      <string name="contact_detail_profile_switch_on_subtitle">Dotaknite se da vključite vizitke</string>
      <string name="contact_detail_profile_switch_on_success_toast">Vizitke so vključene</string>
-     <string name="contact_directory_description">Mapa %1$s</string>
+     <string name="contact_directory_description">Imenik %1$s</string>
      <string name="contact_edit_save_error_empty">Stik je prazen</string>
      <string name="contact_edit_title_edit">"Uredi stik"</string>
      <string name="contact_edit_title_insert">"Shrani v %s"</string>
@@ -538,7 +538,7 @@ Vizitke stikov so izključene"</string>
      <string name="contact_editor_prompt_one_account">Novi stik bo sinhroniziran z %1$s </string>
      <string name="contact_editor_prompt_zero_accounts">Shrani v napravo ali na nov račun</string>
      <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
-     <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
+     <string name="contact_import_methods_dialog_mi_mover">Uvozi z aplikacijo Mi Mover</string>
      <string name="contact_import_methods_dialog_title">Izberite način uvoza</string>
      <string name="contact_is_deleted">Ta stik je izbrisan</string>
      <string name="contact_is_readOnly">Ne morem urediti stika ki je samo za branje</string>
@@ -561,7 +561,7 @@ Vizitke stikov so izključene"</string>
      <string name="contacts_trash_activity_title">Nedavno izbrisani stiki</string>
      <string name="contacts_trash_delete">Izbriši</string>
      <string name="contacts_trash_delete_dialog_continue">Izbriši</string>
-     <string name="contacts_trash_delete_dialog_hint">"Tega ne boste mogli vrniti."</string>
+     <string name="contacts_trash_delete_dialog_hint">"Tega ne boste mogli razveljaviti."</string>
      <string name="contacts_trash_delete_dialog_loading">Brisanje…</string>
      <string name="contacts_trash_delete_dialog_title">Želite izbrisati izbrane stike?</string>
      <string name="contacts_trash_restore">Vrni</string>
@@ -569,7 +569,7 @@ Vizitke stikov so izključene"</string>
      <string name="contacts_unavailable_add_account">Vpiši se v račun</string>
      <string name="contacts_unavailable_create_contact">Ustvari nov stik</string>
      <string name="contacts_unavailable_import_contacts">Uvozi stike iz datoteke</string>
-     <string name="contacts_unavailable_import_from_old_device">Uvozi iz starejše naprave</string>
+     <string name="contacts_unavailable_import_from_old_device">Uvozi iz stare naprave</string>
      <string name="contacts_unavailable_import_sim_contacts">Uvozi SIM stike</string>
      <string name="convenient_service">Storitve</string>
      <string name="copy">Kopiraj</string>
@@ -1386,10 +1386,10 @@ Napravite varnostno kopijo stikov."</string>
      <string name="notification_action_voicemail_play">Predvajaj</string>
      <string name="notification_click_detail">Tapnite za prikaz podrobnosti</string>
      <string name="notification_micloudsync_delete_contact">Mi Cloud želi izbrisati nekatere vaše stike</string>
-     <string name="notification_missedCallTitle">Zgrešen klic</string>
+     <string name="notification_missedCallTitle">Neodgovorjen klic</string>
      <string name="notification_missedCall_call_back">Pokliči nazaj</string>
      <string name="notification_missedCall_message">Pošlji SMS</string>
-     <string name="notification_missedCallsTitle">Zgrešeni klici</string>
+     <string name="notification_missedCallsTitle">Neodgovorjeni klici</string>
      <string name="notification_new_voicemail_ticker">Nova glasovna pošta od %1$s</string>
      <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
      <string name="openDialKeyboard">Številčnica</string>
