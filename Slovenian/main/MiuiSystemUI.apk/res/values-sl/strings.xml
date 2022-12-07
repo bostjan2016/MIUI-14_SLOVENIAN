@@ -1903,7 +1903,7 @@ posnetka zaslona"</string>
      <string name="mic_recording_announcement">Mikrofon snema</string>
      <string name="mic_stopped_recording_announcement">Mikrofon je ustavil snemanje</string>
      <string name="midnight">Polnoč</string>
-     <string name="missed_call">Zgrešen klic</string>
+     <string name="missed_call">Neodgovorjen klic</string>
      <string name="miui_clock_city_name_local">Lokalno</string>
      <string name="miui_clock_city_name_second">Druga ura</string>
      <string name="miui_guide_dialog_button_negative_text">Nastavitve</string>

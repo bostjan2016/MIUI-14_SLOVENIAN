@@ -57,8 +57,8 @@
         <item quantity="one">%d novo obvestilo</item>
      </plurals>
      <plurals name="notification_missedCallTitle_miui">
-        <item quantity="other">Zgrešeni klici</item>
-        <item quantity="one">Zgrešeni klic</item>
+        <item quantity="other">Neodgovorjeni klici</item>
+        <item quantity="one">Neodgovorjen klic</item>
      </plurals>
      <plurals name="num_minutes_ago">
         <item quantity="other">pred %d min</item>

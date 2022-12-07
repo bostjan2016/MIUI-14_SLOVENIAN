@@ -5704,7 +5704,7 @@ Z formatiranjem bo izbrisana vsebina ^2. Če želite preprečiti izgubo vsebine,
      <string name="summary_condition_close_absorbed_mode">Po izklopu načina ostrenja</string>
      <string name="summary_condition_in_charge">Pri polnjenju</string>
      <string name="summary_condition_insert_headset">Priključite žične slušalke</string>
-     <string name="summary_condition_missing_call">Zgrešen klic</string>
+     <string name="summary_condition_missing_call">Neodgovorjen klic</string>
      <string name="summary_condition_no_in_charge">Ko se ne polni</string>
      <string name="summary_condition_open_absorbed_mode">Po vklopu načina ostrenja</string>
      <string name="summary_condition_reduce_to_target">Ko je baterija na nastavljeni ravni</string>
@@ -6061,8 +6061,8 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
      <string name="title_app_update">Posodobitve na voljo</string>
      <string name="title_auto_update">Posodobi samodejno</string>
      <string name="title_background_connection">"Ne morete uporabljati %s v ozadju?"</string>
-     <string name="title_block_calls_from_cantacts">Zgrešili ste klice vaših stikov?</string>
-     <string name="title_block_calls_from_strangers">Zgrešili ste pomembne klice?</string>
+     <string name="title_block_calls_from_cantacts">Ste zgrešili klice vaših stikov?</string>
+     <string name="title_block_calls_from_strangers">Ste zgrešili pomembne klice?</string>
      <string name="title_chain_start">Omeji verižni zagon</string>
      <string name="title_cleaner_cloudscan">Naložite imena map</string>
      <string name="title_cloud_account">Mi Račun</string>

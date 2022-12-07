@@ -1855,7 +1855,7 @@ Zmeraj uporabi to številko"</string>
      <string name="missed_call_notify_ten_times">%d x</string>
      <string name="missed_call_notify_thrice">%d x</string>
      <string name="missed_call_notify_times_summary">Opomniki so razdeljeni z intervalom %d-min</string>
-     <string name="missed_call_notify_times_title">Opomnik zgrešenih klicev</string>
+     <string name="missed_call_notify_times_title">Opomnik neodgovorjenih klicev</string>
      <string name="missed_call_notify_twice">%d x</string>
      <string name="miui_network_selection_reset_text">Ponastavi</string>
      <string name="miui_notification_network_selection_title">SIM: ni storitve</string>
@@ -2202,12 +2202,12 @@ Kontaktirajte vašega operaterja."</string>
      <string name="notification_demo_version_title">To je demo naprava</string>
      <string name="notification_dialing">Izbiranje številke</string>
      <string name="notification_incoming_call">Dohodni klic</string>
-     <string name="notification_missedCallTicker">Zgrešen klic od %s</string>
-     <string name="notification_missedCallTitle">Zgrešen klic</string>
+     <string name="notification_missedCallTicker">Neodgovorjen klic od %s</string>
+     <string name="notification_missedCallTitle">Neodgovorjen klic</string>
      <string name="notification_missedCall_call_back">Pokliči nazaj</string>
      <string name="notification_missedCall_message">Sporočilo</string>
-     <string name="notification_missedCallsMsg">Število zgrešenih klicev: %s</string>
-     <string name="notification_missedCallsTitle">Zgrešeni klici</string>
+     <string name="notification_missedCallsMsg">Število neodgovorjenih klicev: %s</string>
+     <string name="notification_missedCallsTitle">Neodgovorjeni klici</string>
      <string name="notification_network_selection_text">Izbrano omrežje (%s) je onemogočeno</string>
      <string name="notification_network_selection_title">Ni storitve</string>
      <string name="notification_on_hold">Na čakanju</string>
@@ -2351,7 +2351,7 @@ Poskusite ponovno ali pokličite podporo"</string>
      <string name="path_fdn">Sistemske aplikacije/Telefon/Dodatne nastavitve/Številke za fiksno klicanje</string>
      <string name="path_flash_when_ring_title">Sistemske aplikacije/Telefon/Nastavitve dohodnih klicev/Bliskavica ob zvonjenju</string>
      <string name="path_handon_ringer_title">Sistemske aplikacije/Telefon/Nastavitve dohodnih klicev/Tiho zvonjenje ob dvigu</string>
-     <string name="path_missed_call_notify_times_title">Sistemske aplikacije/Telefon/Dodatne nastavitve/Opomniki za zgrešene klice</string>
+     <string name="path_missed_call_notify_times_title">Sistemske aplikacije/Telefon/Dodatne nastavitve/Opomniki za neodgovorjene klice</string>
      <string name="path_preference_dial_pad_touch_tone_title">Sistemske aplikacije/Telefon/Dodatne nastavitve/Toni tipkovnice</string>
      <string name="path_preference_telocation_title">Sistemske aplikacije/Telefon/Lokacija</string>
      <string name="path_reject_via_sms">Sistemske aplikacije/Telefon/Dodatne nastavitve/Hitri odzivi</string>

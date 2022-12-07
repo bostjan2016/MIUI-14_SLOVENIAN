@@ -668,7 +668,7 @@ Avdio"</string>
      <string name="noon">Poldne</string>
      <string name="not_default_data_content_description">Ni nastavljeno za uporabo prenosa podatkov</string>
      <string name="not_set">Ni nastavljeno</string>
-     <string name="notification_AllMissedCallTitle">Vsi zgrešeni klici</string>
+     <string name="notification_AllMissedCallTitle">Vsi neodgovorjeni klici</string>
      <string name="notification_audioProcessing_body">Aplikacija %s je klic premaknila v ozadje. Ta aplikacija morda dostopa do zvoka in ga predvaja prek klica.</string>
      <string name="notification_audioProcessing_title">Klic v ozadju</string>
      <string name="notification_channel_background_calls">Klici v ozadju</string>
@@ -693,7 +693,7 @@ Avdio"</string>
      <string name="notification_missedCall_message">Sporočilo</string>
      <string name="notification_missedCallsMsg">%s neodgovorjenih klicev</string>
      <string name="notification_missedCallsTitle">Neodgovorjeni klici</string>
-     <string name="notification_missedWorkCallTitle">Zgrešen delovni klic</string>
+     <string name="notification_missedWorkCallTitle">Neodgovorjen službeni klic</string>
      <string name="notification_pullcall">Klici na sekundarno</string>
      <string name="oem_preferred_feedback_reporter" />
      <string name="oem_unlock_enable">Odklepanje OEM</string>

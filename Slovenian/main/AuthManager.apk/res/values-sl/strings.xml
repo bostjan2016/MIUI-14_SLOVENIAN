@@ -108,7 +108,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="HIPS_Perm_Call_Desc">Neposredno kliči telefonske številke</string>
      <string name="HIPS_Perm_Call_Hint">(%1$s) aplikacij lahko neposredno kliče telefonske številke</string>
      <string name="HIPS_Perm_Call_Number">Kliči %1$s</string>
-     <string name="HIPS_Perm_CancelMissedCalls">Izbriši zgrešene klice</string>
+     <string name="HIPS_Perm_CancelMissedCalls">Izbriši neodgovorjene klice</string>
      <string name="HIPS_Perm_Contact">Spremeni stike</string>
      <string name="HIPS_Perm_Contact_Access">brati vaše stike</string>
      <string name="HIPS_Perm_Contact_Desc">spremeniti stike</string>

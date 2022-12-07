@@ -80,10 +80,10 @@ pojdite na %s"</string>
   <string name="note_list_none">Seznam je prazen</string>
   <string name="notification_activate_failed">"Ne morem aktivirati Mi Voice"</string>
   <string name="notification_dialing">Izbiranje</string>
-  <string name="notification_incoming_call">Dohidni klic</string>
-  <string name="notification_missedCallTicker">Zgrešen klic od %s</string>
-  <string name="notification_missedCallsMsg">%s zgrešenih klicev</string>
-  <string name="notification_missedCallsTitle">Zgrešeni klici</string>
+  <string name="notification_incoming_call">Dohodni klic</string>
+  <string name="notification_missedCallTicker">Neodgovorjen klic od %s</string>
+  <string name="notification_missedCallsMsg">%s neodgovorjenih klicev</string>
+  <string name="notification_missedCallsTitle">Neodgovorjeni klici</string>
   <string name="notification_ongoing_call">Odhodni klic</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="other_contacts">Ostali stiki</string>
