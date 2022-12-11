@@ -94,6 +94,7 @@
      <string name="enable_wifi_alert_title_china">Vključi WiFi</string>
      <string name="evening">Večer</string>
      <string name="expand_button_title">Napredno</string>
+     <string name="file_transferring">Počakajte, da se tekoči prenosi končajo, in poskusite znova</string>
      <string name="fingerprint_dialog_touch_sensor">Dotaknite se senzorja za prstne odtise</string>
      <string name="fingerprint_error_hw_not_available">Strojna oprema za prstne odtise ni na voljo.</string>
      <string name="fingerprint_error_hw_not_present">Ta naprava nima senzorja za prstne odtise</string>
@@ -273,6 +274,7 @@ Na vašem računalniku lahko začnete novo sejo."</string>
      <string name="notify_clip_title">Od %1$s</string>
      <string name="notify_connected_action_button">Prekini povezavo</string>
      <string name="notify_connected_message">Ta računalnik lahko uporabite za prenos datotek in komunikacijo s telefonom</string>
+     <string name="notify_connected_message_pad">Nadaljujte z opravili aplikacije na povezanem računalniku ali uporabite to napravo kot razširitev zaslona</string>
      <string name="notify_connected_title">Povezano z %1$s</string>
      <string name="ok">V redu</string>
      <string name="open_folder">Pokaži</string>
@@ -386,6 +388,7 @@ Na vašem računalniku lahko začnete novo sejo."</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>
      <string name="save_failed">"Ne morem shraniti"</string>
+     <string name="scanner_lower_version_toast">Za povezavo posodobite MIUI+ v računalniku</string>
      <string name="scanner_uninstalled_text">"Kaže da skener ni nameščen v vaši napravi. Najprej ga namestite."</string>
      <string name="scanner_uninstalled_title">Namestite Skener</string>
      <string name="screen_num_over_limit">"Ne morem odpreti več oken"</string>

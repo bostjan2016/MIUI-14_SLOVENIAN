@@ -3709,6 +3709,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="pc_battery_history_show_imei">IMEI:</string>
      <string name="pc_battery_history_total_consumption_title">Skupna poraba energije</string>
      <string name="pc_battery_history_usetime_title">Aktivno</string>
+     <string name="pc_emergency_call">Klic v sili</string>
      <string name="pc_endurance_calculation">Računam…</string>
      <string name="pc_fast_charge_notifi_action_text_off">Ustavi</string>
      <string name="pc_fast_charge_notifi_action_text_on">Pospeši</string>
@@ -3729,6 +3730,9 @@ To skrajšuje trajanje baterije."</string>
      <string name="pc_hidemode_performance">Zmogljivost</string>
      <string name="pc_hidemode_performance_title">Način zmogljivost</string>
      <string name="pc_hidemode_power_save">Varčevanje baterije</string>
+     <string name="pc_high_temp_protection_noti_bt_text">Razumem</string>
+     <string name="pc_high_temp_protection_noti_summary">"Trenutno ni mogoče uporabljati dostopnih točk, mobilnih podatkov in lokacijskih storitev"</string>
+     <string name="pc_high_temp_protection_noti_tile">Vaša naprava je pregreta</string>
      <string name="pc_install_manager">Namesti preko USB-a</string>
      <string name="pc_main_activity_back">Nazaj</string>
      <string name="pc_main_battery_text_day">Dodano %1$sm, ostalo okoli %2$sd</string>
@@ -3755,7 +3759,9 @@ To skrajšuje trajanje baterije."</string>
      <string name="pc_statistics_battery_use_hour_minute">%1$dh %2$dm od zadnjega polnjenja</string>
      <string name="pc_statistics_battery_use_summary">%s od zadnjega polnjenja</string>
      <string name="pc_statistics_battery_use_title">Poraba baterije</string>
+     <string name="pc_temperature_too_high">Naprava je pregreta</string>
      <string name="pc_to_phone_install">Blokirana namestitev (%s) preko USB-a</string>
+     <string name="pc_wait_device_cools_down">Počakajte, da se naprava ohladi, da lahko uporabite to storitev.</string>
      <string name="pc_xiaoai_create_auto_task">Nova opravila z Mi AI</string>
      <string name="per_month_pkg_traffic_settings">Nastavi omejitev podatkov</string>
      <string name="percent_formatted_text">%s%%</string>
@@ -3854,6 +3860,7 @@ To skrajšuje trajanje baterije."</string>
 "</string>
      <string name="permission_instruction_send_payment_sms">To dovoljenje aplikacijam omogoča pošiljanje plačljivih besedilnih sporočil.</string>
      <string name="permission_instruction_send_sms">To dovoljenje aplikacijam omogoča pošiljanje besedilnih sporočil, kar lahko povzroči dodatne stroške. Zlonamerne aplikacije lahko to dovoljenje uporabljajo za pošiljanje plačljivih sporočil brez vašega soglasja.</string>
+     <string name="permission_instruction_shake">"To dovoljenje omogoča aplikacijam, da sledijo orientaciji in gibanju vaše naprave (npr. tresenje, nagibanje in vrtenje)"</string>
      <string name="permission_instruction_show_locked">To dovoljenje aplikacijam omogoča prikaz elementov na zaklenjenem zaslonu. Zlonamerne aplikacije lahko to dovoljenje uporabljajo za prikazovanje nadležnih oglasov.</string>
      <string name="permission_instruction_sociality">Za zaščito vaše zasebnosti vam MIUI omogoča, da se odločite, ali dovolite aplikacijam, ki imajo dovoljenja za shranjevanje, dostop do vaših sporočil v aplikacijah za družabna omrežja.</string>
      <string name="permission_instruction_storage">Za zaščito vaše zasebnosti vam MIUI omogoča, da se odločite, ali dovolite aplikacijam, ki imajo dovoljenja za shranjevanje, dostop do Galerije in vaših sporočil v aplikacijah za družabna omrežja.</string>
@@ -4287,6 +4294,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="power_setting_wireless_reverse_charging_summary">Brezžično polnite kompatibilne naprave</string>
      <string name="power_setting_wireless_reverse_charging_title">Obrnjeno brezžično polnjenje</string>
      <string name="power_settings_category_title">Videz baterije</string>
+     <string name="power_settings_firmware_update_title">Posodobitve vdelane programske opreme</string>
      <string name="power_settings_lock_screen_saver_title">Nastavitve zakl. zaslona</string>
      <string name="power_settings_number">Odstotki</string>
      <string name="power_settings_saver_title">Varčevanje energije</string>
@@ -5664,6 +5672,7 @@ Za uporabo ^1 v tej napravi ga morate najprej vpeti."</string>
      <string name="storage_system_memory_expansion">Razširitev pomnilnika</string>
      <string name="storage_system_memory_expansion_tip">Razširite RAM tako, da uporabite prostor za shranjevanje</string>
      <string name="storage_system_other_tip">Podatki, potrebni za normalno delovanje sistema (velikost datoteke se lahko sčasoma spremeni)</string>
+     <string name="storage_system_other_tip_new">Vključuje prostor za shranjevanje, potreben za delovanje sistema in nadgradnje. Velikost te particije bo nihala glede na stanje sistema.</string>
      <string name="storage_unmount_failure">"Ne morem izpeti %1$s"</string>
      <string name="storage_unmount_success"> %1$s izpet</string>
      <string name="storage_wizard_format_confirm_v2_action">Formatiraj ^1</string>
@@ -6474,6 +6483,8 @@ Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca.
      <string name="vb_video_effects_dolby_headset">" (Samo slušalke)"</string>
      <string name="vb_video_effects_dolby_open">Dolby Atmos vklj.</string>
      <string name="vb_video_effects_dolby_stereo_expansion">Razširjeni stereo</string>
+     <string name="vb_video_effects_immersion_sound">Poglobljen zvok</string>
+     <string name="vb_video_effects_immersion_sound_summary">Izkusite potopitev in občutek prostora, ko se podprt zvok predvaja prek slušalk</string>
      <string name="vb_video_effects_liquid_summary">Izboljšajte jasnost dialoga v videoposnetkih</string>
      <string name="vb_video_effects_only_headphone">Deluje samo s slušalkami</string>
      <string name="vb_video_effects_setting_black_white">Č&amp;B</string>
@@ -6497,6 +6508,7 @@ Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca.
      <string name="vb_video_effects_spatial">Sledi gibanju glave</string>
      <string name="vb_video_effects_spatial_summary">"Prilagodi poglobljeni zvok glede na gibanje glave
 *Podprto samo na modelih igralnih slušalk"</string>
+     <string name="vb_video_effects_spatial_summary_new">Izkusite izboljšan občutek za prostor in smer za podprt zvok in video ter prilagodite impresiven zvok glede na gibanje glave</string>
      <string name="vb_video_effects_srs_premium_sound">Zvok</string>
      <string name="vb_video_super_division">Povečaj</string>
      <string name="vb_video_super_division_desc">"Samodejno povečaj ločljivost, ko je ≤720p.

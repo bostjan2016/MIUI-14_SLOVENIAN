@@ -93,6 +93,7 @@
      <string name="afternoon">Večer</string>
      <string name="agree">Strinjam se</string>
      <string name="agree_and_continue">Strinjam se</string>
+     <string name="agree_label">Strinjam se</string>
      <string name="ai_animation_music_text">AI zvočni zapis</string>
      <string name="ai_music_save_cancel">Prekliči</string>
      <string name="ai_music_save_dialog_title">Shrani</string>
@@ -206,6 +207,7 @@
      <string name="cloud_online_switch">Prilagojena priporočila</string>
      <string name="cloud_online_switch_close_time">Lahko vklopite prilagojeno vsebino priporočil v %s</string>
      <string name="cloud_online_switch_open_time">Pokaži prilagojeno vsebino priporočil</string>
+     <string name="cmp_tier_privacy_policy">Politike zasebnosti tretjih oseb</string>
      <string name="collect_diagnosis_log">Zberi poročila</string>
      <string name="columbus_ad_flag_text">REKLAME</string>
      <string name="columbus_player_close_desc">Izgubili boste nagrado</string>
@@ -309,6 +311,7 @@
      <string name="default_filedownloader_notification_content">Prenosi je vklopljeno.</string>
      <string name="default_filedownloader_notification_title">Prenosi</string>
      <string name="default_localization_key">system</string>
+     <string name="default_title">Naslov</string>
      <string name="default_upgrade_hint">"Hojla!
 Mi Video je pripravljen za posodobitev.
 Posodobite aplikacijo, če si želite ogledati naše nove zanimive storitve!
@@ -316,7 +319,7 @@ Mi Video Team"</string>
      <string name="description">Opis</string>
      <string name="desktop_widget_local_media">Predstavnosti</string>
      <string name="desktop_widget_new">Novo</string>
-     <string name="detail">pODROBNOSTI</string>
+     <string name="detail">Podrobnosti</string>
      <string name="detail_select_source">Izberite vir predvajanja</string>
      <string name="diagnosis_log_send_failed">Ne morem poslati poročila. Poskusite ponovno.</string>
      <string name="diagnosis_log_sent_format">"Poročila so bila uspešno poslana.
@@ -334,9 +337,12 @@ Pošljite to kodo nadzorniku."</string>
      <string name="dialog_clearn_content">Izbrišem zgodovino?</string>
      <string name="dialog_clearn_title">Izbriši zgodovino</string>
      <string name="dialog_confirm">V redu</string>
-     <string name="dialog_delete_bookmarks_content">Delete bookmark now?</string>
+     <string name="dialog_delete_bookmarks_content">Izbrišem zaznamek?</string>
+     <string name="dialog_disagree_continue">Nadaljuj</string>
+     <string name="dialog_disagree_info">"Če se ne strinjate s pravilnikom o zasebnosti Mi Video, ne boste mogli uporabljati naših spletnih storitev in boste lahko samo gledali videoposnetke, shranjene v vaši napravi. Vseeno nadaljujem?"</string>
      <string name="dialog_disagree_privacychange_info">"Če se ne strinjate z našo politiko zasebnosti, ne boste mogli uporabljati spletnih storitev pretakanja Mi Video. Dotaknite se \ "Prekliči \", če se želite vrniti, ali \ "Ne strinjam se \", če želite nadaljevati, in uporabite Mi Video samo kot lokalni predvajalnik."</string>
      <string name="dialog_disagree_privacychange_title">"Se ne strinjate?"</string>
+     <string name="dialog_disagree_title">Pravila o zasebnosti</string>
      <string name="dialog_edit_bookmarks">Uredi zaznamke</string>
      <string name="dialog_edit_hint_bookmarks_name">Ime zaznamka</string>
      <string name="dialog_edit_hint_bookmarks_url">URL</string>
@@ -1738,6 +1744,7 @@ Izboljša varnost vašega računa."</string>
      <string name="recommend_slide_to_more">Podrsajte za več</string>
      <string name="recommend_switch_alert">Da boste odstranili ta del pojdite na nastavitve v Mi Video</string>
      <string name="recommend_to_you">Priporočeno za vas</string>
+     <string name="reject_all_label">Zavrni vse</string>
      <string name="reload_sub_title">Tapnite za ponovni poskus.</string>
      <string name="reload_title">Povezava z omrežjem ni uspela.</string>
      <string name="remaining_space">Na voljo: %s</string>
@@ -1822,6 +1829,7 @@ Izboljša varnost vašega računa."</string>
      <string name="share_ugc_content">Poglejte v %1$s! #%2$s (%3$s)</string>
      <string name="share_ugc_join">Pridruži se</string>
      <string name="share_ugc_waitting">Ustvarjanje povezave…</string>
+     <string name="show_options_label">Pokaži možnosti</string>
      <string name="show_the_location">Vrste obvestil</string>
      <string name="sign_in">Prijava</string>
      <string name="sign_in_google_account">Vpis z Google</string>
@@ -2120,7 +2128,12 @@ Izboljša varnost vašega računa."</string>
      <string name="welcome_tip_into_mivideo">Začnite</string>
      <string name="welcome_tip_skip">Preskoči</string>
      <string name="welcome_tip_title">Dobrodošli v Mi Video</string>
-     <string name="widget_local_video">Locani videoposnetki</string>
+     <string name="widget_add_dialog_button_add">Dodaj</string>
+     <string name="widget_add_dialog_button_cancel">Prekliči</string>
+     <string name="widget_add_dialog_desc_local">S tem pripomočkom lahko z enim dotikom na domačem zaslonu predvajate avdio in video datoteke, shranjene v vaši napravi. Ga dodam?</string>
+     <string name="widget_add_dialog_desc_online">"S tem pripomočkom si lahko ogledate danes priljubljene videoposnetke z enim dotikom na domačem zaslonu. Ga dodam?"</string>
+     <string name="widget_add_dialog_title">Dodaj</string>
+     <string name="widget_local_video">Lokalni videoposnetki</string>
      <string name="widget_local_video_click">Tapnite za ogled videoposnetkov, shranjenih v vaši napravi</string>
      <string name="widget_more_channel">Več kanalov</string>
      <string name="widget_more_channel_click">Tapnite za ogled TV kanalov</string>
