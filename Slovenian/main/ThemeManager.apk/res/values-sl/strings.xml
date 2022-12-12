@@ -331,6 +331,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="download_failed">"Ne morem prenesti"</string>
      <string name="download_preview_failed">"Ne morem naložiti predogleda"</string>
      <string name="download_success">Prenos končan</string>
+     <string name="dynamic_large_icon_not_support_current_type">"%s ni podprt za to dinamično ikono"</string>
      <string name="dynamic_video_wallpaper">24-urna slika ozadja</string>
      <string name="early_morning">Jutro</string>
      <string name="enable_accessibility">Potrebno je dovoljenje</string>
@@ -548,6 +549,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="has_mamual_hide_aod">Ta stvar je zdaj skrita</string>
      <string name="has_mamual_hide_font">Skrito</string>
      <string name="has_mamual_hide_icons">Skrite ikone</string>
+     <string name="has_mamual_hide_large_icons">Super ikone skrite</string>
      <string name="has_mamual_hide_theme">Skrito</string>
      <string name="has_mamual_hide_wallpaper">Skrito</string>
      <string name="head_portraits">Fotografija profila</string>
@@ -562,6 +564,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="hide_mamual_hide_aod">"Ne kaži ročno skritih stvari"</string>
      <string name="hide_mamual_hide_font">"Ne kaži skritih fontov"</string>
      <string name="hide_mamual_hide_icons">"Ne kaži ročno skrite ikone"</string>
+     <string name="hide_mamual_hide_large_icons">"Ne kaži skritih Super ikon"</string>
      <string name="hide_mamual_hide_miwallpaper">"Ne kaži ročno skrite efekte zač. zaslona"</string>
      <string name="hide_mamual_hide_theme">"Ne kaži skritih tem"</string>
      <string name="hide_mamual_hide_wallpaper">"Ne kaži skritih ozadij"</string>
@@ -611,6 +614,29 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
      <string name="kuyin_user_agreement_content_href">iFlytek Pravila o zasebnosti</string>
      <string name="lab">Beta storitve</string>
      <string name="label">Oznaka</string>
+     <string name="large_icon_apply_fail_for_in_dock">"Ni mogoče uporabiti ikon Super za aplikacije v vrstici aplikacij"</string>
+     <string name="large_icon_apply_fail_for_in_folder">"Super ikon ni mogoče uporabiti za aplikacije v mapah"</string>
+     <string name="large_icon_apply_fail_for_in_oldmode">"Super ikone niso podprte v lahkem načinu"</string>
+     <string name="large_icon_apply_fail_for_not_in_launcher">"Super ikon ni mogoče uporabiti za aplikacije, ki niso na začetnem zaslonu"</string>
+
+     <string name="large_icon_detail_title">%s Super ikone</string>
+     <string name="large_icon_detail_warning_dialog_btn_keep">Super ikone</string>
+     <string name="large_icon_detail_warning_dialog_btn_not_keep">Privzete ikone</string>
+     <string name="large_icon_detail_warning_dialog_msg">"Nekatere aplikacije uporabljajo ikone Super. Želite še naprej uporabljati super ikone ali se vrniti na privzete ikone"</string>
+     <string name="large_icon_detail_warning_dialog_title">Nastavitve super ikon</string>
+     <string name="large_icon_no_more">Tu ni ničesar</string>
+     <string name="large_icon_no_network">"Ne morem se povezati na omrežje"</string>
+     <string name="large_icon_not_support">"Ne morem nastaviti ikon za %s"</string>
+     <string name="large_icon_not_support_current_type">"%s ni podprta za to ikono"</string>
+     <string name="large_icon_official">Privzeto</string>
+     <string name="large_icon_picker_haven">Ikone na voljo</string>
+     <string name="large_icon_picker_more">Več</string>
+     <string name="large_icon_picker_size">Velikost ikon</string>
+     <string name="large_icon_theme">Teme</string>
+     <string name="large_icon_to_find_more">Pokaži več</string>
+     <string name="large_icon_warning_install">Namesti</string>
+     <string name="large_icon_warning_not_install">Namesti %s</string>
+     <string name="large_icon_warning_not_install_msg">Namestite %s za uporabo Super ikon. Namestim?</string>
      <string name="like_list">Stvari ki so mi všeč</string>
      <string name="live_wallpaper">Živo ozadje</string>
      <string name="load_from_local_photos">Galerija</string>
@@ -1395,6 +1421,7 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="show_mamual_hide_aod">Pokaži ročno skrite stvari</string>
      <string name="show_mamual_hide_font">Pokaži brezplačne fonte</string>
      <string name="show_mamual_hide_icons">Pokaži ročno skrite ikone</string>
+     <string name="show_mamual_hide_large_icons">Pokaži skrite Super ikone</string>
      <string name="show_mamual_hide_miwallpaper">Pokaži ročno skrite efekte zač. zaslona</string>
      <string name="show_mamual_hide_theme">Pokaži brezplačne teme</string>
      <string name="show_mamual_hide_wallpaper">Pokaži brezplačna ozadja</string>

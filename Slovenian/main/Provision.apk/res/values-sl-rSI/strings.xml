@@ -67,6 +67,7 @@
      <string name="camera_introduction">Kamero uporabite za snemanje fotografij in videoposnetkov.</string>
      <string name="carrier_introduction">"Za izboljšanje storitev lahko vaša naprava občasno pošilja informacije o verziji naprave, identifikacijske podatke naprave (vključno IMEI/IMSI/MSISDN/MAC naslov, MEID/ICCID) in približne informacije o lokaciji (vključno ID bazne postaje) mobilnemu operaterju preko WiFi-ja, mobilnih omrežij ali brezplačnega SMS-a. Operater obljublja da bo analiziral podatke samo zaradi izboljšanja kvalitete storitev ali nudenja prilagojenih storitev ali tehnologij in jih ne bo dal na vpogled tretjim osebam. Specifična izjava operaterja mora držati. Posvetujte se z operaterjem glede stroškov te storitve."</string>
      <string name="carrier_introduction_china">"Da bi vam zagotovili boljše storitve, lahko procesi, ki se izvajajo v vaši napravi (vključno s SystemHelper, RegService in Carrier Services), občasno pošiljajo podatke, povezane z vašo napravo in kartico SIM (vključno z IMEI, IMSI, MSISDN, MEID, ICCID, MAC naslov , Različico MIUI, različico Android, model naprave in osnovne specifikacije strojne opreme) ter približne informacije o lokaciji (vključno z regijo, koordinatami, identifikatorjem območja in ID bazne postaje) do operaterja prek WiFi, mobilnega podatkovnega omrežja ali brezplačnega SMS. Ponudnik obljublja, da bo ustrezne informacije analiziral samo za izboljšanje kakovosti storitev ali zagotavljanje prilagojenih storitev ali tehnologij in ne bo razkril ustreznih informacij tretjim osebam v kakršni koli obliki, ki vas osebno identificira. Velja posebna izjava ponudnika. Glede stroškov uporabe te storitve se posvetujte s svojim ponudnikom."</string>
+     <string name="check_box_label"><Data>"Z vklopom te storitve se strinjate z &lt;a href=%1$s>Spletne komunikacijske storitve Xiaomi Pravila o zasebnosti&lt;/a >."</Data></string>
      <string name="clearable_edittext_clear_description">Očisti</string>
      <string name="clock_introduction">Aplikacijo lahko uporabite za prikaz časa, uporabo časovnika, svetovne ure, štoparice, nastavljanje alarma in še več.</string>
      <string name="close">Zapri</string>
@@ -199,6 +200,38 @@
      <string name="install_preinstall_app">Branje aplikacij…</string>
      <string name="intent_filter_verification_service">Storitev preverjanja filtra namena</string>
      <string name="interconnection_communication_introduction">Spletne komunikacijske storitve Xiaomi omogočajo odkrivanje, povezovanje in komunikacijo z drugimi napravami Xiaomi.</string>
+     <string name="interconnection_service_summary">"Spletne komunikacijske storitve Xiaomi omogoča vašim napravam brezžično interakcijo med seboj. Te storitve vključujejo Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share in predvajanje.
+Za normalno delovanje se morajo te storitve povezati s spletom in zahtevajo naslednja dovoljenja:
+\u0009\u0009Mi Smart Hub:
+\u0009\u0009Vklop in izklop WiFi
+\u0009\u0009Za prenos stvari preko WiFi
+\u0009\u0009Snemanje zvoka
+\u0009\u0009Za prenos predvajanja zvoka na povezane naprave med predvajanjem ali zrcaljenjem zaslona
+\u0009\u0009Dostop do shrambe
+\u0009\u0009Za brezžično prenašanje in prejemanje datotek
+\u0009\u0009Mi Share:
+\u0009\u0009Dostop do datotek in fotografij ter shranjevanje v napravl
+\u0009\u0009Za brezžično prenašanje in prejemanje datotek
+\u0009\u0009Dostop do lokacije
+\u0009\u0009Za prenos stvari v bližnje naprave preko WiFi in Bluetootha
+\u0009\u0009Vklop in izlop Bluetootha
+\u0009\u0009Za iskanje naprav v bližini
+\u0009\u0009Vklop in izlop WiFi
+\u0009\u0009Za iskanje naprav v bližini in brezžično prenašanje datotek
+\u0009\u0009Povezava z napravami v bližini
+\u0009\u0009Za iskanje naprav v bližini in povezovanje z njimi
+\u0009\u0009Pretakanje:
+\u0009\u0009Vklop in izlop Bluetootha
+\u0009\u0009Za iskanje naprav v bližini
+\u0009\u0009Vklop in izlop WiFi
+\u0009\u0009Za iskanje naprav v bližini
+\u0009\u0009Dostop do lokacije
+\u0009\u0009Za pridobivanje informacij o napravah v bližini
+\u0009\u0009Snemanje zvoka
+\u0009\u0009Za prenos predvajanja zvoka na povezane med pretakanjem
+Če se ne strinjate z dodelitvijo takih dovoljenj, ne boste mogli uporabljati Spletne komunikacijske storitve Xiaomi.
+Storitve se lahko spreminjajo. Nekatere od zgornjih storitev morda niso na voljo v vseh modelih naprav ali za vse različice sistema. Za preverjanje združljivosti obiščite spletno mesto MIUI (www.miui.com)."</string>
+     <string name="interconnection_service_title">Spletne komunikacijske storitve Xiaomi</string>
      <string name="item_contents_wwarning">"Če napravo izgubite drugim ljudem ne boste mogli preprečiti, da bi jo uporabljali in dostopali do vaših podatkov, če ne nastavite zaklepanja zaslona. Vseeno preskočim?"</string>
      <string name="item_facerecognition">Odklep z obrazom</string>
      <string name="item_fingerprint">Prstni odtis</string>

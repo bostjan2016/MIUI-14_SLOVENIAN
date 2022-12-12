@@ -560,6 +560,10 @@
         <item quantity="other">%1$d sob</item>
         <item quantity="one">%1$d soba</item>
      </plurals>
+     <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d zaslonov</item>
+        <item quantity="one">%1$d zaslon</item>
+     </plurals>
      <plurals name="share_album_home_pref_screens">
         <item quantity="other">%1$d zaslonov</item>
         <item quantity="one">%1$d zaslon</item>

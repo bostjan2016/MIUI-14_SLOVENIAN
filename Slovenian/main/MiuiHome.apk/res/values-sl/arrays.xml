@@ -62,6 +62,13 @@
         <item>Osebni asistent</item>
         <item>Google</item>
      </string-array>
+     <string-array name="monochrome_color_entries">
+        <item>Privzeto</item>
+        <item>Modro</item>
+        <item>Zeleno</item>
+        <item>Vijoličasto</item>
+        <item>Rjavo</item>
+     </string-array>
      <string-array name="transformation_entries">
         <item>Klasično drsanje (brez premika)</item>
         <item>Križno utišanje</item>

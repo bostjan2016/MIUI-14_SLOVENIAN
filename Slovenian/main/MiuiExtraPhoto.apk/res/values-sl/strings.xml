@@ -137,6 +137,7 @@
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
+     <string name="grant_permission_go_and_set_2">Nastavitve</string>
      <string name="grant_permission_remind_title">Potrebna so dovoljenja</string>
      <string name="grant_permission_storage">Dovolite tej aplikaciji dostop do prostora za shranjevanje.</string>
      <string name="grant_permission_text">Urejevalnik Galerije potrebuje naslednje dovoljenje za normalno delovanje: %s. Tapnite \"Nastavitve\" da odobrite.</string>

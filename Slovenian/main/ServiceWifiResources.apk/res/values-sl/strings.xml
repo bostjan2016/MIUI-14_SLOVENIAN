@@ -110,6 +110,9 @@ Ta sprememba bo morda omogočila, da bodo naprave v bližini sledile lokaciji va
      <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">Potrdim povezavo?</string>
      <string name="wifi_suggestion_imsi_privacy_title">Povežem z %s WiFi?</string>
      <string name="wifi_suggestion_title">Dovolim predlagana omrežja WiFi?</string>
+     <string name="wifi_tofu_invalid_cert_chain_message">Veriga potrdil strežnika je neveljavna.</string>
+     <string name="wifi_tofu_invalid_cert_chain_ok_text">V redu</string>
+     <string name="wifi_tofu_invalid_cert_chain_title">"Ne morem se povezati z %1$s"</string>
      <string name="wifi_wakeup_enabled_content">"Ste blizu shranjenega omrežja: %1$s"</string>
      <string name="wifi_wakeup_enabled_title">WiFi se samodejno vklopi</string>
      <string name="wifi_wakeup_onboarding_action_disable">"Ne vklopi nazaj"</string>

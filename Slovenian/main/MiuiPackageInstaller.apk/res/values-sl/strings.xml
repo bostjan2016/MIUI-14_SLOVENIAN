@@ -896,6 +896,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="pure_mode_give_up_protect">Ne, hvala</string>
      <string name="pure_mode_open_toast">Varni način je vklopljen</string>
      <string name="pure_mode_title">Nevtraliziraj tveganja med namestitvijo</string>
+     <string name="pure_tip_virus">Ta aplikacija vsebuje viruse: %1$s</string>
      <string name="reboot_time">Pripravlja se ponovni zagon…(%1$s)</string>
      <string name="replace_app_des_text">Želite zamenjati aplikacijo s to verzijo?</string>
      <string name="resolve_suggestion_title">Predlog</string>

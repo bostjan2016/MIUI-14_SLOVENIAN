@@ -137,6 +137,14 @@
         <item quantity="other">čez %d min</item>
         <item quantity="one">čez 1 minuto</item>
      </plurals>
+     <plurals name="large_icon_batch_has_update_text">
+        <item quantity="other">Na voljo je posodobitev za %1$d Super ikon</item>
+        <item quantity="one">Na voljo je posodobitev za %1$d Super ikono</item>
+     </plurals>
+     <plurals name="large_icon_batch_updating_text">
+        <item quantity="other">Posodabljam %1$d Super ikon</item>
+        <item quantity="one">Posodabljam %1$d Super ikono</item>
+     </plurals>
      <plurals name="less_than_one_minute_ago">
         <item quantity="other">Pravkar</item>
      </plurals>
@@ -163,6 +171,10 @@
      <plurals name="resource_download_notification_title_many">
         <item quantity="other">Prenešeno %1$d stvari</item>
         <item quantity="one">Prenešena %1$d stvar</item>
+     </plurals>
+     <plurals name="resource_mibi_per_set">
+        <item quantity="other">%1$s Mi Kovancev/kpl</item>
+        <item quantity="one">%1$s Mi Kovanec/kpl</item>
      </plurals>
      <plurals name="resource_rating">
         <item quantity="other">%1$.1f točk</item>

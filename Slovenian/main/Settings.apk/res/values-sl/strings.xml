@@ -3137,6 +3137,7 @@ Začnite z napolnjeno baterijo in telefon mora biti priključen ves čas.
      <string name="dark_wallpaper_mode">Nastavite ozadje na Temni način dela</string>
      <string name="dashboard_suggestion_condition_footer_content_description">Strni</string>
      <string name="dashboard_title">Nastavitve</string>
+     <string name="data_acceleration_summery">Uporabite WiFi in mobilne podatke za povečanje hitrosti, ko je povezava WiFi slaba</string>
      <string name="data_connection_3_5g">H</string>
      <string name="data_connection_3_5g_plus">H+</string>
      <string name="data_connection_3g">3G</string>
@@ -3317,6 +3318,7 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
      <string name="dc_light_summary_new">Preprečite obsežno utripanje in zmanjšajte obremenitev oči pri slabi svetlobi</string>
      <string name="dc_light_title">Način dela proti utripanju</string>
      <string name="dclight_unavailable_prompt">Način proti utripanju podpira samo zunanji zaslon</string>
+     <string name="dds_preference_smart_dds_switch_is_on">Pametno DDS stikalo vklopljeno</string>
      <string name="debug_app">Izberite aplikacijo za odpravljanje napak</string>
      <string name="debug_app_not_set">Aplikacija za odpravljanje napak ni nastavljena</string>
      <string name="debug_app_set">Aplikacija za odpravljanje napak: %1$s</string>
@@ -4028,6 +4030,7 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
      <string name="enable_sizecompat_freeform">Vsili spreminjanje velikosti okna</string>
      <string name="enable_sizecompat_freeform_summary">Dovoli aplikacijam z omejitvami združljivosti, da se izvajajo v oknih s spreminjanjem velikosti</string>
      <string name="enable_snapshot_screenlock">Daljši pritisk na tipko nazaj za zajem fotografije</string>
+     <string name="enable_snpn">Omogoči SNPN</string>
      <string name="enable_tcp_rtt_support">TCP RTT prikaz</string>
      <string name="enable_tcp_rtt_support_summary">Ocenite izvedbo kvalitete omrežne komunikacije</string>
      <string name="enable_terminal_summary">Omogočanje terminalske aplikacije za dostop do lokalne lupine</string>
@@ -5020,6 +5023,9 @@ Območje, kjer lahko potrdite zaklepanje zaslona, bo poravnano na desno."</strin
      <string name="handy_mode_tips_full_screen">"Kadar uporabljate gibe na celem zaslonu, lahko vključite Delo z eno roko s pomočjo menija bližnjic. Lahko uporabite tudi tipke namesto gibov celega zaslona."</string>
      <string name="haptic_agent_completion_01_content_description">Naloga je končana</string>
      <string name="haptic_cursor_movement_07_content_description">Nastavitev svetlosti</string>
+     <string name="haptic_descripthion_for_max_level">Močno</string>
+     <string name="haptic_descripthion_for_middle_level">Privzeto</string>
+     <string name="haptic_descripthion_for_min_level">Rahlo</string>
      <string name="haptic_experience">Demo</string>
      <string name="haptic_experience_details">Haptična povratna inf. &amp; dostopnost</string>
      <string name="haptic_feedback_enable_title">Vibracija na dotik</string>
@@ -5239,6 +5245,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="imitate_real_keyboard_summary">Priročno, ko vaša naprava leži na ravni površini</string>
      <string name="immediately_destroy_activities">"Ne obdrži dejavnosti"</string>
      <string name="immediately_destroy_activities_summary">Uniči vsako dejavnost ko uporabnik preneha z njo</string>
+     <string name="immersive_audio_sources">Potopni zvok</string>
      <string name="import_again">Ponovno uvozi</string>
      <string name="import_data_from_icloud">Uvozi podatke iz iClouda</string>
      <string name="import_from_xiaomi_account_hint1">"1.\u0009Prenesi Mi Talk aplikacijo in se prijavi.
@@ -7238,6 +7245,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="multi_face_name_prefix">"Obraz "</string>
      <string name="multi_face_number_reach_limit">"Ne morem dodati več kot dva obraza"</string>
      <string name="multi_network_acceleration_app_settings">Omrežna pohitritev za aplikacije</string>
+     <string name="multi_network_acceleration_summery">Povežite se z več omrežji WiFi hkrati, da povečate hitrost</string>
      <string name="multi_select_title">Izbrano: %1$s</string>
      <string name="multi_touch_points_category_title">Multi-dotik točke</string>
      <string name="multi_touch_points_preference">Nastavitev bo začela veljati ko boste ponovno zagnali napravo</string>
@@ -7394,6 +7402,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="network_4G_pure">4G</string>
      <string name="network_5G">5G</string>
      <string name="network_5G_recommended">5G (priporočeno)</string>
+     <string name="network_acceleration">Omrežni pospešek</string>
      <string name="network_alarm">"Ne utišaj spletne klice"</string>
      <string name="network_alarm_summary">"Opomba: nekatere aplikacije niso združljive s to storitvijo. %1$s"</string>
      <string name="network_alarm_summary_reg">Poglejte podprte aplikacije</string>
@@ -7401,6 +7410,8 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="network_and_internet_preferences_summary">Poveži se z javnimi omrežji.</string>
      <string name="network_and_internet_preferences_title">Omrežne nastavitve</string>
      <string name="network_assistant">Uporaba podatkov</string>
+     <string name="network_auto_switch">Preklapljaj med omrežji</string>
+     <string name="network_auto_switch_summery">"Preklopi na mobilne podatke, ko je signal WiFi šibek ali omrežje ni na voljo"</string>
      <string name="network_changed_noti_summary">Uporaba mobilnih podatkov</string>
      <string name="network_changed_noti_title">Prekinjena WiFi povezava</string>
      <string name="network_changed_notification_text">Mobilno omrežje je spremenjeno.</string>
@@ -10648,6 +10659,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
      <string name="softbank_apn_lock_toast">APN je zakljenjen. Ne morem urediti.</string>
      <string name="software_backup_info">Podatki aplikacije</string>
      <string name="software_version">Verzija programske opreme</string>
+     <string name="solid_text">Uporablja nizkofrekvenčne taktilne povratne informacije in ustrezne vizualne prehode za ustvarjanje trdne, močne izkušnje s kretnjami</string>
      <string name="sometimes_running">Včasih se izvaja (%s)</string>
      <string name="sort_avg_use">Razvrsti glede na povprečno uporabo</string>
      <string name="sort_max_use">Razvrsti glede na največjo uporabo</string>
@@ -13321,6 +13333,7 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
      <string name="wifi_password">Geslo</string>
      <string name="wifi_poor_network_detection">Izogni se slabim povezavam</string>
      <string name="wifi_poor_network_detection_summary">Omrežje WiFi uporabi samo če je na voljo dobra spletna povezava</string>
+     <string name="wifi_primary">Primarno omrežje</string>
      <string name="wifi_priority_changed" formatted="false">Stara vrednost %s | Nova vrednost %s</string>
      <string name="wifi_priority_label">Prednost</string>
      <string name="wifi_priority_settings_label">Nastavitve prednosti</string>
@@ -13347,6 +13360,7 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
      <string name="wifi_rssi_threshold_check_summary">Ne povezuj na AP če je RSSI slab</string>
      <string name="wifi_sap_no_channel_error">5-GHz pas ni na voljo v tej državi</string>
      <string name="wifi_save">Shrani</string>
+     <string name="wifi_saved_access_point">Shranjena omrežja</string>
      <string name="wifi_saved_access_points_label">Shranjena omrežja</string>
      <string name="wifi_saved_access_points_titlebar">Shranjena omrežja</string>
      <string name="wifi_saved_other_networks_tab">Druga omrežja</string>

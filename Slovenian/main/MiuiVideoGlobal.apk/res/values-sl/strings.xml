@@ -310,7 +310,8 @@
      <string name="day">dan</string>
      <string name="default_filedownloader_notification_content">Prenosi je vklopljeno.</string>
      <string name="default_filedownloader_notification_title">Prenosi</string>
-     <string name="default_localization_key">system</string>
+     <string name="default_localization_key">sistem</string>
+     <string name="default_message_body">telo sporočila</string>
      <string name="default_title">Naslov</string>
      <string name="default_upgrade_hint">"Hojla!
 Mi Video je pripravljen za posodobitev.

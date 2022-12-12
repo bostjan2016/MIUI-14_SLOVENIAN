@@ -64,6 +64,9 @@
      <string name="app_name">Beležka</string>
      <string name="app_notification_info">Beležke so zagnane v ozadju</string>
      <string name="app_widget">Beležka</string>
+     <string name="app_widget_name_create_note">Ustvarite beležke</string>
+     <string name="app_widget_name_create_todo">Ustvarite naloge</string>
+     <string name="app_widget_name_fast_entry">Bližnjice</string>
      <string name="app_widget_name_new">Beležka</string>
      <string name="application_icon">Ikona aplikacije</string>
      <string name="attachment_camera">Posnemi fotografijo</string>

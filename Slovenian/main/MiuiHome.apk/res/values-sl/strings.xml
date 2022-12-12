@@ -158,6 +158,7 @@
      <string name="app_drawer_guide_description">"Poiščite kar iščete, v svojih najljubših aplikacijah"</string>
      <string name="app_drawer_guide_title">Predal za aplikacije</string>
      <string name="app_drawer_tip_title">"Vir vsebine smo zamenjali s predalom za aplikacije."</string>
+     <string name="app_edit_icon">Uredi ikone</string>
      <string name="app_install_state">Nameščeno</string>
      <string name="application_name">MIUI zaganjalnik</string>
      <string name="apply">Uporabi</string>
@@ -306,6 +307,8 @@
      <string name="dialog_work_profile_content_2">Delovne aplikacije &amp; podatki vidni vašemu IT skrbniku</string>
      <string name="dialog_work_profile_title">Delovni profil</string>
      <string name="disable_wallpaper_scroll">Izključi pomikanje slike</string>
+     <string name="dock_and_folder_not_edit_icon_tip">Za urejanje najprej premaknite aplikacijo iz doka in mape</string>
+     <string name="dock_not_edit_icon_tip">Za urejanje najprej premaknite aplikacijo iz doka</string>
      <string name="double_tap_to_lock_title">Dvakrat tapnite da zakl. zaslon</string>
      <string name="download_action">Prenesi</string>
      <string name="drag_icon_to_homescreen_guide">Pritisnite in držite ikono aplikacije, nato jo povlecite, da dodate bližnjico na začetni zaslon</string>
@@ -317,6 +320,7 @@
      <string name="dual_app">Dvojne aplikacije</string>
      <string name="early_morning">Jutro</string>
      <string name="edit">Uredi</string>
+     <string name="edit_folder">Uredi mapo</string>
      <string name="edit_folder_title">Spremeni ime mape</string>
      <string name="edit_mode_dual_app">Napravi dvojno aplikacijo</string>
      <string name="edit_mode_group">Združi</string>
@@ -405,6 +409,12 @@
      <string name="fold_pair_install_shortcut_long_click">Pritisnite in držite, da dodate na začetni zaslon</string>
      <string name="fold_pair_installed_shortcut_launcher">Ta bližnjica že obstaja</string>
      <string name="folder_name">Mapa</string>
+     <string name="folder_not_edit_icon_tip">Za urejanje najprej premaknite aplikacijo iz mape</string>
+     <string name="folder_picker_big_text">Povečano</string>
+     <string name="folder_picker_default_text">Navadno</string>
+     <string name="folder_picker_options_tab_text">Velikost</string>
+     <string name="folder_picker_sliding_button_tab_text">Predlagajte označene aplikacije</string>
+     <string name="folder_picker_tab_text">Mapa</string>
      <string name="frame_load_failed">Ne morem naložiti okvirja</string>
      <string name="free_style_apps_title">Izberi aplikacijo</string>
      <string name="free_style_drawer_title">Vse aplikacije</string>
@@ -489,6 +499,7 @@
      <string name="image_too_small_message">"Izbrana slika ni dovolj velika"</string>
      <string name="in_app_result_by">V-Apl rezultati od</string>
      <string name="install">Namesti</string>
+     <string name="intelligent_exposed_button_summary_text">Uporabite pametne predloge, ki temeljijo na vaši uporabi aplikacije, da označite aplikacije v povečanih mapah</string>
      <string name="invalid_contact_shortcut">Napačen stik</string>
      <string name="is_setting_wallpaper_message">Nastavljam sliko za ozadje…</string>
      <string name="is_system_wallpaper_message">"Ne morem izbrisati sistemskih ozadij"</string>
@@ -616,6 +627,8 @@ Izboljšana varnost."</string>
      <string name="monday">Ponedeljek</string>
      <string name="monday_short">Pon</string>
      <string name="monday_shortest">P</string>
+     <string name="monochrome_summary">Spremenite barvo ozadja za združljive ikone</string>
+     <string name="monochrome_title">Barva ozadja</string>
      <string name="month_april">April</string>
      <string name="month_april_short">Apr</string>
      <string name="month_april_shortest">A</string>

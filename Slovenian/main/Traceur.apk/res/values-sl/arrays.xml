@@ -179,6 +179,11 @@
         <item>Preveri samo vsebino DRM</item>
         <item>Vedno preveri</item>
      </string-array>
+     <string-array name="hdcp_checking_values">
+        <item>nikoli</item>
+        <item>samo DRM</item>
+        <item>vedno</item>
+     </string-array>
      <string-array name="overlay_display_devices_entries">
         <item>Brez</item>
         <item>480p</item>
