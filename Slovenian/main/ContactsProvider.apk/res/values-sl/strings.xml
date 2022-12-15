@@ -5,7 +5,7 @@
      <string name="create_contact">Nov stik</string>
      <string name="debug_dump_database_message">V naslednjem koraku boste 1) naredili kopijo zbirke podatkov ki vključuje vse informacije o stikih in celoten dnevnik klicev v notranji pomnilnik ter 2) jo poslali. Ne pozabite izbrisati kopije iz naprave ko jo boste uspešno kopirali oziroma ko jo boste prejeli po e-pošti.</string>
      <string name="debug_dump_delete_button">Izbriši zdaj</string>
-     <string name="debug_dump_email_body">Priložena je zbirka podatkov z vsemi informacijami o stikih. Z e-pošto ravnajte previdno.</string>
+     <string name="debug_dump_email_body">Priložena je zbirka podatkov z vsemi informacijami o stikih. Z njo ravnajte previdno..</string>
      <string name="debug_dump_email_sender_picker">Izberite aplikacijo za pošiljanje datoteke</string>
      <string name="debug_dump_email_subject">Priložena zbirka podatkov o stikih</string>
      <string name="debug_dump_start_button">Začni</string>
@@ -29,6 +29,6 @@
      <string name="upgrade_out_of_memory_notification_ticker">Posodobitev stikov potrebuje več pomnilnika</string>
      <string name="upgrade_out_of_memory_notification_title">Posodobitev shrambe za stike</string>
      <string name="video_call">Videoklic</string>
-     <string name="voicemail_cleanup">Počisti govorno pošto</string>
-     <string name="voicemail_from_column">"Govorna pošta s številke "</string>
+     <string name="voicemail_cleanup">Izbriši govorno pošto</string>
+     <string name="voicemail_from_column">"Govorna pošta iz številke "</string>
 </resources>
