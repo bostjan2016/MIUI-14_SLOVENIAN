@@ -267,6 +267,14 @@
      <string name="refocus_type_relighting_small_face">3D osvetlitev deluje na fotografijah kjer obrazi zavzemajo več prostora kot tu.</string>
      <string name="refocus_type_static">Nivo zameglitve</string>
      <string name="refocus_type_video">Svetlobne steze</string>
+     <string name="saf_operation_guide_1">"Urejevalnik galerije potrebuje vaše dovoljenje, da lahko zaščiti in upravlja vaše podatke. "</string>
+     <string name="saf_operation_guide_2">Za podelitev dovoljenja, tapnite \"%1$s\" potem pa \"%2$s\".</string>
+     <string name="saf_operation_guide_param1">Naprej</string>
+     <string name="saf_operation_guide_param2">Dostop do te mape</string>
+     <string name="saf_requester_cancel">Prekliči</string>
+     <string name="saf_requester_title">Dovolite Urejevalnik galerije dostop do \"%s\"</string>
+     <string name="saf_secret_album">Zasebni album</string>
+     <string name="saf_secret_album_guide">Ta aplikacija potrebuje dovoljenja za prikaz stvari iz vašega zasebnega albuma.</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>

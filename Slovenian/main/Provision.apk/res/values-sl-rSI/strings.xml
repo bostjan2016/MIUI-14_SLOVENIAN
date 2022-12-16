@@ -65,6 +65,12 @@
      <string name="calculator_introduction">Aplikacijo lahko uporabite za računanje, pretvaranje enot in valut in oceno odplačila kredita.</string>
      <string name="camera_application_introduction">S to aplikacijo lahko fotografirate in snemate videoposnetke.</string>
      <string name="camera_introduction">Kamero uporabite za snemanje fotografij in videoposnetkov.</string>
+     <string name="carousel_cookies_content"><Data>Ko se dotaknete slik in zgodb v vrtiljaku ozadij, se v vašem brskalniku odprejo njihove polne različice. Naš zaupanja vreden tretji ponudnik vsebine lahko nato priporoči dodatno vsebino in oglase, ki so prilagojeni vašim zanimanjem. Če se strinjate z aktiviranjem te storitve, bodo v vaš brskalnik namestili piškotke, kot je opisano v &lt;a href=\"%1$s\">Pravila piškoti&lt;/a>. Če zavrnete piškotke, bo vrtiljak za ozadje še vedno deloval, vendar njegova vsebina in priporočila morda ne bodo več pomembni za vas. Svoje nastavitve lahko kadar koli spremenite v nastavitvah.</Data></string>
+     <string name="carousel_cookies_subtitle">Piškotki nam omogočajo prilagoditev vaše izkušnje z zaklenjenim zaslonom.</string>
+     <string name="carousel_cookies_title">Prilagojena vsebina in piškotki</string>
+     <string name="carousel_privacy"><Data>"Preberite in se strinjate z našim zaupanja vrednim ponudnikom storitev tretjih oseb &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a> in &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> bpred uporabo Wallpaper Carousel."</Data></string>
+     <string name="carousel_setting">Nastavite zaklenjeni zaslon</string>
+     <string name="carousel_setting_sub">Wallpaper Carousel vam bo prikazal sveže zgodbe vsakič, ko odklenete svojo napravo</string>
      <string name="carrier_introduction">"Za izboljšanje storitev lahko vaša naprava občasno pošilja informacije o verziji naprave, identifikacijske podatke naprave (vključno IMEI/IMSI/MSISDN/MAC naslov, MEID/ICCID) in približne informacije o lokaciji (vključno ID bazne postaje) mobilnemu operaterju preko WiFi-ja, mobilnih omrežij ali brezplačnega SMS-a. Operater obljublja da bo analiziral podatke samo zaradi izboljšanja kvalitete storitev ali nudenja prilagojenih storitev ali tehnologij in jih ne bo dal na vpogled tretjim osebam. Specifična izjava operaterja mora držati. Posvetujte se z operaterjem glede stroškov te storitve."</string>
      <string name="carrier_introduction_china">"Da bi vam zagotovili boljše storitve, lahko procesi, ki se izvajajo v vaši napravi (vključno s SystemHelper, RegService in Carrier Services), občasno pošiljajo podatke, povezane z vašo napravo in kartico SIM (vključno z IMEI, IMSI, MSISDN, MEID, ICCID, MAC naslov , Različico MIUI, različico Android, model naprave in osnovne specifikacije strojne opreme) ter približne informacije o lokaciji (vključno z regijo, koordinatami, identifikatorjem območja in ID bazne postaje) do operaterja prek WiFi, mobilnega podatkovnega omrežja ali brezplačnega SMS. Ponudnik obljublja, da bo ustrezne informacije analiziral samo za izboljšanje kakovosti storitev ali zagotavljanje prilagojenih storitev ali tehnologij in ne bo razkril ustreznih informacij tretjim osebam v kakršni koli obliki, ki vas osebno identificira. Velja posebna izjava ponudnika. Glede stroškov uporabe te storitve se posvetujte s svojim ponudnikom."</string>
      <string name="check_box_label"><Data>"Z vklopom te storitve se strinjate z &lt;a href=%1$s>Spletne komunikacijske storitve Xiaomi Pravila o zasebnosti&lt;/a >."</Data></string>
@@ -81,7 +87,7 @@
      <string name="congratulation_title">Namestitev je končana</string>
      <string name="content_description_complete">Končano</string>
      <string name="content_description_language_picker">Izberi jezik</string>
-     <string name="content_description_miui_version">MIUI 12.5</string>
+     <string name="content_description_miui_version">MIUI 14</string>
      <string name="content_description_start">Start</string>
      <string name="content_introduction">Center vsebine poenoti vsebino in storitve z več kanali. Tu lahko berete članke, gledate videoposnetke, pregledujete vsakodnevno predstavljene stvari in prejemate priporočila za vsebino.</string>
      <string name="continue_to_enable_accessibility">Pridržite z dvema prstoma da omogočite dostopnost.</string>

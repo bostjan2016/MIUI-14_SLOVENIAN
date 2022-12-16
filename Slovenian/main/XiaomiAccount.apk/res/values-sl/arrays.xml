@@ -70,6 +70,16 @@
         <item>Zamenjaj geslo Mi Računa</item>
         <item>Mi Račun;Račun;Račun pomoč;Center za pomoč</item>
      </string-array>
+     <string-array name="settings_search_cloud_space_share">
+        <item>Družinski prostor za shranjevanje</item>
+        <item>Ogled/vklop družinskega prostora za shranjevanje</item>
+        <item>Družinski prostor za shranjevanje;Skupna raba shrambe</item>
+     </string-array>
+     <string-array name="settings_search_family_service">
+        <item>Družinske storitve</item>
+        <item>Ogled/vklop Družinske storitve</item>
+        <item>Družina;Družinske storitve;Družinska skupna raba</item>
+     </string-array>
      <string-array name="settings_search_help_center">
         <item>Pomoč</item>
         <item>Dobite pomoč in podporo za Mi Račun</item>

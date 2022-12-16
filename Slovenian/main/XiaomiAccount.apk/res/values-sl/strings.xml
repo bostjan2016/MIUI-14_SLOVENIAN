@@ -867,6 +867,11 @@ ki ste ga prejeli v vaš poštni predal
      <string name="push_notify_dialog_title">Kontrola računa</string>
      <string name="pwd_width_phone_number_or_mail_num">"Geslo ne sme vsebovati vaše številke telefona, e-pošte ali ID Mi Računa"</string>
      <string name="qq">QQ</string>
+     <string name="qrcode_login_entry_text"><Data>Ste prijavljeni v drugi napravi? Uporabite &lt;a href=>hitro prijavo&lt;/a></Data></string>
+     <string name="qrcode_login_load_refresh"><Data>Ta koda QR je potekla. Tapnite za &lt;a href=>osvežitev&lt;/a>.</Data></string>
+     <string name="qrcode_login_load_retry"><Data>"Ne morem naložiti. &lt;a href=>Poskusite znova&lt;/a>."</Data></string>
+     <string name="qrcode_login_message">"Skenirajte s telefonom ali tablico Xiaomi, aplikacijo Skener, Mi Home ali drugo aplikacijo Xiaomi za prijavo"</string>
+     <string name="qrcode_login_title">Skenirajte za prijavo</string>
      <string name="recycle_phone_notification_msg">Kaže da je vaša številka reciklirana. Pritisnite za posodobitev.</string>
      <string name="recycle_phone_notification_title">Varnostno tveganje Mi Računa</string>
      <string name="remove_account_notice">Kaj želite storiti s sporočili, stiki in ostalimi podatki ki niso sinhronizirani z vašega Mi Računa?</string>

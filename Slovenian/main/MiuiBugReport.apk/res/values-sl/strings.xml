@@ -201,6 +201,8 @@ Pošljite to kodo nadzorniku."</string>
      <string name="facebook_login_btn_content_description">Prijava z Facebook</string>
      <string name="failed_dup_secure_phone_number">Ta telefonska številka je že povezana z drugim Mi računom</string>
      <string name="failed_to_fetch_fql">"Podatkov o pogostih vprašanjih ni mogoče dobiti, preverite omrežno povezavo"</string>
+     <string name="feedback_account_inconsistent_login_hint">Kaže da ste zamenjali račun. Prijavite se v svoj prejšnji račun Xiaomi.</string>
+     <string name="feedback_account_login_hint">Najprej se prijavite v svoj račun Xiaomi</string>
      <string name="feedback_answer_detail_feedback_resolved">Da</string>
      <string name="feedback_answer_detail_feedback_result">Hvala za povratne informacije!</string>
      <string name="feedback_answer_detail_feedback_title">Je to kaj pomagalo?</string>
@@ -425,6 +427,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="login_by_local_phone_long_text">Vpis</string>
      <string name="login_by_local_phone_short_text">Vpis</string>
      <string name="login_other">Drug Mi račun</string>
+     <string name="login_out">Odjava</string>
      <string name="login_register_by_local_phone_long_text">Ustvari račun</string>
      <string name="login_with_sns">Drugi načini za prijavo</string>
      <string name="logo_title">Povratne informacije</string>
