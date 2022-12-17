@@ -404,6 +404,21 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="lack_perm_msg">Mi Mover zahteva naslednja dovoljenja: &lt;b&gt;%s&lt;/b&gt;.</string>
      <string name="lack_perm_title">Zahtevana so dovoljenja</string>
      <string name="launcher">Nastavitev začetnega zaslona</string>
+     <string name="league_acquire_accept">Strinjam se</string>
+     <string name="league_acquire_message1">Za prenos aplikacij tretjih oseb in njihovih podatkov iz te naprave v vašo novo napravo %s so potrebna naslednja dovoljenja:</string>
+     <string name="league_acquire_message2">Dovolite Mi Moverju dostop do podatkov aplikacij tretjih oseb</string>
+     <string name="league_acquire_message3">To je enkratno dovoljenje, ki se uporablja samo za prenos podatkov. Ko je prenos končan, bo Mi Mover samodejno prenehal uporabljati to dovoljenje.</string>
+     <string name="league_acquire_message4">"Če se ne strinjate z dodelitvijo tega dovoljenja, ne boste mogli prenesti aplikacij tretjih oseb in njihovih podatkov."</string>
+     <string name="league_acquire_refuse">"Ne strinjam se"</string>
+     <string name="league_acquire_title">Potrebna so dovoljenja</string>
+     <string name="league_check_service_content">"Mi Mover zagotavlja storitve prenosa za %s in trenutno ni na voljo."</string>
+     <string name="league_check_service_title">Prenos z %s</string>
+     <string name="league_client_acquire">Odpri %s</string>
+     <string name="league_client_hint_text">Cloning Alliance lahko pomaga pri prenosu podatkov aplikacij tretjih oseb (npr. zgodovine klepetov WeChat in QQ). Tapnite \"%s\" za nadaljevanje ali tapnite \"Ne zdaj\" za nadaljevanje brez prenosa aplikacij in podatkov tretjih oseb.</string>
+     <string name="league_client_install">Namesti %s</string>
+     <string name="league_client_title">Prenos z Mi Mover</string>
+     <string name="league_client_traditional">Ne zdaj</string>
+     <string name="league_client_update">Posodobi %s</string>
      <string name="less_than_1_minute">Manj kot 1 minuta</string>
      <string name="loading_data">Samo trenutek…</string>
      <string name="location_permission_desc">Za iskanje naprav v bližini</string>
@@ -702,6 +717,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
 - Tekstovna sporočila
 - Shramba"</string>
      <string name="request_all_permission_title">Zahtevano je dovoljenje</string>
+     <string name="request_permission">Dovoli</string>
      <string name="restore_data_to_device_content">"Vaše stvari so sinhronizirane z Mi Cloudom.
 Prijavite se v svoj Mi Račun da jih povrnete."</string>
      <string name="restore_data_to_device_title">Vrni stvari v to napravo</string>

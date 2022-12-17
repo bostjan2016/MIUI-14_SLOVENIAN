@@ -275,6 +275,8 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="err_toast_msg_not_support_audio_protocol">"Predvajanja zvoka ni mogoče prenesti v to napravo"</string>
      <string name="err_toast_msg_not_support_video_protocol">"Ta naprava ne podpira MIUI+"</string>
      <string name="err_toast_msg_retry_later">"Tega dejanja ni bilo mogoče izvesti. Počakajte minuto ali dve in poskusite znova."</string>
+     <string name="err_toast_msg_try_switch_network">Povežite svojo mobilno napravo in računalnik z istim omrežjem WiFi</string>
+     <string name="err_toast_msg_upgrade_pc_version">Posodobite MIUI+ v računalniku, da boste lahko uporabljali to storitev</string>
      <string name="error_icon_content_description">Napaka</string>
      <string name="evening">Večer</string>
      <string name="expand_button_title">Napredno</string>
@@ -366,6 +368,7 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="hang_up_alert_dialog_neg">Prekliči</string>
      <string name="hang_up_alert_dialog_pos">V redu</string>
      <string name="hang_up_alert_dialog_title">O predvajanju ko je zaslon izključen</string>
+     <string name="headset_circulate_connect_success">povezano</string>
      <string name="help_page_text_01">Pomoč</string>
      <string name="help_page_text_02">Kaj je predvajanje?</string>
      <string name="help_page_text_03">"Predvajanje projecira stvari iz zaslona vašega telefona na večji zunanji monitor. Omogoča vam deljenje slik in videoposnetkov z prijatelji in družino, pa tudi da skupaj igrate igre. Poraba energije vašega telefona se pri uporabi ponavadi ne spremeni."</string>

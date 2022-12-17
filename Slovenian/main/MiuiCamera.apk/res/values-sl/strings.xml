@@ -230,7 +230,6 @@
      <string name="accessibility_ultra_wide_on">Ultra široki kot je vklj.</string>
      <string name="accessibility_video_btn_play">Predvajaj videoposnetek</string>
      <string name="accessibility_video_capture_button">Tipka za snemanje fotografij med videoposnetkom</string>
-     <string name="accessibility_video_module_picker">Izbira modula</string>
      <string name="accessibility_video_pause_button">Snemanje je pavzirano</string>
      <string name="accessibility_video_resume_button">Snemanje se nadaljuje</string>
      <string name="accessibility_whitebalance_custom_panel_on">Plošča za ročno nastavljanje</string>
@@ -743,7 +742,7 @@ in za trenutek zapustite pregled"</string>
      <string name="color_effect_live_hongkong">Bauhinia</string>
      <string name="color_effect_live_mousse">Mousse</string>
      <string name="color_effect_live_none">Normalno</string>
-     <string name="color_effect_live_solar">Nebesško modra</string>
+     <string name="color_effect_live_solar">Nebeško modra</string>
      <string name="color_effect_live_years">Sepia</string>
      <string name="color_enhance_mode">Izboljšane barve</string>
      <string name="config_name_group">Skupinski selfie</string>
