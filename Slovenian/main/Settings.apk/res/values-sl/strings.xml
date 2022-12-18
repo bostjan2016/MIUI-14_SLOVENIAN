@@ -2766,6 +2766,7 @@ Ko napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dv
      <string name="common_issue">FAQ</string>
      <string name="common_settings">Hitre nastavitve</string>
      <string name="complete_parameters">Vse specifikacije</string>
+     <string name="complete_parameters_new">Podrobne informacije in specifikacije</string>
      <string name="complete_settings">Splošne nastavitve</string>
      <string name="compute_backup_info">Pridobivam podatke o varnostni kopiji...</string>
      <string name="compute_delete_contact_info">Pridobivanje podrobnosti...</string>
@@ -5296,7 +5297,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="input_method">Vnosna metoda</string>
      <string name="input_method_bottom_close">Izključeno</string>
      <string name="input_method_bottom_open">Vključeno</string>
-     <string name="input_method_category">Input Method</string>
+     <string name="input_method_category">Način vnosa</string>
      <string name="input_method_clipboard_settings">Nastavitve medpomnilnika</string>
      <string name="input_method_cloud_data_title">Medpomnilnik Clouda</string>
      <string name="input_method_cloud_paste_mode_bubble_des">"Prikazal se bo oblaček ko se pojavi nova vsebina v medpomnilniku Clouda. Tapnite oblaček da boste vnesli kopirani tekst."</string>
@@ -9690,8 +9691,8 @@ Ko je aplikacija pripeta, lahko pripeta aplikacija odpre druge aplikacije in so 
      <string name="search_gps">GPS;Dostop do lokacije;Storitev lociranja</string>
      <string name="search_handy_mode">Delo z eno roko;Delo z eno roko;Delo z eno roko;Ena roka</string>
      <string name="search_hint">Iskanje nastavitev</string>
-     <string name="search_history_clear_description">Clear search history</string>
-     <string name="search_history_description">Search history</string>
+     <string name="search_history_clear_description">Izbriši zgodovino iskanja</string>
+     <string name="search_history_description">Zgodovina iskanja</string>
      <string name="search_home_key">Začetna;Tipka Domov;Tipka Začetna</string>
      <string name="search_input_hint">Iskanje nastavitev</string>
      <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
@@ -9757,7 +9758,7 @@ Ko je aplikacija pripeta, lahko pripeta aplikacija odpre druge aplikacije in so 
      <string name="search_radio_controls_title">Več;Brezžično</string>
      <string name="search_recents_queries_label">Zadnja iskanja</string>
      <string name="search_restriction_nfc_enable_title">NFC</string>
-     <string name="search_result_feedback_text">"Couldn't find results"</string>
+     <string name="search_result_feedback_text">"Nič ne najdem"</string>
      <string name="search_results_label">Rezultati</string>
      <string name="search_results_title">Nastavitve</string>
      <string name="search_ring_volume">Glasnost;Glasnosti;Melodija zvonjenja &amp; obvestila;Melodija zvonjenja;Melodije zvonjenja;Alarm;Glasba</string>
@@ -13296,8 +13297,8 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
      <string name="wifi_no_related_sim_card">Ni podatkov</string>
      <string name="wifi_no_sim_card">Ni kartice SIM</string>
      <string name="wifi_no_user_cert_warning">Potreben je certifikat.</string>
-     <string name="wifi_non_persistent_mac_randomization">Wi-Fi non-persistent MAC randomization</string>
-     <string name="wifi_non_persistent_mac_randomization_summary">"When this mode is enabled, this device's MAC address may change each time it connects to a network that has MAC randomization enabled."</string>
+     <string name="wifi_non_persistent_mac_randomization">WiFi neobstojna MAC naključna izbira</string>
+     <string name="wifi_non_persistent_mac_randomization_summary">"Ko je ta način omogočen, se lahko naslov MAC te naprave spremeni vsakič, ko se poveže z omrežjem, ki ima omogočeno naključno izbiro MAC."</string>
      <string name="wifi_not_in_range">Ni v obsegu</string>
      <string name="wifi_not_in_range_message">Omrežje ni v dosegu</string>
      <string name="wifi_notify_cmcc_connected_summary">Pokaži obvestilo ko je povezano na CMCC omrežje</string>
