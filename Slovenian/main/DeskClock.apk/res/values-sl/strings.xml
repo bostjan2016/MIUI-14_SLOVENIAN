@@ -197,7 +197,7 @@
      <string name="fmt_date_long_month_day">dd.MM</string>
      <string name="fmt_date_long_year_month">MMMM, yyyy</string>
      <string name="fmt_date_long_year_month_day">dd.MM. yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
+     <string name="fmt_date_numeric_day">d</string>
      <string name="fmt_date_numeric_month">MM.</string>
      <string name="fmt_date_numeric_month_day">dd.MM.</string>
      <string name="fmt_date_numeric_year">yyyy</string>
@@ -242,6 +242,8 @@
      <string name="fmt_weekday_time">W T</string>
      <string name="fmt_weekday_time_timezone">W T z</string>
      <string name="fmt_weekday_timezone">W z</string>
+     <string name="force_start_permission_desc">"Omogočite normalno delovanje alarmov, tudi ko ste zaprli aplikacijo"</string>
+     <string name="force_start_permission_title">Samodejni zagon</string>
      <string name="force_touch_add_alarm">Dodaj alarm</string>
      <string name="force_touch_enter_stopwatch">Štoparica</string>
      <string name="force_touch_enter_timer">Kronometer</string>
@@ -250,7 +252,7 @@
      <string name="friday_shortest">P</string>
      <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
      <string name="go_back">Nazaj</string>
-     <string name="guide_newfunc_content">Zdaj lahko filtrirati formate datotek, preuredite razpored stvari in prehajati iz različnih prikazov na dotik bližnjice.</string>
+     <string name="guide_newfunc_content">Zdaj lahko filtrirate formate datotek, preuredite razpored stvari in prehajate iz različnih prikazov na dotik bližnjice.</string>
      <string name="guide_newfunc_title">Nova storitev</string>
      <string name="holiday_update">Na voljo je posodobitev državnih praznikov</string>
      <string name="holiday_update_fail">"Ne morem posodobiti"</string>

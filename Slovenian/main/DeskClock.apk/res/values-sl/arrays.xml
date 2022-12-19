@@ -114,8 +114,8 @@
      </string-array>
      <string-array name="volume_button_setting_entries">
         <item>"Ne naredi nič"</item>
-        <item>"Zavrni"</item>
-        <item>"Odloži alarm"</item>
+        <item>"Dremanje"</item>
+        <item>"Opusti"</item>
      </string-array>
      <string-array name="weather_tips_value">
         <item>Zmanjšajte aktivnosti na odprtem</item>
