@@ -92,7 +92,7 @@
      <string name="bedtime_analysis_more">Več podatkov</string>
      <string name="bedtime_banner_desc">Dosledno spanje je pomembno</string>
      <string name="bedtime_banner_guide_desc">Nastavite čas za spanje</string>
-     <string name="bedtime_guide_back_desc">"Ne boste mogli dobivati opozoril časa za spanje če izidete. Izhod vseeno?"</string>
+     <string name="bedtime_guide_back_desc">"Če zdaj zaprete, ne boste mogli prejemati opozoril o času za spanje. Vseeno zaprem?"</string>
      <string name="bedtime_manage">Urejaj čas za spanje</string>
      <string name="bedtime_manage_desc">Nastavite opomnike časa za spanje in spremljajte spanje</string>
      <string name="bedtime_manage_open">Nastavite čas za spanje</string>
@@ -101,7 +101,7 @@
      <string name="bedtime_repeat_desc">Dnevi prejema opomnikov</string>
      <string name="bedtime_repeat_type">Razpored</string>
      <string name="bedtime_setting_complete">Lepo spite!</string>
-     <string name="bedtime_setting_complete_desc">Spremljajte svoj novi razpored spanja boste delovali na najboljši način</string>
+     <string name="bedtime_setting_complete_desc">Sledite svojemu novemu urniku spanja, da boste delovali kar najbolje</string>
      <string name="bedtime_setting_no_disturbance">Vključim DND ko spite?</string>
      <string name="bedtime_setting_no_disturbance_desc">Melodije zvonjenja, zvoki obvestil in vibracije bodo izključeni dokler se ne prebudite</string>
      <string name="bedtime_setting_repeat_type">Kdaj boste uporabljali vaš razpored za spanje?</string>
@@ -197,7 +197,7 @@
      <string name="fmt_date_long_month_day">dd.MM</string>
      <string name="fmt_date_long_year_month">MMMM, yyyy</string>
      <string name="fmt_date_long_year_month_day">dd.MM. yyyy</string>
-     <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_day">d</string>
      <string name="fmt_date_numeric_month">MM.</string>
      <string name="fmt_date_numeric_month_day">dd.MM.</string>
      <string name="fmt_date_numeric_year">yyyy</string>
@@ -242,8 +242,6 @@
      <string name="fmt_weekday_time">W T</string>
      <string name="fmt_weekday_time_timezone">W T z</string>
      <string name="fmt_weekday_timezone">W z</string>
-     <string name="force_start_permission_desc">"Omogočite normalno delovanje alarmov, tudi ko ste zaprli aplikacijo"</string>
-     <string name="force_start_permission_title">Samodejni zagon</string>
      <string name="force_touch_add_alarm">Dodaj alarm</string>
      <string name="force_touch_enter_stopwatch">Štoparica</string>
      <string name="force_touch_enter_timer">Kronometer</string>
@@ -252,7 +250,7 @@
      <string name="friday_shortest">P</string>
      <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
      <string name="go_back">Nazaj</string>
-     <string name="guide_newfunc_content">Zdaj lahko filtrirate formate datotek, preuredite razpored stvari in prehajate iz različnih prikazov na dotik bližnjice.</string>
+     <string name="guide_newfunc_content">Zdaj lahko filtrirati formate datotek, preuredite razpored stvari in prehajati iz različnih prikazov na dotik bližnjice.</string>
      <string name="guide_newfunc_title">Nova storitev</string>
      <string name="holiday_update">Na voljo je posodobitev državnih praznikov</string>
      <string name="holiday_update_fail">"Ne morem posodobiti"</string>
@@ -269,13 +267,13 @@
      <string name="korea_permission_calendar">Koledar</string>
      <string name="korea_permission_calendar_desc">Za dostop do informacij o dogodku in pošiljanje opomnika</string>
      <string name="korea_permission_phone">Telefon</string>
-     <string name="korea_permission_phone_desc">Za dostop statusa naprave in utišavanje opomnikov med klicem</string>
+     <string name="korea_permission_phone_desc">Za dostop statusa naprave in utišanje opomnikov med klicem</string>
      <string name="korea_permission_storage">Shramba</string>
      <string name="korea_permission_storage_desc">Za shranjevanje alarma</string>
      <string name="label">Nastavi oznako</string>
      <string name="label_input_desc">Ta tekst bo prikazan na zaslonu ko se alarm izključi</string>
      <string name="label_input_hint">Vnesi tekst</string>
-     <string name="label_pref_summary">Besedilo tega alarma</string>
+     <string name="label_pref_summary">Oznaka</string>
      <string name="lap">Krog</string>
      <string name="lap_num">Krog</string>
      <string name="last_step">Nazaj</string>
@@ -293,7 +291,7 @@
      <string name="life_post_setting_open_desc">Izključite ponavljanje alarma med 04:00 in 10:00 da boste poslušali informacije o vremenu</string>
      <string name="life_post_setting_open_subtitle">Pokaži vremensko napoved po izključitvi alarma med 4:00 in 9:30</string>
      <string name="life_post_setting_open_summary">Vključi informacije o vremenu po prvem izključenem alarmu med 4:00 in 10:00</string>
-     <string name="life_post_setting_open_title">Sprejmi jutranja poročila</string>
+     <string name="life_post_setting_open_title">Prejmite jutranja poročila</string>
      <string name="life_post_setting_wake_up_list_title">Zgodovina bujenja</string>
      <string name="life_post_wake_up_acumu_day_title">Število dni</string>
      <string name="life_post_wake_up_item_acumu_day_title">Število dni</string>
@@ -305,7 +303,7 @@
      <string name="life_post_weather_invalid">Tapnite da boste dobili informacije o vremenu</string>
      <string name="life_post_weather_no_network">Povežite se na omrežje da boste posodobili informacije o vremenu</string>
      <string name="life_post_weather_temperature_centigrade">°</string>
-     <string name="listen_news_privacy">Zaradi ponujanja personaliziranih storitev in vključevanja jutranjih novic v vaše alarme se mora ura povezati na splet. Pred uporabo preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?;</string>
+    <string name="listen_news_privacy"><Data>Če želite zagotoviti prilagojene storitve in vključiti jutranje novice v vaše alarme, mora ura vzpostaviti povezavo s spletom. Preden začnete uporabljati uro, morate prebrati in se strinjati z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt; /a>. Se strinjate?</Data></string>
      <string name="load_more_fail">Ne morem naložiti</string>
      <string name="loading_ringtone">Nalagam zvonjenja…</string>
      <string name="menu_add_worldclock">Dodaj uro</string>
@@ -352,7 +350,7 @@
      <string name="module_download_data_msg_timer">Ura mora prenesti avdio datoteke za časovnik hrupa okolice. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesem?</string>
      <string name="module_download_fail">"Ne morem prenesti dodatni zvok"</string>
      <string name="module_download_failure">"Ne morem prenesti zvoka. Preverite omrežne nastavitve in poskusite ponovno."</string>
-     <string name="module_download_msg">Ura mora prenesti avdio datoteke za MIUI pametne alarme. Pametni alarmi vsebujejo avdio storitve ki omogočajo vklop informacij o trenutnem vremenu v alarme. Prenesem?</string>
+     <string name="module_download_msg">Če želite omogočiti pametne alarme MIUI, mora ura prenesti zvočne datoteke. Pametni alarmi vsebujejo zvočne storitve, ki omogočajo vključitev trenutnih vremenskih informacij v alarme. Prenesem?</string>
      <string name="module_download_msg_golbal">Da bodo MIUI pametni alarmi na voljo so potrebne avdio datoteke. Prenesem?</string>
      <string name="module_download_msg_replace">Na voljo je posodobljen zvok za pametne alarme. Se povežem na omrežje in prenesem?</string>
      <string name="module_download_msg_timer">Ura mora prenesti avdio datoteke za merjenje hrupa okolice. Prenesem?</string>
@@ -543,7 +541,7 @@
      <string name="sleep_notification_title">Čas je za posteljo</string>
      <string name="sleep_record">Spremljajte spanje</string>
      <string name="sleep_record_desc">Vključite za začetek snemanja podatkov o stanju spanja</string>
-     <string name="sleep_record_desc_detailed">"Ponuja Mi Zdravje. Po vklopu Mi Zdravje samodejno beleži vaše spanje na osnovi uporabe telefona, statistike aktivnosti in časa ki ste ga nastavili (kdaj ste zaspali/se zbudili), z orikazom statistike v obliki lestvice. Za točne podatke dovolite aplikaciji samodejni zagon. Vsi povezani podatki bodo shranjeni lokalno v vaši napravi.
+     <string name="sleep_record_desc_detailed">"Ponuja Mi Zdravje. Po vklopu Mi Zdravje samodejno beleži vaše spanje na osnovi uporabe telefona, statistike aktivnosti in časa ki ste ga nastavili (kdaj ste zaspali/se zbudili), z prikazom statistike v obliki lestvice. Za točne podatke dovolite aplikaciji samodejni zagon. Vsi povezani podatki bodo shranjeni lokalno v vaši napravi.
 "</string>
      <string name="sleep_record_desc_detailed_new">Sledenje spanju omogoča storitev Mi Fitness Sleep. Če vklopite to storitev, bo Mi Fitness samodejno zbiral in prikazoval podatke o vašem spanju glede na vašo uporabo telefona, dejavnost ter čas spanja in zbujanja, ki ste ga nastavili. Za natančnejše sledenje spanju dovolite Mi Fitness, da se samodejno zažene.</string>
      <string name="sleep_record_no_data">"Vaša statistika bo prikazana tu
@@ -665,7 +663,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="upcoming_alarm_hint">Zdaj lahko izključite ta alarm</string>
      <string name="update_health_app">Posodobite Mi Zdravje</string>
      <string name="update_health_app_desc">Storitev ponuja Mi Zdravje. Posodobite Mi Zdravje na najnovejšo verzijo.</string>
-     <string name="update_health_app_desc_new">Funkcijo sledenja spanju zagotavlja Mi Fitness. Za dostop do povezanih funkcij posodobite Mi Fitness na najnovejšo različico.</string>
+     <string name="update_health_app_desc_new">Storitev sledenja spanju zagotavlja Mi Fitness. Za dostop do povezanih storitev posodobite Mi Fitness na najnovejšo različico..</string>
      <string name="update_health_app_new">Posodobi Mi Fitness</string>
      <string name="update_it">Posodobi</string>
      <string name="update_notification_info">Posodabljanje podatkov v ozadju…</string>
