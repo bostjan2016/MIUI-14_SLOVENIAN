@@ -34,7 +34,7 @@
      <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
      <string name="abc_toolbar_collapse_description">Strni</string>
      <string name="about">O aplikaciji</string>
-     <string name="action_back">Natrag</string>
+     <string name="action_back">Nazaj</string>
      <string name="action_settings">Nastavitve</string>
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="ad">Oglas</string>
@@ -59,7 +59,7 @@
      <string name="auth_fail">"Ne morem najti avtorizacije"</string>
      <string name="average_speed">Povprečna hitrost</string>
      <string name="bind_xunlei_account">Dodan Xunlei Račun %1$s</string>
-     <string name="bt_download">Prevzemi</string>
+     <string name="bt_download">Prenosi</string>
      <string name="bt_path_not_exit">"Ta pot ne obstaja"</string>
      <string name="bt_restart_dialog_message">Ponovno zaženem vse prenose v BT mapi?</string>
      <string name="bt_restart_dialog_title">Ponovno zaženi vse prenose</string>
@@ -108,7 +108,7 @@ Pošljite to kodo tehnikom."</string>
      <string name="dialog_btn_ok">V redu</string>
      <string name="dialog_btn_ok_disabled_net">Nastavitve omrežja</string>
      <string name="dialog_cannot_resume">Prenos prekinjen, zanite ponovno.</string>
-     <string name="dialog_confirm_delete_checkbox_message">Izbrišite tudi lokalne datoteke</string>
+     <string name="dialog_confirm_delete_checkbox_message">Izbriši tudi lokalne datoteke</string>
      <string name="dialog_confirm_delete_downloads_message">Izbrišem opravilo %d ?</string>
      <string name="dialog_confirm_delete_the_download_item_message">Izbriši ta opravila</string>
      <string name="dialog_content_limit0">Omeji prenose</string>
@@ -295,18 +295,17 @@ Pošljite to kodo tehnikom."</string>
      <string name="hint">Pozor</string>
      <string name="home_page_new_download_guide">Novi prenosi gredo sem</string>
      <string name="immediately_a_renewal">Obnovi zdaj</string>
-     <string name="info_flow_only_load_wifi">Preberi ob povezavi na WiFi</string>
+     <string name="info_flow_only_load_wifi">Vsebino nalagaj samo prek WiFi</string>
      <string name="info_flow_setting">Nastavitve</string>
      <string name="info_flow_show">Priporočeni viri</string>
-     <string name="info_rank_show">Priporočeni popularne stvari</string>
+     <string name="info_rank_show">Priporočene popularne stvari</string>
      <string name="input_valid_address">Vnesite veljaven naslov</string>
      <string name="install">Namesti</string>
      <string name="install_failed">"Ne morem namestiti %1$s"</string>
      <string name="installing">Nameščanje…</string>
      <string name="insufficient_space">Ni dovolj prostora za shranjevanje</string>
      <string name="invalid_address">Naslov ki ste ga vnesli ni veljaven</string>
-     <string name="jump_rank_hint">"Oglejte si današnjo lestvico prenosov"</string>
-     <string name="jump_rank_hint2">Oglejte si najbolj priljubljene prenose</string>
+     <string name="jump_rank_hint">"Preglejte današnje prevzeme &gt;"</string>
      <string name="keep_queued_download">Ohrani</string>
      <string name="kilobyteShort">KB</string>
      <string name="load_finish_hint">Lahko nadaljujete jutri</string>
@@ -322,7 +321,7 @@ Pošljite to kodo tehnikom."</string>
      <string name="menu_des_vip">Xunlei članstvo</string>
      <string name="menu_enter_edit_mode">Urejevalnik</string>
      <string name="menu_preferences">Nastavitve prenosov</string>
-     <string name="menu_title_fileexplore">Datoteke</string>
+     <string name="menu_title_fileexplore">Raziskovalec</string>
      <string name="menu_title_pause_all">Ustavi vse</string>
      <string name="menu_title_resume_all">Začni vse</string>
      <string name="menu_title_settings">Nastavitve</string>
@@ -404,7 +403,7 @@ Pošljite to kodo tehnikom."</string>
      <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
      <string name="net_error">"Ne morem se povezati na omrežje, poskusite ponovno"</string>
      <string name="network_error">"Ne morem se povezati na omrežje"</string>
-     <string name="new_add">Novo</string>
+     <string name="new_add">Nov prenos</string>
      <string name="new_add_bt">Dodaj torrent</string>
      <string name="new_add_bt2">Dodaj torrent nalogo</string>
      <string name="night">Večer</string>
@@ -414,7 +413,7 @@ Pošljite to kodo tehnikom."</string>
      <string name="no_result_for_keyword">"Ne najdem \"%1$s\""</string>
      <string name="no_share_file">"Ne morem deliti te slike"</string>
      <string name="no_share_file_content">Izbrana datoteka je že izbrisana</string>
-     <string name="no_share_files">"Nemorem deliti datotek ki so bile izbrisane"</string>
+     <string name="no_share_files">"Ne morem deliti datotek ki so bile izbrisane"</string>
      <string name="no_share_files_content">"Nekatere datoteke ki jih želite deliti so izbrisane. Ostale datoteke so uspešno podeljene."</string>
      <string name="no_support_modify_path">"Zaradi varnostnih razlogov ni mogoče spremeniti lokacije za prenesene stvari"</string>
      <string name="no_vip_info">Nabavite Xunlei članstvo da pohitrite prenose</string>
@@ -446,9 +445,9 @@ Pošljite to kodo tehnikom."</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
      <string name="path_no_available">"Pot ni na voljo"</string>
      <string name="path_not_available">Pot ni na voljo</string>
-     <string name="pause_download">Odmor</string>
-     <string name="paused">Pavza</string>
-     <string name="paused_by_app">Ustavljeno</string>
+     <string name="pause_download">Premor</string>
+     <string name="paused">Premor</string>
+     <string name="paused_by_app">Premor</string>
      <string name="paused_insufficient_space">Na čakanju</string>
      <string name="paused_queued_for_wifi">Čakam na WiFi</string>
      <string name="paused_unknown">Neznana napaka</string>
@@ -460,7 +459,7 @@ Pošljite to kodo tehnikom."</string>
      <string name="petabyteShort">PB</string>
      <string name="pm">pop.</string>
      <string name="pref_download_revert_default">Shrani na privzeto lokacijo</string>
-     <string name="pref_download_settings_title">Omejitev velikosti prenosa</string>
+     <string name="pref_download_settings_title">Prenos prek mobilnih podatkov je omejen</string>
      <string name="pref_download_storage_path">Naredi novo mapo za prenose</string>
      <string name="pref_download_storage_path_2">Lokacija za prenesene stvari</string>
      <string name="pref_permission_description">Podrobnosti o dovoljenjih</string>
@@ -674,7 +673,7 @@ Pošljite to kodo tehnikom."</string>
      <string name="toast_only_wifi_download">Povežite se na WiFi za prenos</string>
      <string name="toast_update_data_limit_fail">"Ne morem nastaviti"</string>
      <string name="toast_xunlei_engine_open">"Xunlei pohitritev prenosov vključena.      
-  Ta funcija ni priporočljiva izven Kitajske"</string>
+  Ta storitev ni priporočljiva izven Kitajske"</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
      <string name="torrent_file_error">"Ne morem analizirati te torrent datoteke"</string>

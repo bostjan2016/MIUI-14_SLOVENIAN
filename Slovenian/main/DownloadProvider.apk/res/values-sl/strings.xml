@@ -37,11 +37,11 @@
      <string name="button_queue_for_wifi">Vrsta prenosov</string>
      <string name="button_start_now">Začni</string>
      <string name="button_wait_for_wifi">Čakaj</string>
-     <string name="channel_active">Aktivni prenos</string>
+     <string name="channel_active">Prenosi v teku</string>
      <string name="channel_complete">Prenos je končan</string>
      <string name="channel_insufficient_space">Premalo prostora</string>
      <string name="channel_waiting">Prenos na čakanju</string>
-     <string name="clear_data">Očisti</string>
+     <string name="clear_data">Izbriši</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
      <string name="copy">Kopiraj</string>
@@ -56,7 +56,7 @@
      <string name="dialog_content_limit0">Omeji prenose</string>
      <string name="dialog_content_limit_max">Neomejeno</string>
      <string name="dialog_data_limit_button1">Čakaj na WiFi</string>
-     <string name="dialog_data_limit_button2">Prenesi zdaj</string>
+     <string name="dialog_data_limit_button2">Prenesi</string>
      <string name="dialog_data_limit_msg1">%s mobilnih podatkov se bo porabilo za prenos te datoteke. Prenesem zdaj?</string>
      <string name="dialog_data_limit_msg3">Spremeni omejitev</string>
      <string name="dialog_data_limit_title">Opozorilo porabe podatkov</string>
@@ -65,7 +65,7 @@
      <string name="dialog_file_missing_title">"Datoteke ni mogoče odpreti"</string>
      <string name="dialog_insufficient_space_on_cache">Na notranjem pomnilniku ni dovolj prostora</string>
      <string name="dialog_insufficient_space_on_external">Na zunanjem pomnilniku ni dovolj prostora</string>
-     <string name="dialog_msg_disabled_net">%1$s omejeni prenosi za trenutno omrežje. Tapnite Nastavitve omrežja, da odprete aplikacijo Varnost.</string>
+     <string name="dialog_msg_disabled_net">%1$s omejenih prenosov za trenutno omrežje. Tapnite Nastavitve omrežja, da odprete aplikacijo Varnost..</string>
      <string name="dialog_not_show_again">"Ne kaži več"</string>
      <string name="dialog_tip_limit">Opozori pri prenosu datoteke večje od %s</string>
      <string name="dialog_tip_limit0">Vedno opozori</string>
@@ -73,10 +73,10 @@
      <string name="dialog_title_disabled_net">Dostop do spleta</string>
      <string name="download">Prenosi</string>
      <string name="download_apk_desktop_installing">Nameščanje…</string>
-     <string name="download_apk_desktop_pause">Pavzirano</string>
+     <string name="download_apk_desktop_pause">Premor</string>
      <string name="download_apk_desktop_pending">Na čakanju</string>
      <string name="download_apk_desktop_running">Prenašanje…</string>
-     <string name="download_error">Neuspešno</string>
+     <string name="download_error">Ne morem prenesti</string>
      <string name="download_error_download_file_not_exists">"Datoteka ne obstaja"</string>
      <string name="download_error_insufficient_space">Premalo prostora</string>
      <string name="download_filesize_unknown">Neznano</string>
@@ -92,7 +92,7 @@
      <string name="download_status_paused">Premor</string>
      <string name="download_success">Prenos končan</string>
      <string name="download_unknown_title">Brez naslova</string>
-     <string name="download_wait_connect">Čakanje povezave</string>
+     <string name="download_wait_connect">Čakanje na povezavo</string>
      <string name="downloading">Prenos…</string>
      <string name="downloading_empty">Prazno</string>
      <string name="early_morning">Jutro</string>
@@ -228,8 +228,8 @@
      <string name="night">Večer</string>
      <string name="noon">Poldne</string>
      <string name="not_set">Ni nastavljeno</string>
-     <string name="notif_text_engine_off">Xunlei accelerator je izključen.</string>
-     <string name="notif_text_engine_on">Pospešitev prenašanja…(samo za Kitajsko)</string>
+     <string name="notif_text_engine_off">Xunlei pospeševanje je izključen.</string>
+     <string name="notif_text_engine_on">Pospeševanje…</string>
      <string name="notif_title_file_size">%1$d skupno</string>
      <string name="notif_title_multiple_downloading">Prenašanje: %1$d</string>
      <string name="notif_title_single_downloading">Prenašanje: %1$s</string>
@@ -247,7 +247,7 @@
      <string name="paused_by_app">Premor</string>
      <string name="paused_insufficient_space">Čakanje</string>
      <string name="paused_queued_for_wifi">Čakanje na omrežje</string>
-     <string name="paused_unknown">Paused</string>
+     <string name="paused_unknown">Premor</string>
      <string name="paused_waiting_for_network">Čakanje na omrežje</string>
      <string name="paused_waiting_to_retry">Čakam na ponovni poskus</string>
      <string name="permdesc_accessAllDownloads">Dovoli aplikaciji dostop in spreminjanje vseh prenosov ki jih je začela aplikacija na tem sistemu.</string>
@@ -274,8 +274,8 @@
      <string name="privacy_tip_title">Uporabim Xunlei Accelerator?</string>
      <string name="recall_tip">"Namestite \"Prenosi\"
 za uporabo vseh storitev"</string>
-     <string name="recommend_installing">Installing…</string>
-     <string name="recommend_open">Open</string>
+     <string name="recommend_installing">Nameščam…</string>
+     <string name="recommend_open">Odpri</string>
      <string name="recommended_file_size_download_in_mobile">Uporabim %s mobilnih podatkov za prenašanje te datoteke?</string>
      <string name="recommended_no_file_size_download_in_mobile">Uporabim mobilne podatke za prenašanje te datoteke?</string>
      <string name="retry_after_network_available">"Ni mogoče vzpostaviti povezave z omrežjem. Preverite podatkovno povezavo in poskusite znova."</string>
