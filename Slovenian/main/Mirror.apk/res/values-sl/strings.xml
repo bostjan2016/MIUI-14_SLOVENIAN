@@ -41,6 +41,7 @@
      <string name="cast_mcc_tips_button_cancel">Zanemari</string>
      <string name="cast_mcc_tips_button_ok">Nastavitve</string>
      <string name="cast_mcc_tips_message">Da se izognete zamudam pri uporabi MIUI+, povežite obe napravi v isto omrežje WiFi.</string>
+     <string name="cast_mcc_tips_message_china">Da se izognete zamudam pri uporabi MIUI+, povežite obe napravi v isto omrežje WiFi.</string>
      <string name="cast_mcc_tips_title">Spremeni nastavitve WiFi</string>
      <string name="circulate_cta_agree">Strinjam se</string>
      <string name="circulate_cta_app_name">Mi Smart Hub</string>
@@ -52,7 +53,9 @@
      <string name="circulate_cta_premission_storage_subtitle">Za brezžično pošiljanje in prejemanje stvari</string>
      <string name="circulate_cta_premission_storage_title">Dostop do fotografij in datotek ter shranjevanje v tej napravi</string>
      <string name="circulate_cta_premission_wlan_subtitle">Za iskanje naprav v bližini in prenos opravil prek WiFi</string>
+     <string name="circulate_cta_premission_wlan_subtitle_china">Za iskanje naprav v bližini in prenos opravil prek WiFi</string>
      <string name="circulate_cta_premission_wlan_title">Vklopite in izklopite WiFi</string>
+     <string name="circulate_cta_premission_wlan_title_china">Vklopite in izklopite WiFi</string>
      <string name="circulate_cta_user_agreement">Preberite in se strinjajte z &lt;txt href=\"%1$s\">Pogoji uporabe&lt;/txt> in &lt;txt href=\"%2$s\">Pravila o zasebnosti&lt;/txt> preden nadaljujete.</string>
      <string name="clearable_edittext_clear_description">Očisti</string>
      <string name="clipboard_tip">Kopirano od %1$s</string>
@@ -88,6 +91,7 @@
      <string name="enable_wifi_alert_cancel">Prekliči</string>
      <string name="enable_wifi_alert_message">MIUI + povezuje naprave, ki uporabljajo WiFi. Želite vklopiti WiFi zdaj?</string>
      <string name="enable_wifi_alert_message_china">MIUI + povezuje naprave, ki uporabljajo WiFi. Želite vklopiti WiFi?</string>
+     <string name="enable_wifi_alert_message_for_photo_relay">MIUI+ vam omogoča brezhibno preklapljanje med napravami, ko morate na tablici urediti fotografije, posnete s telefonom. Ali želite vklopiti WiFi za uporabo prenosa?</string>
      <string name="enable_wifi_alert_message_for_photo_relay_china">MIUI+ vam omogoča nemoteno preklapljanje med napravami, ko morate na tabličnem računalniku urediti fotografije, posnete s telefonom. Vklopim WiFi?</string>
      <string name="enable_wifi_alert_ok">Vključi</string>
      <string name="enable_wifi_alert_title">Vključi WiFi</string>
@@ -161,6 +165,12 @@
      <string name="generic_error_no_device_credential">PIN, vzorec ali geslo ni nastavljeno.</string>
      <string name="generic_error_no_keyguard">Ta naprava ne podpira kode PIN, vzorca ali gesla.</string>
      <string name="generic_error_user_canceled">Preverjanje pristnosti je preklical uporabnik.</string>
+     <string name="global_cta_agree">Strinjam se</string>
+     <string name="global_cta_desc">Dobrodošli v %s! Naša aplikacija ponuja naslednje storitve:</string>
+     <string name="global_cta_exit">"Ne strinjam se"</string>
+     <string name="global_cta_feature_connect">Povezovanje telefonov in tablic z vašim računom Xiaomi</string>
+     <string name="global_cta_feature_control">Ogled in uporaba aplikacij za pametni telefon na tabličnem računalniku</string>
+     <string name="global_cta_user_agreement">Pred uporabo %1$s preberite in se strinjajte z &lt;txt href=\"%2$s\">Pogoji uporabe&lt;/txt> in &lt;txt href=\"%3$s\">Pravila o zasebnosti&lt;/txt>.</string>
      <string name="guide_window_btn_know">Razumem</string>
      <string name="guide_window_operation">Povlecite s strani na sredino zaslona</string>
      <string name="guide_window_title">Pojdi nazaj</string>
@@ -178,9 +188,16 @@ Zaprite to stran in poskusite znova."</string>
      <string name="loading_view_load_timeout_close">Razumem</string>
      <string name="loading_view_load_timeout_sub">"Prepričajte se, da je WiFi vklopljen na obeh napravah in da sta blizu druga drugi.
 Na vašem računalniku lahko začnete novo sejo."</string>
+     <string name="loading_view_load_timeout_sub_china">"Prepričajte se, da je WiFi vklopljen na obeh napravah in da sta blizu druga drugi.
+Na vašem računalniku lahko začnete novo sejo."</string>
      <string name="lock_layout_sub">Odklenite za nadaljevanje</string>
      <string name="lock_layout_title">Računalnik je zaklenjen</string>
      <string name="log_warning">"Vključitev spremembe dnevnika lahko poveča varnostna tveganja in vpliva na zmogljivost. Te spremembe uporabite le, kadar je to potrebno."</string>
+     <string name="login_xiaomi_account_cancel">Prekliči</string>
+     <string name="login_xiaomi_account_goto_login">Prijava</string>
+     <string name="login_xiaomi_account_summary_pad">Če se želite povezati z drugimi telefoni, uporabite isti račun Xiaomi na obeh povezanih napravah. Prijava zdaj?</string>
+     <string name="login_xiaomi_account_summary_phone">Če se želite povezati z drugimi tablicami, uporabite isti račun Xiaomi na obeh povezanih napravah. Prijava zdaj?</string>
+     <string name="login_xiaomi_account_title">Prijavite se v račun Xiaomi</string>
      <string name="low_battery_notification_action">Vklopi</string>
      <string name="low_battery_notification_content">Na %1$s je ostalo manj kot %2$d%% baterije. Vklopite varčevanje z baterijo.</string>
      <string name="low_battery_notification_title">Nizka baterija</string>
@@ -268,6 +285,9 @@ Na vašem računalniku lahko začnete novo sejo."</string>
      <string name="not_set">Ni nastavljeno</string>
      <string name="notification_channel_description_download">Pokaži napredek prenosov v plošči obvestil</string>
      <string name="notification_channel_name_download">Pokaži napredek prenosov</string>
+     <string name="notification_state_cancel">Prekini povezavo</string>
+     <string name="notification_state_content">"Ta naprava je povezana z računalnikom %1$s. Zdaj lahko delite vhodne naprave, datoteke in slike."</string>
+     <string name="notification_state_title">Povezava je bila uspešno vzpostavljena</string>
      <string name="notify_clip_action_browser">Obišči</string>
      <string name="notify_clip_action_call">Klic</string>
      <string name="notify_clip_action_navigation">Krmarjenje</string>
@@ -293,6 +313,8 @@ Na vašem računalniku lahko začnete novo sejo."</string>
      <string name="pad_pc_message_introduction_title">Odložišče v skupni rabi</string>
      <string name="pad_pc_mirror_introduction_summary">Zrcalite računalniški zaslon na tablico</string>
      <string name="pad_pc_mirror_introduction_title">Zrcalni zaslon</string>
+     <string name="pad_pc_share_introduction_summary">"S tem tabličnim računalnikom uporabljajte miško in tipkovnico računalnika"</string>
+     <string name="pad_pc_share_introduction_title">Vhodne naprave</string>
      <string name="pad_settings_bluetooth_enable_summary">Vklopite Bluetooth, da boste lahko našli naprave v bližini. Vklopim zdaj?</string>
      <string name="pad_settings_bluetooth_enable_title">Vklopi Bluetooth</string>
      <string name="pad_settings_click_toast_msg">Povežite se s pomočjo Mi Smart Hub na vašem računalniku</string>
@@ -370,6 +392,7 @@ Na vašem računalniku lahko začnete novo sejo."</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
      <string name="privacy_all_purpose">Dobrodošli v Screen Combo! Ta aplikacija vam omogoča prenos datotek in interakcijo s telefonom s pomočjo računalnika.</string>
      <string name="privacy_describe_change_wifi_state">Za povezovanje naprav in prenos datotek s pomočjo WiFi-ja</string>
+     <string name="privacy_describe_change_wifi_state_china">Za povezovanje naprav in prenos datotek s pomočjo WiFi-ja</string>
      <string name="privacy_describe_location">Za iskanje računalnikov v bližini in prenos datotek</string>
      <string name="privacy_describe_record_audio">Za preusmeritev predvajanja zvoka v računalnik</string>
      <string name="privacy_describe_storage">Za pošiljanje in prejemanje datotek</string>
@@ -458,6 +481,17 @@ Na vašem računalniku lahko začnete novo sejo."</string>
      <string name="settings_trusted_device_none">Ni naprav</string>
      <string name="settings_trusted_tips">Ko sta vklopljena Bluetooth in WiFi, se samodejno poveži z izbranimi napravami v bližini</string>
      <string name="settings_trusted_tips_china">Ko sta vklopljena Bluetooth in WiFi, se samodejno poveži z izbranimi napravami v bližini</string>
+     <string name="share_pc_abort_dialog_message">Prepričajte se, da sta Bluetooth in WiFi vklopljena na obeh napravah, in znova zaženite sejo v računalniku.</string>
+     <string name="share_pc_abort_dialog_message_china">Prepričajte se, da sta Bluetooth in WiFi vklopljena na obeh napravah, in znova zaženite sejo v računalniku.</string>
+     <string name="share_pc_abort_dialog_ok">Razumem</string>
+     <string name="share_pc_abort_dialog_title">Povezava je bila prekinjena</string>
+     <string name="share_pc_file_transfer_finish">Preneseno</string>
+     <string name="share_pc_folder_error_dialog_message">"Vlečenje map za njihov prenos trenutno ni podprto."</string>
+     <string name="share_pc_folder_error_dialog_ok">Razumem</string>
+     <string name="share_pc_folder_error_dialog_title">"Ne morem prenesti"</string>
+     <string name="share_pc_folder_multi_error_dialog_message">"Izbrane datoteke so bile uspešno prenesene. Prenos map trenutno ni podprt."</string>
+     <string name="share_pc_folder_multi_error_dialog_ok">Razumem</string>
+     <string name="share_pc_folder_multi_error_dialog_title">"Ne morem prenesti vse stvari"</string>
      <string name="softap_notification_action">Poveži se</string>
      <string name="softap_notification_message">Na voljo ni omrežij WiFi. Se povežem s to dostopno točko?</string>
      <string name="softap_notification_message_china">Na voljo ni omrežij WiFi. Se povežem s to dostopno točko?</string>
@@ -470,9 +504,12 @@ za nadaljevanje"</string>
      <string name="switch_wlan_action">Poveži</string>
      <string name="switch_wlan_failed">"Ni bilo mogoče vzpostaviti povezave"</string>
      <string name="switch_wlan_failed_desc">"Ni bilo mogoče samodejno vzpostaviti povezave s tem omrežjem WiFi. Poskusite se povezati ročno v nastavitvah."</string>
+     <string name="switch_wlan_failed_desc_china">"Ni bilo mogoče samodejno vzpostaviti povezave s tem omrežjem WiFi. Poskusite se povezati ročno v nastavitvah."</string>
      <string name="switch_wlan_success">Povezano</string>
      <string name="switch_wlan_tips">Poveži se z istim omrežjem</string>
+     <string name="switch_wlan_tips_china">Poveži se z istim omrežjem</string>
      <string name="switch_wlan_tips_desc">Za boljšo izkušnjo se lahko povežete z istim omrežjem WiFi kot druga naprava. Povežem zdaj?</string>
+     <string name="switch_wlan_tips_desc_china">Za boljšo izkušnjo se lahko povežete z istim omrežjem WiFi kot druga naprava. Povežem zdaj?</string>
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>

@@ -2263,4 +2263,5 @@ Velikost Delta posodobitve: %2$s"</string>
      <string name="you_can_switch_mode_in_settings">Lahko menjate način dela v nastavitvah</string>
      <string name="you_may_like">Morda vam bo všeč</string>
      <string name="youtube_play_history">Zgodovina predvajanja</string>
+     <string name="youtube_share_guide_tip">Zdaj lahko videoposnetke delite s prijatelji</string>
 </resources>
