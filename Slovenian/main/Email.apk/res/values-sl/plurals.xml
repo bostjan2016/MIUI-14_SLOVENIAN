@@ -206,7 +206,7 @@
      </plurals>
      <plurals name="num_selected">
         <item quantity="other">Izbrano: %d</item>
-        <item quantity="one">1 izbran</item>
+        <item quantity="one">1 izbrana</item>
      </plurals>
      <plurals name="number_of_day_after">
         <item quantity="other">%1$d dni kasneje</item>

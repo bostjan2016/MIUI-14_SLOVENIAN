@@ -96,7 +96,7 @@ nastavitev in aplikacij"</string>
      <string name="backup_update">Posodobi</string>
      <string name="batch_delete_backup_confirm">Izbrišem izbrane var. kopije?</string>
      <string name="broken_screen_rescue_service">Varnostne kopije s poškodovanim zaslonom</string>
-     <string name="broken_screen_rescue_service_content">"Ta funkcija vam omogoča varnostno kopiranje stvari s kablom USB, ko je zaslon vaše naprave poškodovan ali se ne odziva. Če želite varnostno kopirati stvari, ko se zaslon ne odziva, morate to storitev vklopiti, ko zaslon še vedno deluje pravilno."</string>
+     <string name="broken_screen_rescue_service_content">"Ta storitev vam omogoča varnostno kopiranje stvari s kablom USB, ko je zaslon vaše naprave poškodovan ali se ne odziva. Če želite varnostno kopirati stvari, ko se zaslon ne odziva, morate to storitev vklopiti, ko zaslon še vedno deluje pravilno."</string>
      <string name="broken_screen_rescue_service_disable">Izklopi varnostne kopije s poškodovanim zaslonom</string>
      <string name="broken_screen_rescue_service_enable">Vklopi varnostne kopije s poškodovanim zaslonom</string>
      <string name="broken_screen_rescue_service_learn_subcontent1">Prosite katero koli osebo iz svojih stikov, da vam pošlje sporočilo SMS v naslednji obliki, pri čemer črke nadomesti z vašim zaklepanjem zaslona: *#*#ZAKLEPZASLONA#*#*.</string>

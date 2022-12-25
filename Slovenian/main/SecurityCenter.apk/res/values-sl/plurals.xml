@@ -498,7 +498,7 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="other">Čez 1 uro</item>
      </plurals>
      <plurals name="in_half_hour">
-        <item quantity="other">Čez npol ure</item>
+        <item quantity="other">Čez pol ure</item>
      </plurals>
      <plurals name="in_less_than_one_minute">
         <item quantity="other">Pravkar</item>

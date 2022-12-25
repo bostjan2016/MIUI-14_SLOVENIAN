@@ -58,7 +58,7 @@
         <item>na črnem seznamu, preklopite svoje omrežje ali se prijavite na  https://mail.sohu.com to setup client ip whitelist</item>
         <item>java.net.UnknownHostException: Gostitelja ni mogoče razrešiti</item>
         <item>odjemalec onemogočen, spremenite stanje na spletnem mestu https://mail.sohu.com</item>
-        <item>brez začetnega gesla, prijavite se https://mail.sohu.com to generate client password</item>
+        <item>brez začetnega gesla, prijavite se na https://mail.sohu.com za ustvarjanje gesla odjemalca</item>
      </string-array>
      <string-array name="general_preference_text_zoom_summary_array">
         <item>Majčkeno</item>
@@ -68,7 +68,7 @@
         <item>Ogromno</item>
      </string-array>
      <string-array name="menu_att_mgr_sort_string_array">
-        <item>Nedavno pregledano</item>
+        <item>Nedavno ogledano</item>
         <item>Format</item>
         <item>Ime</item>
         <item>Pošiljatelj</item>
@@ -131,10 +131,10 @@
         <item>Poštna številka:</item>
      </string-array>
      <string-array name="signature_special_string_array">
-        <item>Pogoji:</item>
-        <item>E-pošta Pogoji</item>
-        <item>Pošlji via WPSMail</item>
-        <item>Poslano z</item>
+        <item>Odrekanje odgovornosti:</item>
+        <item>E-pošta Odrekanje odgovornosti</item>
+        <item>Pošlji preko WPSMail</item>
+        <item>Poslano iz</item>
         <item>Poslano z</item>
         <item>Hvala,</item>
         <item>Prisrčen pozdrav</item>
@@ -142,14 +142,14 @@
      <string-array name="signature_special_string_array_next">
         <item>Hvala,</item>
         <item>Prisrčen pozdrav</item>
-        <item>Poslano iz mojega</item>
-        <item>Originalno sporočilo</item>
-        <item>Poslano iz mojega</item>
         <item>Poslano iz</item>
-        <item>Iz</item>
+        <item>Originalno sporočilo</item>
+        <item>Poslano iz</item>
+        <item>Poslano iz</item>
+        <item>Od</item>
         <item>To sporočilo</item>
-        <item>Pogoji</item>
-        <item>E-pošta Pogoji</item>
+        <item>Odrekanje odgovornosti</item>
+        <item>E-pošta Odrekanje odgovornosti</item>
      </string-array>
      <string-array name="sync_status">
         <item>Sinhr. uspela</item>
