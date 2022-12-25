@@ -13378,7 +13378,7 @@ Dovolite to vsem aplikacijam, ki želijo iskati?"</string>
 
 Želite to dovoliti vsem aplikacijam, ki želijo iskati omrežja?"</string>
      <string name="wifi_scan_change">Spremeni</string>
-     <string name="wifi_scan_notify_message">Za izboljšano izkušnjo pri uporabi naprave lahko aplikacije in storitve kadar koli iščejo omrežja Wi‑Fi, tudi ko je Wi‑Fi izklopljen. To funkcijo lahko na primer uporabite, če želite izboljšati funkcije in storitve, ki pri delovanju uporabljajo lokacijo. To lahko spremenite v nastavitvah iskanja omrežij WiFi.</string>
+     <string name="wifi_scan_notify_message">Za izboljšano izkušnjo pri uporabi naprave lahko aplikacije in storitve kadar koli iščejo omrežja WiFi, tudi ko je WiFi izklopljen. To storitev lahko na primer uporabite, če želite izboljšati storitve, ki pri delovanju uporabljajo lokacijo. To lahko spremenite v nastavitvah iskanja omrežij WiFi.</string>
      <string name="wifi_scan_notify_remember_choice">Ne kaži več</string>
      <string name="wifi_scan_notify_text">Zaradi večje natančnosti ugotavljanja lokacije lahko sistemske aplikacije in storitve še vedno iščejo omrežja WiFi. To lahko spremenite v nastavitvah iskanja.</string>
      <string name="wifi_scan_notify_text_location_off">Aplikacije lahko iščejo omrežja v bližini tudi kadar je WiFi izključen. Če tega nočete pojdite na Napredno &gt; Iskanje je stalno na voljo.</string>
