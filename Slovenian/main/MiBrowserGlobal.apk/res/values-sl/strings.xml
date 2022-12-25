@@ -152,13 +152,21 @@
      <string name="app_cache">Predpomnilnik</string>
      <string name="app_id">Firebase App ID(Klikni za izvoz)</string>
      <string name="app_library_category_entertainment">Zabava</string>
+     <string name="app_library_category_financial_management">Finance</string>
      <string name="app_library_category_games">Igre</string>
+     <string name="app_library_category_health_and_exercise">Zdravje</string>
+     <string name="app_library_category_individualization">Personalizacija</string>
      <string name="app_library_category_information">Predstavnosti</string>
      <string name="app_library_category_lifestyle">Živ. slog</string>
+     <string name="app_library_category_originality">Kreativnost</string>
      <string name="app_library_category_others">Ostalo</string>
      <string name="app_library_category_productivity">Produktivnost</string>
+     <string name="app_library_category_reading_and_information">Novice</string>
+     <string name="app_library_category_shopping_and_food">Kupovanje</string>
      <string name="app_library_category_social">Družbeno</string>
+     <string name="app_library_category_travel">Potovanja</string>
      <string name="app_library_category_utility">Orodja</string>
+     <string name="app_library_category_work_and_efficiency">Produktivnost</string>
      <string name="app_library_title">Aplikacije</string>
      <string name="app_name">Mi brskalnik</string>
      <string name="app_name_bluetooth">Bluetooth</string>
@@ -355,6 +363,7 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="close_all_tab_alert_title">Zapri vse zavihke</string>
      <string name="close_cant_recommand">"Ne boste prejeli prilagojene vsebinske storitve, če izklopite to storitev."</string>
      <string name="close_cloud_tab_tip">Želite zapreti zavihke v oblaku na %s?</string>
+     <string name="close_desktop">Izklopljena namizna različica</string>
      <string name="cloud_loading_tips">Podrsajte navzdol za sinhronizacijo</string>
      <string name="cloud_no_new_data_toast">"Vse je posodobljeno"</string>
      <string name="cloud_sync_closed_toast">"Posodobitev ni mogoča, ker je sinhroniziranje izklopljeno"</string>
@@ -475,7 +484,7 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="continue_reading">Nadaljujte z branjem</string>
      <string name="copy">Kopiraj</string>
      <string name="copy_url">Kopiraj povezavo</string>
-     <string name="core_functions_of_browser">Glavne funkcije na dosegu roke</string>
+     <string name="core_functions_of_browser">Glavne storitve na dosegu roke</string>
      <string name="could_not_load_data">"Ne morem naložiti podatkov, osvežite in poskusite ponovno"</string>
      <string name="crash_page_button">Poskusite ponovno</string>
      <string name="crash_page_description">Pri prikazovanju te spletne strani je šlo nekaj narobe.</string>
@@ -1641,6 +1650,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="ok">V redu</string>
      <string name="one_prefect_author">Avtor</string>
      <string name="open_app_confirm_message">Dovolim tej strani, da odpre %s?</string>
+     <string name="open_desktop">Uspešen prehod na namizno različico</string>
      <string name="open_google_gaid">"Če želite uporabljati to storitev, se prepričajte, da niste onemogočili prilagajanja oglasov v Nastavitve > Google > Oglasi."</string>
      <string name="open_personalized_services">Vklopite prilagojene storitve, da boste lahko uporabljali to storitev.</string>
      <string name="open_private_folder">Spustite za prikaz skritih map</string>

@@ -270,7 +270,7 @@ Opomba: Datoteka bo izbrisana tudi iz te naprave."</item>
      </plurals>
      <plurals name="multichoice_title">
         <item quantity="other">Izbrano %d stvari</item>
-        <item quantity="one">Izbran %d stvar</item>
+        <item quantity="one">Izbrana %d stvar</item>
      </plurals>
      <plurals name="notif_title_multiple_downloading">
         <item quantity="other">Prenos skladb: %1$d</item>
