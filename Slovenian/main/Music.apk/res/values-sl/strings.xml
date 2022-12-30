@@ -1646,6 +1646,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="please_select_song">Izberite pesem</string>
      <string name="pm">pop.</string>
      <string name="power_save_mode_dialog_msg">Naprava je v varčnem načinu dela. Zaženem prenos?</string>
+     <string name="pre_watched">Gledano</string>
      <string name="pref_download_settings_title">Omejitev velikosti prenosa</string>
      <string name="pref_summary_any_bytes_popup">Vedno počakaj WiFi povezavo za prenos datotek</string>
      <string name="pref_summary_enable_max_bytes_popup">Pokaži skočno obvestilo ko se uporablja mobilna podatkovna povezava za prenos vsebine</string>
@@ -1807,6 +1808,7 @@ Bodite srečni"</string>
      <string name="search_lyric">Išči besedilo online</string>
      <string name="search_menu_title">Išči</string>
      <string name="search_more">Več</string>
+     <string name="search_recommend">Priporočeno</string>
      <string name="search_result_local_songs">Lokalno</string>
      <string name="search_result_online_songs">Online</string>
      <string name="search_songs">Išči pesmi</string>

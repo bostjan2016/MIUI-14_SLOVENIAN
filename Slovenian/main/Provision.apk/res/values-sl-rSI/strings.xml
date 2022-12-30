@@ -83,6 +83,8 @@
      <string name="cm_terms_title">Sporazum operaterja mobilnega omrežja</string>
      <string name="compass_introduction">Aplikacijo lahko uporabite za navigacijo, pregled koordinat, zračnega pritiska in nadmorske višine.</string>
      <string name="congratulation_label">"Pripravljeni ste za MIUI!"</string>
+     <string name="congratulation_pre_label">Delam…</string>
+     <string name="congratulation_pre_title">Pripravljam sistem…</string>
      <string name="congratulation_swipe">Podrsajte gor za vhod v sistem</string>
      <string name="congratulation_title">Namestitev je končana</string>
      <string name="content_description_complete">Končano</string>

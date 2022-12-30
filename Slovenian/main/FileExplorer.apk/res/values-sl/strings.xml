@@ -561,6 +561,9 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="import_files_from_old_phones">Uvozi iz stare naprave</string>
      <string name="input_memo_hint">Vnesite dodatne razloge (po izbiri)</string>
      <string name="install_fail">"Ne morem namestiti"</string>
+     <string name="install_media_editor_button_text">Prenesi</string>
+     <string name="install_media_editor_message">Če želite urejati stvari, najprej prenesite vtičnik. Prenesem zdaj?</string>
+     <string name="install_media_editor_title">Potreben je vtičnik</string>
      <string name="installing">Nameščanje…</string>
      <string name="instruction">Vpišite naslov v FTP strežnik:</string>
      <string name="instruction_pre_pad">Upravljajte datoteke v tej napravi z računalnikom</string>

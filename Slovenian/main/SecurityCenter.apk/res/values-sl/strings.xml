@@ -421,11 +421,18 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="app_behavior_read_clipboard_bg">%1s je dostopal(a) do stvari v odložišču v ozadju</string>
      <string name="app_behavior_recognition">%1s je dostopal(a) do podatkov o vaši aktivnosti</string>
      <string name="app_behavior_recognition_single">Aplikacija je dostopala do podatkov o vaši aktivnosti</string>
+     <string name="app_behavior_record_cancel">Prekliči</string>
+     <string name="app_behavior_record_close">Izključi</string>
+     <string name="app_behavior_record_close_title">Izključi</string>
+     <string name="app_behavior_record_hide_system">Skrij sistemske aplikacije</string>
+     <string name="app_behavior_record_open">Vključi</string>
+     <string name="app_behavior_record_open_content_text">Zapisi o vedenju aplikacij prikazujejo, kaj aplikacije počnejo in vam pomagajo preprečiti varnostna tveganja.</string>
      <string name="app_behavior_record_setting_button_title">Pokaži obnašanje sistemskih storitev</string>
      <string name="app_behavior_record_setting_show_system">Pokaži obnašanje sistemskih storitev</string>
      <string name="app_behavior_record_setting_show_system_desc">"Vklopi za ogled obnašanja osnovnih sistemskih storitev. Za zagotovitev stabilnosti sistema bodo te storitve uporabile zahtevana dovoljenja, ki nekaterih ni mogoče omejiti."</string>
      <string name="app_behavior_record_setting_show_system_title">Pokaži obnašanje sistemskih storitev</string>
      <string name="app_behavior_record_setting_title">Zapisi obnašanja</string>
+     <string name="app_behavior_record_show_system">Pokaži sistemske aplikacije</string>
      <string name="app_behavior_search">Išči</string>
      <string name="app_behavior_sensor">%1s je dostopal(a) do podatkov senzorja</string>
      <string name="app_behavior_sensor_single">Aplikacija je dostopala do podatkov senzorja</string>
@@ -2500,6 +2507,11 @@ vašega igranja"</string>
      <string name="get_phone_num_fail">Neznana telefonska številka</string>
      <string name="get_sys_info">Dobivanje informacij…</string>
      <string name="gigabyteShort">GB</string>
+     <string name="global_dock_guide_desc_with_split_screen">"· Tapnite aplikacijo na stranski vrstici, da jo odprete v plavajočem oknu.
+· Povlecite aplikacijo na sredino zaslona, da jo odprete v lebdečem oknu ali na stran, da uporabite razdeljeni zaslon.
+· Pritisnite in držite indikator, da premikate okno."</string>
+     <string name="global_dock_guide_desc_without_split_screen">"· Tapnite aplikacijo na stranski vrstici, da jo odprete v plavajočem oknu.
+· Pritisnite in držite indikator, da premikate okno."</string>
      <string name="global_satisfaction_notification_button">Ocenite</string>
      <string name="global_satisfaction_notification_subhead">Povejte nam o svojih izkušnjah</string>
      <string name="global_satisfaction_notification_title">Ocenite to napravo</string>

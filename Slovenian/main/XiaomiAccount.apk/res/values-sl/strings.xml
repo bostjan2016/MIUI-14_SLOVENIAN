@@ -221,6 +221,8 @@ Vaš profil je bil posodobljen z informacijami iz vašega %s Računa ."</string>
      <string name="common_signin_button_text_long">Prijavi se z Google</string>
      <string name="completed">Končano</string>
      <string name="confirm_activate_email">Potrjeno</string>
+     <string name="confirm_bundled_phone_dialog_confirm">Potrdi</string>
+     <string name="confirm_bundled_phone_dialog_confirm_timer">Potrdi (%ds)</string>
      <string name="confirm_bundled_phone_dialog_title">Potrdi skupinsko številko telefona</string>
      <string name="confirm_delete_app_message">Po odstranitvi te aplikacije boste morali potrditi številko telefona pri naslednji prijavi v svoj Mi Račun.</string>
      <string name="confirm_delete_browser_message">Po odstranitvi tega brskalnika boste morali potrditi številko telefona pri naslednji prijavi v svoj Mi Račun.</string>
