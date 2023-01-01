@@ -9,12 +9,14 @@
     <string name="widget_num_limit">V meni aplikacij ni mogoče dodati več pripomočkov. Izbrišite starejše pripomočke, da dodate nove.</string>
     <string name="widget_num_warn">Uspešno dodano. Ne pozabite, da lahko namestitev preveč pripomočkov na začetni zaslon upočasni vašo napravo.</string>
     <string name="theme_clock">Ure po meri</string>
+    <string name="theme_pals">Prijateljčki</string>
     <string name="app_appvault">Meni aplikacij</string>
     <string name="app_browser">Brskalnik</string>
     <string name="app_calculator">Kalkulator</string>
     <string name="app_calendar">Koledar</string>
     <string name="app_camera">Kamera</string>
     <string name="app_clock">Ura</string>
+    <string name="app_files">Datoteke</string>
     <string name="app_gallery">Galerija</string>
     <string name="app_google">Google</string>
     <string name="app_health">Zdravje</string>
@@ -81,6 +83,8 @@
     <string name="widget_clock_weather_desc">Ura, datum in vreme na vaši trenutni lokaciji</string>
     <string name="widget_clock_world">Svetovna ura</string>
     <string name="widget_clock_world_desc">Čas na drugi lokaciji</string>
+    <string name="widget_files_pin">Pogoste datoteke</string>
+    <string name="widget_files_pin_desc">Pripnite pogoste datoteke za hitrejši dostop</string>
     <string name="widget_gallery_custom">Izbrane slike</string>
     <string name="widget_gallery_custom_desc">Dodajte pripomoček in ga nato tapnite, da izberete fotografije</string>
     <string name="widget_gallery_recommend">Spomini</string>
@@ -103,6 +107,10 @@
     <string name="widget_notes_tasks_desc">Oglejte si in odprite svoja opravila</string>
     <string name="widget_notes_view">Beležke</string>
     <string name="widget_notes_view_desc">Oglejte si in odprite svoje beležke</string>
+    <string name="widget_pals_cat">Mucica</string>
+    <string name="widget_pals_cat_desc">Mijav ~ ne moti me, ko spim…</string>
+    <string name="widget_pals_dog">Kuža</string>
+    <string name="widget_pals_dog_desc">Hov ~ igraj se z menoj!</string>
     <string name="widget_security_app_behavior">Zasebnost</string>
     <string name="widget_security_app_behavior_desc">Oglejte si statistiko vedenja aplikacije</string>
     <string name="widget_security_app_predict">Predlogi aplikacij</string>
