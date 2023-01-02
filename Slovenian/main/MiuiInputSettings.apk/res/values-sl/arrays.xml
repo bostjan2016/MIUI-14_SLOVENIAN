@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screen_key_position_action">
+        <item>Gumb Meni na levi, gumb Nazaj na desni</item>
+        <item>Gumb Nazaj na levi, gumb Meni na desni</item>
+    </string-array>
+    <string-array name="screen_key_press_action">
+        <item>Pokaži nedavne aplikacije</item>
+        <item>Pokaži meni</item>
+    </string-array>
+</resources>

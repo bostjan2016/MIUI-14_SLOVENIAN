@@ -8509,7 +8509,7 @@ Pred uporabo preberite in sprejmite %s."</string>
      <string name="power_hide_mode_title">"Urejanje uporabe baterije s strani aplikacij"</string>
      <string name="power_high_usage_title">Visoka poraba energije</string>
      <string name="power_idle">Nedejaven telefon</string>
-     <string name="power_key_how_power_force_off">Kako prisilino ponovno zagnati napravo</string>
+     <string name="power_key_how_power_force_off">Kako prisilno ponovno zagnati napravo</string>
      <string name="power_key_how_power_force_off_detail">Pritisnite in držite držite tipko za vklop/izklop dokler se naprava ponovno ne zažene</string>
      <string name="power_key_how_power_off">Kako odpreti stran za izklop</string>
      <string name="power_key_how_power_off_detail">Pritisnite in držite tipko za vklop/izklop 3 sekunde</string>

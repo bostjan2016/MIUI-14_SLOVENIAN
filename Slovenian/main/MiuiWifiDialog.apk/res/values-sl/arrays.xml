@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     </string-array>
+     <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
+        <item>:::1839:::%1$s : Pri povezovanju z Verizon WiFi dostop je prišlo do težave zaradi napake 16384.</item>
+     </string-array>
+     <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
+        <item>:::1839:::%1$s : Pri povezovanju z Verizon WiFi dostop je prišlo do težave zaradi napake 16385.</item>
+     </string-array>
+     <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
+        <item>:::1839:::%1$s : Ne morete se povezati z Verizon WiFi dostop izven območja pokritosti Verizon. (Napaka = 32760)</item>
+     </string-array>
+     <string-array name="wifi_eap_error_message_code_32761_carrier_overrides">
+        <item>:::1839:::%1$s : Niste naročeni na Verizon WiFi dostop. Pokličite nas na 800-922-0204. (Napaka = 32761)</item>
+     </string-array>
+     <string-array name="wifi_eap_error_message_code_32762_carrier_overrides">
+        <item>:::1839:::%1$s : Prišlo je do težave z vašim računom Verizon WiFi dostop. Pokličite nas na 800-922-0204. (Napaka = 32762)</item>
+     </string-array>
+     <string-array name="wifi_eap_error_message_code_32763_carrier_overrides">
+        <item>:::1839:::%1$s : Ste že povezani z Verizon WiFi dostop. (Napaka = 32763)</item>
+     </string-array>
+     <string-array name="wifi_eap_error_message_code_32764_carrier_overrides">
+        <item>:::1839:::%1$s : Pri povezovanju z Verizon WiFi dostop je prišlo do težave. Pokličite nas na 800-922-0204. (Napaka = 32764)</item>
+     </string-array>
+     <string-array name="wifi_eap_error_message_code_32765_carrier_overrides">
+        <item>:::1839:::%1$s : Prišlo je do težave z vašim računom Verizon WiFi dostop. Pokličite nas na 800-922-0204. (Napaka = 32765)</item>
+     </string-array>
+     <string-array name="wifi_eap_error_message_code_32766_carrier_overrides">
+        <item>:::1839:::%1$s : Verizon WiFi dostop ni na voljo na vaši lokaciji. Poskusite znova pozneje ali poskusite z druge lokacije. (Napaka = 32766)</item>
+     </string-array>
+     <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
+        <item>:::1839:::%1$s : Pri povezovanju z Verizon WiFi dostop je prišlo do težave. Poskusite znova pozneje ali poskusite z druge lokacije.</item>
+     </string-array>
+     <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
+        <item>:::1839:::%1$s : Pri povezovanju z Verizon WiFi dostop je prišlo do težave.</item>
+     </string-array>
+</resources>
