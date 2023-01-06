@@ -1305,6 +1305,8 @@ Po uspešnem kalibriranju nadzorujte napravo blizu in stran od telefona"</string
      <string name="sensor_information">Informacije senzorja</string>
      <string name="set_dsi_tips">Nastavi DSI</string>
      <string name="show_log">Pokaži zapis</string>
+     <string name="sidebottom_mic_check_record_tip">Snemanje, recite nekaj v mikrofon na stranskem dnu naprave</string>
+     <string name="sidetop_mic_check_record_tip">Snemanje, recite nekaj v mikrofon na stranskem vrhu naprave</string>
      <string name="slave_battery_authentic">Sekundarna baterija je pristna</string>
      <string name="soft_light_title">Mehka svetloba</string>
      <string name="speak_from_mic">Govorite v mikrofon, morali bi slišati glas v zvočniku.</string>
@@ -1338,6 +1340,8 @@ Po uspešnem kalibriranju nadzorujte napravo blizu in stran od telefona"</string
      <string name="test_receiver_summary">"Slišali boste dve naključni številki
 Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
      <string name="test_result">REZULTAT PRESKUSA</string>
+     <string name="test_sidebottom_mic">Mikr. stransko dno</string>
+     <string name="test_sidetop_mic">Mikr. stranski vrh</string>
      <string name="test_speaker">zvočnik</string>
      <string name="test_speaker_summary">"Slišali boste dve naključni številki
 Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>

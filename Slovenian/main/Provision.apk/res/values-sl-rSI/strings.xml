@@ -266,6 +266,7 @@ Storitve se lahko spreminjajo. Nekatere od zgornjih storitev morda niso na voljo
      <string name="midnight">Polnoč</string>
      <string name="mint_keyboard_oobe_checkbox">"Prebral sem in se strinam z Pravila o zasebnosti Mint Keyboard"</string>
      <string name="mint_keyboard_oobe_terms">Pravila o zasebnosti Mint Keyboard</string>
+     <string name="miui14_start_up_slogan">Pripravljeno. Enakomerno. Živo.</string>
      <string name="miui_privacy_policy_no_network">"Niste povezani s spletom. Poglejte Pravila o zasebnosti na %s."</string>
      <string name="miui_provision">Začetna nastavitev</string>
      <string name="miui_terms_no_network">"Niste povezani s spletom. Poglejte Pogoje uporabe na %s"</string>

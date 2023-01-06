@@ -241,6 +241,7 @@ Vaš profil je bil posodobljen z informacijami iz vašega %s Računa ."</string>
      <string name="cta_declaration_ignore">Ignoriraj</string>
      <string name="cta_declaration_message">"Če se hočete povezati s svojim Mi Računom se morate povezati s spletom, locirati svojo napravo in vključiti Mi Cloud. Za izdelavo var. kopije vaših osebnih podatkov ta aplikacija potrebuje dostop do stikov, SMS in MMS sporočil, zgodovine klicev in zapisov. Podatke ne bomo uporabljali za komercialne namene ali jih delili tretjim osebam. Po prijavi v Mi Račun, Mi VIP in Storitev številk se bo povezal na splet."</string>
      <string name="cta_declaration_title">Pogoji uporabe</string>
+     <string name="current_account_can_use_pwd_login">Vnesite svoje geslo za prijavo</string>
      <string name="current_location_title">Trenutna lokacija</string>
      <string name="data_keep_in_device">Zadrži podatke na tej napravi</string>
      <string name="data_wipe_from_device">Izbriši iz te naprave</string>
@@ -406,6 +407,7 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="input_new_pwd">Vnesite novo geslo</string>
      <string name="io_error_title">Potrdite vaše omrežje</string>
      <string name="just_a_second">Samo trenutek…</string>
+     <string name="keep_phone_ticket_login">Prijavite se s kodo za preverjanje</string>
      <string name="kr_license_desc">Za Mi Račun in Mi Cloud storitve morate sprejeti Pogoje uporabe in Pravila o zasebnosti.</string>
      <string name="kr_permission_contacts_desc">Uporablja se za branje informacij o stikih</string>
      <string name="kr_permission_desc">V nadaljevanju preberite potrebna dovoljenja</string>
@@ -427,6 +429,7 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="login_with_other">Več možnosti</string>
      <string name="logout_account">Odjava</string>
      <string name="logout_failed">Ne morem se vpisati</string>
+     <string name="messenger_send_button_text">Pošlji</string>
      <string name="mi_account_identity_title">Potrdite svojo identiteto</string>
      <string name="mi_family">Mi Home</string>
      <string name="mi_finance">Moje finance</string>
@@ -852,6 +855,8 @@ ki ste ga prejeli v vaš poštni predal
      <string name="phone_activated">%s aktivirano</string>
      <string name="phone_num_use_for">Telefonska številka se uporablja za:</string>
      <string name="phone_register">Uporabite telefonsko številko</string>
+     <string name="phone_ticket_login">Prijavite se s kodo za preverjanje</string>
+     <string name="phone_ticket_register">Ustvarite račun s telefonsko številko</string>
      <string name="photoPickerNotFoundText">Ni dostopnih fotografij.</string>
      <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
@@ -1018,6 +1023,7 @@ ki ste ga prejeli v vaš poštni predal
      <string name="update_phone_notice">Spremeni varnostne nastavitve</string>
      <string name="update_phone_number_notice_message">Pred posodobitvijo številke telefona morate potrditi identiteto.</string>
      <string name="updated_nothing">Posodobljeno</string>
+     <string name="use_google_account_login">Prijava z Google</string>
      <string name="used_cloud_storage_info">Izkoriščeno %s</string>
      <string name="user_agreement_device_permission_desc">Za zagotavljanje varnosti prijavnega okolja</string>
      <string name="user_agreement_device_permission_title">Dostop do informacij o napravi</string>

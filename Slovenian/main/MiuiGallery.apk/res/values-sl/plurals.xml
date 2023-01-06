@@ -181,6 +181,10 @@
         <item quantity="other">Izbrano stvari: %d</item>
         <item quantity="one">Izbrana %d stvar</item>
      </plurals>
+     <plurals name="delete_brust_title">
+        <item quantity="other">Izbrišem %d rafalnih posnetkov?</item>
+        <item quantity="one">Izbrišem %d rafalni posnetek?</item>
+     </plurals>
      <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Izbrišem %d zaporednih fotografij iz Mi Clouda in vseh sinhroniziranih naprav?</item>
         <item quantity="one">Izbrišem %d zaporedno fotografijo iz Mi Clouda in vseh sinhroniziranih naprav?</item>
@@ -208,6 +212,10 @@
      <plurals name="delete_media_from_this_album_and_cloud_msg">
         <item quantity="other">Izbrišem stvari %d iz tega albuma in Mi Clouda?</item>
         <item quantity="one">Izbrišem %d stvar iz tega albuma in Mi Clouda?</item>
+     </plurals>
+     <plurals name="delete_media_title">
+        <item quantity="other">Izbrišem %d stvari?</item>
+        <item quantity="one">Izbrišem %d stvar?</item>
      </plurals>
      <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Izbrišem fotografije %d iz vseh naprav in Mi Clouda?</item>

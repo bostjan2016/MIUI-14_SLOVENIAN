@@ -414,6 +414,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="blackshark_helo">Black Shark Helo</string>
      <string name="blackshark_phone">Black Shark</string>
      <string name="blank_app_name" />
+     <string name="blur_refocus_enter">Bokeh</string>
      <string name="brannan">Brannan</string>
      <string name="browse_category_title">Preišči</string>
      <string name="btn_cancel">Prekliči</string>
@@ -421,6 +422,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="btn_exit_send">Izhod</string>
      <string name="btn_sure">V redu</string>
      <string name="burst_image_download_item_title" formatted="false">Prenesi original (%s|%s)</string>
+     <string name="burst_photo_enter">Zaporedno</string>
      <string name="burst_preview_title">Zaporedno slikanje</string>
      <string name="burst_save_all">Shrani vse</string>
      <string name="burst_save_choice_title">Izbrano %1$d od %2$d</string>
@@ -745,6 +747,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="delete_in_album">Izbrane stvari bodo izbrisane iz Mi Clouda in vseh povezanih naprav in shranjene v koš za smeti za %d dni če imate brezplačni plan shranjevanja v Mi Cloudu. Vseeno izbrišem?</string>
      <string name="delete_in_home_page">Izbrane stvari bodo izbrisane iz Mi Clouda in vseh povezanih naprav in shranjene v koš za smeti za %d dni če imate brezplačni plan shranjevanja v Mi Cloudu. Vseeno izbrišem?</string>
      <string name="delete_in_process">Brisanje…</string>
+     <string name="delete_media_for_cloud">Izbrane stvari bodo odstranjene iz oblaka in vseh sinhroniziranih naprav v Nedavno izbrisane stvari.</string>
      <string name="delete_origin">Izbriši slike iz originalnega albuma</string>
      <string name="delete_other_shared_images">"Žal ne morete brisati fotografij deljenih od drugih"</string>
      <string name="delete_owner_and_other_shared_images_format">%1$d izbrisano, %2$d ohranjeno</string>
@@ -781,6 +784,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="disconnect_migration_title">Ustavim prenos?</string>
      <string name="do_not_remind_me">"Ne kaži več"</string>
      <string name="do_not_save">"Ne shranjuj"</string>
+     <string name="doc_photo_enter">Uredi v dokumentu</string>
      <string name="document_provider_guide_step_1">%d. Tapni tipko \"Več\".</string>
      <string name="document_provider_guide_step_2">%d. Tapni \"Pokaži notranji pomnilnik\".</string>
      <string name="document_provider_guide_step_3">%d. Tapni tipko menija na strani.</string>
@@ -849,6 +853,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="early_bird">Earlybird</string>
      <string name="early_morning">Jutro</string>
      <string name="edit_baby_info">Pregled informacij o otroku</string>
+     <string name="edit_subtitle_enter">Uredi podnapise</string>
      <string name="edited_photo_bucket_name">Urejeno</string>
      <string name="editor_cancel">Prekliči</string>
      <string name="editor_export">Shrani</string>
@@ -1258,6 +1263,7 @@ za fotografije"</string>
      <string name="filter_travel_charlotte">Charlotte</string>
      <string name="finish_create_baby_album_toast">Izdelan je \"%s\" album v Mi Cloudu</string>
      <string name="finish_fill_baby">Izdelaj</string>
+     <string name="first_delete_media_for_cloud">Izbrane stvari bodo premaknjene iz oblaka in vseh sinhroniziranih naprav v Nedavno izbrisane stvari in bodo trajno izbrisane po %d dneh, razen če imate načrt za shranjevanje v oblaku. Vseeno izbrišem?</string>
      <string name="first_time_add_video_to_secret_tips">Posodobite galerijo da boste lahko skrili videoposnetke</string>
      <string name="fisheye">Ribje oko</string>
      <string name="flash_off">Brez blisk.</string>
@@ -2248,6 +2254,8 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="permission_optional_category">Izbirna dovoljenja</string>
      <string name="permission_phone_desc">Za omrežne zahteve na temelju ID-a naprave</string>
      <string name="permission_phone_name">Telefon</string>
+     <string name="permission_post_notification_desc">Za pošiljanje obvestil o albumih v skupni rabi in posodabljanje stanja sinhronizacije</string>
+     <string name="permission_read_media_images_desc">Za dostop in shranjevanje fotografij in videoposnetkov med uporabo Galerije</string>
      <string name="permission_require_category">Obvezna dovoljenja</string>
      <string name="permission_storage_desc">Za prikaz, urejanje in shranjevanje fotografij</string>
      <string name="permission_storage_name">Shramba</string>
@@ -2937,6 +2945,21 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="share_album_pref_auto_add_photos_summary">Izberite osebe, ki bodo samodejno dodale svoje nove fotografije v ta album</string>
      <string name="share_album_pref_auto_add_photos_title">Samodejno dodaj njihove fotografije</string>
      <string name="share_album_qr_code">"QR koda albuma"</string>
+     <string name="share_album_risk_control_invalid_name">"Tega imena albuma ni mogoče uporabiti. Izberite drugega in poskusite znova."</string>
+     <string name="share_album_risk_control_tip_off">Prijava</string>
+     <string name="share_album_risk_control_tip_off_cate">Vrsta vsebine</string>
+     <string name="share_album_risk_control_tip_off_cate_illegal">Ilegalno</string>
+     <string name="share_album_risk_control_tip_off_cate_other">Drugo</string>
+     <string name="share_album_risk_control_tip_off_cate_political">Politično</string>
+     <string name="share_album_risk_control_tip_off_cate_sex">Sexualno</string>
+     <string name="share_album_risk_control_tip_off_cate_violence">Nasilje</string>
+     <string name="share_album_risk_control_tip_off_dialog_message">Če prijavite vsebino albuma v skupni rabi, si jo bo lahko ogledala le oseba, ki je to vsebino naložila. Prijavim?</string>
+     <string name="share_album_risk_control_tip_off_dialog_title">Prijava</string>
+     <string name="share_album_risk_control_tip_off_select">Izberite vrsto vsebine</string>
+     <string name="share_album_risk_control_tip_off_success">Prijavljeno</string>
+     <string name="share_album_risk_control_too_many_albums">"Ne morem ustvariti več albumov v skupni rabi"</string>
+     <string name="share_album_risk_control_too_many_sharers_accept">"Ne morem dodati več članov"</string>
+     <string name="share_album_risk_control_too_many_sharers_invite">"Več članov ni možno povabiti"</string>
      <string name="share_album_sync_textline_action_continue">Nadaljuj</string>
      <string name="share_album_sync_textline_action_login">Prijava</string>
      <string name="share_album_sync_textline_action_retry">Poskusite znova</string>
@@ -3033,6 +3056,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="slim_tip_msg">Datoteke se bodo optimizirale ko bo naprava povezana na WiFi. Prenesite datoteke polne ločljivosti z dotikom "Prenesi originalno datoteko" v meniju.</string>
      <string name="slim_tip_title">Optimiziranje shrambe</string>
      <string name="slimming">Optimiziranje…</string>
+     <string name="slow_motion_enter">Počasni posnetek</string>
      <string name="smartisan">Smartisan</string>
      <string name="smartisan_phone">Smartisan</string>
      <string name="sns_access_token_expired_warning">Seja je potekla. Znova se prijavite, da znova povežete ta račun.</string>
@@ -3184,6 +3208,7 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
+     <string name="super_slow_motion_enter">Super počasen posnetek</string>
      <string name="support_single_image">Izberite eno sliko</string>
      <string name="support_single_video">Izberite en videoposnetek</string>
      <string name="switch_account_continue">Nadaljuj</string>
@@ -3469,6 +3494,7 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="trash_purge_all">"Vse fotografije in videoposnetki bodo izbrisane iz Mi Clouda. Ne boste jih mogli vrniti. Vseeno izbrišem?"</string>
      <string name="trash_purge_all_cloud">Vse stvari v smetnjaku bodo trajno izbrisane iz oblaka in vseh sinhroniziranih naprav. Vseeno izbrišem?</string>
      <string name="trash_purge_all_local">Vse stvari v smetnjaku bodo trajno izbrisane. Vseeno izbrišem?</string>
+     <string name="trash_purge_all_media">"Ali želite trajno izbrisati vse stvari iz oblaka in vseh sinhroniziranih naprav? Tega dejanja ne morete razveljaviti."</string>
      <string name="trash_purge_dialog_title">Izbriši</string>
      <string name="trash_purge_positive_button">Izbriši</string>
      <string name="trash_size">Izbrisane stvari (%s)</string>
@@ -3690,6 +3716,7 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="video_quality_720p_original">720P (brez strnjevanja)</string>
      <string name="video_quality_8k">8K</string>
      <string name="video_quality_title_sub">Trenutna resolucija: %1$s (≈%2$s)</string>
+     <string name="video_tags_enter">Pokaži oznake</string>
      <string name="video_with_time">Videoposnetek posnet %s</string>
      <string name="video_with_time_and_location">Videoposnetek posnet %1$s. Lokacija: %2$s.</string>
      <string name="view_baby_album">Pokaži otroški album</string>

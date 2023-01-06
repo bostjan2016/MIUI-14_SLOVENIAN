@@ -268,6 +268,8 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Za prijavo pridobite telefonsko številko od operaterja</string>
      <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Če se zdaj niste mogli prijaviti z enim dotikom, se vrnite na stran za prijavo in poskusite znova."</string>
      <string name="HIPS_Perm_operator_get_phonenumbner_Message">Ta aplikacija želi od operaterja pridobiti vašo telefonsko številko za prijavo. Dovolite?</string>
+     <string name="HIPS_Perm_operator_shake">Dostop do podatkov merilnika pospeška</string>
+     <string name="HIPS_Perm_operator_shake_Desc">Podatki merilnika pospeška se uporabljajo za sledenje orientaciji in gibanju (npr. tresenje, nagibanje in vrtenje)</string>
      <string name="HIPS_Perm_process_nfc">NFC</string>
      <string name="HIPS_Perm_process_nfc_Desc">Dostop do Near Field Communication (NFC) strojne opreme</string>
      <string name="HIPS_Perm_process_outgoing_calls">Dostop do aplikacije Telefon</string>
@@ -578,6 +580,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="permdesc_recognition">Dovolim %1$s dostop do podatkov o zdravju &amp; aktivnostih?</string>
      <string name="permdesc_send_sms">Dovolim %1$s pošiljanje besedilnih sporočil?</string>
      <string name="permdesc_sensors">Dovolim %1$s dostop do podatkov telesnih senzorjev?</string>
+     <string name="permdesc_shake">Dovolim %1$s dostop do podatkov merilnika pospeška?</string>
      <string name="permdesc_use_sip">Dovolim %1$s, da za pretakanje videoposnetkov uporablja protokol za zagon seje?</string>
      <string name="permdesc_write_calendar">Dovolim %1$s dostop in dodajanje dogodke iz koledarja?</string>
      <string name="permdesc_write_call_log">Dovolim %1$s urejanje zgodovine klicev?</string>
@@ -594,7 +597,6 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="permgroupdesc_sensors">Dovolim %1$s dostop do podatkov senzorjev telesa?</string>
      <string name="permgroupdesc_sms">Dovolim %1$s pošiljanje in prejemanje SMS?</string>
      <string name="permgroupdesc_storage">Dovolim %1$s dostop do fotografij v napravi?</string>
-     <string name="permgrouprequest_storage_isolated">Dovolim &lt;b&gt;%1$s&lt;/b&gt; dostop do fotografij in medijev v napravi?</string>
      <string name="permission_description_summary_activity_recognition">Aplikacije s tem dovoljenjem lahko dostopajo do podatkov o vaši fizični aktivnosti, npr. hoja, kolesarjenje, vožnja in drugo</string>
      <string name="permission_description_summary_calendar">Aplikacije s tem dovoljenjem lahko dostopajo do koledarja</string>
      <string name="permission_description_summary_call_log">Aplikacije s tem dovoljenjem lahko berejo in pišejo dnevnik klicev</string>

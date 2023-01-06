@@ -424,6 +424,7 @@ Preverite ga"</string>
      <string name="continue_backup">Nadaljuj</string>
      <string name="copy">Kopiraj</string>
      <string name="copy_success">Kopirano !</string>
+     <string name="copy_toast_msg">Povezava je bila kopirana v odložišče</string>
      <string name="count_format">%2$1.1fK</string>
      <string name="count_format_float">%2$1.1fK</string>
      <string name="count_million_format">%2$1.2fM</string>
@@ -783,6 +784,9 @@ To kodo pošljite nadzorniku."</string>
      <string name="failed_obtain_permissions">"Ne morem dobiti dovoljenja"</string>
      <string name="failed_to_connect_hint">Preverite omrežne nastavitve in poskusite znova</string>
      <string name="failed_to_connect_text">"Ne morem se povezati na omrežje"</string>
+     <string name="fallback_menu_item_copy_link">Kopiraj povezavo</string>
+     <string name="fallback_menu_item_open_in_browser">Odpri v brskalniku</string>
+     <string name="fallback_menu_item_share_link">Deli povezavo</string>
      <string name="fans">Sledilci</string>
      <string name="fans_list_empty">Nimate še sledilcev</string>
      <string name="fav_login_msg">Prijavite se v svoj Mi Račun za prenos pesmi</string>
@@ -1214,11 +1218,13 @@ To kodo pošljite nadzorniku."</string>
      <string name="modify_progress_helper">Podrsajte navzgor ali navzdol za prilagoditev napredka besedila.</string>
      <string name="modify_song_info">Uredi</string>
      <string name="modify_song_info_success">Informacije o skladbi so posodobljene</string>
+     <string name="moe_core_rich_landing_title">Bogato pristajanje</string>
      <string name="moe_inbox_name">Center za obveščanje</string>
      <string name="moe_message_to_register">Kliknite gumb za registracijo, da se registrirate za preverjanje integracije.</string>
      <string name="moe_message_to_unregister">Naprava je registrirana za preverjanje integracije. Za odjavo kliknite gumb</string>
      <string name="moe_notification_center_empty">Center za obveščanje prazno</string>
      <string name="moe_register">PRIJAVITE SE</string>
+     <string name="moe_rich_push_dismiss_button">Zavrzi</string>
      <string name="moe_unregister">ODJAVITE SE</string>
      <string name="monday">Ponedeljek</string>
      <string name="monday_short">Pon</string>

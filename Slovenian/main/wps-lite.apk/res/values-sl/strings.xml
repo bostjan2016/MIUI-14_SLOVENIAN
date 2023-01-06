@@ -193,6 +193,7 @@
      <string name="public_cut">Obreži</string>
      <string name="public_decryptDocument">Dešifriraj</string>
      <string name="public_displayPasswd">Pokaži geslo</string>
+     <string name="public_display_privacy_policy">Pokaži Pravila o zasebnosti</string>
      <string name="public_doc_end_preview_tip">Ponuja WPS Office</string>
      <string name="public_edit">Uredi</string>
      <string name="public_enter_phonemode">Vhod v mobilni prikaz</string>
@@ -219,6 +220,7 @@
      <string name="public_lite_update_cloud_dialog_message">Posodobite WPS Office, uživajte v %s storitvi</string>
      <string name="public_lite_update_right_now">Posodobi zdaj</string>
      <string name="public_lite_use_right_now">Uporabite zdaj</string>
+     <string name="public_loadDocumentError">"Datoteka ne obstaja ali je ni mogoče odpreti"</string>
      <string name="public_loadDocumentFormatError">"Napaka formata datoteke, ne morem odpreti."</string>
      <string name="public_loadDocumentLackOfStorageError">"Ni dovolj prostora za shranjevanje, datoteke ni mogoče odpreti."</string>
      <string name="public_loadDocumentOutOfMemoryError">"Ni dovolj prostora za shranjevanje, datoteke ni mogoče odpreti."</string>
@@ -256,6 +258,7 @@
      <string name="public_permission_storage_disallow_msg">"Po preklicu pooblastila ne boste mogli več delati z dokumenti."</string>
      <string name="public_play">Predvajaj</string>
      <string name="public_ppt_label">Mi Presentation Viewer</string>
+     <string name="public_privacy_update">&lt;Data>Da bi v celoti razumeli vaše pravice kot uporabnika in načine, na katere uporabljamo vaše podatke, preberite in se strinjate z novo različico &lt;a href=\"%s\">Pravila o zasebnosti&lt;/a> preden nadaljujete.&lt;/Data></string>
      <string name="public_re_licensing">Odobrite avtorizacijo</string>
      <string name="public_readOnlyMode">Samo za branje</string>
      <string name="public_recory_edit_not_save_tips">Neshranjeno vsebino ste že vrnili.</string>
@@ -264,6 +267,10 @@
      <string name="public_refuse_jurisdiction">Potrebno je dovoljenje</string>
      <string name="public_replace">Zamenjaj</string>
      <string name="public_request_senior_password">Vnesite geslo z najvišjega dovoljenja</string>
+     <string name="public_revoke">Preklic%s</string>
+     <string name="public_revoke_privacy_content">"Če nadaljujete, boste umaknili svoje soglasje z Pravila o zasebnosti Mi Doc Viewer (poganja WPS). Prenehali bomo zbirati vaše osebne podatke, osebni podatki, ki so že zbrani in shranjeni, pa bodo izbrisani v določenem obdobju v skladu z veljavnimi zakoni in predpisi, razen če se zahteva drugače. Vaš umik soglasja bo obravnavan kot zavrnitev sprejema storitev, ki jih ponuja Mi Doc Viewer (poganja WPS)."</string>
+     <string name="public_revoke_privacy_desc">Preklic soglasja z Pravila o zasebnosti Mi Doc Viewer (poganja WPS)</string>
+     <string name="public_revoke_privacy_title">Preklic soglasja</string>
      <string name="public_ribbon_font">Font</string>
      <string name="public_save">Shrani</string>
      <string name="public_saveAs">Shrani kot</string>
@@ -285,6 +292,7 @@
      <string name="public_sensor_ratation_land_tip">Pokrajina</string>
      <string name="public_sensor_ratation_port_tip">Portret</string>
      <string name="public_service_disable_error_tips">"Te storitve ni mogoče uporabiti, ker je povezana storitev onemogočena."</string>
+     <string name="public_share">Skupna raba</string>
      <string name="public_share_no_network">"Ne morem se povezati na omrežje"</string>
      <string name="public_share_retry">Poskusite ponovno</string>
      <string name="public_shareplay_connect_fail">Preverite omrežno povezavo</string>

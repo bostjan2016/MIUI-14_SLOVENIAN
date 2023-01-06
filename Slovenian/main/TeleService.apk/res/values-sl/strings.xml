@@ -2171,6 +2171,7 @@ Uporabljeno bo prednostno omrežje."</string>
 Kontaktirajte vašega operaterja."</string>
      <string name="no_vm_number">Manjkajoča številka glasovne pošte</string>
      <string name="no_vm_number_msg">Na SIM kartici ni shranjene številke glasovne pošte.</string>
+     <string name="no_voice_capability">"Ne morem doseči operaterja. Počakajte minuto ali dve in poskusite znova."</string>
      <string name="no_voip">Spletno klicanje ni podprto</string>
      <string name="no_volte">Ne morem izvesti IMS klicev</string>
      <string name="no_volte_call_service_notification_content2_for_cbn">"Ne morem klicati. Glasovna storitev visoke ločljivosti ni registrirana za kartico SIM %d (China Broadnet)."</string>
