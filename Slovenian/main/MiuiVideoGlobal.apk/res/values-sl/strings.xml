@@ -915,6 +915,8 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="local_play_end_download_drag_up_guide">Tapnite ali povlecite za prenos</string>
      <string name="local_play_end_download_title">Poskusite prenesti svoje najljubše videoposnetke</string>
      <string name="local_play_end_drag_up_guide">Tapnite ali povlecite navzgor za predvajanje</string>
+     <string name="local_play_recommend_guide_card_bottom">Več videoposnetkov</string>
+     <string name="local_play_recommend_guide_card_title">Priporočeno</string>
      <string name="local_play_tip">Predvajanje lokalnega videoposnetka</string>
      <string name="local_push_setting_power_tag">Obvestila o lokalnih videoposnetkih</string>
      <string name="local_push_title">Popularno danes</string>

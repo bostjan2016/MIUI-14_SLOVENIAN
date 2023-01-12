@@ -573,6 +573,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="hide_pull_down_negative">"Ne skrivaj"</string>
      <string name="hide_pull_down_positive">Skrij</string>
      <string name="hide_retract_button">Skrij</string>
+     <string name="historical_wallpaper">Prej uporabljeno</string>
      <string name="home_apply_failured">"Ne morem nastaviti ozadje zač. zaslona"</string>
      <string name="home_apply_success">Ozadje zač. zaslona nastavljeno</string>
      <string name="home_daily">Dnevno ozadje</string>

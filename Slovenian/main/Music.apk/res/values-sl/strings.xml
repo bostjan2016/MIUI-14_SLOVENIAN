@@ -2267,9 +2267,21 @@ Velikost: %2$s"</string>
 Velikost Delta posodobitve: %2$s"</string>
      <string name="xiaomi_update_sdk_dialog_title">%1$s posodobitev!</string>
      <string name="xiaomi_update_sdk_external_storage_unavailable">Shramba ni na voljo, preverite kartico SD.</string>
+     <string name="yes">Da</string>
      <string name="yesterday">Včeraj</string>
+     <string name="you">ti</string>
      <string name="you_can_switch_mode_in_settings">Lahko menjate način dela v nastavitvah</string>
      <string name="you_may_like">Morda vam bo všeč</string>
+     <string name="youtube_download_canl">Prekliči</string>
+     <string name="youtube_download_fail_net">"Ni bilo mogoče vzpostaviti povezave z omrežjem. Preverite omrežne nastavitve in poskusite znova."</string>
+     <string name="youtube_download_fail_source">Pojavila se je napaka. Počakajte minuto ali dve in poskusite znova.</string>
+     <string name="youtube_download_fail_space">"Ne morem prenesti. Ni dovolj prostora za shranjevanje."</string>
+     <string name="youtube_download_fail_unknown">Pojavila se je napaka. Počakajte minuto ali dve in poskusite znova.</string>
+     <string name="youtube_download_hint">Zvok iz tega videoposnetka bo shranjen v vaši napravi v formatu MP3 z naslovom videoposnetka kot imenom datoteke. Prenesem?</string>
+     <string name="youtube_download_ing">Delam…</string>
+     <string name="youtube_download_start">Prenesi</string>
+     <string name="youtube_download_suc">Prenešeno</string>
      <string name="youtube_play_history">Zgodovina predvajanja</string>
      <string name="youtube_share_guide_tip">Zdaj lahko videoposnetke delite s prijatelji</string>
+     <string name="youtube_tab_explore">Odkrij</string>
 </resources>

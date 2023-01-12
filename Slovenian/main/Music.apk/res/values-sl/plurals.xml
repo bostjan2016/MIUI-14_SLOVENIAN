@@ -209,6 +209,10 @@ Opomba: Datoteka bo izbrisana tudi iz te naprave."</item>
         <item quantity="other">Nazaj %d sekund</item>
         <item quantity="one">Nazaj %d sekundo</item>
      </plurals>
+     <plurals name="feed_play_times">
+        <item quantity="other">%s ogledov</item>
+        <item quantity="one">%s ogled</item>
+     </plurals>
      <plurals name="folder_songs_count">
         <item quantity="other">Skladb: %d</item>
         <item quantity="one">1 skladba</item>
