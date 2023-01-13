@@ -855,7 +855,7 @@
      <string name="gmail_acceleration">Uporabi proxy strežnik za Gmail Račun</string>
      <string name="gmail_invalid_tip_cancel">Pekliči</string>
      <string name="gmail_invalid_tip_confirm">Vpišite se</string>
-     <string name="gmail_invalid_tip_message">"Googlovi pogoji in določila so se spremenili. Znova se prijavite v Gmail."</string>
+     <string name="gmail_invalid_tip_message">"Googlovi Pravila in pogoji so se spremenili. Znova se prijavite v Gmail."</string>
      <string name="gmail_invalid_tip_title">Vpišite se v Gmail</string>
      <string name="gmail_login_confirm_to_use_proxy">Uporabim proxy strežnik za dostop do Gmail Računa?</string>
      <string name="gmail_login_failed_non_proxy_title">"Ne morem dostopiti do Gmail strežnika"</string>

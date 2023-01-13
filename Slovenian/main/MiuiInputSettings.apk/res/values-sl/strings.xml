@@ -230,6 +230,11 @@ Ustvarjene dnevnike si lahko ogledate v Raziskovalcu."</string>
      <string name="ks_screenshot">Posnetek zaslona</string>
      <string name="ks_search_summary">Išči</string>
      <string name="ks_title">Bližnjice na tipkovnici</string>
+     <string name="launch_accessibility_environmental_speech_recognition">Prepoznavanje zvokov okolja</string>
+     <string name="launch_accessibility_hear_sound">Mi Ditto</string>
+     <string name="launch_accessibility_hear_sound_subtitle">Mi Ditto podnapisi</string>
+     <string name="launch_accessibility_talkback">TalkBack</string>
+     <string name="launch_accessibility_voice_control">Glasovne kontrole</string>
      <string name="launch_ai_shortcut">Mi AI bližnjice</string>
      <string name="launch_alipay_health_code">Zdravstvena koda Alipay</string>
      <string name="launch_alipay_health_code_auto_close">Bližnjica do zdravstvene kode Alipay ni več na voljo. Lahko preklopite na drugo bližnjico.</string>
@@ -244,6 +249,7 @@ Ustvarjene dnevnike si lahko ogledate v Raziskovalcu."</string>
      <string name="launch_noapp_dialog_replace">Nastavitve</string>
      <string name="launch_notification_center">Plošča obvestil</string>
      <string name="launch_recents">Zaženi Nedavno</string>
+     <string name="launch_smarthome">Xiaomi Magic Control</string>
      <string name="launch_voice_assistant">Zaženi glasovnega pomočnika</string>
      <string name="launch_wechat_health_code">Zdravstvena koda WeChat</string>
      <string name="launch_wechat_health_code_auto_close">Bližnjica do zdravstvene kode WeChat ni več na voljo. Lahko preklopite na drugo bližnjico.</string>
@@ -385,6 +391,7 @@ Ustvarjene dnevnike si lahko ogledate v Raziskovalcu."</string>
      <string name="navigation_type_title">Sistemska navigacija</string>
      <string name="night">Večer</string>
      <string name="no_media_button_receiver">Ne</string>
+     <string name="none">Nič</string>
      <string name="noon">Poldne</string>
      <string name="not_set">Ni nastavljeno</string>
      <string name="other_advanced_settings">Dodatne nastavitve</string>

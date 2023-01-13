@@ -99,6 +99,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="cloud_find_device_off">Izključeno</string>
      <string name="cloud_find_device_on">Vključeno</string>
      <string name="cloud_lab_title">Cloud Lab</string>
+     <string name="cloud_manage_storage_text">Upravljajte shranjevanje v oblaku</string>
      <string name="cloud_restore_title">Obnovi iz var. kopije</string>
      <string name="cloud_service_open_authorization">"Dobrodošli v storitvah Xiaomi Cloud! Xiaomi Cloud lahko uporabite za sinhronizacijo zapiskov, fotografij in videoposnetkov, posnetkov in drugih stvari iz sistemskih aplikacij v vseh povezanih napravah. Varnostne kopije postavitve domačega zaslona bodo shranjene tudi v Xiaomi Cloud. Ogledali si boste lahko vse sinhronizirane stvari na i.mi.com."</string>
      <string name="cloud_service_title">Xiaomi Cloud</string>
@@ -106,9 +107,12 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="cloud_space_upgrade_message">Tapni za dodajanje %s GB na tvoj oblak.</string>
      <string name="cloud_space_upgrade_no_quota_info">"Ne morem pridobiti informacij o prostoru za shranjevanje"</string>
      <string name="cloud_space_upgrade_title">Več prostora na Mi Cloud</string>
+     <string name="cloud_storage_almost_full_upgrade_text">Shramba je skoraj polna. Morda ne bo mogoče sinhronizirati fotografij.</string>
      <string name="cloud_storage_already_full">Cloud shramba je polna: %1$s/%2$s</string>
      <string name="cloud_storage_already_used">Porabljeno: %1$s/%2$s</string>
+     <string name="cloud_storage_common_functions_text">Pogosto uporabljeno</string>
      <string name="cloud_storage_default_title">Cloud shramba</string>
+     <string name="cloud_storage_full_upgrade_default_text">"Premalo prostora. Fotografij ni bilo mogoče sinhronizirati."</string>
      <string name="cloud_storage_info_type_drive">Mi Drive</string>
      <string name="cloud_storage_info_type_duokan">Duokan</string>
      <string name="cloud_storage_info_type_family">Družina</string>
@@ -118,6 +122,10 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="cloud_storage_loading_data">Samo trenutek…</string>
      <string name="cloud_storage_manage_title">Urejajte Cloud prostor</string>
      <string name="cloud_storage_no_data">V Cloudu ni ničesar</string>
+     <string name="cloud_storage_sufficient_text">Nadgradite in pridobite do %d TB prostora za shranjevanje</string>
+     <string name="cloud_storage_upgrade_text">Nadgradi</string>
+     <string name="cloud_storage_upgrade_text_now">Nadgradi</string>
+     <string name="cloud_storage_zero_upgrade_button_text_now">Nadgradite zastonj</string>
      <string name="cloudservice_new_sync">Sinhr. %s z Mi Cloudom</string>
      <string name="cmcc_micloud_dspt">Uporabite Mi Cloud za sinhronizacijo podatkov in lociranje naprave.</string>
      <string name="confirm_delete">Izbriši</string>
@@ -131,6 +139,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="copy">Kopiraj</string>
      <string name="cta_notification_content_text">Dovolite %s povezovanje s spletom da boste lahko vrnili stvari</string>
      <string name="cta_notification_content_title">"Ne morem vrniti stvari iz %s"</string>
+     <string name="customize_notification_btn_text">Nadgradi</string>
      <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Ta račun se uporablja tudi v drugi napravi. Združim stvari iz več aplikacij (vključno %1$s in %2$s) s stvarmi v tej napravi?</string>
      <string name="data_merge_dialog_alert_active_on_phone_msg_one">Ta račun se uporablja tudi v drugi napravi. Združim stvari iz %s s stvarmi v tej napravi?</string>
      <string name="data_merge_dialog_alert_active_on_phone_msg_two">Ta račun se uporablja tudi v drugi napravi. Združim stvari iz %1$s in %2$s s stvarmi v tej napravi?</string>
@@ -145,6 +154,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="data_protection_title">Zaščita podatkov</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
+     <string name="default_noti_quota_full_title">Shramba v oblaku je polna</string>
      <string name="deskclock_backup">Napravi var. kopijo ure</string>
      <string name="detect_sim_card">Poišči SIM kartico</string>
      <string name="device_activation_card_cannot_get_yet">"Informacij ni bilo mogoče dobiti. Poskusite znova čez 3-5 dni."</string>

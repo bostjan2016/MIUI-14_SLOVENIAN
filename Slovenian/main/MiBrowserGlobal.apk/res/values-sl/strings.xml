@@ -1802,7 +1802,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="permission_open_mic">Najprej dovolite Mi brskalniku dostop do mikrofona v nastavitvah.</string>
      <string name="permission_open_storage">Najprej dovolite Mi brskalniku dostop do notranjega pomnilnika v nastavitvah.</string>
      <string name="permission_request_contacts">Ta storitev zahteva dovoljenje za dostop do vaših stikov, da lahko normalno deluje.</string>
-     <string name="permission_service">Pogoji in določila</string>
+     <string name="permission_service">Pravila in pogoji</string>
      <string name="permission_sound_toast_message">Predvajanje zvoka…</string>
      <string name="permission_storage">Pomnilnik</string>
      <string name="permission_to_open">Nastavitve</string>
@@ -2060,7 +2060,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="privacy_policy">Pravila o zasebnosti</string>
      <string name="privacy_reset_fail">"Ne morem ponastaviti. Poskusite ponovno."</string>
      <string name="privacy_security">Zasebnost in varnost</string>
-     <string name="privacy_sub_title">Pogoji in določila</string>
+     <string name="privacy_sub_title">Pravila in pogoji</string>
      <string name="privacy_title">Dobrodošli v Mi brskalnik</string>
      <string name="private_title">Skrite datoteke</string>
      <string name="profile">Osebne informacije</string>

@@ -3940,6 +3940,7 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
      <string name="effect_preview">Predogled</string>
      <string name="eighthours">8 ur</string>
      <string name="elastic_text">Poizvedbe in spustni meniji se pojavijo z elastičnimi pojavnimi okni, ki tem predmetom omogočijo večjo pozornost</string>
+     <string name="embedded_window_guide_text">Ko je zaslon prikazan vodoravno, bodo aplikacije prikazane vzporedno druga z drugo. Ko je ta storitev izklopljena, bodo aplikacije na sredini.</string>
      <string name="emergency_address_summary">Uporabljen je kot vaš naslov, ko opravite klic v sili preko WiFi-ja</string>
      <string name="emergency_address_title">Naslov za nujne primere</string>
      <string name="emergency_dashboard_summary">Klic v sili, zdravstveni podatki, opozorila</string>
@@ -6313,7 +6314,7 @@ Vključite najmanj 4 točke."</string>
      <string name="magic_list_empty_text">Trenutno ni nobene aplikacije, združljive s to storitvijo</string>
      <string name="magic_list_empty_text_pad">Trenutno ni nobene aplikacije, združljive s to storitvijo</string>
      <string name="magic_window_name">Vzporedna okna</string>
-     <string name="magic_window_name_pad">Optimizacija ležečega pogleda</string>
+     <string name="magic_window_name_pad">Vzporedna okna</string>
      <string name="mah">%d mAh</string>
      <string name="main_clear_accounts">"
 
