@@ -992,7 +992,7 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
      <string name="privacy_runtime_perm_call_log_title">Dostop in urejanje posnetkov klicev</string>
      <string name="privacy_runtime_perm_contacts_desc">Za sinhronizacijo stikov</string>
      <string name="privacy_runtime_perm_contacts_title">Dostop in urejanje stikov</string>
-     <string name="privacy_runtime_perm_external_storage_desc">Za sinhronizacijo fotografij profila stikov in prilog sporočil</string>
+     <string name="privacy_runtime_perm_external_storage_desc">Za sinhronizacijo fotografij profila stikov</string>
      <string name="privacy_runtime_perm_external_storage_title">Dostop do shrambe</string>
      <string name="privacy_runtime_perm_phone_state_desc">Za dostop do telefonske številke in stanja naprave</string>
      <string name="privacy_runtime_perm_phone_state_title">Dostop do podatkov o napravi</string>
