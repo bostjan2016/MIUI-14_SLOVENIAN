@@ -659,7 +659,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
      <string name="unit">Enota</string>
      <string name="unit_temperature">Enota temperature</string>
      <string name="unit_wind">Enota hitrosti vetra</string>
-     <string name="update_night_setting_summary_text">Posodobi informacije o vremenu med %1$s in %1$s</string>
+     <string name="update_night_setting_summary_text">Posodobi informacije o vremenu med %1$s in %2$s</string>
      <string name="update_night_setting_title_text">Samodejno posodobi ponoči</string>
      <string name="update_notification_info">Posodabljanje podatkov v ozadju…</string>
      <string name="update_setting_title_text">Posodobite vremenske podatke</string>

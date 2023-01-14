@@ -907,7 +907,7 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
      <string name="noti_quota_button_text">Nadgradi</string>
      <string name="noti_quota_full_sum">Nadgradite svoj načrt shranjevanja, če želite nadaljevati sinhronizacijo stvari.</string>
      <string name="noti_quota_full_sum_without_button">Pridobite več prostora za shranjevanje za nadaljevanje sinhronizacije stvari.</string>
-     <string name="noti_quota_full_title">Shramba v oblaku je polna</string>
+     <string name="noti_quota_full_title">Shramba v oblaku je &lt;font color=#F22424>polna&lt;/font></string>
      <string name="noti_quota_full_title_without_button">Shramba v oblaku je polna</string>
      <string name="noti_quota_low_sum">Nadgradite svoj načrt shranjevanja, če želite nadaljevati sinhronizacijo stvari.</string>
      <string name="noti_quota_low_sum_without_button">Pridobite več prostora za shranjevanje za nadaljevanje sinhronizacije stvari.</string>
