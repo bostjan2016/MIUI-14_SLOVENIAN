@@ -912,6 +912,7 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
      <string name="noti_quota_low_sum">Nadgradite svoj načrt shranjevanja, če želite nadaljevati sinhronizacijo stvari.</string>
      <string name="noti_quota_low_sum_without_button">Pridobite več prostora za shranjevanje za nadaljevanje sinhronizacije stvari.</string>
      <string name="noti_quota_low_title">Ni dovolj prostora za shranjevanje v oblaku</string>
+     <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424>Manj kot &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> GB&lt;/font> prostora je ostalo</string>
      <string name="noti_quota_low_title_without_button">Ni dovolj prostora za shranjevanje v oblaku</string>
      <string name="notification_reinstall_key_text">Potrdite svojo identiteto in poskusite znova</string>
      <string name="notification_sync_fail_title">"Ne morem sinhronizirati gesel"</string>
