@@ -42,11 +42,11 @@
      <string name="auto_disable_screenbuttons_rotation_title">Blokiraj navigacijske gumbe v ležečem položaju</string>
      <string name="auto_disable_screenbuttons_summary">Samodejno onemogoči navigacijske gumbe pri uporabi izbranih aplikacij. Dvakrat tapnite kateri koli gumb za krmarjenje, da ga znova omogočite.</string>
      <string name="auto_disable_screenbuttons_title">Samodejno onemogoči navigacijske gumbe</string>
-     <string name="back_button">Nazaj</string>
-     <string name="back_double_tap">Dvojni dotik nazaj</string>
-     <string name="back_key">Nazaj</string>
-     <string name="back_tap">Dvojni dotik</string>
-     <string name="back_triple_tap">Trojni dotik nazaj</string>
+     <string name="back_button">Zadaj</string>
+     <string name="back_double_tap">Dvojni dotik zadaj</string>
+     <string name="back_key">Zadaj</string>
+     <string name="back_tap">Dotik zadaj</string>
+     <string name="back_triple_tap">Trojni dotik zadaj</string>
      <string name="bottomsheet_action_expand_halfway">Razširi do polovice</string>
      <string name="builtin_keyboard_settings_title">Fizična tipkovnica</string>
      <string name="camera_key_action_app_title">Odpri aplikacijo</string>

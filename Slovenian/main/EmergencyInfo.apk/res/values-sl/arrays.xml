@@ -145,9 +145,9 @@
         <item>avrcp16</item>
      </string-array>
      <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (Privzeto)</item>
+        <item>AVRCP 1.5 (Privzeto)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
      </string-array>
      <string-array name="bluetooth_map_version_values">
@@ -227,7 +227,7 @@
         <item></item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
-        <item>Brez</item>
+        <item>Nič</item>
         <item>480p</item>
         <item>480p (varno)</item>
         <item>720p</item>
@@ -266,7 +266,7 @@
         <item>256 KB /medpomnilnik dnevnika</item>
         <item>1 MB /medpomnilnik dnevnika</item>
         <item>4 MB /medpomnilnik dnevnika</item>
-        <item>16 MB/medpomnilnik dnevnika</item>
+        <item>8 MB /medpomnilnik dnevnika</item>
      </string-array>
      <string-array name="select_logd_size_titles">
         <item>Izključeno</item>
@@ -274,13 +274,13 @@
         <item>256 KB</item>
         <item>1 MB</item>
         <item>4 MB</item>
-        <item>16 MB</item>
+        <item>8 MB</item>
      </string-array>
      <string-array name="select_logpersist_summaries">
         <item>Izključeno</item>
-        <item>Vsi medpomnilniki zapisov</item>
-        <item>Vse razen medpomnilnika zapisnika radija</item>
-        <item>samo medpomnilniki zapisnika jedra</item>
+        <item>Vsi zapisniki medpomnilnika</item>
+        <item>Vse razen radio zapisnika medpomnilnika</item>
+        <item>samo medpomnilnik dnevnika jedra</item>
      </string-array>
      <string-array name="select_logpersist_titles">
         <item>Izključeno</item>
@@ -333,7 +333,7 @@
         <item>Normalno</item>
         <item>Hitro</item>
         <item>Hitreje</item>
-        <item>Precej hitro</item>
+        <item>Zelo hitro</item>
         <item>Hitrost</item>
         <item>Velika hitrost</item>
         <item>Najhitreje</item>
