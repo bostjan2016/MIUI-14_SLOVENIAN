@@ -13722,7 +13722,7 @@ Shramba poverilnic morda ne bo omogočena"</string>
      <string name="wifitrackerlib_wifi_standard_11n">WiFi 4</string>
      <string name="wifitrackerlib_wifi_standard_legacy">Starejša različica</string>
      <string name="wifitrackerlib_wifi_standard_unknown">Neznano</string>
-     <string name="wifitrackerlib_wifi_unmetered_label">Neomejeno</string>
+     <string name="wifitrackerlib_wifi_unmetered_label">Z neomejenim prenosom podatkov</string>
      <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">WiFi se zaenkrat ne bo samodejno povezal</string>
      <string name="wimax_settings">4G</string>
      <string name="window_animation_scale_title">Merilo animacije okna</string>

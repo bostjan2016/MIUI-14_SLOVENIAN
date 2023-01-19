@@ -1925,7 +1925,7 @@ Zmeraj uporabi to številko"</string>
      <string name="mobile_special_network_optimization_config_summary">Izboljšajte kakovost klica s samodejnim prilagajanjem različnim razmeram</string>
      <string name="mobile_special_network_optimization_config_title">Prilagodi se različnim razmeram</string>
      <string name="mock_location_app">Izberite aplikacijo za lažno lokacijo</string>
-     <string name="mock_location_app_not_set">Aplikacija za lažno lokacijo nio nastavljena</string>
+     <string name="mock_location_app_not_set">Aplikacija za lažno lokacijo ni nastavljena</string>
      <string name="mock_location_app_set">Aplikacija za lažno lokacijo: %1$s</string>
      <string name="modem_dialog_body">Mobilno omrežje je nestabilno, povzroča prekinitve ali omrežne težave. Pošljem poročilo o napakah Mi za analizo? To poročilo lahko vsebuje osebne podatke. Vaše poročilo bo pomoč za reševanje te napake in se nikoli ne bo uporabilo v komercijalne namene.</string>
      <string name="modem_dialog_title">Mobilno omrežje je nestabilno</string>
