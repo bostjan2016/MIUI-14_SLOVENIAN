@@ -258,7 +258,7 @@
      <string name="public_permission_storage_disallow_msg">"Po preklicu pooblastila ne boste mogli več delati z dokumenti."</string>
      <string name="public_play">Predvajaj</string>
      <string name="public_ppt_label">Mi Presentation Viewer</string>
-     <string name="public_privacy_update">&lt;Data>Da bi v celoti razumeli vaše pravice kot uporabnika in načine, na katere uporabljamo vaše podatke, preberite in se strinjate z novo različico &lt;a href=\"%s\">Pravila o zasebnosti&lt;/a> preden nadaljujete.&lt;/Data></string>
+     <string name="public_privacy_update">&lt;Data>Da boste v celoti razumeli vaše pravice kot uporabnika in načine, na katere uporabljamo vaše podatke, preberite in se strinjate z novo različico &lt;a href=\"%s\">Pravila o zasebnosti&lt;/a> preden nadaljujete.&lt;/Data></string>
      <string name="public_re_licensing">Odobrite avtorizacijo</string>
      <string name="public_readOnlyMode">Samo za branje</string>
      <string name="public_recory_edit_not_save_tips">Neshranjeno vsebino ste že vrnili.</string>

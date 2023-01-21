@@ -2407,6 +2407,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_video_focusmode_title">Način fokusa</string>
      <string name="pref_video_hfr_entryvalue_default">1920x1080:120</string>
      <string name="pref_video_hfr_title">Hitrost sličic</string>
+     <string name="pref_video_prompter">Telesufler</string>
      <string name="pref_video_quality_1080P">6</string>
      <string name="pref_video_quality_entry_1080p">FHD 1080p, %dfps</string>
      <string name="pref_video_quality_entry_1080p_24fps">Popolna visoka ločljivost, 1080p, 24 sličic na sekundo</string>
@@ -2597,6 +2598,12 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="snapshot_lower_than_video">Velikost pregledanega posnetka je manjša od velikosti videoposnetka. Prilagajanje na velikost videoposnetka. Izberite resolucijo večjo ali enako trenutni velikosti videoposnetka.</string>
      <string name="snapshot_qcif_and_d1">Za to resolucijo je podprta samo velikost videoposnetka.</string>
      <string name="snapshotsize_low_powermode">Resolucija slik v Nizkem načinu energije ni podprta. Uporabljena bo velikost videoposnetka.</string>
+     <string name="sorftlight_style_cold">Hladno</string>
+     <string name="sorftlight_style_cold_alert">Pisarna</string>
+     <string name="sorftlight_style_nature">Naravno</string>
+     <string name="sorftlight_style_nature_alert">Zunaj</string>
+     <string name="sorftlight_style_warm">Vroče</string>
+     <string name="sorftlight_style_warm_alert">Restavracija</string>
      <string name="spaceIsLow_content">Na SD kartici zmanjkuje prostora. Zmanšajte kvaliteto ali izbrišite nekaj slik ali drugih datotek.</string>
      <string name="spaceIsLow_content_external_storage_priority">Na SD kartici zmanjkuje prostora</string>
      <string name="spaceIsLow_content_primary_storage_priority">V USB pomnilniku zmanjkuje prostora</string>
@@ -2825,6 +2832,13 @@ You can use the buttons below to edit text, preview playback, and use other sett
      <string name="videocamera_settings_label">Nastavitve Video kamere</string>
      <string name="view_privacy_policy">Pokaži Pravila o zasebnosti</string>
      <string name="visit_cloud_album">Obiščite Cloud album</string>
+     <string name="vlog_pro_cancel_reset_record_hint">Prekliči</string>
+     <string name="vlog_pro_first_into_vlog_dumy_hint">Izberite predlogo in tapnite za začetek</string>
+     <string name="vlog_pro_first_record_hint">Tapnite za združevanje v zaporedje</string>
+     <string name="vlog_pro_reset_record_hint">Posnemi znova</string>
+     <string name="vlog_pro_workspace_continue_recording">Nadaljuj z snemanjem</string>
+     <string name="vlog_pro_workspace_video_delete">Izbriši</string>
+     <string name="vlog_pro_workspace_video_rename">Preimenuj</string>
      <string name="vv_duartion_hint">%1$s | Segment %2$d | %3$ss</string>
      <string name="vv_hint">VLOG lahko posnamete samo načinu pokrajina</string>
      <string name="vv_mode_menu_item_name">VLOG</string>
@@ -2862,6 +2876,7 @@ snemanje in urejanje videoposnetkov v gibanju"</string>
      <string name="widget_camera_label">Leica filtri</string>
      <string name="widget_camera_lens_35mm_description">Petintrideset milimetrov</string>
      <string name="widget_camera_lens_50mm_description">Petdeset milimetrov</string>
+     <string name="widget_camera_lens_75mm_description">Petinsedemdeset milimetrov</string>
      <string name="widget_camera_lens_90mm_description">Devetdeset milimetrov</string>
      <string name="widget_camera_lens_description">Poskus z goriščno razdaljo</string>
      <string name="widget_camera_lens_none_description">Petdesetmilimetrski objektiv za portrete</string>
