@@ -13,6 +13,7 @@
         <item>1.5x</item>
         <item>2x</item>
      </string-array>
+     </string-array>
      <string-array name="language_name_list">
         <item>Azərbaycan</item>
         <item>Melayu</item>
@@ -102,7 +103,7 @@
         <item>Stare novice</item>
         <item>Ekstremistični pogledi</item>
         <item>Subliminalno oglaševanje</item>
-	<item>"Ni mi všeč"</item>
+        <item>"Ni mi všeč"</item>
      </string-array>
      <string-array name="pref_fling_on_border_gesture_entries">
         <item>Nazaj/naprej</item>
