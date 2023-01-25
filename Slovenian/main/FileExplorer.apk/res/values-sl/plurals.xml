@@ -165,8 +165,8 @@
         <item quantity="one">• Imate &lt;font color=#fc7050>%1$s&lt;/font> sledilca!</item>
      </plurals>
      <plurals name="original_user_play_1">
-        <item quantity="other">• Naložili ste &lt;font color=#fc7050>%1$s&lt;/font> videoposnetkov,</item>
-        <item quantity="one">• Naložili ste &lt;font color=#fc7050>%1$s&lt;/font> videoposnetek,</item>
+        <item quantity="other">• Naložili ste &lt;font color=#fc7050>%1$s&lt;/font> videoposnetkov.</item>
+        <item quantity="one">• Naložili ste &lt;font color=#fc7050>%1$s&lt;/font> videoposnetek.</item>
      </plurals>
      <plurals name="original_user_play_2">
         <item quantity="other">Osrečili ste &lt;font color=#fc7050>%1$s&lt;/font> oseb!</item>
@@ -177,24 +177,24 @@
         <item quantity="one">Najden %1$s nov video</item>
      </plurals>
      <plurals name="search_head_hint_all">
-        <item quantity="other">Rezultatov iskanja (%1$d stvari)</item>
-        <item quantity="zero">Rezultatov iskanja (%1$d stvari)</item>
+        <item quantity="other">Rezultat iskanja (%1$d stvari)</item>
+        <item quantity="zero">Rezultat iskanja (%1$d stvari)</item>
         <item quantity="one">Rezultat iskanja (%1$d stvar)</item>
-        <item quantity="two">Rezultata iskanja (%1$d stvari)</item>
-        <item quantity="few">Rezultati iskanja (%1$d stvari)</item>
-        <item quantity="many">Rezultatov iskanja (%1$d stvari)</item>
+        <item quantity="two">Rezultat iskanja (%1$d stvari)</item>
+        <item quantity="few">Rezultat iskanja (%1$d stvari)</item>
+        <item quantity="many">Rezultat iskanja (%1$d stvari)</item>
      </plurals>
      <plurals name="search_head_hint_app">
-        <item quantity="other">Datotek (%2$d) apl. %1$s</item>
-        <item quantity="one">Datoteka (%2$d) apl. %1$s</item>
+        <item quantity="other">Datoteke, povezane z aplikacijo %1$s (%2$d stvari)</item>
+        <item quantity="one">Datoteke, povezane z aplikacijo %1$s (%2$d stvar)</item>
      </plurals>
      <plurals name="search_head_hint_file">
-        <item quantity="other">Datotek %1$s (%2$d)</item>
-        <item quantity="one">Datoteka %1$s (%2$d)</item>
+        <item quantity="other">%1$s povezanih datotek (%2$d stvari)</item>
+        <item quantity="one">%1$s povezanih datotek (%2$d stvar)</item>
      </plurals>
      <plurals name="search_head_hint_tag">
-        <item quantity="other">Datotek %1$s (%2$d)</item>
-        <item quantity="one">Datoteka %1$s (%2$d)</item>
+        <item quantity="other">Označi sorodne datoteke %1$s (%2$d stvari)</item>
+        <item quantity="one">Označi sorodne datoteke %1$s (%2$d stvar)</item>
      </plurals>
      <plurals name="seconds">
         <item quantity="other">%1$d sek</item>
@@ -205,7 +205,7 @@
         <item quantity="one">%d stvar</item>
      </plurals>
      <plurals name="total_topic_num">
-        <item quantity="other">Tem: %1$s</item>
+        <item quantity="other">%1$s tem</item>
         <item quantity="one">%1$s tema</item>
      </plurals>
      <plurals name="total_user_num">
