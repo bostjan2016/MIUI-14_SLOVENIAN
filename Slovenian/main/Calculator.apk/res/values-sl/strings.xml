@@ -339,7 +339,7 @@
      <string name="label_powered_by">Ponuja Mi Kalkulator</string>
      <string name="label_principal">Glavnica</string>
      <string name="label_share">Deli</string>
-     <string name="label_start_date">Datum začetka</string>
+     <string name="label_start_date">Začetni datum</string>
      <string name="label_statistics">Statistika</string>
      <string name="label_to_date">Do</string>
      <string name="label_total_interest">Skupaj obresti</string>

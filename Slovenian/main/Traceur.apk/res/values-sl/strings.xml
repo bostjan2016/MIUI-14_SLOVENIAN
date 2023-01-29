@@ -395,7 +395,7 @@ Izbor"</string>
      <string name="help_feedback_label">Pomoč in povratne informacije</string>
      <string name="help_label">Pomoč in povratne informacije</string>
      <string name="home">Začetna stran nastavitev</string>
-     <string name="icon_content_description">Ikona pogovornega okna</string>
+     <string name="icon_content_description">Pogovorno okno</string>
      <string name="ime_security_warning">Ta način vnosa lahko morda zbere besedilo, ki ga vtipkate, vključno z osebnimi podatki, kot so gesla in številke kreditnih kartic. Omogoča ga aplikacija %1$s. Ali želite uporabiti ta način vnosa?</string>
      <string name="immediately_destroy_activities">Ne obdrži dejavnosti</string>
      <string name="immediately_destroy_activities_summary">Uniči vsako dejavnost, ko uporabnik preneha z njo</string>

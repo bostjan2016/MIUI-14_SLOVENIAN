@@ -740,7 +740,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
      <string name="hr_strength_lower_mid">Nizko</string>
      <string name="hr_strength_lowest">Najnižje</string>
      <string name="hr_strength_mid">Srednje</string>
-     <string name="icon_content_description">Ikona dialoga</string>
+     <string name="icon_content_description">Pogovorno okno</string>
      <string name="immediately_experience">Posodobi</string>
      <string name="improve_step_target">Prepogosto dosežete svoj cilj. Nastavite višjega.</string>
      <string name="improve_your_health_default_tips">Vadite in dovolj spite da boste ostali zdravi.</string>
@@ -981,7 +981,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
      <string name="moderately_abnormal_tip">Vsak dan po vstajanju in pred odhodom spat</string>
      <string name="modify">Uredi</string>
      <string name="modify_contact">Uredi</string>
-     <string name="modify_end_date">Zamenjaj datum konca</string>
+     <string name="modify_end_date">Zamenjaj Končni datum</string>
      <string name="monday">Ponedeljek</string>
      <string name="monday_short">Pon</string>
      <string name="monday_shortest">P</string>
@@ -1035,7 +1035,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
      <string name="mtrl_picker_date_header_unselected">Izbrani datum</string>
      <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
      <string name="mtrl_picker_range_header_title">Izberite razpon datumov</string>
-     <string name="mtrl_picker_range_header_unselected">Datum začetka - Datum konca</string>
+     <string name="mtrl_picker_range_header_unselected">Začetni datum - Končni datum</string>
      <string name="muscle_rate">Mišice</string>
      <string name="muscle_rate_descripe_content">"Odstotek mišic se izračuna na mišični masi, telesni teži in višini itd. To je koristno za določitev, kako zdrav in močan si. Redna vadba je potrebna za vzdrževanje zdrave količine mišic v telesu."</string>
      <string name="my_data_source">Vir podatkov</string>
@@ -1230,7 +1230,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
      <string name="sedentaty_hazard_description">Posedanje ne koristi vašemu zdravju. 12 ur z enominutnimi prekinitvami vsak dan vam bo pomagalo, da se izognete nevarnostim sedečega načina življenja.</string>
      <string name="select_exercise_intensity">Izberite intenziteto</string>
      <string name="select_exercise_type">Izberite vrsto vadbe</string>
-     <string name="select_menstruation_end_date">Izberite datum konca te menstruacije</string>
+     <string name="select_menstruation_end_date">Izberite Končni datum te menstruacije</string>
      <string name="select_null">Nič ni izbrano</string>
      <string name="select_recog_question">Izberite opravilo</string>
      <string name="select_swim_posture">Izberite stil</string>

@@ -155,7 +155,7 @@ Za več informacij, vključno s pravilniki organizacije o zasebnosti, se obrnite
      <string name="fully_managed_device_provisioning_summary">S to napravo lahko preprosto dostopate do delovnih aplikacij. Ta naprava ni zasebna, zato bo skrbnik za IT morda lahko videl vaše podatke in dejavnost.</string>
      <string name="fully_managed_device_reset_and_return_button">Ponastavi napravo pred vrnitvijo</string>
      <string name="fully_managed_device_with_permission_control_provisioning_summary">S to napravo lahko preprosto dostopate do delovnih aplikacij. Ta naprava ni zasebna, zato bo skrbnik za IT morda lahko videl vaše podatke in dejavnost. Skrbnik za IT prav tako lahko nastavlja dovoljenja za aplikacije v tej napravi, na primer dovoljenja za mikrofon, fotoaparat in lokacijo.</string>
-     <string name="icon_content_description">Ikona pogovornega okna</string>
+     <string name="icon_content_description">Pogovorno okno</string>
      <string name="if_questions_contact_admin">Če imate dodatna vprašanja se obrnite na administratorja organizacije</string>
      <string name="info_anim_title_0">Spremenite način dela</string>
      <string name="info_anim_title_1">Ločite poslovno od osebnega</string>

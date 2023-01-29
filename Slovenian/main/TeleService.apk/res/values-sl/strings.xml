@@ -1467,7 +1467,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
      <string name="hintPhonenumber">Številka telefona</string>
      <string name="home">Začetni zaslon nastavitev</string>
      <string name="home_screen_shortcut">Bližnjica začetnega zaslona</string>
-     <string name="icon_content_description">Ikona pogovornega okna</string>
+     <string name="icon_content_description">Pogovorno okno</string>
      <string name="ime_security_warning">Ta  način vnosa lahko zbira tekst ki ga vnašate vključno z osebnimi podatki kot so gesla in številke kreditnih kartic. To omogoča aplikacija %1$s. Uporabim ta način vnosa?</string>
      <string name="immediately_destroy_activities">Odstranitev aktivnosti</string>
      <string name="immediately_destroy_activities_summary">Aktivnost se prekine takoj ko jo uporabnik zapusti.</string>

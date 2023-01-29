@@ -5231,7 +5231,7 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
 morate najprej napraviti iCloud var. kopijo"</string>
      <string name="icloud_need_wifi_message">WiFi trenutno ni povezan. Da boste uvozili podatke iz iClouda, potrebujete WiFi.</string>
      <string name="icloud_need_wifi_title">Poveži se na WiFi</string>
-     <string name="icon_content_description">Ikona pogovornega okna</string>
+     <string name="icon_content_description">Pogovorno okno</string>
      <string name="ignore_optimizations_off">Optimizacija</string>
      <string name="ignore_optimizations_off_desc">Priporočljivo za daljši čas delovanja akumulatorja</string>
      <string name="ignore_optimizations_on">Brez optimizacije</string>
