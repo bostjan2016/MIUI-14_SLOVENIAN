@@ -24,8 +24,8 @@
      <string name="abc_searchview_description_search">Iskanje</string>
      <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
      <string name="abc_searchview_description_voice">Glasovno iskanje</string>
-     <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
-     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
+     <string name="abc_shareactionprovider_share_with">Skupna raba z</string>
+     <string name="abc_shareactionprovider_share_with_application">Skupna raba z %s</string>
      <string name="abc_toolbar_collapse_description">Strni</string>
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="activate_xiaomi_account">Aktiviraj to napravo</string>
@@ -38,17 +38,17 @@
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
      <string name="copy">Kopiraj</string>
-     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">"Za dostop do telefonske številke, da najdete to napravo, ko ni povezana s spletom"</string>
+     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">"Za dostop do telefonske številke za iskanje te naprave, ko ni povezana s spletom"</string>
      <string name="custom_define_permission_desc_android.permission.SEND_SMS">"Za iskanje te naprave, ko ni povezana s spletom"</string>
      <string name="custom_define_permission_desc_android.permission_group.LOCATION">Za lociranje vaše naprave in preklop v način izgubljeno</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
      <string name="default_debt_msg_words">"Ta naprava je zaklenjena zaradi zamude pri plačilu obroka.
-  Za podrobnosti kontaktirajte svojega prodajalca."</string>
-     <string name="default_lock_msg_words">Ta naprava je povezana z obstoječim Mi računom. Iz varnostnih razlogov je potrebno vnesti geslo za kontrolo naprave.</string>
+Za podrobnosti kontaktirajte svojega prodajalca."</string>
+     <string name="default_lock_msg_words">Ta naprava je povezana z obstoječim računom Mi. Iz varnostnih razlogov morate za preverjanje naprave vnesti geslo.</string>
      <string name="default_lock_msg_words_with_phone">Živjo! Izgubil sam mobitel. Me lahko prosim kontaktirate? Hvala!</string>
      <string name="device_locked">Ta naprava je zaklenjena</string>
-     <string name="device_lost">Naprava je izgubljena!</string>
+     <string name="device_lost">Ta naprava je izgubljena</string>
      <string name="disable_find_device_error">"Ne morem izključiti Najdi napravo. %1$s"</string>
      <string name="disable_find_device_success">Najdi napravo je izključen.</string>
      <string name="doing_extra_login_steps">Kontrola prijave…</string>
@@ -82,7 +82,7 @@
      <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Če želite posodobiti stanje kartice SIM in zagotoviti, da vse storitve delujejo normalno, bo &lt;font color=#0097FF>&lt;b>mednarodno plačljivo tekstno sporočilo&lt;/b>&lt;/font> poslano, ko zamenjate SIM kartici. To sporočilo vam bo lahko zaračunal vaš operater."</string>
      <string name="find_device_stop_noise">Dotaknite se V redu da utišate</string>
      <string name="find_device_storage_corrupted">Prostor za shranjevanje Najdi napravo je poškodovan. Vaša naprava ni več varna.</string>
-     <string name="find_device_success_title">Najdi napravo vklj.</string>
+     <string name="find_device_success_title">Najdi napravo vključen</string>
      <string name="find_device_telephony_fault">Najdi napravo: Napaka Telefonije (%s).</string>
      <string name="fmt_date">D</string>
      <string name="fmt_date_day">d</string>
@@ -139,8 +139,8 @@
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
      <string name="i_know">V redu</string>
-     <string name="lock_msg_phone">Kontakt informacije: %s</string>
-     <string name="login_extra_steps">Kontrola prijave</string>
+     <string name="lock_msg_phone">Kontaktne informacije: %s</string>
+     <string name="login_extra_steps">Preverjanje prijave</string>
      <string name="login_failed">"Ne morem se prijaviti. %s."</string>
      <string name="midnight">Noč</string>
      <string name="miuix_access_state_desc">Izbrano</string>
@@ -161,9 +161,9 @@
      <string name="miuix_appcompat_select_item">Izberi stvari</string>
      <string name="miuix_indexer_collect">Zbirke</string>
      <string name="miuix_indexer_selected">Izbrano %s</string>
-     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
-     <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
-     <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
+     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Podrsaj dol za osvežitev</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uspešno osveženo</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežujem…</string>
      <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
      <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je za zdaj vse"</string>
      <string name="miuix_sbl_tracking_progress_labe_up_none">"To je za zdaj vse"</string>
@@ -238,7 +238,7 @@
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
-     <string name="sys_notification_async_open_failed_content">Tapni za ponovni poizkus ali odnehaj.</string>
+     <string name="sys_notification_async_open_failed_content">Tapnite za ponovni poskus ali preklic.</string>
      <string name="sys_notification_async_open_failed_title">"Ne morem vključiti Najdi napravo"</string>
      <string name="sys_notification_async_verify_content">Naša posodobljena varnostna pravila zahtevajo da je Najdi napravo ponovno aktiviran.</string>
      <string name="sys_notification_async_verify_title">Ponovno aktiviraj Najdi napravo</string>
@@ -259,8 +259,8 @@
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
      <string name="unlock">Aktiviraj</string>
-     <string name="unlock_access_denied">Pristop zavrnjen</string>
-     <string name="unlock_bad_authentication">Napačno up. ime ali geslo</string>
+     <string name="unlock_access_denied">Dostop zavrnjen</string>
+     <string name="unlock_bad_authentication">Napačno uporabniško ime ali geslo</string>
      <string name="unlock_error_abort">Prekinil uporabnik</string>
      <string name="unlock_error_device_id">"Ne morem dobiti ID naprave"</string>
      <string name="unlock_error_interrupted">Prekinjeno</string>
@@ -270,16 +270,16 @@
      <string name="unlock_error_server">Napaka strežnika</string>
      <string name="unlock_error_ssl_hand_shake">"Ne morem se povezati s strežnikom, poskusite nastaviti datum in čas ročno."</string>
      <string name="unlock_error_unknown">"Ne morem se prijaviti"</string>
-     <string name="unlock_error_user_name">Napačno up. ime</string>
+     <string name="unlock_error_user_name">Neveljavno uporabniško ime</string>
      <string name="unlock_error_wrong_vcode">Vnešena koda ni pravilna</string>
-     <string name="unlock_help">"Povežite se na omrežje
-Vstavite pravilno SIM kartico in se ne povezujte z neveljavnim WiFi omrežjem
+     <string name="unlock_help">"Povežite se na omrežje.
+Vstavite delujočo kartico SIM in se ne povezujte z neveljavnimi omrežji WiFi.
  
- Ste pozabili geslo?
- Pojdite na id.mi.com, izberite \"Pozabljeno geslo?\" in sledite navodilom.
+Ste pozabili geslo?
+Pojdite na id.mi.com, izberite »Pozabljeno geslo?« in sledite navodilom.
  
 Ne morete aktivirati naprave?
- Pojdite na i.mi.com/ss in pošljite svojo aplikaciju za odklep naprave."</string>
+Pojdite na i.mi.com/ss in oddajte svojo vlogo za odklepanje naprave."</string>
      <string name="unlock_help_title">Pomoč pri odklepanju:</string>
      <string name="unlock_number">Koda za odklep: %s</string>
      <string name="unlock_wrong_captcha">Vnešena koda ni pravilna</string>
