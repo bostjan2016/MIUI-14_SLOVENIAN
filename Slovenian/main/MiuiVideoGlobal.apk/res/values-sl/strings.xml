@@ -1832,6 +1832,7 @@ Izboljša varnost vašega računa."</string>
      <string name="share_ugc_content">Poglejte v %1$s! #%2$s (%3$s)</string>
      <string name="share_ugc_join">Pridruži se</string>
      <string name="share_ugc_waitting">Ustvarjanje povezave…</string>
+     <string name="shorts_assemble_ad_recommend">Priporočeno</string>
      <string name="show_options_label">Pokaži možnosti</string>
      <string name="show_the_location">Vrste obvestil</string>
      <string name="sign_in">Prijava</string>
@@ -1954,6 +1955,8 @@ Izboljša varnost vašega računa."</string>
      <string name="talkback_voice_search">Glasovno iskanje</string>
      <string name="target_sdk_version_30_upgrade_tips">Nekaterih videoposnetkov si tukaj morda ne boste mogli ogledati zaradi omejitev Android 11. Tapnite \"Datoteke\", da poiščete druge videoposnetke.</string>
      <string name="temporary_not_available">Ta storitev še ni na voljo</string>
+     <string name="text_default_ad_description">Reklame</string>
+     <string name="text_default_ad_title">Morda vam bo všeč</string>
      <string name="the_item_choosed_tint">%s izbrano</string>
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>

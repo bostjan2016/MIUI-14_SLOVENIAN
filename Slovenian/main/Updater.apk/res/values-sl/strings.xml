@@ -8,6 +8,7 @@
      <string name="btn_error">Prišlo je do napake, poskusim ponovno?</string>
      <string name="btn_install">Namesti</string>
      <string name="btn_no">Prekliči</string>
+     <string name="btn_not">Ne</string>
      <string name="btn_ok">V redu</string>
      <string name="btn_pause">Premor</string>
      <string name="btn_share">Skupna raba</string>
@@ -41,6 +42,7 @@
      <string name="download_title_full_download">Pridobivanje informacij…</string>
      <string name="downloading">Prenos:</string>
      <string name="downloading_desc">Poteka prenos, preverite status v področju obvestil.</string>
+     <string name="fastboot_mode">Ste v načinu Fastboot, rom lahko flešate samo z Terminal na PC!</string>
      <string name="fastboot_update_warning">Ta posodobitev je samo za fastboot namestitev!</string>
      <string name="fetch_notification_default_channel_name">Prenosi</string>
      <string name="fetch_notification_download_cancel">Prekliči</string>
@@ -61,8 +63,10 @@ Podatki ne bodo izbrisani."</string>
      <string name="install_title">Ste prepričani da želite nadaljevati?</string>
      <string name="menu_title_current_version_log">Kaj je novega</string>
      <string name="menu_title_download_current_rom">Prenesi posodobitev</string>
+     <string name="menu_title_fastboot_mode">Preklopi v način Fastboot</string>
      <string name="menu_title_pick_rom_file">Izberite paket posodobitve</string>
      <string name="menu_title_recovery">Ponovni zagon v TWRP recovery</string>
+     <string name="menu_title_recovery_mode">Preklopi v način Recovery</string>
      <string name="menu_title_show_notifications">Pokaži obvestila</string>
      <string name="message_checkbox">Skrij bodoča sporočila Xioami.eu teama</string>
      <string name="message_checkbox_device">Ne kaži več</string>
@@ -81,7 +85,7 @@ Posodobitve niso na voljo za vas!"</string>
      <string name="not_open">Ne</string>
      <string name="notif_cancel">Prekliči</string>
      <string name="notif_install">Namesti</string>
-     <string name="notif_new_summary">Tapni za pridobivanje podrobnosti</string>
+     <string name="notif_new_summary">Tapnite za pridobivanje podrobnosti</string>
      <string name="notif_new_title">Na voljo je nova MIUI verzija!</string>
      <string name="notif_service_summary">Držite da onemogočite obvestilo "Storitev v ozadju"!</string>
      <string name="notif_service_title">Aplikacija se izvaja v ozadju…</string>
@@ -94,10 +98,12 @@ Posodobitve niso na voljo za vas!"</string>
      <string name="pick_title">Izberi:</string>
      <string name="reboot">Ponovni zagon</string>
      <string name="recovery_desc">Naprava se bo ponovno zagnala v TWRP. Nadaljujem?</string>
+     <string name="recovery_mode">Ste v Recovery načinu, lahko flešate ROM v Posodabljanje!</string>
      <string name="server_error">Strežnik ne reagira, aplikacija morda ne bo pravilno delala!</string>
      <string name="share_desc">MIUI verzija je posodobljena na %1$s, poglejte spremembe na %2$s</string>
      <string name="share_title">Deli z</string>
      <string name="stable">Stabilna</string>
+     <string name="twrp_update_warning">Če želite uporabljati OTA, morate izbrati, ali imate v svoji napravi nameščen TWRP ali ne:</string>
      <string name="version">Nameščena verzija</string>
      <string name="weekly">Beta</string>
      <string name="wifi_recommended">Ni WiFi povezave za prenašanje posodobitev!</string>
