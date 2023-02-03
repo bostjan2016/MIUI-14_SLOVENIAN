@@ -29,6 +29,10 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
      </plurals>
+     <plurals name="backup_action_long_time_not_auto_backup_content">
+        <item quantity="other">"%s tednov niste varnostno kopirali svojih stvari. Tapnite, če želite videti, kako vklopite samodejno varnostno kopiranje."</item>
+        <item quantity="one">"%s teden niste varnostno kopirali svojih stvari. Tapnite, če želite videti, kako vklopite samodejno varnostno kopiranje."</item>
+     </plurals>
      <plurals name="backup_action_long_time_not_backup_content">
         <item quantity="other">"Kaže da niste varnostno kopirali stvari %s tednov. Ustvarite varnostne kopije, da ne izgubite ničesar pomembnega."</item>
         <item quantity="one">"Kaže da niste varnostno kopirali stvari %s teden. Ustvarite varnostne kopije, da ne izgubite ničesar pomembnega."</item>

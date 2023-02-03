@@ -434,6 +434,7 @@
      <string name="onscreen_audio_mode_conference">Konferenca</string>
      <string name="onscreen_audio_mode_handset">Prostoročno</string>
      <string name="onscreen_audio_mode_headset">Slušalke</string>
+     <string name="onscreen_audio_mode_mirror">Tablica</string>
      <string name="onscreen_audio_mode_speaker">Zvočnik</string>
      <string name="onscreen_audio_switch_mode">Zamenjaj zvok</string>
      <string name="onscreen_call_record">Posnemi klic</string>

@@ -46,6 +46,7 @@
      <string name="backup_action_buy_cloud_space">Nabavite več prostora za shranjevanje</string>
      <string name="backup_action_check_network">Preverite omrežne nastavitve</string>
      <string name="backup_action_clean_disk_space">Osvobodite prostor</string>
+     <string name="backup_action_long_time_not_auto_backup_title">Varnostno kopirajte svoje stvari</string>
      <string name="backup_action_long_time_not_backup_action">Var. kopiraj</string>
      <string name="backup_action_long_time_not_backup_title">Ni nedavnih kopij</string>
      <string name="backup_action_no_space_with_wechat_off_content">Ni dovolj prostora za shranjevanje v oblaku za varnostno kopiranje stvari iz te naprave. Dotaknite se za ogled možnosti shranjevanja v oblaku, ki so vam na voljo.</string>
@@ -158,6 +159,8 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
      <string name="cloud_backup_detail_state_summary_china">Naprava mora biti povezana z WiFi, napolnjena in zaklenjena.</string>
      <string name="cloud_backup_detail_time">Zadnja varnostna kopija: %1$s</string>
      <string name="cloud_backup_detail_title">Var. kopiraj stvari.</string>
+     <string name="cloud_backup_get_installed_apps_summary">Za varnostno kopiranje in obnovitev aplikacij na začetnem zaslonu</string>
+     <string name="cloud_backup_get_installed_apps_title">Dostop do seznama aplikacij, nameščenih v tej napravi</string>
      <string name="cloud_backup_have_data">Najdena var. kopija v Mi Cloudu</string>
      <string name="cloud_backup_in_cancel">Prekliči</string>
      <string name="cloud_backup_in_process">Izdelava var. kopije…</string>
@@ -182,6 +185,9 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
      <string name="confirm_restore_summary">Začetni zaslon se bo ponovno zagnal in var. kopija aplikacij bo samodejno prenešena</string>
      <string name="confirm_restore_title">Obnovi</string>
      <string name="copy">Kopiraj</string>
+     <string name="cta_dialog_all_purpose">"Dobrodošli v varnostnem kopiranju v oblaku! S to aplikacijo lahko varnostno kopirate postavitev začetnega zaslona, aplikacije, sistemske nastavitve in podatke WeChat v oblak. Prepričajte se, da uporabljate najnovejšo različico, da boste lahko izkoristili vse naše storitve."</string>
+     <string name="cta_dialog_permission_description_get_installed_apps">Za varnostno kopiranje in obnavljanje aplikacij</string>
+     <string name="cta_dialog_permission_description_storage">Za varnostno kopiranje in obnavljanje stvari</string>
      <string name="custom_progress">Stvari: %d</string>
      <string name="customization"><u>Prilagodi</u></string>
      <string name="date_format">HH:mm:ss dd.MM.yyyy</string>
@@ -204,6 +210,10 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="dialog_app_usage_consent_message">Ta storitev mora dostopati do podatkov o uporabi aplikacij, da lahko oceni velikost varnostnih kopij WeChat.</string>
      <string name="dialog_app_usage_consent_title">Dovoli dostop do podatkov o uporabi aplikacije</string>
      <string name="dialog_app_usage_denied">Dajte varnostnemu kopiranju dovoljenje »Dostop do uporabe« v nastavitvah, da boste lahko varnostno kopirali stvari..</string>
+     <string name="dialog_auto_backup_condition_normal_content">Da boste lahko redno samodejno varnostno kopirali vse pomembne stvari se prepričajte, da imate dovolj prostora za shranjevanje v oblaku in da je ta naprava zaklenjena, ima več kot %s baterije in je ponoči povezana v WiFi. Kadar koli lahko varnostno kopirate tudi ročno.</string>
+     <string name="dialog_auto_backup_condition_normal_content_china">Da boste lahko redno samodejno varnostno kopirali vse pomembne stvari se prepričajte, da imate dovolj prostora za shranjevanje v oblaku in da je ta naprava zaklenjena, ima več kot %s baterije in je ponoči povezana v WiFi. Kadar koli lahko varnostno kopirate tudi ročno.</string>
+     <string name="dialog_auto_backup_condition_normal_positive">Razumem</string>
+     <string name="dialog_auto_backup_condition_normal_title">Varnostno kopirajte svoje stvari</string>
      <string name="dialog_backup_failed">"Varnostne kopije ni bilo mogoče narediti"</string>
      <string name="dialog_btn_cancel_backup">Prekliči</string>
      <string name="dialog_btn_confirm2">Razumem</string>
@@ -229,6 +239,11 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="dialog_negative_btn_cancel_restore">Ustavi vračanje</string>
      <string name="dialog_positive_btn_cancel_backup">"Ne prekliči"</string>
      <string name="dialog_positive_btn_cancel_restore">"Ne ustavi"</string>
+     <string name="dialog_recommend_wechat_backup_content">Zdaj lahko pogovore WeChat in druge podatke varnostno kopirate v Xiaomi Cloud. Če želite varnostno kopirati svoje stvari se prepričajte, da imate dovolj prostora za shranjevanje v oblaku in da je ta naprava zaklenjena, ima več kot %s baterije in je ponoči povezana v WiFi. Kadar koli lahko varnostno kopirate tudi ročno.</string>
+     <string name="dialog_recommend_wechat_backup_content_china">Zdaj lahko pogovore WeChat in druge podatke varnostno kopirate v Xiaomi Cloud. Če želite varnostno kopirati svoje stvari se prepričajte, da imate dovolj prostora za shranjevanje v oblaku in da je ta naprava zaklenjena, ima več kot %s baterije in je ponoči povezana v WiFi. Kadar koli lahko varnostno kopirate tudi ročno.</string>
+     <string name="dialog_recommend_wechat_backup_negative">Razumem</string>
+     <string name="dialog_recommend_wechat_backup_positive">Več o tem</string>
+     <string name="dialog_recommend_wechat_backup_title">Varnostno kopiraj podatke WeChat</string>
      <string name="dialog_title_cancel_backup">Prekliči kopiranje</string>
      <string name="dialog_title_cancel_restore">Ustavi vračanje</string>
      <string name="dialog_title_require_wlan">Povežite se preko WiFi</string>
@@ -446,6 +461,8 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="remove_task_in_process">Odstranjevanje…</string>
      <string name="remove_task_unfinished">Odstranjevanje ni dokončano</string>
      <string name="remove_unfinished">Odstranjevanje, poskusite ponovno kasneje</string>
+     <string name="repeat_recommend_wechat_backup_notification_content">Zdaj lahko varnostno kopirate podatke WeChat. Tapnite za podrobnosti.</string>
+     <string name="repeat_recommend_wechat_backup_notification_title">Varnostno kopiraj podatke WeChat</string>
      <string name="restore_app_order_finish">Končano</string>
      <string name="restore_app_order_loading">Samo trenutek…</string>
      <string name="restore_app_order_retry">Poskusite ponovno</string>
@@ -558,6 +575,8 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="storage_unit_gb">%s GB</string>
      <string name="storage_unit_mb">%s MB</string>
      <string name="success_open_cloudbackup">Vključena izdelava var. kopije aplik. zač. zaslona</string>
+     <string name="successful_auto_backup_recommend_wechat_backup_notification_content">Varnostno kopirani podatki WeChat. Tapnite za podrobnosti.</string>
+     <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Končano samodejno varnostno kopiranje</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
