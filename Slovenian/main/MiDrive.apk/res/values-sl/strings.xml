@@ -542,10 +542,10 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
      <string name="operation_delete">Izbriši</string>
      <string name="operation_delete_cancel">Prekini</string>
      <string name="operation_delete_confirm">V redu</string>
-     <string name="operation_delete_desc_vip_first">Izbrisani predmeti se shranijo v košu 60 dni. Jih zdaj izbrišem?</string>
-     <string name="operation_delete_desc_vip_none">Izbrisani predmeti se shranijo v košu 30 dni. Jih zdaj izbrišem?</string>
-     <string name="operation_delete_desc_vip_second">Izbrisani predmeti se shranijo v košu 90 dni. Jih zdaj izbrišem?</string>
-     <string name="operation_delete_desc_vip_third">Izbrisani predmeti se shranijo v košu 180 dni. Jih zdaj izbrišem?</string>
+     <string name="operation_delete_desc_vip_first">Izbrisane stvari se shranijo v košu 60 dni. Jih zdaj izbrišem?</string>
+     <string name="operation_delete_desc_vip_none">Izbrisane stvari se shranijo v košu 30 dni. Jih zdaj izbrišem?</string>
+     <string name="operation_delete_desc_vip_second">Izbrisane stvari se shranijo v košu 90 dni. Jih zdaj izbrišem?</string>
+     <string name="operation_delete_desc_vip_third">Izbrisane stvari se shranijo v košu 180 dni. Jih zdaj izbrišem?</string>
      <string name="operation_delete_message_folder">Vsebina mape bo izbrisana.</string>
      <string name="operation_delete_selected_tasks">Izbrišem izbrana opravila?</string>
      <string name="operation_delete_title">Izbrišem?</string>

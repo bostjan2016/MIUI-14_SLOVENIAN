@@ -1375,7 +1375,7 @@ za fotografije"</string>
      <string name="grant_permission_storage_unlock">Odklenite napravo in tej aplikaciji najprej omogočite dostop do shrambe.</string>
      <string name="grant_permission_text">"Galerija za normalno delo potrebuje dostop do 
 %s
- za delovanje, pritisni \"Nastavi\" za dostop do dovoljenj."</string>
+za normalno delovanje, tapnite \"Nastavi\", da odprete Dovoljenja."</string>
      <string name="grant_permission_title">Dovoli dostop</string>
      <string name="grant_permission_unlock_and_set">Odkleni in nastavi</string>
      <string name="grant_permission_unlock_and_set_2">Odkleni</string>
