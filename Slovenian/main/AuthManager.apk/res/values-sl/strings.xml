@@ -562,6 +562,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="permdesc_camera">Dovolim %1$s snemati fotografije in videoposnetke?</string>
      <string name="permdesc_get_account">Dovolim %1$s dostop do vseh računov, shranjenih v tej napravi?</string>
      <string name="permdesc_in_calls">Nadzirati dohodne klice</string>
+     <string name="permdesc_isolate_storage">Dovolim %1$s dostop do fotografij, videoposnetkov in zvoka, shranjenih v tej napravi?</string>
      <string name="permdesc_location">Dovolim %1$s dostop do podatkov o lokaciji?</string>
      <string name="permdesc_location_background">Dovolim %1$s dostop do lokacije v ozadju?</string>
      <string name="permdesc_microphone">Dovolim %1$s, da uporablja mikrofon za snemanje zvoka?</string>
@@ -593,6 +594,8 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="permgroupdesc_location">Dovolim %1$s dostop do lokacije?</string>
      <string name="permgroupdesc_microphone">Dovolim %1$s snemanje zvokov?</string>
      <string name="permgroupdesc_phone">Dovolim %1$s klicanje in dostop do podatkov o napravi?</string>
+     <string name="permgroupdesc_read_media_aural">Dovolim %1$s dostop do zvočnih datotek, shranjenih v vaši napravi?</string>
+     <string name="permgroupdesc_read_media_visual">Dovolim %1$s dostop do fotografij in videoposnetkov, shranjenih v vaši napravi?</string>
      <string name="permgroupdesc_recognition">Dovolim %1$s dostop do zdravja &amp; podatkov o aktivnosti?</string>
      <string name="permgroupdesc_sensors">Dovolim %1$s dostop do podatkov senzorjev telesa?</string>
      <string name="permgroupdesc_sms">Dovolim %1$s pošiljanje in prejemanje SMS?</string>
