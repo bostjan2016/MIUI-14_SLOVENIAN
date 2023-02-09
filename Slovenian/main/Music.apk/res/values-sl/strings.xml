@@ -1594,11 +1594,21 @@ To kodo pošljite nadzorniku."</string>
      <string name="passport_user_id_hint">E-pošta/tel. številka/Xiaomi račun</string>
      <string name="passport_user_id_intro">Vnesite geslo za %1$s</string>
      <string name="passport_user_password_hint">Geslo</string>
+     <string name="passport_vcode_what_app_send_prompt">Vaša koda za preverjanje WhatsApp bo poslana na vaš telefon za obnovitev (&lt;font color=#1F93FF>%s&lt;/font>).</string>
      <string name="passport_wechat_not_install">Najprej namestite WeChat</string>
      <string name="passport_wrong_captcha">Koda, ki ste jo vnesli ni pravilna</string>
      <string name="passport_wrong_phone_number_format">Oblika zapisa telefonske številke, ki ste jo vnesli ni veljavna</string>
      <string name="passport_wrong_vcode">Koda, ki ste jo vnesli ni pravilna</string>
      <string name="passport_wrong_voice">Koda, ki ste jo vnesli ni pravilna</string>
+     <string name="password_button_complete">Končano</string>
+     <string name="password_hint_creat">Ustvarite geslo</string>
+     <string name="password_hint_creat2">Vnesite geslo</string>
+     <string name="password_hint_recreat">Potrdite geslo</string>
+     <string name="password_hint_recreat2">Vnesite geslo znova</string>
+     <string name="password_hint_text">Če se odjavite, ne da bi ustvarili geslo, lahko izgubite račun</string>
+     <string name="password_password_mix6">Geslo mora biti dolgo vsaj 6 znakov</string>
+     <string name="password_title_createpassword">Ustvarite geslo</string>
+     <string name="password_toast_unsame">"Gesli se ne ujemata"</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
      <string name="pause_download">Premor</string>
      <string name="paused_by_app">Premor</string>
@@ -1649,6 +1659,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="please_agree_protocal">Prosimo, da se strinjate s protokolom</string>
      <string name="please_download_first">Skladbo morate najprej prenesti preden jo lahko uporabite za zvonjenje</string>
      <string name="please_search_or_select">Išči ali izberi polje</string>
+     <string name="please_select_report_reason">Izberite razlog</string>
      <string name="please_select_song">Izberite pesem</string>
      <string name="pm">pop.</string>
      <string name="power_save_mode_dialog_msg">Naprava je v varčnem načinu dela. Zaženem prenos?</string>
@@ -1671,6 +1682,9 @@ To kodo pošljite nadzorniku."</string>
      <string name="privacy_authorize_revoke_success">Soglasje je bilo preklicano uspešno</string>
      <string name="privacy_authorize_revoking">Preklic soglasja…</string>
      <string name="privacy_desc">Pravila o zasebnosti (obvezno)</string>
+     <string name="privacy_dialog_agree">Strinjam se</string>
+     <string name="privacy_dialog_desc">&lt;Data>Pozdravljeni, dobrodošli v GoGo Voice Room, pridite sem, da uživate v glasbi s prijatelji. Prosimo, da se strinjate z &lt;a href=\"%1$s\">GoGo Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a> pred uporabo&lt;/Data></string>
+     <string name="privacy_dialog_disapproval">Neodobravanje</string>
      <string name="privacy_notif_content">Pritisnite za pregled podrobnosti.</string>
      <string name="privacy_notif_title">Xunlei Download Accelerator je vključen</string>
      <string name="privacy_policy">Pravila o zasebnosti</string>
@@ -1824,6 +1838,7 @@ Bodite srečni"</string>
      <string name="search_title_singer">Izvajalci</string>
      <string name="search_title_song">Pesmi</string>
      <string name="second_symbol">s</string>
+     <string name="see_more_videos">Več videoposnetkov</string>
      <string name="sel_svc">Izberi storitev</string>
      <string name="select">Izberi</string>
      <string name="select_album">Izberi album</string>
@@ -1832,6 +1847,7 @@ Bodite srečni"</string>
      <string name="select_desc_sub">Lahko izberete do %d jezikov</string>
      <string name="select_device">Izberi napravo</string>
      <string name="select_displayed_folders">Izberi mape za prikaz</string>
+     <string name="select_empty_toast">Preden delite sobo izberite uporabnika~</string>
      <string name="select_local_album_cover">Izberi sliko</string>
      <string name="select_local_cover">Izberi lokalni ovitek</string>
      <string name="select_local_lyric">Izberi datoteko</string>
@@ -1973,6 +1989,8 @@ Bodite srečni"</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
      <string name="supplementary_songs">Dodatne pesmi</string>
+     <string name="sure">Potrjeno</string>
+     <string name="swipe_for_more">Povlecite navzgor za več glasbenih videov</string>
      <string name="switch_success">Uspešno zamenjano</string>
      <string name="sync_only_in_wifi">Sinhr. samo preko WiFi-ja</string>
      <string name="sync_only_in_wifi_summary">Sinhronizirajte svojo glasbo na vseh napravah z Mi Cloudom. Uporaba mobilne podatkovne povezave za sinhronizacijo glasbe bo povečala uporabo podatkov. Vaš operater vam to lahko računa.</string>
@@ -1985,14 +2003,20 @@ Bodite srečni"</string>
      <string name="tab_europa_america">Zahodni</string>
      <string name="tab_flow">Predvajaj</string>
      <string name="tab_folder">Mape</string>
+     <string name="tab_game">Igra</string>
+     <string name="tab_home">Domov</string>
      <string name="tab_japanese_korean">J-Pop/K-Pop</string>
      <string name="tab_local_folder_list">Mape</string>
      <string name="tab_local_track_list">Skladbe</string>
+     <string name="tab_message">Klepet</string>
+     <string name="tab_mine">Moje</string>
      <string name="tab_playlist">Seznam pesmi</string>
      <string name="tab_top_results">Najboljši rezultat</string>
      <string name="tab_track">Pesmi</string>
      <string name="tab_track_list">Skladbe</string>
      <string name="tab_video">Videoposnetki</string>
+     <string name="tag_admin">Administrator</string>
+     <string name="tag_owner">Lastnik</string>
      <string name="take_effect_afater_restart">Ponovno morate zagnati aplikacijo, da bo ta nastavitev efektivna.</string>
      <string name="talkback_back">Pojdi nazaj</string>
      <string name="talkback_batch_process">Več postavk</string>
@@ -2272,6 +2296,7 @@ Velikost Delta posodobitve: %2$s"</string>
      <string name="you">ti</string>
      <string name="you_can_switch_mode_in_settings">Lahko menjate način dela v nastavitvah</string>
      <string name="you_may_like">Morda vam bo všeč</string>
+     <string name="you_might_like_it">Morda vam bo všeč</string>
      <string name="youtube_download_canl">Prekliči</string>
      <string name="youtube_download_fail_net">"Ni bilo mogoče vzpostaviti povezave z omrežjem. Preverite omrežne nastavitve in poskusite znova."</string>
      <string name="youtube_download_fail_source">Pojavila se je napaka. Počakajte minuto ali dve in poskusite znova.</string>

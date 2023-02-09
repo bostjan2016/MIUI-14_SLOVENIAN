@@ -264,6 +264,7 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="branch_grant_permission">Potrebna so dovoljenja</string>
      <string name="branch_local_search_settings">Nastavitve lokalnega iskanja</string>
      <string name="branch_new_function">Nova storitev</string>
+     <string name="branch_search_bar_tips">Išči aplikacije in igre</string>
      <string name="branch_search_guide_privacy">"To storitev zagotavlja Branch Metrics Inc. Z njimi bomo delili vašo lokacijo, iskanja in Google Ads ID. Preberite in se strinjate z njihovimi "<font color="#B3000000"><a href="http://url1">Pravila in pogoji</a></font> in <font color="#B3000000"><a href="http://url2">Pravila o zasebnosti</a></font> preden nadaljujete.</string>
      <string name="branch_search_in_browser">Išči \"%1$s\" v brskalniku</string>
      <string name="branch_setting">Nastavitve</string>
@@ -273,6 +274,8 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="branch_terms_condition">Pogoji in pravila</string>
      <string name="branch_trending_google_news">Google Novice</string>
      <string name="branch_trending_youtube_news">YouTube</string>
+     <string name="branch_viewpage_title_app_recommend">Priporočeno</string>
+     <string name="branch_viewpage_title_local">Nameščeno</string>
      <string name="browser">Brskalnik</string>
      <string name="browserFrameFileErrorLabel">Napaka datoteke</string>
      <string name="browserFrameFormResubmitMessage">"Stran, ki jo poskušate odpreti vsebuje podatke, ki so že bili naloženi. Če podatke pošljete ponovno se vsako dejanje (kot je iskanje in kupovanje) ponovi."</string>
@@ -2342,6 +2345,10 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="snapshot">Lokalno</string>
      <string name="snapshot_failed">"Strani ni bilo mogoče shraniti"</string>
      <string name="snapshot_successed">Odprite Zaznamki/Zgodovina->Lokalno za prikaz strani</string>
+     <string name="sniff_ask_every_times">Zmeraj vprašaj</string>
+     <string name="sniff_detect_resource">Na tej strani smo opazili vsebino za prenos. Pokažem zdaj?</string>
+     <string name="sniff_dialog">Vsebina za prenos</string>
+     <string name="sniff_no_resource">Ni vsebine za prenos</string>
      <string name="sns_access_token_expired_warning">Seja je potekla. Znova se prijavite, če želite znova povezati ta račun.</string>
      <string name="sns_bind_limit">Preveč poskusov. Preizkusite druge načine za prijavo.</string>
      <string name="sns_sign_in">Drugi načini za prijavo</string>

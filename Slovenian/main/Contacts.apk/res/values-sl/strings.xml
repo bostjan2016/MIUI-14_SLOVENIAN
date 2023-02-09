@@ -149,6 +149,7 @@
      <string name="bh_gb">GB</string>
      <string name="bh_get_balance_success">Uspešno preverjeno. Informacije tukaj lahko posodobite z zamudo.</string>
      <string name="bh_get_charge_phone_number">Izberite iz stikov</string>
+     <string name="bh_goto_granted">Dajte dovoljenja</string>
      <string name="bh_goto_open">Ni odobreno</string>
      <string name="bh_goto_set">Nastavi</string>
      <string name="bh_i_got_it">Razumem</string>
@@ -302,6 +303,8 @@
      <string name="call_home">Pokliči domov</string>
      <string name="call_isdn">Pokliči ISDN</string>
      <string name="call_left">Stanje računa</string>
+     <string name="call_limit">Omejitve klicev</string>
+     <string name="call_limit_content">"Ne morem poklicati “%s”. Kličete lahko le telefonske številke, ki so na vašem odobrenem seznamu stikov."</string>
      <string name="call_log_empty_gecode" />
      <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
      <string name="call_log_new_header">"Novo"</string>
@@ -824,7 +827,7 @@ Razlog: \"%s\""</string>
      <string name="fmt_date_long_month_day">dd.MM</string>
      <string name="fmt_date_long_year_month">MMMM, yyyy</string>
      <string name="fmt_date_long_year_month_day">dd.MM. yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
+     <string name="fmt_date_numeric_day">d</string>
      <string name="fmt_date_numeric_month">MM.</string>
      <string name="fmt_date_numeric_month_day">dd.MM.</string>
      <string name="fmt_date_numeric_year">yyyy</string>
@@ -1017,6 +1020,7 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete"<
      <string name="item_offical">Uradno</string>
      <string name="keep_local">"Ne sinhr."</string>
      <string name="keep_local_btn">Uporabi notranji pomnilnik naprave</string>
+     <string name="know">Razumem</string>
      <string name="label_custom_type">"Po meri"</string>
      <string name="label_no_duplicate_contacts">Ni najdenih podvojenih stikov</string>
      <string name="label_notes">Beležke</string>
