@@ -53,6 +53,7 @@
      <string name="alarm_ascending_mode_title">Naraščajoča glasnost zvoka</string>
      <string name="alarm_clock_more_setting">Dodatne nastavitve</string>
      <string name="alarm_disabled">Izklop</string>
+     <string name="alarm_in_furture_new">Alarm v manj kot %d minut</string>
      <string name="alarm_in_silent_mode_title">Alarm je v tihem načinu</string>
      <string name="alarm_klaxon_service_desc">Storitev predvajanja alarmov je nastavljena v aplikaciji Ura.</string>
      <string name="alarm_label_hint">Tekst alarma</string>
@@ -63,6 +64,7 @@
      <string name="alarm_ringtone">Melodije zvonjenja alarma</string>
      <string name="alarm_ringtone_picker">Alarmi</string>
      <string name="alarm_screen">Zaslon in melodije Alarma</string>
+     <string name="alarm_set_new">Alarm se bo sprožil čez manj kot %d minuto.</string>
      <string name="alarm_settings">Nastavitve alarma</string>
      <string name="alarm_settings_category_title">Nastavitve Alarma</string>
      <string name="alarm_vibrate">Vibriraj</string>
@@ -108,6 +110,7 @@
      <string name="bedtime_setting_repeat_type_desc">"Izberite dni za prejem opomnikov"</string>
      <string name="bedtime_settings">Nastavitve časa za spanje</string>
      <string name="bedtime_sleep_time_remind">"Opomnjeni boste da greste v posteljo 15 minut pred tem časom"</string>
+     <string name="bedtime_sleep_time_remind_new">"Opozorjeni boste, da greste spat %d minut pred tem časom"</string>
      <string name="bedtime_sleep_time_setting">Kdaj boste šli v posteljo?</string>
      <string name="bedtime_wake_up_time_remind">Alarm se bo izključil ob tem času</string>
      <string name="bedtime_wake_up_time_setting">Kdaj boste vstali?</string>
@@ -197,7 +200,7 @@
      <string name="fmt_date_long_month_day">dd.MM</string>
      <string name="fmt_date_long_year_month">MMMM, yyyy</string>
      <string name="fmt_date_long_year_month_day">dd.MM. yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
+     <string name="fmt_date_numeric_day">d</string>
      <string name="fmt_date_numeric_month">MM.</string>
      <string name="fmt_date_numeric_month_day">dd.MM.</string>
      <string name="fmt_date_numeric_year">yyyy</string>
@@ -242,6 +245,8 @@
      <string name="fmt_weekday_time">W T</string>
      <string name="fmt_weekday_time_timezone">W T z</string>
      <string name="fmt_weekday_timezone">W z</string>
+     <string name="force_start_permission_desc">"Omogočite normalno delovanje budilk, tudi ko ste zaprli aplikacijo"</string>
+     <string name="force_start_permission_title">Autostart</string>
      <string name="force_touch_add_alarm">Dodaj alarm</string>
      <string name="force_touch_enter_stopwatch">Štoparica</string>
      <string name="force_touch_enter_timer">Kronometer</string>
@@ -303,7 +308,7 @@
      <string name="life_post_weather_invalid">Tapnite da boste dobili informacije o vremenu</string>
      <string name="life_post_weather_no_network">Povežite se na omrežje da boste posodobili informacije o vremenu</string>
      <string name="life_post_weather_temperature_centigrade">°</string>
-    <string name="listen_news_privacy"><Data>Če želite zagotoviti prilagojene storitve in vključiti jutranje novice v vaše alarme, mora ura vzpostaviti povezavo s spletom. Preden začnete uporabljati uro, morate prebrati in se strinjati z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt; /a>. Se strinjate?</Data></string>
+     <string name="listen_news_privacy"><Data>Če želite zagotoviti prilagojene storitve in vključiti jutranje novice v vaše alarme, mora ura vzpostaviti povezavo s spletom. Preden začnete uporabljati uro, morate prebrati in se strinjati z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt; /a>. Se strinjate?</Data></string>
      <string name="load_more_fail">Ne morem naložiti</string>
      <string name="loading_ringtone">Nalagam zvonjenja…</string>
      <string name="menu_add_worldclock">Dodaj uro</string>
@@ -318,7 +323,7 @@
      <string name="miui_clock_city_name_second">Druga ura</string>
      <string name="miui_lock_screen_date">EEE, d MMM</string>
      <string name="miui_lock_screen_date_12">EEE, d MMM</string>
-<string name="miui_lock_screen_date_two_lines">"EEE
+     <string name="miui_lock_screen_date_two_lines">"EEE
 d MMM"</string>
      <string name="miui_lock_screen_date_two_lines_12">"EEE
 d MMM"</string>
@@ -379,22 +384,30 @@ mm"</string>
      <string name="module_update_success">Posodobljeni zvok za MIUI pametne alarme prenešen. Lahko nastavite MIUI pametne alarme v nastavitvah ure.</string>
      <string name="module_update_success_control">Razumem</string>
      <string name="module_weather_ringtone_download_data">Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu. Ura mora prenesti ≈30MB avdio datotek da bo to delovalo. Prenesem?</string>
+     <string name="module_weather_ringtone_download_data_new">Vremenski alarm izbere različne melodije zvonjenja glede na trenutno vreme. Ura mora prenesti ≈%d MB zvoka, da deluje. Prenesem</string>
      <string name="module_weather_ringtone_download_data_privacy"><Data>Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu. Ura se mora povezati na splet za prenos ≈30MB avdio datotek. Pred uporabo preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?</Data></string>
+     <string name="module_weather_ringtone_download_data_privacy_new" formatted="false"><Data>Vremenski alarm izbere različne melodije zvonjenja glede na trenutno vreme. Za prenos se mora Ura povezati na splet za prenos ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB zvokov. Preden začnete uporabljati Uro, morate prebrati in se strinjati z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?</Data></string>
      <string name="module_weather_ringtone_download_wifi">Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu. Ura mora prenesti avdio datoteke da bo to delovalo. Prenesem?</string>
      <string name="module_weather_ringtone_download_wifi_privacy"><Data>Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu. Ura se mora povezati na splet za prenos zvočnih datotek. Pred uporabo preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?</Data></string>
      <string name="module_weather_ringtone_introduce">Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu. Omogoča vam tudi poslušanje trenutnih informacij o vremenu zjutraj.</string>
      <string name="module_weather_ringtone_introduce_global">Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu.</string>
      <string name="module_weather_ringtone_update_data">Vremenski alarm zdaj prihaja z glasbo v ozadju in boljšimi glasovnimi napovedmi. Ura mora prenesti ≈30MB avdio datotek da bo to delovalo. Prenesem?</string>
+     <string name="module_weather_ringtone_update_data_new">Vremenski alarm je zdaj opremljen z glasbo v ozadju in boljšimi glasovnimi obvestili. Ura mora prenesti ≈%d MB zvoka, da deluje. Prenesem?</string>
      <string name="module_weather_ringtone_update_success">Vremenski alarm zdaj prihaja z glasbo v ozadju in boljšimi glasovnimi napovedmi. Nastavite novi alarm da ga preskusite.</string>
      <string name="module_week_ringtone_download_data">Alarm narave predvaja različne zvoke, odvisno od datuma. Ura mora prenesti ≈30MB avdio datotek da bo to delovalo. Prenesem?</string>
+     <string name="module_week_ringtone_download_data_new">Alarm narave predvaja različne zvoke glede na datum. Ura mora prenesti ≈%d MB zvoka, da deluje. Prenesem?</string>
      <string name="module_week_ringtone_download_data_privacy"><Data>Alarm narave predvaja različne zvoke, odvisno od datuma. Ura se mora povezati na splet za prenos ≈30MB avdio datotek. Pred uporabo preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?</Data></string>
+     <string name="module_week_ringtone_download_data_privacy_new" formatted="false"><Data>Alarm narave predvaja različne zvoke glede na datum. Za prenos se mora Ura se mora povezati na splet za prenos ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB zvokov. Preden začnete uporabljati Uro, morate prebrati in se strinjati z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?</Data></string>
      <string name="module_week_ringtone_download_wifi">Alarm narave predvaja različne zvoke, odvisno od datuma. Ura mora prenesti avdio datoteke da bo to delovalo. Prenesem?</string>
      <string name="module_week_ringtone_download_wifi_privacy"><Data>Alarm narave predvaja različne zvoke, odvisno od datuma. Ura se mora povezati na splet za prenos zvočnih datotek. Pred uporabo preberite in se strinjajte z&lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?</Data></string>
      <string name="module_week_ringtone_introduce">Alarm narave predvaja različne zvoke, odvisno od datuma.</string>
      <string name="module_week_ringtone_update_data">Alarm narave predvaja različne zvoke, odvisno od datuma. Ura mora prenesti ≈30MB avdio datotek da bo to delovalo. Prenesem?</string>
+     <string name="module_week_ringtone_update_data_new">Alarm za naravo predvaja različne zvoke glede na datum. Ura mora prenesti ≈%d MB zvoka, da deluje. Prenesem?</string>
      <string name="module_week_ringtone_update_success">Alarm narave predvaja različne zvoke, odvisno od datuma. Nastavite novi alarm da ga preskusite.</string>
      <string name="module_white_noise_download_data">Ura mora prenesti avdio datoteke za časovnike hrupa okolice. Ura mora prenesti ≈30MB avdio datotek da bo to delovalo. Prenesem?</string>
+     <string name="module_white_noise_download_data_new">Ura mora prenesti zvočne datoteke za časovnike hrupa v okolici. Za ta prenos bo potrebnih ≈%d MB vaših mobilnih podatkov. Prenesem?</string>
      <string name="module_white_noise_download_data_privacy"><Data>"Če želite prenesti zvočne datoteke za časovnike hrupa okolice (≈30 MB) in zagotoviti prilagojene storitve, se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>. Uporabljate mobilne podatke. Se strinjate?"</Data></string>
+     <string name="module_white_noise_download_data_privacy_new" formatted="false"><Data>"Za prenos zvočnih datotek za časovnike hrupa v okolici (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) in zagotavljanje prilagojenih storitev, mora Clock vzpostaviti povezavo s spletom. Preden začnete uporabljati Uro, morate prebrati in se strinjati z &lt;a href=\"%1$s\">POgoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>. Uporabljate mobilne podatke. Se strinjate?"</Data></string>
      <string name="module_white_noise_download_wifi">Ura mora prenesti avdio datoteke za časovnike hrupa okolice. Prenesem?</string>
      <string name="module_white_noise_download_wifi_privacy"><Data>Če želite prenesti zvočne datoteke za časovnike hrupa okolice in zagotoviti prilagojene storitve, se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?</Data></string>
      <string name="monday">Ponedeljek</string>
@@ -456,6 +469,11 @@ mm"</string>
      <string name="not_set">Ni nastavljeno</string>
      <string name="not_set_temporarily">Ne, hvala</string>
      <string name="not_update">Ne zdaj</string>
+     <string name="notification_adv_time_entries1">Ob določenem času</string>
+     <string name="notification_adv_time_entries2"><xliff id="MINUTES" refersto="15">%d</xliff> minut vnaprej</string>
+     <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> minut vnaprej</string>
+     <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> ur vnaprej</string>
+     <string name="notification_adv_time_entries5">Nič</string>
      <string name="oneshot_alarm">Izbriši po izklopu alarma</string>
      <string name="open_keep_screen">Zaslon bo ostal vključen</string>
      <string name="open_sleep_record">Vključi</string>
@@ -548,6 +566,7 @@ mm"</string>
      <string name="sleep_duration_desc">Spanje %1$s %2$s</string>
      <string name="sleep_duration_no_data">Ni še dovolj podatkov</string>
      <string name="sleep_duration_recommendation">Večina ljudi potrebuje 7 do 9 ur spanja na noč</string>
+     <string name="sleep_duration_recommendation_new" formatted="false">Večina ljudi potrebuje %d do %d ur spanja na noč</string>
      <string name="sleep_duration_text">%1$s %2$s</string>
      <string name="sleep_duration_text_avg">%1$s %2$s</string>
      <string name="sleep_no_disturbance">DND način</string>

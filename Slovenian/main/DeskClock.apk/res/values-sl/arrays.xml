@@ -10,10 +10,19 @@
         <item>Budilka čez %2$s %3$s</item>
         <item>Budilka čez %1$s %2$s %3$s</item>
      </string-array>
+     <string-array name="alarm_in_furture_new_array">
+        <item>Budilka čez %1$s</item>
+        <item>Budilka čez %2$s</item>
+        <item>Budilka čez %1$s %2$s</item>
+        <item>Budilka čez %3$s</item>
+        <item>Budilka čez %1$s %3$s</item>
+        <item>Budilka čez %2$s %3$s</item>
+        <item>Budilka čez %1$s %2$s %3$s</item>
+     </string-array>
      <string-array name="alarm_repeat_type">
         <item>Enkrat</item>
         <item>Dnevno</item>
-        <item>Delavnik</item>
+        <item>Delovnik</item>
         <item>Prosti dnevi</item>
         <item>Pon - Pet</item>
         <item>Po meri</item>
@@ -33,6 +42,15 @@
         <item>"Zvonjenje budilke nastavljeno čez %1$s in %3$s."</item>
         <item>"Zvonjenje budilke nastavljeno čez %2$s in %3$s."</item>
         <item>"Zvonjenje budilke nastavljeno čez %1$s %2$s in %3$s.</item>
+     </string-array>
+     <string-array name="alarm_set_new_array">
+        <item>Zvonjenje budilke nastavljeno čez %1$s.</item>
+        <item>Zvonjenje budilke nastavljeno čez %2$s.</item>
+        <item>Zvonjenje budilke nastavljeno čez %1$s in %2$s.</item>
+        <item>Zvonjenje budilke nastavljeno čez %3$s.</item>
+        <item>Zvonjenje budilke nastavljeno čez %1$s in %3$s.</item>
+        <item>Zvonjenje budilke nastavljeno čez %2$s in %3$s.</item>
+        <item>Zvonjenje budilke nastavljeno čez %1$s %2$s in %3$s.</item>
      </string-array>
      <string-array name="aqi_value">
         <item>Dobro</item>
