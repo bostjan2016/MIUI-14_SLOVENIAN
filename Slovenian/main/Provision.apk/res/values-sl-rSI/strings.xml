@@ -370,6 +370,10 @@ Storitve se lahko spreminjajo. Nekatere od zgornjih storitev morda niso na voljo
      <string name="other_settings_ad_disable_summary">Vključi prilagojene oglase</string>
      <string name="other_settings_ad_enable">Osebno priporočilo oglasov</string>
      <string name="other_settings_ad_enable_summary">Priporočamo prilagojene oglase na osnovi vaših podatkov obnašanja</string>
+     <string name="other_settings_alarm_assistance">Lokacija v sili</string>
+     <string name="other_settings_alarm_assistance_privacy">Pravila o zasebnosti</string>
+     <string name="other_settings_alarm_assistance_summary">"Podatke o svoji lokaciji lahko samodejno pošljete policiji prek sporočil SMS ali mobilnih podatkov, medtem ko kličete 110, 120, 119 ali 122. Preberite in se strinjajte z  &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a> pred uporabo."</string>
+     <string name="other_settings_alarm_assistance_user">Pogoji uporabe</string>
      <string name="other_settings_auto_update">Namesti samodejno</string>
      <string name="other_settings_auto_update_summary">MIUI bo izbral najboljši trenutek za namestitev posodobitve.</string>
      <string name="other_settings_auto_update_summary_v1">Dovolite MIUI, da izbere najboljši čas za prenos in namestitev posodobitev. Vaša naprava se bo samodejno znova zagnala, da bo uveljavila spremembe.</string>

@@ -85,6 +85,14 @@
      <string name="analog_gadget">Analogna ura</string>
      <string name="app_label">Ura</string>
      <string name="app_name">Ura</string>
+     <string name="auto_silence_entries1">Nikoli</string>
+     <string name="auto_silence_entries2"><xliff id="MINUTES" refersto="1">%d</xliff> minuta</string>
+     <string name="auto_silence_entries3"><xliff id="MINUTES" refersto="5">%d</xliff> minut</string>
+     <string name="auto_silence_entries4"><xliff id="MINUTES" refersto="10">%d</xliff> minut</string>
+     <string name="auto_silence_entries5"><xliff id="MINUTES" refersto="15">%d</xliff> minut</string>
+     <string name="auto_silence_entries6"><xliff id="MINUTES" refersto="20">%d</xliff> minut</string>
+     <string name="auto_silence_entries7"><xliff id="MINUTES" refersto="25">%d</xliff> minut</string>
+     <string name="auto_silence_entries8"><xliff id="MINUTES" refersto="30">%d</xliff> minut</string>
      <string name="auto_silence_never">Nikoli</string>
      <string name="auto_silence_summary">Nastavite čas po katerem se bodo alarmi in odštevanja izključili</string>
      <string name="auto_silence_title">Samodejno utišaj</string>

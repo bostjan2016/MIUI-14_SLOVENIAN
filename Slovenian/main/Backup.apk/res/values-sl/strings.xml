@@ -79,6 +79,7 @@ nastavitev in aplikacij"</string>
      <string name="backup_failed">Ne morem varnostno kopirati</string>
      <string name="backup_file_error">Ne morem varnostno kopirati</string>
      <string name="backup_finished">Varnostno kopiranje uspešno</string>
+     <string name="backup_for_broken_screen">Varnostne kopije s poškodovanim zaslonom</string>
      <string name="backup_hint">Napravo pustite vklopljeno</string>
      <string name="backup_hint_onpad">Ne izključite naprave</string>
      <string name="backup_hint_pad">Naprava naj bo vklopljena</string>
