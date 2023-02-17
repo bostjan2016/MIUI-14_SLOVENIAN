@@ -943,6 +943,7 @@ mm"</string>
      <string name="passport_vcode_notification_title">Vaš vpis za preverjanje je nepopoln</string>
      <string name="passport_vcode_prompt_long">Vnesite kodo za preverjanje ki jo je ustvaril Mi Varnostni žeton</string>
      <string name="passport_vcode_sms_send_prompt">Pošlji kodo na %s</string>
+     <string name="passport_vcode_what_app_send_prompt">Vaša koda za preverjanje WhatsApp bo poslana na vaš telefon za obnovitev (&lt;font color=#1F93FF>%s&lt;/font>).</string>
      <string name="passport_verification_failed">Preverjanje pristnosti ni uspelo</string>
      <string name="passport_verify">Potrdi</string>
      <string name="passport_verifying_activator_phone">Potrjevanje varnosti telefona…</string>

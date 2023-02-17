@@ -55,6 +55,10 @@
      <string name="audio_rule">Audio xml parser</string>
      <string name="audio_spk_cal_wait">Kalibriranje, počakajte…</string>
      <string name="audio_spk_def">Kalibriranje zvočnika</string>
+     <string name="auto_frontflash_description">Vse sprednje bliskavice so prižgane, kliknite za uspelo, drugače kliknite za neuspeh</string>
+     <string name="auto_frontflash_title">Test bliskavice sprednje kamere</string>
+     <string name="auto_rearflash_description">Vse luči bliskavice zadnje kamere so prižgane, kliknite za uspelo, drugače kliknite za neuspeh</string>
+     <string name="auto_rearflash_title">Test bliskavice zadnje kamere</string>
      <string name="back_mic_check_record_tip">Snemanje, prosim nekaj povejte v MIC na zadnji strani telefona</string>
      <string name="band_config_setting">BAND</string>
      <string name="baterry_percent">"Napolnjenost baterije: "</string>
@@ -71,6 +75,7 @@
      <string name="battery_reverse_wireless_charge_summary">povratno brezžično polnjenje test</string>
      <string name="battery_reverse_wireless_charge_time_out">povratno brezžično polnjenje čas potekel</string>
      <string name="battery_reverse_wireless_charge_title">povratno brezžično polnjenje</string>
+     <string name="battery_third_connector">Napetost konektorja baterije</string>
      <string name="battery_value">Elektrika</string>
      <string name="begin_to_save_finger_data">Začetek shranjevanja prstnega odtisa</string>
      <string name="bottom_high_speaker_title">Test spodnjega visokotonca</string>
@@ -79,6 +84,7 @@
      <string name="bottom_low_speaker_title">Test spodnjega nizkotonca</string>
      <string name="bottom_right_high_speaker">Test spodnjega desnega visokotonca</string>
      <string name="bottom_right_low_speaker">Test spodnjega desnega nizkotonca</string>
+     <string name="bottom_speaker_title">Test spodnjega zvočnika</string>
      <string name="bt_address">Naslov:</string>
      <string name="bt_name">Ime:</string>
      <string name="button_cancel">Prekliči</string>
@@ -98,21 +104,26 @@
      <string name="charger_test_end">"
 Konec preizkusa polnilca, izklopite polnilec"</string>
      <string name="checkerboard_test">TEST TABELE</string>
-     <string name="cit_DP_check_summary">Linije DP morajo biti med postopkom testiranja povezani</string>
-     <string name="cit_DP_check_title">DP</string>
-     <string name="cit_DP_in_start_test">Za začetek testiranja vstavite linijo DP</string>
-     <string name="cit_DP_plug_err">"Test ni uspel 
- Ne dobim vrednosti"</string>
-     <string name="cit_DP_plug_fail">"Test ni uspel 
- Ta linija ni linija DP, zamenjajte drugo linijo za testiranje"</string>
+     <string name="cit_DP_check_summary">Med postopkom testiranja mora biti priključen kabel tipa C na DP</string>
+     <string name="cit_DP_check_title">DP Test</string>
+     <string name="cit_DP_in_start_test">Za začetek testiranja vstavite kabel tipa C v DP</string>
+     <string name="cit_DP_plug_err">"Sprememba povezave zaznavalne naprave
+Branje osnovne vrednosti vozlišča ni uspelo
+Ne dobim vrednosti"</string>
+     <string name="cit_DP_plug_fail">"Sprememba povezave zaznavalne naprave
+Branje osnovne vrednosti vozlišča ni uspelo
+Za začetek testiranja vstavite kabel tipa C v DP"</string>
      <string name="cit_DP_plug_out_err">"Test ni uspel
 Ne dobim vrednosti"</string>
-     <string name="cit_DP_plug_out_fail">"Zaznana je bila prekinjena povezava
+     <string name="cit_DP_plug_out_fail">"Sprememba povezave zaznavalne naprave
+Branje osnovne vrednosti vozlišča ni uspelo
 Test ni uspel
 "</string>
      <string name="cit_DP_plug_out_pass">"Zaznana je bila prekinjena povezava
 Test uspel"</string>
-     <string name="cit_DP_plug_pass">Povezana DP linija je zaznana, preverite, ali je projekcija zaslona uspešna, in kliknite ustrezen gumb</string>
+     <string name="cit_DP_plug_pass">"Sprememba povezave zaznavalne naprave
+Uspešno prebrana osnovna vrednost vozlišča
+Preverite, ali je zaslon uspešen, in kliknite ustrezen gumb"</string>
      <string name="cit_DP_plug_re_plugin">Test DP je končan, preverite, ali je zaslon uspešen, in kliknite ustrezen gumb</string>
      <string name="cit_OTG_plug_check_summary">Med preskusom vstavite in obrnite vtič v napravi USB_OTG</string>
      <string name="cit_OTG_plug_check_title">OTG</string>
@@ -1366,6 +1377,7 @@ Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
      <string name="top_mic_check_record_tip">Snemanje, prosim, recite kaj v mikrofon na vrhu telefona</string>
      <string name="top_right_high_speaker">Test zgornjega desnega visokotonca</string>
      <string name="top_right_low_speaker">Test zgornjega desnega nizkotonca</string>
+     <string name="top_speaker_title">Test zgornjih zvočnikov</string>
      <string name="touch_auto">Samotestiranje zaslona občutljivega na dotik poteka, prosim počakajte…</string>
      <string name="touch_sefl_fail">Test ni uspel</string>
      <string name="touch_self">Med preskusom se ne dotikajte zaslona…</string>

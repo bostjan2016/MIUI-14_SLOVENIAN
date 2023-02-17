@@ -1210,6 +1210,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="verify_account_default_title">Preverite svojo identiteto</string>
      <string name="verify_account_title">Preverite svojo identiteto</string>
      <string name="verify_and_install">Namesti</string>
+     <string name="verify_failed">preverjanje ni uspelo</string>
      <string name="verify_to_sure_close">Izključi</string>
      <string name="virus_install_authorize_dialog_msg">Ta aplikacija predstavlja tveganje za varnost vaše naprave. Če jo želite namestiti, preverite svojo identiteto.</string>
      <string name="virus_install_authorize_dialog_negative">Preveri</string>

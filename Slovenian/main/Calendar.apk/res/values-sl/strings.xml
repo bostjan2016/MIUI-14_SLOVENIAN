@@ -858,6 +858,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="path_calendar_settings">Sistemske aplikacije/Koledar/Nastavitve</string>
      <string name="permission_accounts">Za prijavo in urejanje računov sistema in združevanje stvari z njim</string>
      <string name="permission_contacts">Za sinhronizacijo rojstnih dni stikov in pošiljanje opmnikov</string>
+     <string name="permission_denial">Dajte dovoljenja za uporabo te storitve</string>
      <string name="permission_description">Podrobnosti o dovoljenjih</string>
      <string name="permission_main_purpose">Pregledovanje in urejanje dogodkov iz koledarja, planiranje poti, sprejem opomnikov in predplačilo storitev</string>
      <string name="permission_storage">Za shranjevanje opomnikov in melodij zvonjenja</string>
@@ -927,6 +928,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="premission_description_calendar">Za dodajanje in prikazovanje dogodkov</string>
      <string name="premission_description_contact">Za prikazovanje rojstnih dni vaših stikov</string>
      <string name="premission_description_log">Za shranjevanje poročil</string>
+     <string name="premission_description_notice">Za pošiljanje obvestil o dogodkih in praznikih</string>
      <string name="premission_description_phone_state">Za prepoznavanje naprave na osnovi ID naprave</string>
      <string name="premission_description_ringtone">Za nastavljanje melodij zvonjenja</string>
      <string name="premission_description_title">Pregledovanje in urejanje dogovorjenih dogodkov</string>
