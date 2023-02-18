@@ -270,6 +270,8 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="HIPS_Perm_operator_get_phonenumbner_Message">Ta aplikacija želi od operaterja pridobiti vašo telefonsko številko za prijavo. Dovolite?</string>
      <string name="HIPS_Perm_operator_shake">Dostop do podatkov merilnika pospeška</string>
      <string name="HIPS_Perm_operator_shake_Desc">Podatki merilnika pospeška se uporabljajo za sledenje orientaciji in gibanju (npr. tresenje, nagibanje in vrtenje)</string>
+     <string name="HIPS_Perm_operator_wall_paper">Nastaviti ozadje</string>
+     <string name="HIPS_Perm_operator_wall_paper_Desc">Zamenjati ozadja in privzete storitve dinamičnih ozadij</string>
      <string name="HIPS_Perm_process_nfc">NFC</string>
      <string name="HIPS_Perm_process_nfc_Desc">Dostop do Near Field Communication (NFC) strojne opreme</string>
      <string name="HIPS_Perm_process_outgoing_calls">Dostop do aplikacije Telefon</string>

@@ -661,6 +661,7 @@ da uporabite sprednjo kamero"</string>
      <string name="wallpaper_group_dynamic_nebula_title">Dinamična meglica</string>
      <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
      <string name="wallpaper_group_geometric_title">Geometrija</string>
+     <string name="wallpaper_group_glassy_light_title">Večplastno steklo</string>
      <string name="wallpaper_group_light_cycles_title">Neonski krogi</string>
      <string name="wallpaper_group_macaron_title">Kamenčki</string>
      <string name="wallpaper_group_minimalist_scenery_title">Minimalizem</string>
@@ -672,6 +673,7 @@ da uporabite sprednjo kamero"</string>
      <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, the University of Arizona</string>
      <string name="wallpaper_group_red_mars_title">Mars</string>
      <string name="wallpaper_group_sgn_mountain_title">Gora Siguniang</string>
+     <string name="wallpaper_group_shadow_geometry_title">Geometrija senc</string>
      <string name="waterdrop_preview">Kapljice</string>
      <string name="wifi_assistant_wifi_no_internet">To WiFi omrežje nima dostopa do spleta</string>
      <string name="wifi_assistant_wifi_no_internet_detail">Tapni za prikaz podrobnosti</string>

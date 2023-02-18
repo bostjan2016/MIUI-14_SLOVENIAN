@@ -306,6 +306,7 @@ Pošljite to kodo tehnikom."</string>
      <string name="insufficient_space">Ni dovolj prostora za shranjevanje</string>
      <string name="invalid_address">Naslov ki ste ga vnesli ni veljaven</string>
      <string name="jump_rank_hint">"Preglejte današnje prevzeme &gt;"</string>
+     <string name="jump_rank_hint2">Oglejte si najbolj priljubljene prenose</string>
      <string name="keep_queued_download">Ohrani</string>
      <string name="kilobyteShort">KB</string>
      <string name="load_finish_hint">Lahko nadaljujete jutri</string>

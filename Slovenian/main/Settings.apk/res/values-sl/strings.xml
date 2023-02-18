@@ -3095,6 +3095,10 @@ Začnite z napolnjeno baterijo in telefon mora biti priključen ves čas.
      <string name="dark_mode_day_night_mode_summary">Po sončnem zahodu samodejno preklopi na temni način</string>
      <string name="dark_mode_day_night_mode_title">Lahko noč s temnim načinom</string>
      <string name="dark_mode_font_background_title">Samodejno prilagodi besedilo in ozadje</string>
+     <string name="dark_mode_power_save_alert_dialog_confirm">Razumem</string>
+     <string name="dark_mode_power_save_alert_dialog_message">"Če izklopite optimizacijo MIUI in vklopite varčevanje z baterijo, se temni način samodejno vklopi.
+Če želite izklopiti temni način, izklopite varčevanje z baterijo ali vklopite optimizacijo MIUI v Nastavitve > Možnosti za razvijalce > Optimizacija MIUI."</string>
+     <string name="dark_mode_power_save_alert_dialog_title">Temni način</string>
      <string name="dark_mode_sunrise_sunset_notify_summary">Temni način son.vzhod-zahod obvestilo</string>
      <string name="dark_mode_sunrise_sunset_notify_title">Temni način son.vzhod-zahod obvestilo</string>
      <string name="dark_mode_time_settings">Urnik za Temni način</string>

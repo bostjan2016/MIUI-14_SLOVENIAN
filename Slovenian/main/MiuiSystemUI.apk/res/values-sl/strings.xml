@@ -917,7 +917,11 @@ Aplikacija vaše naprave določa, katere naprave je mogoče nadzorovati na ta na
      <string name="daltonizer_mode_monochromacy">Monokromatizem</string>
      <string name="daltonizer_mode_protanomaly">Protanomalija (rdeče – zeleno)</string>
      <string name="daltonizer_mode_tritanomaly">Tritanomalija (modro – rumeno)</string>
-     <string name="daltonizer_type_overridden">Urejeno s storitvijo %1$s</string>
+     <string name="daltonizer_type_overridden">Preglasil %1$s</string>
+     <string name="dark_mode_power_save_alert_dialog_confirm">Razumem</string>
+     <string name="dark_mode_power_save_alert_dialog_message">"Če izklopite optimizacijo MIUI in vklopite varčevanje z baterijo, se temni način samodejno vklopi.
+Če želite izklopiti temni način, izklopite varčevanje z baterijo ali vklopite optimizacijo MIUI v Nastavitve > Možnosti za razvijalce > Optimizacija MIUI."</string>
+     <string name="dark_mode_power_save_alert_dialog_title">Temni način</string>
      <string name="data_connection_3_5g">H</string>
      <string name="data_connection_3_5g_plus">H+</string>
      <string name="data_connection_3g">3G</string>

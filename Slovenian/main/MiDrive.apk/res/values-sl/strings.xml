@@ -835,6 +835,8 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
      <string name="system_alert">Spletno povezovanje</string>
+     <string name="talkback_close">Zapri</string>
+     <string name="talkback_close_open_picture">Prekliči</string>
      <string name="talkback_continue">Nadaljuj</string>
      <string name="talkback_doc_filter">Gumb za filtriranje</string>
      <string name="talkback_list_play">Predvajaj vse</string>
