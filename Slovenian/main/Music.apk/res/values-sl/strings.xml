@@ -299,7 +299,8 @@
      <string name="cancel_apply_queue">Prekliči vrstico mikrofona</string>
      <string name="cancel_running_download">Prekini</string>
      <string name="cannot_download_to_sdcard_hint">"Stvari se ne morejo prenesti na SD kartico zaradi omejitve avtorskih pravic. Prenešeno bo v notranji pomnilnik."</string>
-     <string name="change_activate_email">Spremenite email naslov</string>
+     <string name="card_content_descriptor">kartica</string>
+     <string name="change_activate_email">Spremenite epoštni naslov</string>
      <string name="change_download_quality">Zamenjaj kvaliteto prenosa</string>
      <string name="change_password">Spremeni geslo</string>
      <string name="changepassword_hint_input1">Trenutno geslo</string>
@@ -961,6 +962,9 @@ To kodo pošljite nadzorniku."</string>
      <string name="headset_and_audio_effect_summary">Slušalke &amp; equalizer</string>
      <string name="headset_and_audio_effect_title">Slušalke &amp; zvočni efekti</string>
      <string name="headset_settings">Slušalke &amp; zvočni efekti</string>
+     <string name="hgm_vip_btn_desc">Začnite brezplačni preizkus</string>
+     <string name="hgm_vip_high_quality">Visokokakovostni prenosi</string>
+     <string name="hgm_vip_no_ads">Brez oglasov ali omejitev</string>
      <string name="hide_album">Skrij ovitek albuma</string>
      <string name="hide_lyric">Skrij besedilo</string>
      <string name="hifi_quality">Hi-Fi kvaliteta</string>
@@ -1057,6 +1061,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="karaoke_title">Predstavljamo Karaoke</string>
      <string name="keep_queued_download">Zadrži</string>
      <string name="ktv_playlist">KTV seznam predvajanja</string>
+     <string name="label">Oznaka</string>
      <string name="language_page_confirm">Potrdi</string>
      <string name="language_preference">Nastavitve jezika</string>
      <string name="language_preference_desc">Izberite željene jezike da dobite ustreznejša priporočila</string>
@@ -1211,6 +1216,8 @@ To kodo pošljite nadzorniku."</string>
      <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
      <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne morem naložiti"</string>
      <string name="mobile_recommended_title">Uporaba mobilnih podatkov</string>
+     <string name="modal_content_descriptor">modalno</string>
+     <string name="modal_inner_content_descriptor">modalno notranje</string>
      <string name="modify_info_disable_note">Če želite ročno urediti podatke, najprej izključite možnost "Najdi ovitek albuma in tekst".</string>
      <string name="modify_lyric">Sprememba besedila</string>
      <string name="modify_pic">Zamenjaj ovitek</string>

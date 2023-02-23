@@ -244,6 +244,7 @@ Tapnite za ogled"</string>
      <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
      <string name="privacy_settings">Zasebnost</string>
      <string name="quit_recording">Izhod iz Snemanja zaslona</string>
+     <string name="record_time_too_short">Posneti video je prekratek</string>
      <string name="recording_failure">Snemanje ni uspelo, ponovno zaženite snemanje</string>
      <string name="recording_max_size">Snemanje je ustavljeno in posnetek je samodejno shranjen zaradi maksimalne velikosti videoposnetkov. Lahko začnete drugo snemanje tam kjer ste končali.</string>
      <string name="recording_without_mic">"Mikrofon je zaseden in zvoka ni mogoče posneti."</string>

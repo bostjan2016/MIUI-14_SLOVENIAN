@@ -579,6 +579,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="cloud_bacup_disable_processing">Obdelava…</string>
      <string name="cloud_camera_display_name">Fotografije kamere</string>
      <string name="cloud_cancel_authorizing_to_device">Preklic avtorizacije…</string>
+     <string name="cloud_data_size">Fotografije in videoposnetki v oblaku: %1$s</string>
      <string name="cloud_full_space_tip_message">Nadgradite načrt za shranjevanje v oblaku, da boste lahko v oblak sinhronizirali vse svoje fotografije in videoposnetke.</string>
      <string name="cloud_full_space_tip_negative">Ne zdaj</string>
      <string name="cloud_full_space_tip_positive">Nadgradi</string>
@@ -1389,6 +1390,8 @@ za normalno delovanje, tapnite \"Nastavi\", da odprete Dovoljenja."</string>
      <string name="have_known">Razumem</string>
      <string name="hdr_show_hint">Prilagodite zaslon, da prikažete več podrobnosti v sencah in svetlih delih stvari z visokim dinamičnim razponom</string>
      <string name="hdr_show_title">Pokaži HDR</string>
+     <string name="hdr_switch_show_hint">Uporabite HDR za prikaz več podrobnosti v svetlih in senčnih delih</string>
+     <string name="hdr_switch_show_title">Pokaži visok dinamični razpon</string>
      <string name="header_help">Pomoč</string>
      <string name="hello_blank_fragment">Pozdravljen prazen fragment</string>
      <string name="help">"Ne najdete naprav?"</string>
@@ -1454,6 +1457,7 @@ za normalno delovanje, tapnite \"Nastavi\", da odprete Dovoljenja."</string>
      <string name="id_photo_module_finish">Dodatek \"ID\" uspešno prenešen</string>
      <string name="id_photo_module_loading">Prenos \"ID\" dodatka…</string>
      <string name="ignore_album">"Ne pokaži"</string>
+     <string name="ignore_alert_dialog_title">Ignoriram to osebo?</string>
      <string name="ignore_alert_title">"Ne prikažem tega albuma?"</string>
      <string name="ignore_face">Ignoriraj to osebo</string>
      <string name="ignore_faces_title">Ignorirano</string>

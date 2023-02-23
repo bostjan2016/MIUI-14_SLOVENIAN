@@ -185,6 +185,7 @@
      <string name="current_permissions_category">Trenutna dovoljenja</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
+     <string name="default_net_loading">Delam…</string>
      <string name="default_permission_description">izvršiti neznano opravilo</string>
      <string name="default_reason_list1">"Ne morem prenašati aplikacij iz virov, ki niso GetApps"</string>
      <string name="default_reason_list2">"Od njegove uporabe nisem občutil nobenih koristi"</string>
@@ -254,6 +255,10 @@ Vsi obstoječi podatki aplikacije bodo shranjeni."</string>
      <string name="done">Končano</string>
      <string name="download_pause">Premor</string>
      <string name="early_morning">Jutro</string>
+     <string name="elder_mode_setting">Zaščita starejših</string>
+     <string name="elder_mode_setting_subtitle">Zaščitite se pred namestitvijo tveganih aplikacij in kršitvami zasebnosti</string>
+     <string name="elder_mode_subtitle">Zaščitite se pred namestitvijo tveganih aplikacij, kršitvami zasebnosti in prevarami</string>
+     <string name="elder_mode_title">Zaščita starejših</string>
      <string name="empty_app">Ni aplikacij</string>
      <string name="error_dup_binded_email">Ta e-poštni naslov je že povezan z drugim računom Mi.</string>
      <string name="error_icon_content_description">Napaka</string>
@@ -1149,6 +1154,8 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="sure_ok">Razumem</string>
      <string name="system_error_info">Sistem je zaseden. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="system_warning">Če zavrnete to dovoljenje osnovne storitve naprave morda ne bodo več delovale kot bi morale.</string>
+     <string name="thirty_days_no_asking">"Ne sprašuj več 30 dni"</string>
+     <string name="this_installation">Namesti</string>
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>

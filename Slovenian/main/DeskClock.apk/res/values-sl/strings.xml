@@ -45,6 +45,7 @@
      <string name="agree">Strinjam se</string>
      <string name="alarm_alert">Privzeto zvonjenje</string>
      <string name="alarm_alert_alert_silenced">Alarm utišan po %1$s minutah.</string>
+     <string name="alarm_alert_close_entrance">Izključi</string>
      <string name="alarm_alert_disabled">Izključeno</string>
      <string name="alarm_alert_now">%s alarm</string>
      <string name="alarm_alert_snooze_button">Dremež</string>
@@ -60,6 +61,7 @@
      <string name="alarm_list_title">Alarm</string>
      <string name="alarm_notify_snooze_label">%s dremeža</string>
      <string name="alarm_notify_text">Dremež ali prekini budilko.</string>
+     <string name="alarm_permanent_alert">Zvonjenje</string>
      <string name="alarm_repeat">Ponovi</string>
      <string name="alarm_ringtone">Melodije zvonjenja alarma</string>
      <string name="alarm_ringtone_picker">Alarmi</string>
@@ -482,8 +484,10 @@ mm"</string>
      <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> minut vnaprej</string>
      <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> ur vnaprej</string>
      <string name="notification_adv_time_entries5">Nič</string>
+     <string name="notification_permission_desc">"Če ne dodelite dovoljenj za obvestila, ne boste mogli izklopiti alarmov, ko zazvonijo. Podelim dovoljenje zdaj?"</string>
      <string name="oneshot_alarm">Izbriši po izklopu alarma</string>
      <string name="open_keep_screen">Zaslon bo ostal vključen</string>
+     <string name="open_notification_permission_remind">Dovolite obvestila, da boste lahko izklopili alarme</string>
      <string name="open_sleep_record">Vključi</string>
      <string name="optional_change_wifi">Za daljinsko urejanje datotek preko WiFi-ja</string>
      <string name="other_category_title">Ostalo</string>

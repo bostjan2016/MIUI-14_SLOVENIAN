@@ -87,6 +87,26 @@
         <item quantity="other">Označeno kot %2$s s strani %1$d oseb</item>
         <item quantity="one">Označeno kot %2$s s strani %1$d osebe</item>
      </plurals>
+     <plurals name="max_audio_length">
+        <item quantity="other">Zvočna sporočila so lahko dolga do %1$4d s</item>
+        <item quantity="one">Zvočna sporočila so lahko dolga do %1$4d s</item>
+     </plurals>
+     <plurals name="max_file_size">
+        <item quantity="other">Pošlji datoteke do %1$4d MB</item>
+        <item quantity="one">Pošlji datoteke do %1$4d MB</item>
+     </plurals>
+     <plurals name="max_recipients_size">
+        <item quantity="other">Pošlji sporočilo največ %1$4d stikom</item>
+        <item quantity="one">Pošlji sporočilo največ %1$4d stiku</item>
+     </plurals>
+     <plurals name="max_text_size">
+        <item quantity="other">Sporočila lahko vsebujejo do %1$4d znakov</item>
+        <item quantity="one">Sporočila lahko vsebujejo do %1$4d znak</item>
+     </plurals>
+     <plurals name="max_video_length">
+        <item quantity="other">Videoposnetki so lahko dolgi do %1$4d s</item>
+        <item quantity="one">Videoposnetki so lahko dolgi do %1$4d s</item>
+     </plurals>
      <plurals name="message_count">
         <item quantity="other">Sporočil: %1$s</item>
         <item quantity="one">%1$s sporočilo</item>

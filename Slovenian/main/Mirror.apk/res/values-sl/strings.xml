@@ -43,6 +43,7 @@
      <string name="cast_mcc_tips_message">Da se izognete zamudam pri uporabi MIUI+, povežite obe napravi v isto omrežje WiFi.</string>
      <string name="cast_mcc_tips_message_china">Da se izognete zamudam pri uporabi MIUI+, povežite obe napravi v isto omrežje WiFi.</string>
      <string name="cast_mcc_tips_title">Spremeni nastavitve WiFi</string>
+     <string name="cast_mcc_tips_title_china">Spremeni nastavitve WiFi</string>
      <string name="circulate_cta_agree">Strinjam se</string>
      <string name="circulate_cta_app_name">Mi Smart Hub</string>
      <string name="circulate_cta_desc_phone">Dobrodošli v Mi Smart Hub! S to aplikacijo lahko predvajate vsebino zaslona, prenašate predvajanje večpredstavnosti med napravami, uporabljate Mi Smart Play, MIUI+ in predajo aplikacij. Ta aplikacija se mora povezati s spletom in za normalno delovanje potrebuje naslednja dovoljenja:</string>

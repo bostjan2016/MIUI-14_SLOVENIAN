@@ -207,6 +207,7 @@
         <item></item>
         <item>LTE</item>
         <item>5G</item>
+        <item>5G</item>
         <item>5G+</item>
      </string-array>
      <string-array name="debug_hw_overdraw_entries">

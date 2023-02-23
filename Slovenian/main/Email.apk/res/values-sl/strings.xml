@@ -1087,6 +1087,7 @@ To težavo lahko povzroči dvostopenjsko preverjanje pristnosti računa. Poskusi
      <string name="message_decode_error">"Sporočila ni mogoče odkodirati"</string>
      <string name="message_details_title">Podrobnosti sporočila</string>
      <string name="message_discarded">Osnutek zavržen</string>
+     <string name="message_forward_has_signature_pdf">Ali posredujete s podpisanimi priponkami PDF?</string>
      <string name="message_invite_accept">Da</string>
      <string name="message_invite_calendar_download_prompt">Prenesite koledar, da lahko uporabite to storitev</string>
      <string name="message_invite_calendar_view">Pokaži v koledarju</string>
