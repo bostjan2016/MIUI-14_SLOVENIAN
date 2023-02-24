@@ -513,6 +513,7 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="record_scenes_summaries_stereo_music">Snemajte prek %d kanalov, poslušajte stereo zvok v slušalkah</string>
      <string name="record_scenes_summaries_stereo_voice">Za boljšo kakovost premaknite mikrofon bližje viru zvoka</string>
      <string name="record_scenes_summaries_voice">Za boljšo kakovost premaknite mikrofon bližje viru zvoka</string>
+     <string name="record_while_in_call_tip">"Ne morem snemati med klicem"</string>
      <string name="recorder_record">Zvok</string>
      <string name="recording">Snemanje</string>
      <string name="recording_quality_high">Visoka</string>

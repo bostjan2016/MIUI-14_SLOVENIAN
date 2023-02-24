@@ -33,6 +33,10 @@
         <item quantity="other">Dodano iger: %d</item>
         <item quantity="one">Dodana %d igra</item>
      </plurals>
+     <plurals name="added_apps_count">
+        <item quantity="other">%d aplikacij dodano</item>
+        <item quantity="one">%d aplikacija dodana</item>
+     </plurals>
      <plurals name="app_behavior_dashboard_title_desc">
         <item quantity="other">%d aplikacij</item>
         <item quantity="one">%d aplikacija</item>
@@ -252,6 +256,14 @@
      <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Nazaj %d sekund</item>
         <item quantity="one">Nazaj %d sekundo</item>
+     </plurals>
+     <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s ur</item>
+        <item quantity="one">%s ura</item>
+     </plurals>
+     <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
      </plurals>
      <plurals name="find_applications">
         <item quantity="other">Preišči med %d aplik.</item>
@@ -614,6 +626,10 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="other">"Dostop do omrežja je omejen za &lt;font color='#ff0000'>%d&lt;/font> aplik."</item>
         <item quantity="one">"Dostop do omrežja je omejen za &lt;font color='#ff0000'>%d&lt;/font> aplikacijo"</item>
      </plurals>
+     <plurals name="not_added_apps_count">
+        <item quantity="other">%d aplikacij ni dodano</item>
+        <item quantity="one">%d aplikacija ni dodana</item>
+     </plurals>
      <plurals name="notification_antivirus_title">
         <item quantity="other">%d dni brez varnostnega pregleda</item>
         <item quantity="one">%d dan brez varnostnega pregleda</item>
@@ -701,6 +717,10 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
      <plurals name="pc_battery_history_minute">
         <item quantity="other">" min"</item>
         <item quantity="one">" min"</item>
+     </plurals>
+     <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">Vaša naprava je prazna. Vstop v način mirovanja čez %1$d sekund.</item>
+        <item quantity="one">Vaša naprava je prazna. Vstop v način mirovanja čez %1$d sekundo.</item>
      </plurals>
      <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s dni</item>

@@ -402,6 +402,7 @@ Pred uporabo Mi Share morate odobriti naslednja dovoljenja in omogočiti zbiranj
      <string name="start_scan">ZAČNI ISKANJE</string>
      <string name="stop_advertise">KONČAJ OGLASE</string>
      <string name="stop_scan">KONČAJ ISKANJE</string>
+     <string name="sub_title_mishare_switch">Ta storitev se bo samodejno izklopila po %d minutah</string>
      <string name="success_receive_much_file_from_pc">Prejeto več kot %2$d datotek od %1$s. Tapnite za prikaz.</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="sunday">Nedelja</string>
@@ -423,6 +424,8 @@ Pred uporabo Mi Share morate odobriti naslednja dovoljenja in omogočiti zbiranj
      <string name="tips_p2p_support_use5g_china">Za najboljše rezultate uporabite omrežje WiFi 5 GHz.</string>
      <string name="tips_prompt_enable_midrop">Delite datoteke z napravami v bližini</string>
      <string name="to_feedback">Povratna inf.</string>
+     <string name="toast_auto_close_in_minutes">Mi Share se bo izklopil po %d minutah</string>
+     <string name="toast_transfering">Prenos stvari. Poskusi znova kasneje.</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
      <string name="transfer_intercept_to_remote">Ne morem poslati: %1$s</string>
@@ -431,8 +434,10 @@ Spisek naprav najdete na naši spletni strani. Če je vaš prenosnik na seznamu,
      <string name="transfer_to_pc_summary_new"><Data>"Najnovejša različica MIUI+, nameščena na prenosnih računalnikih Mi, je združljiva z Mi Share. Seznam podprtih modelov prenosnih računalnikov lahko preverite na spletnem mestu MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Če je vaš prenosnik na seznamu, vendar MIUI+ ni nameščen, posodobite BIOS prenosnika in gonilnik omrežnega adapterja ter prenesite MIUI+."</Data></string>
      <string name="transfer_to_pc_title">Pošljite datoteke na računalnike</string>
      <string name="transfer_to_phone_summary">Mi Share lahko uporabite za pošiljanje slik in datotek na bližnje Mi telefone in druge podprte naprave.</string>
+     <string name="transfer_to_phone_summary_new">Vklopite Mi Share v nadzornem središču, da boste lahko preprosto pošiljali in prejemali stvari. Ko ga vklopite, lahko delite stvari z napravami v bližini %d minut, preden se samodejno izklopi.</string>
      <string name="transfer_to_phone_title">Pošljite datoteke na telefone</string>
      <string name="transfer_to_summary">"Vklopite Mi Share s stikalom v plošči za obvestila. Ko boste začeli deliti fotografijo ali datoteko, boste lahko videli naprave v bližini. Dotaknite se prejemnikove naprave, če želite poslati predmet, ki ga delite."</string>
+     <string name="transfer_to_summary_new">Vklopite Mi Share v nadzornem središču, da boste lahko preprosto pošiljali in prejemali stvari. Ko ga vklopite, lahko delite stvari z napravami v bližini %d minut, preden se samodejno izklopi.</string>
      <string name="transfer_to_title">Pošljite datoteke na mobilne telefone</string>
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>

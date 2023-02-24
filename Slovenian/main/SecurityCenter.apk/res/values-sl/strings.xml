@@ -1379,6 +1379,11 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="continue_set">Nadaljuj</string>
      <string name="convenient_mode">Odkleni vse aplikacije naenkrat</string>
      <string name="convenient_summary">Vnesite geslo enkrat za odklepanje vseh aplikacij</string>
+     <string name="conversation_settings_top">"·Med celozaslonskim zvočnim in video klicem izvlecite orodno vrstico za konferenco za dostop do njenih storitev.
+·Vrsta in število storitev je odvisna od modela naprave."</string>
+     <string name="conversation_sider_tips">Uporabite nova orodja za konference za najboljšo klicno izkušnjo</string>
+     <string name="conversation_summary">Polepšanje, prepis podnapisov in druge storitve med avdio in video klici</string>
+     <string name="conversation_title">Konferenčna orodja</string>
      <string name="copy">Kopiraj</string>
      <string name="correction_attention_dialog_message">Prilagodite nastavitve. Počakajte da se postopek konča in poskusite ponovno.</string>
      <string name="cpu_usage_android_system">Sistem Android</string>
@@ -1396,6 +1401,19 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="cpu_usage_view_action_btn_text">Tapni za prikaz</string>
      <string name="create_gamebooster_destop">Bližnjica začetnega zaslona uspešno napravljena</string>
      <string name="create_shortcut">Napravi bližnjico začetnega zaslona za pohitritev igranja</string>
+     <string name="cs_color_sense">Barvna temperatura</string>
+     <string name="cs_func_toast_headset">Odklopite slušalke, da lahko uporabite to storitev</string>
+     <string name="cs_func_toast_light">Preklopite na sprednjo kamero, da boste lahko uporabljali to storitev</string>
+     <string name="cs_func_toast_pickup">Če želite uporabljati to storitev, preklopite na videoklic</string>
+     <string name="cs_pickup_multi_desc">%d stopinj zajema zvoka</string>
+     <string name="cs_pickup_multi_title">Več udeležencev</string>
+     <string name="cs_pickup_single_desc">Zajemaj samo zvok pred zaslonom</string>
+     <string name="cs_pickup_single_title">En sam udeleženec</string>
+     <string name="cs_pickup_surround_desc">Uporablja umetno inteligenco za zmanjšanje hrupa za oster in čist zvok</string>
+     <string name="cs_pickup_surround_title">Zmanjšanje hrupa mikrofona</string>
+     <string name="cs_title_pickup">Zmanjšanje hrupa</string>
+     <string name="cs_title_smart_subtitle">Prepisovanje podnapisov</string>
+     <string name="cs_title_ultraclear">Ultra HD način</string>
      <string name="cta_HIPS_Perm_Location_Desc">Za uporabo podatkov o vaši lokaciji v centru za opozorila MIUI, SOS v sili, varčevanju z baterijo v aplikacijah in skenerju varnosti plačil ter omogočanje približne lokacije</string>
      <string name="cta_agree_desc">Če želite uporabljati naše storitve, dovolite, da se ta aplikacija poveže s spletom in ji dodelite zgoraj navedena dovoljenja.</string>
      <string name="cta_button_text_agree">V redu</string>
@@ -1408,7 +1426,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="cta_dialog_negative">Izhod</string>
      <string name="cta_dialog_positive">Strinjam se se</string>
      <string name="cta_dialog_title">Pravila in pogoji</string>
-     <string name="cta_main_purpose">"Dobrodošli v Varnosti! Uporabite lahko Varnost in njene module (vključno z varnostnimi komponentami MIUI in sistemskimi storitvami) za sprostitev prostora za shranjevanje, skeniranje vaše naprave za viruse, nadzor porabe baterije, optimizacijo naprave za igranje iger, upravljanje aplikacij, prejemanje zgodnjih opozoril o potresu , in še več. Varnostne komponente MIUI se bodo povezale z spletom in izvajale varnostne preglede, medtem ko nameščate aplikacije in plačujete."</string>
+     <string name="cta_main_purpose">"Dobrodošli v Varnost! Varnost in njene module (vključno z varnostnimi komponentami MIUI, sistemskimi storitvami in Joyose) lahko uporabite za sprostitev prostora za shranjevanje, pregledovanje vaše naprave glede virusov, nadzor porabe baterije, optimizacijo vaše naprave za igranje iger, upravljanje aplikacij, prejemanje zgodnjih opozoril o potresih in več. Varnostne komponente MIUI se bodo povezale s spletom in izvajale varnostne preglede, medtem ko nameščate aplikacije in plačujete."</string>
      <string name="cta_settings">Dovoli spletno povezavo in dostop do lokacije</string>
      <string name="current_network_state_not_need_diagnose">Spletna povezava je v redu</string>
      <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Za uporabo seznama blokiranih in klicanje stikov v sili, ko so izdana opozorila o potresu</string>
@@ -2209,8 +2227,13 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="gb_advance_settings_vibration_4d">4D vibracija</string>
      <string name="gb_advance_settings_vibration_4d_summary">Ilustrirajte akcije v igri s pomočjo vibracij</string>
      <string name="gb_advance_settings_vibration_4d_summary2">Vibriraj med ubijanjem v igri</string>
+     <string name="gb_already_in_game_list_tips">"Ta stvar je že med dodanimi igrami. Tukaj je ni mogoče dodati."</string>
+     <string name="gb_already_in_video_list_tips">"Ta stvar je že med dodanimi video aplikacijami. Tukaj je ni mogoče dodati."</string>
+     <string name="gb_application_not_find">Tu še ni ničesar</string>
      <string name="gb_audition_instruction">Pritisnite in držite za snemanje (%1$s-%2$s sek)</string>
      <string name="gb_audition_play_instruction">Za najboljši učinek uporabite slušalke</string>
+     <string name="gb_award_noti_message">Vklopite posodobitve v ozadju Game for Peace v Game Turbo, da dobite nagrade</string>
+     <string name="gb_award_noti_title">Nagrade za Game for Peace so tukaj!</string>
      <string name="gb_barrage_chat_desc">Vedno verjemite, da se bo zgodilo nekaj čudovitega</string>
      <string name="gb_barrage_chat_pre_desc">Predogled</string>
      <string name="gb_barrage_chat_text_color">Barva</string>
@@ -2478,6 +2501,8 @@ vašega igranja"</string>
      <string name="gd_app_edit_done">Končano</string>
      <string name="gd_app_edit_title">Dodaj aplikacije</string>
      <string name="gd_app_edit_title_new">Uredite bližnjice plavajočega okna</string>
+     <string name="gd_setting_conversation">Konferenčna orodja</string>
+     <string name="gd_setting_conversation_desc">Ponuja različne storitve za uporabo v celozaslonskih zvočnih in video klicih</string>
      <string name="gd_setting_desc_action1">Odpri plavajoče okno</string>
      <string name="gd_setting_desc_action2">Uporabi bližnjico</string>
      <string name="gd_setting_group_custom_gtb_apps">Igre</string>
@@ -2672,7 +2697,7 @@ da se pridružite našemu lovu na jajca!"</string>
      <string name="handle_title_privacy">Varnost zasebnosti</string>
      <string name="handle_title_system">Poraba baterije sistema</string>
      <string name="header_info_scan_progress">%d%%</string>
-     <string name="help_label">Pomoč</string>
+     <string name="help_label">Oznaka</string>
      <string name="hide_mode_app_background_setting_text">Varčevanje baterije aplikacij</string>
      <string name="hide_mode_result_summary_text">Prilagodite nastavitve varčevanja baterije za posamezne aplikacije</string>
      <string name="hide_mode_summary_text">"Urejaj aplikacjie v ozadju za prihranek baterije"</string>
@@ -3723,6 +3748,17 @@ To skrajšuje trajanje baterije."</string>
      <string name="pc_battery_history_usetime_title">Aktivno</string>
      <string name="pc_emergency_call">Klic v sili</string>
      <string name="pc_endurance_calculation">Računam…</string>
+     <string name="pc_entered_extreme_mode">Način mirovanja je vklopljen</string>
+     <string name="pc_entered_extreme_mode_summary">"Vaša naprava je prazna in je prešla v način mirovanja. Aplikacije bodo delovale v ozadju in ne bodo pošiljale obvestil."</string>
+     <string name="pc_extreme_exit_and_power_off">Izhod</string>
+     <string name="pc_extreme_mode_bg_toast">"V načinu mirovanja bodo aplikacije delovale v ozadju in ne bodo pošiljale obvestil"</string>
+     <string name="pc_extreme_mode_entering">Vstop v način mirovanja…</string>
+     <string name="pc_extreme_mode_exit_risk_title">Pozor</string>
+     <string name="pc_extreme_mode_exit_risk_title_summary">Vaša naprava je prazna. Če zapustite način mirovanja, se bo naprava izklopila.</string>
+     <string name="pc_extreme_mode_exiting">Izhod iz načina mirovanja…</string>
+     <string name="pc_extreme_mode_find_charger">Čim prej napolnite svojo napravo.</string>
+     <string name="pc_extreme_mode_runtime">Način mirovanja je bil vklopljen za %1$s %2$s.</string>
+     <string name="pc_extreme_mode_title">Način mirovanja</string>
      <string name="pc_fast_charge_notifi_action_text_off">Ustavi</string>
      <string name="pc_fast_charge_notifi_action_text_on">Pospeši</string>
      <string name="pc_fast_charge_notifi_power_threshold_title">Nastavite raven baterije za opomnike</string>
@@ -3737,6 +3773,9 @@ To skrajšuje trajanje baterije."</string>
      <string name="pc_fast_charge_switch_title">Povečajte hitrost polnjenja</string>
      <string name="pc_fast_charge_switch_toast_message">Pri naslednjem polnjenju te naprave bodo uveljavljene te spremembe</string>
      <string name="pc_fast_charge_title">Povečaj hitrost polnjenja</string>
+     <string name="pc_going_to_exit_extreme_mode">Izhod iz načina mirovanja</string>
+     <string name="pc_going_to_exit_extreme_mode_summary">Vaša naprava se polni. Način mirovanja je izklopljen.</string>
+     <string name="pc_going_to_extreme_mode">Vstop v način mirovanja</string>
      <string name="pc_hidemode_normal">Uravnoteženo</string>
      <string name="pc_hidemode_normal_title">Uravnoteženo</string>
      <string name="pc_hidemode_performance">Zmogljivost</string>
@@ -3799,6 +3838,8 @@ To skrajšuje trajanje baterije."</string>
      <string name="permgroupdesc_location">Dostop do informacij o lokaciji</string>
      <string name="permgroupdesc_microphone">Snemanje zvoka</string>
      <string name="permgroupdesc_phone">Klicanje in urejanje razgovora</string>
+     <string name="permgroupdesc_readmediaimages">Dostop do fotografij in videoposnetkov</string>
+     <string name="permgroupdesc_readmediavideo">Dostop do glasbe in zvoka</string>
      <string name="permgroupdesc_recognition">Dostop do podatkov o zdravju &amp; in aktivnosti</string>
      <string name="permgroupdesc_sensors">Dostop do podatkov senzorjev telesa</string>
      <string name="permgroupdesc_sms">Brati in pošiljati SMS</string>
@@ -3840,6 +3881,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="permission_instruction_get_accounts">To dovoljenje aplikacijam omogoča dostop do seznama računov, shranjenih v vaši napravi. Ta seznam lahko vsebuje vse vaše osebne račune, ki so jih ustvarili nameščeni programi, pa tudi račune s platform socialnih medijev in komunikacijskih orodij.</string>
      <string name="permission_instruction_install_shortcuts">To dovoljenje aplikacijam omogoča ustvarjanje bližnjic na začetnem zaslonu.</string>
      <string name="permission_instruction_install_unknown_source">To dovoljenje aplikacijam omogoča namestitev drugih programov v vašo napravo. Zlonamerni programi uporabljajo to dovoljenje za namestitev programov brez vaše potrditve.</string>
+     <string name="permission_instruction_location">Ko daste to dovoljenje, bodo aplikacije za dostop do vaše lokacije uporabljale omrežja ali satelitsko določanje položaja. Aplikacijam, ki podpirajo to storitev, lahko dovolite dostop samo do vaše približne lokacije.</string>
      <string name="permission_instruction_media_audio">To dovoljenje omogoča aplikacijam dostop do skladb in drugih zvočnih datotek, shranjenih v tej napravi. Te stvari lahko vsebujejo osebne podatke.</string>
      <string name="permission_instruction_media_files">To dovoljenje omogoča aplikacijam dostop do datotek in dokumentov, shranjenih v tej napravi. Te stvari lahko vsebujejo osebne podatke.</string>
      <string name="permission_instruction_modify_audio_settings">To dovoljenje aplikacijam omogoča spreminjanje nastavitev zvoka (npr. Prilagajanje glasnosti brez vaše potrditve). Glasnosti v nekaterih aplikacijah morda ne boste mogli prilagoditi, če jim tega ne odobrite.</string>
@@ -3880,6 +3922,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="permission_instruction_touch_pay">To dovoljenje aplikacijam omogoča brezstično plačevanje.</string>
      <string name="permission_instruction_use_sip">To dovoljenje aplikacijam omogoča uporabo video storitev SIP.</string>
      <string name="permission_instruction_vr_assistant">To dovoljenje aplikacijam omogoča uporabo storitev pomočnikov VR.</string>
+     <string name="permission_instruction_wall_paper">Dodelite to dovoljenje, da aplikacijam omogočite spreminjanje privzetih storitev dinamičnih ozadij in delovanje v ozadju.</string>
      <string name="permission_instruction_write_calllog">"To dovoljenje aplikacijam omogoča urejanje zgodovine klicev, ki lahko vsebuje podrobne informacije o dohodnih in odhodnih klicih. Zlonamerni programi lahko to dovoljenje uporabijo za brisanje ali urejanje vaše zgodovine klicev.
 "</string>
      <string name="permission_instruction_write_clipboard">To dovoljenje aplikacijam omogoča shranjevanje elementov v odložišče. Neželena sporočila lahko vplivajo na običajno uporabo odložišča.</string>
@@ -4365,6 +4408,8 @@ To skrajšuje trajanje baterije."</string>
      <string name="pp_identifier_protection">Zaščitite osebne identifikatorje</string>
      <string name="pp_interception_net_visit_content_manager">Zaščitite galerijo in aplikacije za družabna omrežja</string>
      <string name="pp_interception_net_visit_content_manager_detail">Izberite, katerim aplikacijam je dovoljen dostop do vaših fotografij, videoposnetkov in zgodovine klepetov</string>
+     <string name="pp_lab_compact_blur_location">Aplikacije ki dostopajo do približne lokacije</string>
+     <string name="pp_lab_compact_blur_location_summary">"Izberite \"Privzeto\", če želite uporabiti Androidovo storitev približne lokacije, ali \"Vse\", če želite preklopiti na MIUI."</string>
      <string name="pp_local_msg">Informacije o lokaciji</string>
      <string name="pp_manage_apps_location_information">Dovolite aplikacijam dostop do vaše lokacije</string>
      <string name="pp_manage_track">Nadzirajte sledilce</string>
@@ -5643,7 +5688,7 @@ Umaknem soglasje zdaj?"</string>
      <string name="storage_clear_more_tools">Več orodij za čiščenje</string>
      <string name="storage_clear_video">Počisti predpomnilnik videoposnetkov</string>
      <string name="storage_compact_warning">Prilagoditev več dovoljenj</string>
-     <string name="storage_compact_warning_desc">"Ta aplikacija ne podpira prilagajanja dovoljenj za posamezne fotografije, videoposnetke, zvok, datoteke ali dokumente."</string>
+     <string name="storage_compact_warning_desc">"Dovoljenja za fotografije, videoposnetke in zvok za to aplikacijo je treba spremeniti hkrati. Spreminjanje enega od teh dovoljenj bo spremenilo vsa."</string>
      <string name="storage_deepclean_entry">Globinsko čiščenje</string>
      <string name="storage_dialog_unmountable">"Ta ^1 je poškodovan.
 
