@@ -24,6 +24,7 @@
     <string name="app_mifitness">Mi Fitness</string>
     <string name="app_mihome">Mi dom</string>
     <string name="app_mipay">Denarnica</string>
+    <string name="app_mivideo">Mi Video</string>
     <string name="app_notes">Beležke</string>
     <string name="app_recorder">Snemalec</string>
     <string name="app_scanner">Skener</string>
@@ -97,6 +98,8 @@
     <string name="widget_health_steps_desc">Oglejte si današnje korake in napredek pri cilju</string>
     <string name="widget_mipay_wallet">Servisni pomočnik</string>
     <string name="widget_mipay_wallet_desc">Hitro si oglejte finančne, kreditne in zavarovalne informacije ter pomembne opomnike o opravilih</string>
+    <string name="widget_mivideo_local">Lokalni videoposnetki</string>
+    <string name="widget_mivideo_local_desc">Hiter dostop do lokalnih avdio in video datotek</string>
     <string name="widget_notes_quick">Bližnjice</string>
     <string name="widget_notes_quick_desc">Hitro ustvarite in dostopajte do beležk in opravil</string>
     <string name="widget_notes_quick_note">Ustvarite beležke</string>
@@ -109,7 +112,7 @@
     <string name="widget_notes_view_desc">Oglejte si in odprite svoje beležke</string>
     <string name="widget_pals_cat">Mucica</string>
     <string name="widget_pals_cat_desc">Mijav ~ ne moti me, ko spim…</string>
-    <string name="widget_pals_dog">Kuža</string>
+    <string name="widget_pals_dog">Kužek</string>
     <string name="widget_pals_dog_desc">Hov ~ igraj se z menoj!</string>
     <string name="widget_security_app_behavior">Zasebnost</string>
     <string name="widget_security_app_behavior_desc">Oglejte si statistiko vedenja aplikacije</string>

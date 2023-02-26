@@ -1241,6 +1241,7 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="resource_list_title">Zadnje izbrano</string>
      <string name="resource_local_picker">Izberi melodijo zvonjenja</string>
      <string name="resource_menu_refresh">Osveži</string>
+     <string name="resource_mi_ai_picker">Izberite melodijo zvonjenja Mi AI</string>
      <string name="resource_mute">Brez</string>
      <string name="resource_my">Lokalno</string>
      <string name="resource_network_diagnostics">&lt;u&gt;Test omrežja&lt;/u&gt;</string>
@@ -1507,6 +1508,7 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="theme_component_title_framework">Okvir</string>
      <string name="theme_component_title_homepage">Začetna</string>
      <string name="theme_component_title_icon">Ikone</string>
+     <string name="theme_component_title_large_icon">Super ikone</string>
      <string name="theme_component_title_launcher">Začetni zaslon</string>
      <string name="theme_component_title_lockstyle">Zaklenjen slog</string>
      <string name="theme_component_title_lockwallpaper">Zaklepanje zaslona</string>

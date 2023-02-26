@@ -2375,7 +2375,10 @@ lahko izprazni baterijo in povzroči pregrevanje"</string>
      <string name="gb_predownload_noti_message">"%2$1.2f GB posodobljene vsebine je že v tej napravi. Uporabili jo boste lahko takoj, ko bo izšla nova različica."</string>
      <string name="gb_predownload_noti_title">%s uspešno posodobljen v ozadju</string>
      <string name="gb_predownload_receive">Pridobite nagrade</string>
+     <string name="gb_predownload_receive_error">Prišlo je do napake v omrežju. Poskusite ponovno.</string>
+     <string name="gb_predownload_receive_max">"V tej napravi ni mogoče dobiti več nagrad"</string>
      <string name="gb_predownload_receive_tips">Vklopite posodobitve v ozadju, da dobite nagrade</string>
+     <string name="gb_predownload_receiving">Prejemanje…</string>
      <string name="gb_predownload_title">Posodobitve v ozadju</string>
      <string name="gb_shortcut_pref_title">Bližnjica zač. zaslona</string>
      <string name="gb_shoulder_guide_message1">Premaknite [L] v kateri koli funkcionalni položaj, da ga uporabite prek pojavnega sprožilca</string>

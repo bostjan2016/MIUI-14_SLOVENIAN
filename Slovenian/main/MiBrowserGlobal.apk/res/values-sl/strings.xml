@@ -150,6 +150,10 @@
      <string name="already_add">%s dodan na zač. zaslon</string>
      <string name="am">dop.</string>
      <string name="app_cache">Predpomnilnik</string>
+     <string name="app_category_tag_daily_recommendation">"Današnji izbori"</string>
+     <string name="app_category_tag_editor_recommendation">"Urednikov izbor"</string>
+     <string name="app_category_tag_free">Brezplačno</string>
+     <string name="app_category_tag_hot">Popularno</string>
      <string name="app_id">Firebase App ID(Klikni za izvoz)</string>
      <string name="app_library_category_entertainment">Zabava</string>
      <string name="app_library_category_financial_management">Finance</string>
@@ -209,6 +213,7 @@
      <string name="back_button_label">Nazaj</string>
      <string name="back_description">Nazaj</string>
      <string name="back_home">Domača stran</string>
+     <string name="batch_download">Prenesi</string>
      <string name="batch_download_tip">Kaže da se več stvari prenaša ob istem času. Želite ustaviti te prenose?</string>
      <string name="billing_unavailable_message">"- Preverite, ali ste prijavljeni v Trgovino Play.
 - Posodobite Google Services Framework na najnovejšo različico.
@@ -2227,8 +2232,10 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="search_bar_hint_content">Iskanje aplikacij in vsebine </string>
      <string name="search_bing">Bing</string>
      <string name="search_button_text">Pojdi</string>
+     <string name="search_card_more">Več</string>
      <string name="search_card_online_rec_app">Trgovine aplikacij</string>
      <string name="search_card_online_rec_app_install">Namesti</string>
+     <string name="search_card_online_rec_app_installed">Nameščeno</string>
      <string name="search_card_online_rec_app_open">Odpri</string>
      <string name="search_dianping">Cate</string>
      <string name="search_easou">Easou</string>

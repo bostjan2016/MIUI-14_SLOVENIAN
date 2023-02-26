@@ -430,6 +430,7 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="logout_account">Odjava</string>
      <string name="logout_failed">Ne morem se vpisati</string>
      <string name="messenger_send_button_text">Pošlji</string>
+     <string name="mi_account">Moj račun</string>
      <string name="mi_account_identity_title">Potrdite svojo identiteto</string>
      <string name="mi_family">Mi Home</string>
      <string name="mi_finance">Moje finance</string>
@@ -442,7 +443,7 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="mi_vip_info">Pokaži poslastice</string>
      <string name="micloud_account_name">Mi Račun</string>
      <string name="micloud_space_info">%s na voljo</string>
-     <string name="midnight">Night</string>
+     <string name="midnight">Noč</string>
      <string name="mili_center">Mi krediti</string>
      <string name="mipay">Denarnica</string>
      <string name="mipay_balance">Ravnovesje</string>
