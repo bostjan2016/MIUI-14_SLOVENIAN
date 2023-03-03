@@ -539,6 +539,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="cleaner_space_description">se lahko sprosti</string>
      <string name="cleaner_space_detail_description">Izbrišite fotografije v Galeriji da boste osvobodili prostor za shranjevanje</string>
      <string name="cleaner_stop_scan">Ustavi skeniranje</string>
+     <string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s zasedeno</string>
      <string name="cleaner_title">Čistilec</string>
      <string name="cleaner_video_action">Izbriši zdaj</string>
      <string name="cleaner_video_description">Izbrišite videoposnetke ki zavzemajo prostor za shranjevanje</string>
@@ -629,7 +630,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="collage_poster_global_tea_text">ČAS ZA ČAJ</string>
      <string name="collage_ratio_text">Razmerje slike</string>
      <string name="collage_rotate">Rotiraj</string>
-     <string name="collage_select_image_range">Kolaži lahko vsebujejo 1-6 fotografij</string>
+     <string name="collage_select_image_range">Kolaži lahko vsebujejo %1$d-%2$d fotografij</string>
      <string name="collage_talkback_margin_large">Debel rob</string>
      <string name="collage_talkback_margin_medium">Navaden rob</string>
      <string name="collage_talkback_margin_non">Brez robov</string>
@@ -2365,9 +2366,9 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="photo_editor_talkback_crop_mirror">Ogledalo</string>
      <string name="photo_editor_talkback_crop_original">Original</string>
      <string name="photo_editor_talkback_crop_reset">Ponastavi</string>
-     <string name="photo_editor_talkback_crop_right_rotate">Zavrti 90 stopinj</string>
+     <string name="photo_editor_talkback_crop_right_rotate">Zavrti %d stopinj</string>
      <string name="photo_editor_talkback_crop_rotate">Zavrti</string>
-     <string name="photo_editor_talkback_crop_scale_default_value">Privzeta vrednost pred uporabo rotacije je 0 stopinj</string>
+     <string name="photo_editor_talkback_crop_scale_default_value">Privzeta vrednost pred uporabo rotacije je %d stopinj</string>
      <string name="photo_editor_talkback_crop_scale_value">Zavrti %d stopinj</string>
      <string name="photo_editor_talkback_crop_screen">Razmerje slike preko celega zaslona</string>
      <string name="photo_editor_talkback_crop_view">Obreži sliko</string>
@@ -3025,6 +3026,8 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="slim_action_auto_backup_tip">Vklopi sinhronizacijo z oblakom</string>
      <string name="slim_after_backuped_summary">Zamenjajte fotografije polne resolucije v napravi z optimiziranimi verzijami ko ste jih shranili na Mi Cloud. Fotografije v polni resoluciji bodo še dalje na voljo na Mi Cloudu. To prihrani mnogo lokalnega prostora za shranjevanje.</string>
      <string name="slim_after_backuped_title">Optimiziraj lokalno shrambo po izdelavi var. kopije</string>
+     <string name="slim_auto_backup_cloud_confirm_detail">Vklopite sinhronizacijo z oblakom, da boste lahko naložili fotografije in videoposnetke iz vaše naprave v oblak.</string>
+     <string name="slim_auto_backup_cloud_confirm_title">Sinhroniziraj z oblakom</string>
      <string name="slim_complete">Končano</string>
      <string name="slim_complete_action_title">Uspešno optimizirano</string>
      <string name="slim_complete_count">"Optimizirano %1$s in %2$s. "</string>
@@ -3044,6 +3047,9 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="slim_dialog_title">Optimiziraj shrambo</string>
      <string name="slim_exit_dialog_positive">Ustavi</string>
      <string name="slim_exit_dialog_title">Ustavi optimiziranje</string>
+     <string name="slim_finish_upgrade_tip"><Data>Nadgradite svoj načrt za shranjevanje v oblaku, da sinhronizirate več stvari v oblak. Tapnite &lt;a href=\"%1$s\">nadgradi&lt;/a>.</Data></string>
+     <string name="slim_function_summery_first">Ohranite optimizirane fotografije v svoji napravi in shranite izvirno sliko v oblak</string>
+     <string name="slim_function_summery_second">Datoteke, ustvarjene v zadnjih %d dneh bodo shranjene v vaši napravi</string>
      <string name="slim_introduce">Zamenjajte fotografije/videoposnetke polne resolucije v lokalnem pomnilniku z optimiziranimi verzijami potem ko jih shranite na Mi Cloud. Originali so še vedno shranjeni na Mi Cloudu. To lahko prihrani več od 90% prostora za shranjevanje (potreben Mi Račun).</string>
      <string name="slim_introduce_with_specific_size">Zamenjajte datoteke polne resolucije v lokalni shrambi z optimiziranimi verzijami potem ko jih shranite na Mi Cloud. Originali so še vedno shranjeni na Mi Cloudu. To lahko prihrani %1$s (potreben Mi Račun).</string>
      <string name="slim_now">Zmanjšaj zdaj</string>
@@ -3056,9 +3062,14 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="slim_space">Osvobodi</string>
      <string name="slim_stop">Ustavi optimiziranje</string>
      <string name="slim_stop_v2">Ustavi</string>
+     <string name="slim_subtitle_slim_space_prefix">Osvobodite %1$s %2$s</string>
+     <string name="slim_subtitle_sync_off_no_slimdata">Vklopite sinhronizacijo z oblakom, da dobite oceno sproščenega prostora</string>
+     <string name="slim_subtitle_sync_on_no_slimdata">Sinhronizacija. Poskusite znova kasneje.</string>
+     <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Nadgradite svoj načrt za shranjevanje v oblaku, da sinhronizirate več stvari</string>
      <string name="slim_success_tip">Sproščeno %s shrambe</string>
      <string name="slim_tip_msg">Datoteke se bodo optimizirale ko bo naprava povezana na WiFi. Prenesite datoteke polne ločljivosti z dotikom "Prenesi originalno datoteko" v meniju.</string>
      <string name="slim_tip_title">Optimiziranje shrambe</string>
+     <string name="slim_upgrade_button">Nadgradi</string>
      <string name="slimming">Optimiziranje…</string>
      <string name="slow_motion_enter">Počasni posnetek</string>
      <string name="smartisan">Smartisan</string>
@@ -3283,13 +3294,13 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="text_edit_dialog_style_toast">"Orisanega besedila ni mogoče postaviti na ozadja"</string>
      <string name="text_edit_dialog_style_transparent">Transparentnost</string>
      <string name="text_edit_sub_menu_text">Mehurčki</string>
-     <string name="text_item_type_talkback_bubble_arrow1">Puščica 1</string>
-     <string name="text_item_type_talkback_bubble_arrow2">Puščica 2</string>
+     <string name="text_item_type_talkback_bubble_arrow1">Puščica %d</string>
+     <string name="text_item_type_talkback_bubble_arrow2">Puščica %d</string>
      <string name="text_item_type_talkback_bubble_circular">Govorni mehurček</string>
      <string name="text_item_type_talkback_bubble_none">Besedilno polje</string>
      <string name="text_item_type_talkback_bubble_oval">Ovalni govorni mehurček</string>
-     <string name="text_item_type_talkback_bubble_rectangle">Kvadratni govorni mehurček 1</string>
-     <string name="text_item_type_talkback_bubble_rectangle2">Kvadratni govorni mehurček 2</string>
+     <string name="text_item_type_talkback_bubble_rectangle">Kvadratni govorni mehurček %d</string>
+     <string name="text_item_type_talkback_bubble_rectangle2">Kvadratni govorni mehurček %d</string>
      <string name="text_item_type_talkback_bubble_signature">Podpis</string>
      <string name="text_item_type_talkback_bubble_watermark_1">Vedno verjemite, da se bo zgodilo nekaj čudovitega</string>
      <string name="text_item_type_talkback_bubble_watermark_2">Popolne počitnice 1</string>
@@ -3310,11 +3321,11 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="text_item_type_talkback_city_suzhou">Suzhou</string>
      <string name="text_item_type_talkback_city_tianjin">Tianjin</string>
      <string name="text_item_type_talkback_city_wuhan">Wuhan</string>
-     <string name="text_item_type_talkback_festival_chaojieyueliang2">Super luna 2</string>
+     <string name="text_item_type_talkback_festival_chaojieyueliang2">Super luna %d</string>
      <string name="text_item_type_talkback_festival_chaojiyueliang">Super luna</string>
-     <string name="text_item_type_talkback_festival_chaojiyueliang3">Super luna 3</string>
-     <string name="text_item_type_talkback_festival_chaojiyueliang4">Super luna 4</string>
-     <string name="text_item_type_talkback_festival_chaojiyueliang5">Super luna 5</string>
+     <string name="text_item_type_talkback_festival_chaojiyueliang3">Super luna %d</string>
+     <string name="text_item_type_talkback_festival_chaojiyueliang4">Super luna %d</string>
+     <string name="text_item_type_talkback_festival_chaojiyueliang5">Super luna %d</string>
      <string name="text_item_type_talkback_festival_chunjie">Pomladni Festival</string>
      <string name="text_item_type_talkback_festival_chuxi">Predvečer kitajskega novega leta</string>
      <string name="text_item_type_talkback_festival_ertongjie">"Otroški dan"</string>

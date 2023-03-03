@@ -212,6 +212,8 @@
      <string name="cloud_drive_settings">Mi Drive nastavitve</string>
      <string name="cloud_empty_hint_text">"Tu še ni ničesar.
 Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
+     <string name="cloud_empty_hint_text_pad">"Tu še ni ničesar.
+Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="cloud_guide_summary_text">Samodejno sinhronizirajte svoje stvari z vsemi svojimi napravami</string>
      <string name="cloud_guide_title_text">Sinhroniziraj z Mi Drive</string>
      <string name="cloud_permission_storage_desc">Za shranjevanje fotografij in dokumentov v vašo napravo</string>
@@ -400,6 +402,9 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="expand_all">Vse</string>
      <string name="expand_button_title">Napredno</string>
      <string name="exposed_dropdown_menu_content_description">Pokaži spustni meni</string>
+     <string name="extend_service_setting">Dodatne storitve</string>
+     <string name="extend_service_summary">"Če to storitev izklopite, ne boste mogli uporabljati storitev, povezanih z Mi Drive"</string>
+     <string name="extend_service_title">Upravljajte datoteke Mi Drive</string>
      <string name="extended_storage_file_can_not_open">"Ne morem odpreti datoteke. Kopirajte datoteko v notranjo shrambo."</string>
      <string name="extract">Razširi</string>
      <string name="fab_menu_ball">Hitra dejanja</string>
@@ -1409,6 +1414,9 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="stay_awake_summary">Med delovanjem FTP strežnika bo zaslon buden</string>
      <string name="stay_awake_title">Zaslon naj ostane vključen</string>
      <string name="sticker_btn_str_explore_tab">Preiščite kup zabavnih stvari!</string>
+     <string name="stop_extend_service_dialog_confirm">Izključi</string>
+     <string name="stop_extend_service_dialog_summary">"Če to storitev izklopite, ne boste mogli upravljati svojih datotek, shranjenih v Mi Drive. Vseeno izklopim?"</string>
+     <string name="stop_extend_service_dialog_tilte">Dodatne storitve</string>
      <string name="stop_server">Ustavi strežnik</string>
      <string name="storage_cloned_app">Prostor za shranjevanje za dvojne aplikacije</string>
      <string name="storage_info">%1$s na voljo</string>

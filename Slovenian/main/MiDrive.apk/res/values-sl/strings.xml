@@ -183,7 +183,7 @@
      <string name="delete_folders">Izbrišem (%1$d) map?</string>
      <string name="delete_operation_record">Izbrišem ta posnetek?</string>
      <string name="delete_operation_record_timeout">"Posnetka ni bilo mogoče izbrisati. Počakajte minuto ali dve in poskusite znova."</string>
-     <string name="delete_record_only">"Stvari, na katere se nanašajo izbrani posnetki, ne bodo izbrisane."</string>
+     <string name="delete_record_only">To dejanje bo izbrisalo samo izbrane posnetke. Nobena datoteka ne bo izbrisana</string>
      <string name="delete_success">Datoteka izbrisana</string>
      <string name="detail_download_path">"Lokacija: "</string>
      <string name="detail_download_time">"Prenešeno: "</string>
@@ -574,7 +574,7 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
      <string name="operation_resume_all">Nastavi vse</string>
      <string name="operation_save">Shrani</string>
      <string name="operation_send">Pošlji</string>
-     <string name="operation_sure_to_delete">Izbrišem zdaj?</string>
+     <string name="operation_sure_to_delete">Izbrišem zgodovino?</string>
      <string name="operation_task_manage">Pokaži prenose</string>
      <string name="operation_transport_success">Uspešno dodano v prenose</string>
      <string name="operation_upload">Naloži</string>

@@ -937,6 +937,10 @@ skenirane dokumente samodejno"</string>
      <string name="download_cancel_hint">Prekličem prenos %1$s?</string>
      <string name="download_confirm">Prenos</string>
      <string name="download_hint">%1$s MB mobilnih podatkov bo uporabljenih za prenos stvari. Vseeno prenesem?</string>
+     <string name="download_hint_check_on_wifi">"Povezani ste z WiFi. Prenesem to datoteko %1$s MB zdaj?"</string>
+     <string name="download_hint_check_on_wifi_cn">"Povezani ste z WiFi. Prenesem to datoteko %1$s MB zdaj?"</string>
+     <string name="download_hint_check_on_wifi_remind">"Ne opominjaj več"</string>
+     <string name="download_hint_check_on_wifi_remind_cn">"Ne opominjaj več"</string>
      <string name="download_hint_cn">"Kaže da vaša naprava ni povezana z omrežjem WiFi. Uporabim %1$s MB mobilnih podatkov za prenos stvari?"</string>
      <string name="download_hint_wifi">"Kaže da vaša naprava ni povezana z omrežjem WiFi. Uporabim %1$s MB mobilnih podatkov za prenos stvari?"</string>
      <string name="download_in_progress">Prenos…</string>
