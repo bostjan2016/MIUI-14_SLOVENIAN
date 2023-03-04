@@ -2513,7 +2513,7 @@ Preostalo poskusov :"</string>
      <string name="tethered_notification_message">Dotaknite se da nastavite.</string>
      <string name="tethered_notification_multi_device_message">Povezanih naprav: %1$s</string>
      <string name="tethered_notification_no_device_message">Ni povezanih naprav</string>
-     <string name="tethered_notification_one_device_message">%1$s povezanih naprav</string>
+     <string name="tethered_notification_one_device_message">%1$s povezana naprava</string>
      <string name="tethered_notification_title">Aktivno deljenje povezave ali hotspot</string>
      <string name="textSelectionCABTitle">Izbrano besedilo</string>
      <string name="text_copied">Besedilo kopirano v odložišče.</string>
