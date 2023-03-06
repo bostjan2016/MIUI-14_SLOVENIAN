@@ -1883,7 +1883,7 @@ za normalno delovanje, tapnite \"Nastavi\", da odprete Dovoljenja."</string>
      <string name="mosaic_item_talkback_eraser">Radirka</string>
      <string name="motion_photo_enter">Dinamičen posnetek</string>
      <string name="motion_photo_play">Predvajaj</string>
-     <string name="move_to_other_albums_tip">Premestim ta album v album Ostalo?</string>
+     <string name="move_to_other_albums_tip">Premestim ta album v \"Ostali albumi\"?</string>
      <string name="move_to_rubbish_albums_tip">Premestim izbrane albume v smeti?</string>
      <string name="movie_add_disable">Lahko izberete do %d fotografij</string>
      <string name="movie_audio_antiquity">Retro</string>
@@ -2073,7 +2073,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="operation_hide_time">Skrij datume</string>
      <string name="operation_in_process">Obdelujem…</string>
      <string name="operation_move">Premesti</string>
-     <string name="operation_move_to_other_albums">Premesti v druge albume</string>
+     <string name="operation_move_to_other_albums">Premesti v \"Ostali albumi\"</string>
      <string name="operation_move_to_rubbish_albums">Premesti v smeti</string>
      <string name="operation_not_show_in_photos_tab">"Ne kaži v zavihku Fotografije"</string>
      <string name="operation_photo_rename">Preimenuj</string>
@@ -2082,7 +2082,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="operation_projection">Predvajaj</string>
      <string name="operation_remove_face">Odstrani</string>
      <string name="operation_remove_from_face_album">Odstrani iz albuma</string>
-     <string name="operation_remove_from_other_albums">Odstrani iz drugih albumov</string>
+     <string name="operation_remove_from_other_albums">Odstrani iz \"Ostali albumi\"</string>
      <string name="operation_remove_from_rubbish_albums">Vrni</string>
      <string name="operation_remove_rubbish">Vrni</string>
      <string name="operation_remove_secret">Pokaži</string>
@@ -2123,7 +2123,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="original_scale">Original</string>
      <string name="other_album">Ostali albumi</string>
      <string name="other_album_operation_move_to_rubbish_albums">Premesti v smeti</string>
-     <string name="other_album_operation_remove_from_other_albums">Odstrani</string>
+     <string name="other_album_operation_remove_from_other_albums">Odstrani iz \"Ostali albumi\"</string>
      <string name="other_settings">Dodatne nastavitve</string>
      <string name="owner_album_subtitle">Deljeno z %1$s uporabniki</string>
      <string name="pad_device_model_name">Xiaomi Pad</string>
@@ -2279,7 +2279,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="photo_editor_beauty_compare">Original</string>
      <string name="photo_editor_common_download_failed">"Ne morem prenesti. Preverite omrežne nastavitve in poskusite znova."</string>
      <string name="photo_editor_common_download_finish">Dodatek uspešno prenešen</string>
-     <string name="photo_editor_common_download_sdk_without_wifi_msg">"Videti je, da vaša naprava ni povezana v omrežje WiFi. Ali želite prenesti dodatek (%1$d MB) z uporabo mobilnih podatkov?"</string>
+     <string name="photo_editor_common_download_sdk_without_wifi_msg">"Kaže da vaša naprava ni povezana v omrežje WiFi. Ali želite prenesti dodatek (%1$d MB) z uporabo mobilnih podatkov?"</string>
      <string name="photo_editor_common_download_sdk_without_wifi_title">Prenesi dodatek</string>
      <string name="photo_editor_compare_tip">Pritisnite in držite za prikaz originalne slike</string>
      <string name="photo_editor_crop_and_rotate">Obreži</string>
@@ -2517,7 +2517,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="privacy_rejected_map_new">Preklic soglasja za izjavo o skupni rabi podatkov tretjih oseb za Galerija Zemljevid</string>
      <string name="privacy_rejected_pos_btn">Preklic</string>
      <string name="privacy_share_album_confirm">Pogoji in pravila</string>
-     <string name="privacy_share_album_confirm_detail">Albume v skupni rabi poganja Xiaomi Cloud. Pred uporabo te storitve preberite in se strinjajte z &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Pogoji uporabe>&lt;/a>&lt;/font> in &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Pravila o zasebnosti&lt;/a>&lt;/font>.</string>
+     <string name="privacy_share_album_confirm_detail">Albume v skupni rabi poganja Xiaomi Cloud. Pred uporabo te storitve preberite in se strinjajte z &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Pogoji uporabe&lt;/a>&lt;/font> in &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Pravila o zasebnosti&lt;/a>&lt;/font>.</string>
      <string name="private_entry_lock_state_activated_text">Spusti za odpiranje zasebne mape</string>
      <string name="private_entry_lock_state_enterd_text">Povleci dol za odpiranje zasebne mape</string>
      <string name="problem_feedback">Povratne inf.</string>
@@ -2547,7 +2547,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="purge_or_recovery_processing">Obdelava…</string>
      <string name="qq_login_btn_content_description">Prijava z QQ</string>
      <string name="qr_invite_scan_hint">Skenirajte kodo QR</string>
-     <string name="qr_invite_time_hint">Ta koda QR velja 7 dni</string>
+     <string name="qr_invite_time_hint">Ta koda QR velja %d dni</string>
      <string name="qr_invite_title">Vabilo s QR kodo</string>
      <string name="quarterly_pets_title">Puhasti spremljevalci</string>
      <string name="quotation">\"%s\"</string>
@@ -2629,7 +2629,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="remove_from_album_title">Odstrani iz tega albuma</string>
      <string name="remove_from_current_album">Odstrani iz tega albuma</string>
      <string name="remove_from_favorites_failed">"Ne morem odstraniti iz priljubljenih"</string>
-     <string name="remove_from_other_albums_tip">Premestim ta album iz albuma Ostalo?</string>
+     <string name="remove_from_other_albums_tip">Odstranim ta album iz \"Ostali albumi\"?</string>
      <string name="remove_from_secret_fail">"Ne morem odstraniti iz skritega albuma."</string>
      <string name="remove_from_secret_failed_with_reason">"Ne morem odstraniti iz skritega albuma. %1$s."</string>
      <string name="remove_from_secret_successful">Odstranjeno iz skritega albuma</string>
@@ -2991,8 +2991,8 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="show_cloud_albumlist_summary">Urejajte albume ki jih sinhronizirate z Mi Cloudom</string>
      <string name="show_hidden_album_summary">Pregled in urejanje skritih albumov</string>
      <string name="show_hidden_album_title">Pokaži skrite albume</string>
-     <string name="show_in_other_albums_disable_toast_long_press_menu">Uspešno premeščeno, pojdite na albume Ostalo za pregled</string>
-     <string name="show_in_other_albums_enable_toast_long_press_menu">Uspešno premeščeno, pojdite na Albumi za pregled</string>
+     <string name="show_in_other_albums_disable_toast_long_press_menu">Uspešno odstranjeno. To stvar si lahko zdaj ogledate med \"Albumi\".</string>
+     <string name="show_in_other_albums_enable_toast_long_press_menu">Uspešno premeščeno. To stvar si lahko zdaj ogledate med \"Albumi\".</string>
      <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Premeščeno v smeti</string>
      <string name="show_nearby_photos">Pokaži fotografije in videoposnetke v bližini</string>
      <string name="signature_dialog_clear">Očisti</string>
