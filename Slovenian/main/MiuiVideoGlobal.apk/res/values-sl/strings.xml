@@ -901,9 +901,11 @@ za videoposnetke"</string>
      <string name="local_diversion_close_recommend">Zapri</string>
      <string name="local_diversion_download_more_video">Več videoposnetkov</string>
      <string name="local_diversion_manage_local_video">Upravljajte datoteke</string>
+     <string name="local_diversion_moments_videos">Oglejte si trenutke</string>
      <string name="local_diversion_open_mivideo">"Ogled v Mi Video
 za najboljšo izkušnjo gledanja"</string>
      <string name="local_diversion_recommend_title">Popularno</string>
+     <string name="local_diversion_trending_videos">Oglejte si priljubljene videoposnetke</string>
      <string name="local_diversion_view_more">Ogled</string>
      <string name="local_empty_guide">Videoposnetki, ki jih posnamete, bodo prikazani tukaj</string>
      <string name="local_folder_select_count">Izbrano %s</string>
@@ -1722,6 +1724,7 @@ Izboljša varnost vašega računa."</string>
      <string name="progressbar_title">Preverjanje varnostnih težav…</string>
      <string name="psw_hint">Geslo</string>
      <string name="psw_sign_in">Prijavite se z geslom</string>
+     <string name="publish_time">čas objave：</string>
      <string name="pull_to_refresh_from_bottom_pull_label">Povlecite navzgor za osvežitev…</string>
      <string name="pull_to_refresh_from_bottom_refreshing_label">Samo trenutek…</string>
      <string name="pull_to_refresh_from_bottom_release_label">Spustite za osvežitev…</string>

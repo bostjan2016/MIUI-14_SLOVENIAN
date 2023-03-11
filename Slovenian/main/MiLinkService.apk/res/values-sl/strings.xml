@@ -56,6 +56,7 @@ vaših naprav?"</string>
      <string name="appcirculate_fragment_circulate_device_list_text_searching">Iskanje naprav v bližini…</string>
      <string name="appcirculate_toast_busy">Kaže da druga naprava zdaj prenaša datoteke. Počakajte, da se prenos konča, in poskusite znova.</string>
      <string name="appcirculate_toast_cancel">Preklicano</string>
+     <string name="appcirculate_toast_connected">Začetek predvajanja</string>
      <string name="appcirculate_toast_fail">"Ni bilo mogoče preklopiti na drugo napravo"</string>
      <string name="appcirculate_toast_loading">Preklop na drugo napravo…</string>
      <string name="appcirculate_toast_not_support_device_pad">"Te aplikacije ni mogoče odpreti v tabličnih računalnikih"</string>
@@ -92,8 +93,7 @@ Sign in to your Mi Account in Settings > Mi Account to sync permissions."</strin
      <string name="circulate_card_mirror_device_title_pad">Tablica</string>
      <string name="circulate_card_mirror_device_title_television">TV</string>
      <string name="circulate_card_mirror_help"><u>Združljive naprave</u></string>
-     <string name="circulate_card_mirror_pad_subtitle">"Povlecite \"Zaslon tabličnega računalnika\" na TV
-za zrcaljenje zaslona"</string>
+     <string name="circulate_card_mirror_pad_subtitle">"Povlecite \"Zaslon tabličnega računalnika\" na TV za zrcaljenje zaslona"</string>
      <string name="circulate_card_mirror_pad_title">"Zaslon tablice"</string>
      <string name="circulate_card_mirror_phone_subtitle">"Povlecite \"Zaslon telefona\" na drugo napravo
 za zrcaljenje zaslona"</string>
@@ -131,6 +131,8 @@ za zrcaljenje zaslona tega tabličnega računalnika"</string>
      <string name="circulate_card_sticker_remote_control_volum_reduce">Zmanjšanje glasnosti</string>
      <string name="circulate_card_sticker_selected">Izbrano</string>
      <string name="circulate_common_retry_later">Počakajte minuto ali dve in poskusite znova</string>
+     <string name="circulate_controlphone_button_hint">Pokaži zaslon</string>
+     <string name="circulate_controlphone_title">Urejanje naprave</string>
      <string name="circulate_cta_agree">Strinjam se</string>
      <string name="circulate_cta_app_name">Mi Smart Hub</string>
      <string name="circulate_cta_desc_pad">Dobrodošli v Mi Smart Hub! Ta aplikacija vam omogoča uporabo predvajanja in Mi Smart Play ter prenos multimedijskega predvajanja iz ene naprave v drugo. Ta aplikacija se mora povezati s spletom in za normalno delovanje potrebuje naslednja dovoljenja:</string>
@@ -197,6 +199,14 @@ vaših naprav?"</string>
      <string name="circulate_local_pad_name">Moja tablica</string>
      <string name="circulate_local_phone_name">Moj telefon</string>
      <string name="circulate_public_device_title_format">"%1$s's %2$s"</string>
+     <string name="circulate_ringfind_button_hint_play">Predvajaj zvok</string>
+     <string name="circulate_ringfind_button_hint_stop">Ustavi predvajanje zvoka</string>
+     <string name="circulate_ringfind_error_hint_ringing">Zvok se že predvaja</string>
+     <string name="circulate_ringfind_error_hint_start">"Zvoka ni bilo mogoče predvajati. Poskusite ponovno."</string>
+     <string name="circulate_ringfind_error_hint_stop">"Predvajanja zvoka ni bilo mogoče ustaviti. Poskusite ponovno."</string>
+     <string name="circulate_ringfind_title">Predvajaj zvok</string>
+     <string name="circulate_ringfind_title_stop">Ustavi predvajanje zvoka</string>
+     <string name="circulate_speaker_control_header_title">Nadzor predvajanja zvočnikov</string>
      <string name="circulate_title">Mi Smart Hub</string>
      <string name="circulate_tv_power_alter_text">"Televizor ste nastavili na izklop ali izklop zaslona. Daljinski upravljalniki in televizorji bodo izginili, ko bo televizor izklopljen."</string>
      <string name="circulate_tv_power_alter_title">Pozor</string>
@@ -227,6 +237,8 @@ vaših naprav?"</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
      <string name="device_desc_trust">Zaupanja vredne naprave</string>
+     <string name="device_type_name_pad">Tablica</string>
+     <string name="device_type_name_phone">Telefon</string>
      <string name="dialog_can_not_find_device">"Ne morem najti naprav v bližini"</string>
      <string name="dialog_cancle">Prekliči</string>
      <string name="dialog_connect_fail">"Povezovanje ni uspelo"</string>
@@ -282,6 +294,16 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="expand_button_title">Napredno</string>
      <string name="exposed_dropdown_menu_content_description">Pokaži spustni meni</string>
      <string name="file_read_des">Za prikaz fotografij in drugih datotek na zunanjih monitorjih</string>
+     <string name="find_device_close">Razumem</string>
+     <string name="find_device_notification_content_phone">%1$s išče to napravo z %2$s. Odklenite, da ustavite predvajanje zvoka.</string>
+     <string name="find_device_notification_content_single_phone">Nekdo išče to napravo z %1$s. Odklenite, da ustavite predvajanje zvoka.</string>
+     <string name="find_device_notification_content_single_tablet">Nekdo išče to napravo z %1$s. Odklenite, da ustavite predvajanje zvoka.</string>
+     <string name="find_device_notification_content_tablet">%1$s išče to napravo z %2$s. Odklenite, da ustavite predvajanje zvoka.</string>
+     <string name="find_device_popup_content_phone">%1$s išče to napravo z %2$s.</string>
+     <string name="find_device_popup_content_single_phone">Nekdo išče to napravo z %1$s.</string>
+     <string name="find_device_popup_content_single_tablet">išče to napravo z %1$s.</string>
+     <string name="find_device_popup_content_tablet">%1$s išče to napravo z %2$s.</string>
+     <string name="find_device_title">Predvajanje zvoka v napravi</string>
      <string name="fmt_date">D</string>
      <string name="fmt_date_day">d</string>
      <string name="fmt_date_long_month">MMMM</string>
@@ -356,6 +378,7 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="guide_page_subtitle_2">"Povlecite kartico z zaslonom te naprave na tablico, računalnik ali TV, da zrcalite, kar je na zaslonu vaše naprave."</string>
      <string name="guide_page_subtitle_2_pad">"Povlecite kartico z zaslonom te naprave na tablico, računalnik ali TV, da zrcalite, kar je na zaslonu vaše naprave."</string>
      <string name="guide_page_subtitle_3">"Povlecite aplikacijo v Mi Smart Hub in izberite napravo, na kateri želite nadaljevati svojo trenutno opravilo."</string>
+     <string name="guide_page_subtitle_earphones">"Povlecite slušalke med telefonom, tablico in televizorjem, da hitro preklopite povezavo slušalk z drugo napravo"</string>
      <string name="guide_page_title_0">Dobrodošli v Mi Smart Hub!</string>
      <string name="guide_page_title_0_pad">Dobrodošli v Mi Smart Hub!</string>
      <string name="guide_page_title_1">Predvajanje zvoka</string>
@@ -363,6 +386,7 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="guide_page_title_2">Zrcalni zaslon</string>
      <string name="guide_page_title_2_pad">Zrcalni zaslon</string>
      <string name="guide_page_title_3">Aplikacije</string>
+     <string name="guide_page_title_earphones">Hitri preklop</string>
      <string name="hang_up">Predvajaj ko je ekran izključen</string>
      <string name="hang_up_alert_dialog_content">"Predvajanje se ne bo prekinilo ko se zaslon vašega telefona izključi. Pritisnite tipko za vklop na telefonu da boste ponovno vključili zaslon."</string>
      <string name="hang_up_alert_dialog_neg">Prekliči</string>

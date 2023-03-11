@@ -10345,11 +10345,13 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
      <string name="shoulder_key_sound_text_wind">Motor</string>
      <string name="shoulder_key_switch_status_close">Izključeno</string>
      <string name="shoulder_key_switch_status_open">Vključeno</string>
+     <string name="show_alarm_icon_title">Pokaži ikono alarma</string>
      <string name="show_all_anrs">Pokaži ANR-je v ozadju</string>
      <string name="show_all_anrs_summary">Pokaži dialog \"Aplikacija se ne odziva\" za aplikacije v ozadju</string>
      <string name="show_all_apps">Prikaz vseh podatkov o uporabi naprave</string>
      <string name="show_background_processes">Pokaži predpom. procese</string>
      <string name="show_badge_notifications_short">Značke</string>
+     <string name="show_bt_icon_title">Pokaži ikono Bluetooth</string>
      <string name="show_carrier_under_keyguard_title">Pokaži ime operaterja ko je naprava zaklenjena</string>
      <string name="show_charging_in_non_lockscreen_animation">Pokaži animacijo polnjenja po odklepanju naprave</string>
      <string name="show_charging_in_non_lockscreen_animation_summary">Po odklepu naprave nadaljuj s prikazovanjem animacije polnjenja in jo skrivaj samo za predvajanje videoposnetkov in drugih podobnih prizorov v celozaslonskem načinu</string>
@@ -10374,7 +10376,9 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
      <string name="show_magnifier_when_input">Povečava za besedilo</string>
      <string name="show_mem_info_title">Pokaži podatke o spominu</string>
      <string name="show_menu">Pokaži Meni</string>
+     <string name="show_mute_icon_title">Pokaži ikono Tiho</string>
      <string name="show_network_speed_title">Pokaži hitrost povezave</string>
+     <string name="show_nfc_icon_title">Pokaži ikono NFC</string>
      <string name="show_non_rect_clip">Odpravljanje težav s postopki nepravokotnega izrezovanja</string>
      <string name="show_notification_channel_warnings">Pokaži opozorila kanala za obvestila</string>
      <string name="show_notification_channel_warnings_summary">Na zaslonu se pokaže opozorilo, ko aplikacija objavi obvestilo brez veljavnega kanala</string>

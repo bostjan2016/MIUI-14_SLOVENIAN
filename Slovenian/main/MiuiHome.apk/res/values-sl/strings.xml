@@ -470,6 +470,7 @@
      <string name="gadget_weather_title_14">Vreme</string>
      <string name="gadget_weather_title_24">Vreme</string>
      <string name="garbage_count">Tu je %1$s starih primerkov</string>
+     <string name="global_search">Išči</string>
      <string name="global_search_hint">Vnesite iskani pojem</string>
      <string name="got_it_botton">Razumem</string>
      <string name="group_folder">Nova mapa</string>
@@ -484,8 +485,11 @@
      <string name="home_gesture_content_center">Center za vsebino</string>
      <string name="home_gesture_global_search">Išči</string>
      <string name="home_gesture_no_action">Nič</string>
+     <string name="home_gesture_notification_and_control_center">Plošča obvestil in Center za kontrolo</string>
      <string name="home_gesture_notification_bar">Obvestila</string>
      <string name="home_pull_down_action">Podrsajte dol na zač. zaslonu</string>
+     <string name="home_pull_down_know">Razumem</string>
+     <string name="home_pull_up_content">Iskanje lahko odprete tako, da povlečete navzdol po zač. zaslonu.</string>
      <string name="home_screen">Začetni zaslon</string>
      <string name="home_screen_settings">Zač. zaslon</string>
      <string name="home_slide_up_action">Podrsajte gor na zač. zaslonu</string>
@@ -915,6 +919,7 @@ Izboljšana varnost."</string>
      <string name="resource_canary_leak_tip">spušča!</string>
      <string name="resource_canary_wait_for_heapdump_message">Posnetek kopice dampinga...</string>
      <string name="restore_icon_successful">Uspešno dodano</string>
+     <string name="risk_app_report">Prijavite to aplikacijo</string>
      <string name="russia_preinstall_folder_name">Rusija</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>

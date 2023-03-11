@@ -1045,7 +1045,8 @@ Prosimo, pošljite to kodo tehnikom."</string>
      <string name="ola_trip_content">Izračunajte voznino in pokličite ola</string>
      <string name="ola_trip_content_detail">Izračunajte približno voznino in pokličite ola.</string>
      <string name="opened">Vključeno</string>
-     <string name="pa_accessibility_home_search">Iskanje, dvakrat se dotaknite za začetek</string>
+     <string name="pa_accessibility_home_search">Iskanje,
+dvakrat se dotaknite za začetek</string>
      <string name="pa_accessibility_home_widget_drag">Pomik stvari</string>
      <string name="pa_accessibility_home_widget_drag_move">Premakni v vrstico %1$d, položaj %2$d</string>
      <string name="pa_accessibility_home_widget_drop_workspace">Premaknjeno v vrstico %1$d, položaj %2$d</string>
@@ -1060,16 +1061,28 @@ Prosimo, pošljite to kodo tehnikom."</string>
      <string name="pa_accessibility_picker_back">Nazaj.</string>
      <string name="pa_accessibility_picker_bigBanner_widget_collection">Zbirke pripomočkov</string>
      <string name="pa_accessibility_picker_home_appList_entrance">Oglejte si seznam podprtih pripomočkov</string>
-     <string name="pa_accessibility_picker_home_bigBanner_slected">Izbrano %1$s, vrstica %2$d, številka %3$d. Dvakrat se dotaknite za začetek.</string>
-     <string name="pa_accessibility_picker_home_maml_slected">Izbrano: %1$s. Velikost: %2$s. Dvakrat pritisnite za ogled strani s podrobnostmi. Dvakrat pritisnite in držite za vlečenje.</string>
+     <string name="pa_accessibility_picker_home_bigBanner_slected">"%1$s. 
+Dvakrat tapnite za začetek."</string>
+     <string name="pa_accessibility_picker_home_maml_slected">"%1$s. %2$s. 
+Dvakrat tapnite za ogled strani s podrobnostmi. 
+Dvakrat tapnite in držite za vlečenje."</string>
      <string name="pa_accessibility_picker_home_search">Poišči pripomočke</string>
-     <string name="pa_accessibility_picker_home_smallBanner_slected">Izbrano %1$s, vrstica %2$d, številka %3$d. Dvakrat se dotaknite za začetek.</string>
+     <string name="pa_accessibility_picker_home_smallBanner_slected">"%1$s. 
+Dvakrat tapnite za začetek."</string>
      <string name="pa_accessibility_picker_home_title">Dodaj pripomoček</string>
      <string name="pa_accessibility_picker_home_widget_replace">Izbrano %s. Preklapljanje pripomočkov.</string>
-     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Pripomoček: %s. Dvakrat tapnite gumb pod njim, da ga zamenjate z drugim pripomočkom.</string>
-     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Stanje namestitve: %3$s. Gumb \"Preklopi\" je spodaj. Dvakrat pritisnite za preklop.</string>
-     <string name="pa_accessibility_picker_home_widget_slected">Izbrano %1$s, Velikost: %2$s, Stanje namestitve: %3$s, tapnite dvakrat za podrobnosti, tapnite dvakrat in pridržite za premikanje.</string>
-     <string name="pa_accessibility_picker_home_widget_with_add_slected">Izbrano %1$s, vrstica %2$d, številka %3$d. Dvakrat se dotaknite za ogled podrobnosti.</string>
+     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">"%s. 
+Dvakrat tapnite gumb pod njim, da ga zamenjate z drugim pripomočkom."</string>
+     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">"%s. Stanje namestitve: %3$s. Gumb \"Preklopi\" je spodaj. 
+Dvakrat tapnite za preklop."</string>
+     <string name="pa_accessibility_picker_home_widget_slected">"%1$s, %2$s, Stanje namestitve: %3$s, 
+tapnite dvakrat za podrobnosti, 
+tapnite dvakrat in pridržite za premikanje."</string>
+     <string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, stanje namestitve: %3$s.
+tapnite dvakrat za podrobnosti."</string>
+     <string name="pa_accessibility_picker_home_widget_with_add_slected">"%1$s, vrstica %2$d, številka %3$d. 
+Tapnite dvakrat za podrobnosti."</string>
+     <string name="pa_accessibility_picker_order_list_to_theme">Odpri Teme</string>
      <string name="pa_accessibility_picker_search_cancel">Vrstica za iskanje pripomočkov. Dvakrat se dotaknite za preklic.</string>
      <string name="pa_accessibility_picker_search_clear">Izbriši besedilo</string>
      <string name="pa_accessibility_picker_search_tips">Vrstica za iskanje pripomočkov. Dvakrat se dotaknite za iskanje.</string>
@@ -1091,7 +1104,7 @@ Prosimo, pošljite to kodo tehnikom."</string>
      <string name="pa_accessibility_picker_widget_group_all" formatted="false">Trgovina s pripomočki. Izberite za ogled vseh pripomočkov za %s. Dvakrat se dotaknite za ogled vseh pripomočkov za %s.</string>
      <string name="pa_accessibility_picker_widget_group_item" formatted="false">Trgovina s pripomočki. %s izbrano. Dvakrat se dotaknite, da odprete opis pripomočka. Element vsebuje pripomoček %s.</string>
      <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Dvakrat se dotaknite za urejanje.</string>
-     <string name="pa_accessibility_widget_slected_status">Izbrano: %1$s. Stanje namestitve: %2$s.</string>
+     <string name="pa_accessibility_widget_slected_status">%1$s. Stanje namestitve: %2$s.</string>
      <string name="pa_announce_for_delete_gadget_and_widget">Pripomoček</string>
      <string name="pa_app_label">Meni bližnjic</string>
      <string name="pa_base_hour12_format_en">hh:mm</string>
@@ -1105,7 +1118,7 @@ Prosimo, pošljite to kodo tehnikom."</string>
      <string name="pa_base_yesterday">Včeraj</string>
      <string name="pa_cancel">Prekliči</string>
      <string name="pa_clear">Izbriši</string>
-     <string name="pa_covid_card_title">COVID-19</string>
+     <string name="pa_covid_card_title">Dnevna orodja</string>
      <string name="pa_cta_dialog_all_purpose">Dobrodošli v Meni bližnjic! Ta aplikacija je na enem mestu za delo, življenjski slog in storitve, povezane s potovanjem.</string>
      <string name="pa_cta_dialog_desc_location">Za zagotavljanje predlogov za pot na delo</string>
      <string name="pa_cta_dialog_desc_phone_state">Za identifikacijo vaše naprave na podlagi IMEI</string>
@@ -1182,7 +1195,7 @@ Hitro dostavo lahko spremljate tudi na uradnih spletnih mestih kurirskih služb.
      <string name="pa_express_settings_phone_item_desc_2">SIM %d (ni dodana)</string>
      <string name="pa_express_settings_phone_unbind">Odstrani</string>
      <string name="pa_express_widget_search">Išči</string>
-     <string name="pa_filter_accessibility_filter_item">Izbrano %s. Dvakrat se dotaknite, da filtrirate druge izbire.</string>
+     <string name="pa_filter_accessibility_filter_item">%s. Dvakrat se dotaknite, da filtrirate druge izbire.</string>
      <string name="pa_filter_accessibility_filter_popup_item_selected">Dvakrat tapnite, da izberete %s.</string>
      <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Dvakrat tapnite, da izberete.</string>
      <string name="pa_filter_replace_bt">Uporabi</string>
@@ -1202,7 +1215,8 @@ Hitro dostavo lahko spremljate tudi na uradnih spletnih mestih kurirskih služb.
      <string name="pa_lite_setting_private_auth">Dovoli analizo uporabe aplikacije</string>
      <string name="pa_lite_setting_private_auth_summary">Predlogi aplikacij bodo temeljili na vaših podatkih o uporabi</string>
      <string name="pa_lite_setting_private_policy">Pravila o zasebnosti</string>
-     <string name="pa_lite_setting_service_covid_summry">Informacije in storitve v zvezi s pandemijo</string>
+     <string name="pa_lite_setting_service_covid">Dnevna orodja</string>
+     <string name="pa_lite_setting_service_covid_summry">Funkcije, ki jih uporabljate vsak dan, vse na enem mestu</string>
      <string name="pa_lite_setting_service_express">Hitra dostava</string>
      <string name="pa_lite_setting_service_express_summry">Spremljajte svoje pakete hitre dostave</string>
      <string name="pa_lite_setting_service_management">Upravljajte storitve</string>
@@ -1309,6 +1323,7 @@ Ostanite na vezi!"</string>
      <string name="pa_picker_no_relevant_content">"Nič ne najdem"</string>
      <string name="pa_picker_permission_denied">"Meni aplikacij mora dostopati do stanja namestitve
 za prikaz pripomočkov."</string>
+     <string name="pa_picker_purchase_order">Kupljeno</string>
      <string name="pa_picker_request">Nastavitve</string>
      <string name="pa_picker_retry">Poskusi znova</string>
      <string name="pa_picker_search">Išči</string>
@@ -1327,6 +1342,7 @@ za prikaz pripomočkov."</string>
      <string name="pa_picker_search_result_type_widget">Pripomočki</string>
      <string name="pa_picker_suit_list_activity_title">Paketi za personalizacijo</string>
      <string name="pa_picker_tab_title_category">Kategorije</string>
+     <string name="pa_picker_tab_title_fun">Odkrijte</string>
      <string name="pa_picker_tab_title_recommend">Priporočeno</string>
      <string name="pa_picker_tips_count_limit_forbidden">"V meni aplikacij ni mogoče dodati več pripomočkov. Izbrišite starejše pripomočke, da dodate nove."</string>
      <string name="pa_picker_toast_add_successfully">Dodano</string>
@@ -1363,6 +1379,8 @@ za prikaz pripomočkov."</string>
      <string name="pa_setting_app_usage_auth_dialog_title">Pozor</string>
      <string name="pa_setting_bugreport">Povratne informacije</string>
      <string name="pa_setting_perm_empty">Tu ni ničesar</string>
+     <string name="pa_setting_personalized_recommenddation_swicth_summary">Pridobite priporočila za pripomočke na podlagi vaših zanimanj</string>
+     <string name="pa_setting_personalized_recommenddation_swicth_title">Prilagojena priporočila</string>
      <string name="pa_setting_privacy_auth">Dovoli analizo uporabe aplikacije</string>
      <string name="pa_setting_privacy_auth_summary">"Prejeli boste predloge glede na vaše navade uporabe"</string>
      <string name="pa_setting_privacy_category_perm">Dovoljenja</string>

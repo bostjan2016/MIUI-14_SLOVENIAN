@@ -418,6 +418,7 @@
      <string name="net_booster_overdue_notification">Seja za povečanje hitrosti omrežja bo kmalu končana</string>
      <string name="net_booster_overdue_notification_tip">Seja za povečanje hitrosti omrežja bo kmalu končana. Jo obnovim?</string>
      <string name="net_delay_title">Premor</string>
+     <string name="network_error">Napaka omrežja.</string>
      <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
      <string name="night">Noč</string>
      <string name="no_game">"Ne najdem iger"</string>
@@ -429,8 +430,20 @@
      <string name="open_browser">Odpri v brskalniku</string>
      <string name="open_game">Odpri</string>
      <string name="other">Ostale nastavitve</string>
+     <string name="page_load_failed">"Ne morem odpreti strani"</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
      <string name="pc_activity_title">Optimiziraj baterijo</string>
+     <string name="pc_entered_extreme_mode">Način mirovanja je vklopljen</string>
+     <string name="pc_entered_extreme_mode_summary">"Vaša naprava je prazna in je prešla v način mirovanja. Aplikacije bodo delovale v ozadju in ne bodo pošiljale obvestil."</string>
+     <string name="pc_extreme_exit_and_power_off">Izhod</string>
+     <string name="pc_extreme_mode_bg_toast">"V načinu mirovanja bodo aplikacije delovale v ozadju in ne bodo pošiljale obvestil"</string>
+     <string name="pc_extreme_mode_exit_risk_title">Pozor</string>
+     <string name="pc_extreme_mode_exit_risk_title_summary">Vaša naprava je prazna. Če zapustite način mirovanja, se bo naprava izklopila.</string>
+     <string name="pc_extreme_mode_find_charger">Čim prej napolnite svojo napravo.</string>
+     <string name="pc_extreme_mode_runtime">Način mirovanja je bil vklopljen za %1$s %2$s.</string>
+     <string name="pc_extreme_mode_title">Način mirovanja</string>
+     <string name="pc_going_to_exit_extreme_mode">Izhod iz načina mirovanja</string>
+     <string name="pc_going_to_exit_extreme_mode_summary">Vaša naprava se polni. Način mirovanja je izklopljen.</string>
      <string name="pm">pop.</string>
      <string name="pm_lable_name">O ROOT dostopu</string>
      <string name="power_autorun_apps_empty">Ni aplik. s samod. zagonom</string>
@@ -441,6 +454,7 @@
      <string name="privacy_prompt_traffic_purchase_message">"Vaša telefonska številka in podrobnosti o operaterju bodo šifrirani in poslani na Mi strežnike."</string>
      <string name="release_memory">Očisti odložišče</string>
      <string name="renew_now">Obnovi</string>
+     <string name="retry_action">Poskusi znova</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>
@@ -471,6 +485,7 @@
      <string name="superpower_date">EEE dd.MM</string>
      <string name="superpower_dialog_app_select_content">Aplikacije tretjih oseb porabijo več energije od sistemskih aplikacij. Vseeno dodam?</string>
      <string name="superpower_dialog_app_select_title">Pozor</string>
+     <string name="superpower_dialog_button_ok">V redu</string>
      <string name="superpower_exit_hint">Izklop Ultra varčevanja baterije…</string>
      <string name="superpower_incharging">Polnjenje</string>
      <string name="superpower_progress_battery_last">%s ostalo</string>

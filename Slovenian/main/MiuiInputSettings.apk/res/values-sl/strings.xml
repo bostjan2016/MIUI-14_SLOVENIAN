@@ -34,6 +34,7 @@
      <string name="ai_button_title_global">AI gumb</string>
      <string name="am">dop.</string>
      <string name="app_switch_key">Nedavno</string>
+     <string name="application_label">Nastavitve vnosa</string>
      <string name="auto_disable_screenbuttons_ask">Vprašaj za onemogočanje</string>
      <string name="auto_disable_screenbuttons_auto">Vedno onemogoči</string>
      <string name="auto_disable_screenbuttons_cancel">Prekliči</string>
@@ -201,6 +202,7 @@ Ustvarjene dnevnike si lahko ogledate v Raziskovalcu."</string>
      <string name="keyboard_layout_dialog_switch_hint">Za preklop pritisnite Ctrl + preslednica</string>
      <string name="keyboard_layout_dialog_title">Izberite postavitev tipkovnice</string>
      <string name="keyboard_layout_picker_title">Razporeditev tipkovnic</string>
+     <string name="keyboard_layout_thai">Tajska</string>
      <string name="keyboard_layouts_label">Xiaomi Tipkovnica</string>
      <string name="keyboard_mouse_touch">Tipkovnica, miška in sledilna ploščica</string>
      <string name="keyboard_shortcuts_helper">Bližnjice na tipkovnici</string>
@@ -225,6 +227,7 @@ Ustvarjene dnevnike si lahko ogledate v Raziskovalcu."</string>
      <string name="ks_dialog_conflict">Ta bližnjica se že uporablja za \"%s\"</string>
      <string name="ks_dialog_modify_text">Vnesite kombinacijo tipk za urejanje te bližnjice.</string>
      <string name="ks_dialog_reset_btn">Obnovi</string>
+     <string name="ks_dialog_reset_conflict_text">"Ne morem ponastaviti. Ta kombinacija je že zasedena."</string>
      <string name="ks_dialog_reset_text_app">Privzete nastavitve bližnjic za odpiranje aplikacij bodo obnovljene. Vaše prilagojene bližnjice bodo izbrisane. Vseeno obnovim?</string>
      <string name="ks_dialog_reset_text_system">Obnovim privzete nastavitve sistemskih bližnjic?</string>
      <string name="ks_dialog_title">Odpri %s</string>

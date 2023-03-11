@@ -29,6 +29,14 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
      </plurals>
+     <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s ur</item>
+        <item quantity="one">%s ura</item>
+     </plurals>
+     <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+     </plurals>
      <plurals name="find_applications">
         <item quantity="other">Preišči med %d aplikacijami</item>
         <item quantity="one">Preišči med %d aplikacijo</item>
