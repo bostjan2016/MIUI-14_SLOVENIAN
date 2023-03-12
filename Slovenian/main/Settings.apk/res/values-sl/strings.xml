@@ -10833,6 +10833,7 @@ Za več informacij o tem potrdilu se obrnite na skrbnika.} }"</string>
      <string name="status_bar_carrier_settings_no_sim_card">Ni SIM kartice</string>
      <string name="status_bar_filter_item_description">Če želite konfigurirati obvestila pojdite v Nastavitve &gt; Obvestila &gt; Urejanje obvestil</string>
      <string name="status_bar_filter_item_preview_image">Pregled</string>
+     <string name="status_bar_icons_title">Ikone v vrstici obvestil</string>
      <string name="status_bar_key_position_custom">Zamenjajte položaj tipke</string>
      <string name="status_bar_screen_button_desc">Podrsajte navzdol da skrijete tipke zaslona</string>
      <string name="status_bar_screen_button_force_immersive_desc">Podrsajte navzdol za prikaz tipk zaslona</string>

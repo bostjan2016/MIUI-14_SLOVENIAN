@@ -170,6 +170,7 @@
      <string name="morning">Jutro</string>
      <string name="night">Večer</string>
      <string name="no_apps">Ni aplikacij</string>
+     <string name="no_icons">Brez ikon</string>
      <string name="noon">Poldne</string>
      <string name="pm">pop.</string>
      <string name="reset">Ponastavi</string>
@@ -180,6 +181,7 @@
      <string name="select_app">Izberite aplikacijo</string>
      <string name="select_apps">Izberite aplikacije</string>
      <string name="send">Pošlji</string>
+     <string name="status_bar_icons">Ikone v vrstici obvestil</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
