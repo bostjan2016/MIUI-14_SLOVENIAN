@@ -649,8 +649,9 @@ Preverite SIM kartico."</string>
      <string name="miuix_appcompat_cloud_state_syncing">Sinhr. z Cloudom…</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
-     <string name="miuix_appcompat_deselect_all">Prekliči</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -802,7 +803,7 @@ Sporočilo je nezaželjeno."</string>
      <string name="mx_filter_message_from_stranger">Blokiraj Mi sporočila pred neznanimi številkami</string>
      <string name="mx_filter_message_from_stranger_dialog_desc">"Tudi naprej boste lahko prejemali redna SMS sporočila od neznanih številk. To lahko vključite/izključite kadarkoli v Sporočila &gt; Nastavitve."</string>
      <string name="mx_filter_message_from_stranger_dialog_title">Blokiraj Mi sporočila pred neznanimi številkami</string>
-     <string name="mx_filter_message_from_stranger_summary">"Tudi naprej boste lahko prejemali redna SMS sporočila od neznanih številk"</string>
+     <string name="mx_filter_message_from_stranger_summary">Dovoli Mi sporočila samo od svojih stikov</string>
      <string name="mx_main_purpose">"Mi sporočilo vam omogoča pošiljanje sporočil drugim uporabnikom Mi sporočil preko spleta brez dodatnih stroškov.
 Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam ga bo računal."</string>
      <string name="mx_main_purpose_short">Mi sporočila ponuja MIUI uporabnikom brezplačno pošiljanje in prejemanje sporočil SMS in MMS.</string>
@@ -1011,8 +1012,11 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam ga 
      <string name="pref_title_perm_call">Klicanje</string>
      <string name="pref_title_perm_camera">Uporaba kamere</string>
      <string name="pref_title_perm_location">Lokacija</string>
+     <string name="pref_title_perm_read_audio">Dostop do zvočnih datotek</string>
      <string name="pref_title_perm_read_call_log">Dostop do zgodovine klicev</string>
      <string name="pref_title_perm_read_contacts">Dostop do stikov</string>
+     <string name="pref_title_perm_read_files">Dostop do datotek in dokumentov</string>
+     <string name="pref_title_perm_read_images_video">Dostop do fotografij in videoposnetkov</string>
      <string name="pref_title_perm_read_mms">Branje SMS</string>
      <string name="pref_title_perm_send_mms">Pošiljanje SMS</string>
      <string name="pref_title_perm_storage">Dostop do shrambe</string>

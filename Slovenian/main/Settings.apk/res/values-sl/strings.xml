@@ -4793,7 +4793,7 @@ Ta storitev deluje samo, če je sistemska navigacija nastavljena na gibe."</stri
      <string name="freeform_guide_slide_up_to_close_title">Zapiranje plavajočih oken</string>
      <string name="freeform_guide_to_sidehide_summary">Aplikacijo hitro povlecite na stran zaslona, da jo skrijete</string>
      <string name="freeform_guide_to_sidehide_title">Skrivanje plavajočih oken</string>
-     <string name="freeform_guide_vedio_description">Tap an app on the sidebar to open it in a floating window</string>
+     <string name="freeform_guide_vedio_description">Tapnite aplikacijo v stranski vrstici, da jo odprete v plavajočem oknu</string>
      <string name="freeform_vedio_description">"·Pritisnite in zadržite, nato povlecite dol da odprete obvestilo v plavajočem oknu.
 ·Tapnite \"Plavajoča okna\" v Nedavno za izbiro aplikacij."</string>
      <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Tapnite aplikacijo v stranski vrstici, da jo odprete v plavajočem oknu.

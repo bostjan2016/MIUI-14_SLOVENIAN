@@ -55,7 +55,7 @@
      <string name="arctan">arctan</string>
      <string name="base_rate">Osnovna obrestna mera</string>
      <string name="birthday">Rojstni dan</string>
-     <string name="bmi_error_text">"Ta ITM ni tak kakor bi bilo potrebno. Preverite ali sta vnešeni višina in teža pravilni."</string>
+     <string name="bmi_error_text">Vnesite veljavne parametre</string>
      <string name="bmi_label_information">Informacije</string>
      <string name="bmi_label_normal">Normalno</string>
      <string name="bmi_label_overweight">Pretežek</string>
@@ -288,6 +288,7 @@
      <string name="instruction">Navodila</string>
      <string name="interest_rate_hint">Vnesite obrestno mero</string>
      <string name="investment_invalid_duration">Trajanje naložbe mora biti večje od nič</string>
+     <string name="investment_loan_result">Podrobnosti</string>
      <string name="investment_type_once">Enkrat</string>
      <string name="investment_type_recurring">Ponavljajoče</string>
      <string name="item_page_title_investment">Naložbeni kalkulator</string>
@@ -854,7 +855,7 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
      <string name="unit_data_display_length_fen">Fen</string>
      <string name="unit_data_display_length_fm">Fathom</string>
      <string name="unit_data_display_length_ft">Čevelj</string>
-     <string name="unit_data_display_length_fur">Femara</string>
+     <string name="unit_data_display_length_fur">Furlong</string>
      <string name="unit_data_display_length_gongli">Gongli</string>
      <string name="unit_data_display_length_hao">Hao</string>
      <string name="unit_data_display_length_in">Inč</string>

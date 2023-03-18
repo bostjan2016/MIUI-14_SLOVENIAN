@@ -34,11 +34,11 @@
         <item quantity="one">%s oseba lahko vidi ta album</item>
      </plurals>
      <plurals name="announce_for_drag">
-        <item quantity="other">odstranjevanje stvari %1$d</item>
-        <item quantity="one">odstranitev %1$d stvari</item>
+        <item quantity="other">Vlečenje %1$d stvari</item>
+        <item quantity="one">Vlečenje %1$d stvari</item>
      </plurals>
      <plurals name="announce_for_unread">
-        <item quantity="other">Neprebrano %2$s od %1$s</item>
+        <item quantity="other">%2$s neprebrano od %1$s</item>
      </plurals>
      <plurals name="delete_wallpapers_message">
         <item quantity="other">Izbrišem (%1$d) slik za ozadje?</item>
@@ -84,8 +84,8 @@
         <item quantity="one">Prenos %d preostale datoteke</item>
      </plurals>
      <plurals name="remove_dialog_title_multi_format">
-        <item quantity="other">Odstranim %1$d aplikacij iz zač. zaslona?</item>
-        <item quantity="one">Odstranim %1$d aplikacijo iz zač. zaslona?</item>
+        <item quantity="other">Odstranim %1$d stvari iz zač. zaslona?</item>
+        <item quantity="one">Odstranim %1$d stvar iz zač. zaslona?</item>
      </plurals>
      <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">na strani %1$d, %2$d aplikacij</item>
@@ -93,10 +93,10 @@
      </plurals>
      <plurals name="uninstall_dialog_title_format">
         <item quantity="other">Odstranim \"%1$s\" in %2$d ostalih aplikacij?</item>
-        <item quantity="one">Odstrani \"%s\"</item>
+        <item quantity="one">Odstranim \"%s\"?</item>
      </plurals>
      <plurals name="uninstall_dialog_title_multi_format">
-        <item quantity="other">Odstranim toliko %1$d aplikacij?</item>
+        <item quantity="other">Odstranim %1$d aplikacij?</item>
         <item quantity="one">Odstranim %1$d aplikacijo?</item>
      </plurals>
      <plurals name="uninstall_result_failed">

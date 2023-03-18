@@ -860,6 +860,8 @@ Izboljšana varnost."</string>
      <string name="recent_menu_item_lock">Zakleni</string>
      <string name="recent_menu_item_multi_window">Razdeli</string>
      <string name="recent_menu_item_unlock">Odkleni</string>
+     <string name="recent_menu_item_worldcirculate">Prenos opravil aplikacije</string>
+     <string name="recent_menu_item_worldcirculate_disable">"Opravil aplikacije ni mogoče prenesti med povezanimi napravami"</string>
      <string name="recents_app_info_button_label">Podatki o aplikaciji</string>
      <string name="recents_clear_all_tasks">Očisti vse</string>
      <string name="recents_config_title">Nedavno</string>

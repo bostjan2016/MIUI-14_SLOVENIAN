@@ -85,6 +85,7 @@
      <string name="bottom_right_high_speaker">Test spodnjega desnega visokotonca</string>
      <string name="bottom_right_low_speaker">Test spodnjega desnega nizkotonca</string>
      <string name="bottom_speaker_title">Test spodnjega zvočnika</string>
+     <string name="bottomsheet_action_expand_halfway">Razširi do polovice</string>
      <string name="bt_address">Naslov:</string>
      <string name="bt_name">Ime:</string>
      <string name="button_cancel">Prekliči</string>
@@ -101,6 +102,8 @@
      <string name="cancel">Prekliči</string>
      <string name="cancel_test">TEST PREKLICAN</string>
      <string name="capacitance_test">TEST KAPACITETE</string>
+     <string name="character_counter_content_description">Vnesenih znakov %1$d od %2$d</string>
+     <string name="character_counter_overflowed_content_description">Omejitev znakov je presegla %1$d od %2$d</string>
      <string name="charger_test_end">"
 Konec preizkusa polnilca, izklopite polnilec"</string>
      <string name="checkerboard_test">TEST TABELE</string>
@@ -137,6 +140,8 @@ Preverite, ali je zaslon uspešen, in kliknite ustrezen gumb"</string>
      <string name="cit_OTG_waiting_out_end">Prosimo, izključite USB OTG napravo, konec preskusa</string>
      <string name="cit_Reserse_charge_check_title">Preskus povratnega polnjenja</string>
      <string name="cit_SAR_TEST_TOOL">SAR TEST ZAČETEK</string>
+     <string name="cit_USB3_2GEN1_check_summary">Med preskušanjem je treba vstaviti naprave, ki podpirajo USB3.2 GEN1</string>
+     <string name="cit_USB3_2_check_summary">Med preskušanjem je treba vstaviti naprave, ki podpirajo USB3.2</string>
      <string name="cit_USB3_OTG_error_condition">"Zaznana je bila vstavitev naprave OTG, vendar ni bilo mogoče dobiti podatkov o napravi 
  Test ni uspel"</string>
      <string name="cit_USB3_check_summary">Med testiranjem je treba vstaviti naprave, ki podpirajo USB3.0</string>
@@ -144,16 +149,16 @@ Preverite, ali je zaslon uspešen, in kliknite ustrezen gumb"</string>
      <string name="cit_USB3_error_condition">"Zaznana je bila vstavitev naprave, vendar ni bilo mogoče dobiti podatkov o napravi 
  Test ni uspel"</string>
      <string name="cit_USB3_in_need_plugout">Zaznana je priključena naprava USB, izvlecite jo, da začnete preskus</string>
-     <string name="cit_USB3_in_start_test">Vstavite napravo, ki podpira USB3.0 in začnite s testiranjem</string>
+     <string name="cit_USB3_in_start_test">Vstavite napravo, ki podpira %1$s in začnite s testiranjem</string>
      <string name="cit_USB3_plug_err">Ne preberem pravilne vrednosti, obrnite se na razvijalce, da najdete razlog</string>
-     <string name="cit_USB3_plug_fail">Preskusna naprava ne podpira USB3.0 in test ni uspel</string>
+     <string name="cit_USB3_plug_fail">Preskusna naprava ne podpira %1$s in test ni uspel</string>
      <string name="cit_USB3_plug_out_test_err">"Naprava je bila izvlečena, test ni uspel
 Ne preberem pravilne vrednosti, obrnite se na razvijalce, da najdete razlog"</string>
      <string name="cit_USB3_plug_out_test_fail">"Naprava je bila izvlečena, test ni uspel
-Priporočljivo je, da ponovno preizkusite nadomestno opremo"</string>
+Testna oprema morda ne podpira %1$s, priporočljivo je, da ponovno preizkusite nadomestno opremo"</string>
      <string name="cit_USB3_plug_out_test_pass">Naprava je bila izvlečena, test je uspel</string>
-     <string name="cit_USB3_plug_pass">Test USB3.0 uspel, izvlecite naprave</string>
-     <string name="cit_USB3_plug_re_plugin">"Test USB3.0 končan, ne ponavljajte ga"</string>
+     <string name="cit_USB3_plug_pass">Test %1$s uspel, izvlecite naprave</string>
+     <string name="cit_USB3_plug_re_plugin">"Test %1$s končan, ne ponavljajte ga"</string>
      <string name="cit_abnormal_reboot_summary">Počakajte…Branje podatkov o stabilnosti na tej napravi.</string>
      <string name="cit_abnormal_reboot_title">Podatki o stabilnosti naprave</string>
      <string name="cit_ac_charger_in">AC Polnilec je priključen</string>
@@ -311,6 +316,7 @@ Držite telefon kot da odgovarjate na klic, govorite v mikrofon. Morali bi sliš
      <string name="cit_camera_deleted_failed">Fotografija ni izbrisana</string>
      <string name="cit_camera_fast_check_title">Hitro testiranje kamere</string>
      <string name="cit_camera_flash_adjust">Nastavite bliskavico</string>
+     <string name="cit_camera_hardware_check">Zaznavanje funkcije kamere, povezane s strojno opremo je v teku, počakajte....</string>
      <string name="cit_camera_otp_download_title">Preizkus prenosa OTP kamere</string>
      <string name="cit_camera_rearsub">Poteka preverjanje sekundarne kamere, počakajte…</string>
      <string name="cit_camera_sdcard_error">"Ne morem posneti fotografije. SD kartica je polna."</string>
@@ -1048,6 +1054,7 @@ Obrnite napravo, govorite v zgornji mikrofon, morali bi slišati glas v zvočnik
      <string name="cit_x5_audio_lb_top_to_speaker_title">Testiranje zgornjega mikrofona zvočnika</string>
      <string name="cit_x_tele_camera_check_title">Tele5X camera</string>
      <string name="cit_yellow_torch_on">Vključi svetilko rumene barve</string>
+     <string name="clear_text_end_icon_content_description">Očisti besedilo</string>
      <string name="close_third_color_led">zapri tribarvno led</string>
      <string name="cold_light_title">Hladna luč</string>
      <string name="confirm">Potrdi</string>
@@ -1079,9 +1086,11 @@ Obrnite napravo, govorite v zgornji mikrofon, morali bi slišati glas v zvočnik
      <string name="error_failed_to_get_data">Ne morem dobiti podatkov</string>
      <string name="error_file_not_found">Ne morem najti podatke</string>
      <string name="error_getting_sensor_info">Napaka pri sprejemu informacij o senzorju</string>
+     <string name="error_icon_content_description">Napaka</string>
      <string name="error_initializing_sensor">Napaka ob iniciaciji senzorja: %1$s</string>
      <string name="error_sdcard_access">Ne morem dostopiti do sistema prostora!</string>
      <string name="error_unknown_error">Neznana napaka</string>
+     <string name="exposed_dropdown_menu_content_description">Pokaži spustni meni</string>
      <string name="fail">Ni uspelo</string>
      <string name="failed_to_get_permission">Zaznavanje nadzora v oblaku ni uspelo in nekatere funkcije so se izgubile</string>
      <string name="failed_to_test">TEST NI USPEL</string>
@@ -1136,6 +1145,7 @@ določen položaj"</string>
      <string name="hello_world">Hojla svet!</string>
      <string name="hint">To lahko traja dolgo, počakajte.</string>
      <string name="hwversion_label">HW različica</string>
+     <string name="icon_content_description">Pogovorno okno</string>
      <string name="image_quality_test">TEST KAKOVOSTI SLIKE</string>
      <string name="info">Info</string>
      <string name="init">Zagon</string>
@@ -1165,10 +1175,12 @@ določen položaj"</string>
 1.Dotaknite se gumba za predogled spodaj, da vstopite v vmesnik kamere
 2.Počakajte konec predogleda, samodejna vrnitev."</string>
      <string name="ir_camera_test_title">Ir Kamera Test</string>
+     <string name="item_view_role_description">Zavihek</string>
      <string name="keyboard">KEY</string>
      <string name="keyboard_vibrator_test">Test tipkovnice</string>
      <string name="keyboard_vibrator_test_old">Test tipkovnice in vibracije</string>
      <string name="keys_times">Ključni časi:</string>
+     <string name="label">Oznaka</string>
      <string name="lastTestResult">Rezultat zadnjega testa:</string>
      <string name="last_time_test_result">REZULTAT ZADNJEGA TESTA</string>
      <string name="launcher_d5x_sar_summary">Izhodni podatki vsakega kanala senzorja SAR so prikazani spodaj. Prosimo, obrnite telefon na kalibracijsko napravo Sar, kliknite Začni kalibracijo, pokaži kalibracijo Uspelo in nato pokaži normalno. Upoštevajte, da je dejanje pravočasno, roke pa niso blizu mobilnega telefona.</string>
@@ -1176,6 +1188,20 @@ določen položaj"</string>
      <string name="led_tip_txt">Naslednji elementi bodo naključno vklopljeni. Izberite trenutno stanje lučke</string>
      <string name="magnetic_info_hint">Premikajte napravo v obliki številke 8</string>
      <string name="main_mic_check_record_tip">Snemanje, nekaj povejte v mikrofon na glavnem delu telefona</string>
+     <string name="material_clock_toggle_content_description">Izberite dopoldanski ali popoldanski čas.</string>
+     <string name="material_hour_selection">Izberite uro</string>
+     <string name="material_hour_suffix">%1$s</string>
+     <string name="material_minute_selection">Izberite minute</string>
+     <string name="material_minute_suffix">%1$s min</string>
+     <string name="material_slider_range_end">Konec,</string>
+     <string name="material_slider_range_start">Začetek,</string>
+     <string name="material_timepicker_am">dop.</string>
+     <string name="material_timepicker_clock_mode_description">Preklopite na način ure, da vnesete čas.</string>
+     <string name="material_timepicker_hour">Ura</string>
+     <string name="material_timepicker_minute">Minuta</string>
+     <string name="material_timepicker_pm">pop.</string>
+     <string name="material_timepicker_select_time">Izberite uro</string>
+     <string name="material_timepicker_text_input_mode_description">Preklopite na način za vnašanje besedila, da vnesete čas.</string>
      <string name="mic1_spk_loop">Mic speak Loop</string>
      <string name="mic1test">MIC1</string>
      <string name="mic_check_rm_headset_tip">Najprej odstranite slušalke in posnemite zvok.</string>
@@ -1186,6 +1212,38 @@ določen položaj"</string>
      <string name="motor_calibration">Kalibracija motorja</string>
      <string name="mtb_tool_modem_cdma_manager">CDMA Cap Manager</string>
      <string name="mtb_tool_modem_user_panel">Uporabniška plošča</string>
+     <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
+     <string name="mtrl_chip_close_icon_content_description">Odstranite %1$s</string>
+     <string name="mtrl_exceed_max_badge_number_content_description">Več kot toliko novih obvestil: %1$d</string>
+     <string name="mtrl_picker_a11y_next_month">Spremeni na naslednji mesec</string>
+     <string name="mtrl_picker_a11y_prev_month">Spremeni na prejšnji mesec</string>
+     <string name="mtrl_picker_announce_current_selection">Trenutna izbira: %1$s</string>
+     <string name="mtrl_picker_confirm">V redu</string>
+     <string name="mtrl_picker_date_header_title">Izberite datum</string>
+     <string name="mtrl_picker_date_header_unselected">Izbrani datum</string>
+     <string name="mtrl_picker_day_of_week_column_header">Stolpec dni: %1$s</string>
+     <string name="mtrl_picker_invalid_format">Neveljavna oblika.</string>
+     <string name="mtrl_picker_invalid_format_example">Primer: %1$s</string>
+     <string name="mtrl_picker_invalid_format_use">Uporabite: %1$s</string>
+     <string name="mtrl_picker_invalid_range">Neveljaven razpon.</string>
+     <string name="mtrl_picker_navigate_to_year_description">Pomik na leto %1$s</string>
+     <string name="mtrl_picker_out_of_range">Zunaj razpona: %1$s</string>
+     <string name="mtrl_picker_range_header_only_end_selected">Začetni datum – %1$s</string>
+     <string name="mtrl_picker_range_header_only_start_selected">%1$s – končni datum</string>
+     <string name="mtrl_picker_range_header_title">Izberite obseg</string>
+     <string name="mtrl_picker_range_header_unselected">Začetni datum–končni datum</string>
+     <string name="mtrl_picker_save">Shrani</string>
+     <string name="mtrl_picker_text_input_date_hint">Datum</string>
+     <string name="mtrl_picker_text_input_date_range_end_hint">Končni datum</string>
+     <string name="mtrl_picker_text_input_date_range_start_hint">Začetni datum</string>
+     <string name="mtrl_picker_text_input_day_abbr">d</string>
+     <string name="mtrl_picker_text_input_month_abbr">m</string>
+     <string name="mtrl_picker_text_input_year_abbr">l</string>
+     <string name="mtrl_picker_toggle_to_calendar_input_mode">Preklop na način vnosa v koledar</string>
+     <string name="mtrl_picker_toggle_to_day_selection">Dotik za preklop na izbiro dneva</string>
+     <string name="mtrl_picker_toggle_to_text_input_mode">Preklop na način vnosa besedila</string>
+     <string name="mtrl_picker_toggle_to_year_selection">Dotik za preklop na izbiro leta</string>
+     <string name="mtrl_timepicker_confirm">V redu</string>
      <string name="navigation_drawer_close">Zapri namizje za navigacijo</string>
      <string name="navigation_drawer_open">Odpri namizje za navigacijo</string>
      <string name="next">Naprej</string>
@@ -1199,6 +1257,7 @@ določen položaj"</string>
      <string name="ok">V redu</string>
      <string name="open_third_color_led">Odpri tribarvno led</string>
      <string name="pass">Uspelo</string>
+     <string name="password_toggle_content_description">Pokaži geslo</string>
      <string name="phone_not_been_restarted">Telefon ni bil znova zagnan</string>
      <string name="picture">Slika</string>
      <string name="plugout_and_reverse_plugin">"
@@ -1264,6 +1323,7 @@ Kliknite tipko Push kamere da boste ugotovili ali se je kamera vključila"</stri
      <string name="sample_hint">Izloči %1$s vzorcev za en prst</string>
      <string name="sample_progress_hint">Počakaj na izločitev vzorcev podatkov</string>
      <string name="sar_authentation_test_title">Sar preverjanje pristnosti test</string>
+     <string name="sar_mtk_test_title">Sar Mtk Preizkus pristnosti</string>
      <string name="sar_off">Sar Izklj.</string>
      <string name="sar_on">Sar Vklj.</string>
      <string name="sar_sensor_calibrate">Začni kalibriranje</string>
