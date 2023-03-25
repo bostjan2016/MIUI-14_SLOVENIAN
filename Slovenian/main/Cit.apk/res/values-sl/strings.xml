@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
      <string name="ANT_set_title">nastavi ANT</string>
+     <string name="AudioOnOff">\u0009Zvok Vkl/Izkl</string>
      <string name="DSI_configuration_set">nastavi DSI</string>
      <string name="DSI_setting">DSI</string>
      <string name="DSI_value_get">dobite DSI</string>
@@ -1322,6 +1323,7 @@ Kliknite tipko Push kamere da boste ugotovili ali se je kamera vključila"</stri
      <string name="sample_data">Vzorec podatkov</string>
      <string name="sample_hint">Izloči %1$s vzorcev za en prst</string>
      <string name="sample_progress_hint">Počakaj na izločitev vzorcev podatkov</string>
+     <string name="sar_algo_data_check_description">Sar Algo podatki zbiranje</string>
      <string name="sar_authentation_test_title">Sar preverjanje pristnosti test</string>
      <string name="sar_mtk_test_title">Sar Mtk Preizkus pristnosti</string>
      <string name="sar_off">Sar Izklj.</string>

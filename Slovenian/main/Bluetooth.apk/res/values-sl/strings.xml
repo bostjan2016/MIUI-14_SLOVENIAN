@@ -362,7 +362,8 @@
      <string name="snapdragon_sound_notification_content">Ta naprava podpira Snapdragon Sound™ tehnologijo</string>
      <string name="snapdragon_sound_notification_title">Bluetooth</string>
      <string name="some_app_taking">(%1$s že uporablja to opravilo…)</string>
-     <string name="start_strežnik">Zaženi TCP strežnik</string>
+     <string name="start_server">Zaženi TCP strežnik</string>
+     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="status_canceled">Prenos preklican s strani uporabnika.</string>
      <string name="status_connection_error">Povezava neuspešna.</string>
      <string name="status_file_error">Težava s pomnilnikom.</string>
