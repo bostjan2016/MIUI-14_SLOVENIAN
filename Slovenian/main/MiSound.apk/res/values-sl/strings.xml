@@ -417,6 +417,9 @@
      <string name="now_here">Pa zdaj?</string>
      <string name="original_sound">Predvajaj originalni zvok</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
+     <string name="permission_go_to_settings">Nastavitve</string>
+     <string name="permission_requesr_content">Dovolite tej aplikaciji, da se poveže z napravami v bližini v nastavitvah.</string>
+     <string name="permission_requesr_title">Potrebna so dovoljenja</string>
      <string name="personal_sound">Predvajaj lastni zvok</string>
      <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>

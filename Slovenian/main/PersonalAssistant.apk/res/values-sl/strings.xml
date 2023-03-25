@@ -1276,6 +1276,7 @@ Hitro dostavo lahko spremljate tudi na uradnih spletnih mestih kurirskih služb.
      <string name="pa_picker_detail_bottom_bt_text_upgrade">Posodobite aplikacijo za uporabo njenih pripomočkov</string>
      <string name="pa_picker_detail_bottom_download_app_and_add_widget">Namestite aplikacijo</string>
      <string name="pa_picker_detail_bottom_update_app_and_add_widget">Posodobite aplikacijo</string>
+     <string name="pa_picker_detail_bt_loading">Delam…</string>
      <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Odprite meni aplikacij, da od tam dodate pripomočke.</string>
      <string name="pa_picker_detail_dialog_open_pa_in_setting_title">Uporabi Meni aplikacij</string>
      <string name="pa_picker_detail_download_app_dialog_cancel">Prekliči</string>
@@ -1298,8 +1299,13 @@ Hitro dostavo lahko spremljate tudi na uradnih spletnih mestih kurirskih služb.
      <string name="pa_picker_detail_net_error">Omrežna napaka. Dotaknite se, da poskusite znova.</string>
      <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Delam…</string>
      <string name="pa_picker_detail_small_widget">Pripomočki</string>
+     <string name="pa_picker_detail_state_error_retry">Nekaj ​​je šlo narobe. Poskusite ponovno.</string>
+     <string name="pa_picker_detail_suit_price_already_bought">Kupljeno</string>
+     <string name="pa_picker_detail_suit_price_placeholder">5 Mi kovancev</string>
      <string name="pa_picker_detail_theme_app_cta">Nastavitve</string>
      <string name="pa_picker_detail_theme_app_cta_pre">"Če želite uporabljati ta pripomoček, dovolite, da se teme najprej povežejo s spletom. "</string>
+     <string name="pa_picker_detail_theme_app_need_login">Vpis</string>
+     <string name="pa_picker_detail_theme_app_need_login_pre">"Najprej se prijavite v svoj račun Xiaomi. "</string>
      <string name="pa_picker_detail_vp2_indicator">Izbranih strani %1$d od %2$d</string>
      <string name="pa_picker_detail_wait_wifi_download_maml">Prenešeno bo z uporabo WiFi</string>
      <string name="pa_picker_empty">"Pripomočki niso na voljo v tej različici aplikacije. 

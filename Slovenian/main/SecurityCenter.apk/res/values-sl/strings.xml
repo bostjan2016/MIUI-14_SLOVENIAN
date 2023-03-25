@@ -1818,16 +1818,16 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="exo_controls_playback_speed">Hitrost</string>
      <string name="exo_controls_playback_speed_normal">Normalno</string>
      <string name="exo_controls_previous_description">Prejšnja pesem</string>
-     <string name="exo_controls_repeat_all_description">Ponovi vse</string>
-     <string name="exo_controls_repeat_off_description">Brez ponavljanja</string>
-     <string name="exo_controls_repeat_one_description">Ponovi eno</string>
+     <string name="exo_controls_repeat_all_description">Trenutni način: Ponovi vse. Preklop načina ponavljanja.</string>
+     <string name="exo_controls_repeat_off_description">Trenutni način: Brez ponovitve. Preklop načina ponavljanja</string>
+     <string name="exo_controls_repeat_one_description">Trenutni način: Ponovi eno. Preklop načina ponavljanja</string>
      <string name="exo_controls_rewind_description">Prevrti</string>
      <string name="exo_controls_seek_bar_description">Potek predvajanja</string>
      <string name="exo_controls_settings_description">Nastavitve</string>
      <string name="exo_controls_show">Pokaži kontrolnike predvajalnika</string>
      <string name="exo_controls_shuffle_description">Naključno</string>
-     <string name="exo_controls_shuffle_off_description">Naključno izkl.</string>
-     <string name="exo_controls_shuffle_on_description">Naključno vkl.</string>
+     <string name="exo_controls_shuffle_off_description">Omogoči naključni način</string>
+     <string name="exo_controls_shuffle_on_description">Onemogoči naključni način</string>
      <string name="exo_controls_stop_description">Ustavi</string>
      <string name="exo_controls_vr_description">VR način</string>
      <string name="exo_download_completed">Prenos je končan</string>
@@ -2090,7 +2090,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
  %5$d. Podprte so podatkovne kartice SIM, ki sta jih izdala China Mobile in China Unicom. Podprte so običajne kartice SIM, ki jih izdajajo China Mobile, China Unicom in China Telecom."</string>
      <string name="function_gwsd_title">"Ne dovoli dohodnim klicem da prekinejo podatkovno SIM povezavo"</string>
      <string name="function_oncall_not_close_network">"Ne prekini povezave zaradi klicev"</string>
-     <string name="function_oncall_not_close_network_detail">"O tej storitvi
+     <string name="function_oncall_not_close_network_detail">"O tej storitvi:
 %1$d. Ta storitev vam omogoča, da ostanete na spletu med igralnimi sejami, ne da bi vas prekinili dohodni klici, ko je ta naprava povezana z določenimi omrežji 5G.
 %2$d. Če nobena od vaših kartic SIM ni povezana z omrežjem 5G, bo vaša primarna kartica SIM samodejno zavrnila dohodne klice..
 %3$d. Ta storitev je podprta samo v celinski Kitajski.
@@ -2608,6 +2608,7 @@ vašega igranja"</string>
      <string name="gtb_brightness_adjust">Svetlost</string>
      <string name="gtb_brightness_dialog_right_btn">Obdrži</string>
      <string name="gtb_brightness_dialog_sub_message">*To storitev lahko vklopite in izklopite v nastavitvah.</string>
+     <string name="gtb_casual_guide_toast">Odkrijte še več v igrah</string>
      <string name="gtb_content_switch">Vsebinska priporočila</string>
      <string name="gtb_content_switch_summary">Prejemajte priporočila o vsebini v zvezi z igrami</string>
      <string name="gtb_deep_garbage_cleaning">Izvajanje globinskega čiščenja…</string>
@@ -2893,7 +2894,7 @@ Vaš operater vam lahko računa dodatne stroške če ponovno uporabite mobilno p
      <string name="lockpassword_confirm_your_password_header">Potrdite geslo</string>
      <string name="lockpassword_confirm_your_pattern_header">Potrdite vzorec</string>
      <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">"Ne morem prepoznati prstnega odtisa, poskusite ponovno."</string>
-     <string name="lockpattern_access_need_to_unlock_wrong_pattern">Geslo je nepravilno, poskusite ponovno.</string>
+     <string name="lockpattern_access_need_to_unlock_wrong_pattern">Geslo ni pravilno</string>
      <string name="lockpattern_confirm_button_text">V redu</string>
      <string name="lockpattern_continue_button_text">Naprej</string>
      <string name="lockpattern_need_to_confirm">Ponovno narišite vzorec za potrditev</string>
@@ -3749,6 +3750,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="pc_battery_history_show_imei">IMEI:</string>
      <string name="pc_battery_history_total_consumption_title">Skupna poraba energije</string>
      <string name="pc_battery_history_usetime_title">Aktivno</string>
+     <string name="pc_close_notifi_action">Izključi</string>
      <string name="pc_emergency_call">Klic v sili</string>
      <string name="pc_endurance_calculation">Računam…</string>
      <string name="pc_entered_extreme_mode">Način mirovanja je vklopljen</string>
@@ -6544,6 +6546,7 @@ Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca.
      <string name="vb_video_effects_dolby_headset">" (Samo slušalke)"</string>
      <string name="vb_video_effects_dolby_open">Dolby Atmos vklj.</string>
      <string name="vb_video_effects_dolby_stereo_expansion">Razširjeni stereo</string>
+     <string name="vb_video_effects_dolby_tips">"Izboljšani dialog in razširjeni stereo ne delujeta, ko je vklopljen Poglobljeni zvok"</string>
      <string name="vb_video_effects_immersion_sound">Poglobljen zvok</string>
      <string name="vb_video_effects_immersion_sound_summary">Izkusite potopitev in občutek prostora, ko se podprt zvok predvaja prek slušalk</string>
      <string name="vb_video_effects_liquid_summary">Izboljšajte jasnost dialoga v videoposnetkih</string>
@@ -6569,7 +6572,7 @@ Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca.
      <string name="vb_video_effects_spatial">Sledi gibanju glave</string>
      <string name="vb_video_effects_spatial_summary">"Prilagodi poglobljeni zvok glede na gibanje glave
 *Podprto samo na modelih igralnih slušalk"</string>
-     <string name="vb_video_effects_spatial_summary_new">Izkusite izboljšan občutek za prostor in smer za podprt zvok in video ter prilagodite impresiven zvok glede na gibanje glave</string>
+     <string name="vb_video_effects_spatial_summary_new">Izkusite izboljšan občutek za prostor in smer za podprt zvok pri uporabi slušalk</string>
      <string name="vb_video_effects_srs_premium_sound">Zvok</string>
      <string name="vb_video_super_division">Povečaj</string>
      <string name="vb_video_super_division_desc">"Samodejno povečaj ločljivost, ko je ≤720p.

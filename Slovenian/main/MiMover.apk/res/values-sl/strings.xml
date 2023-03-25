@@ -107,6 +107,7 @@
      <string name="cancel_moving_dialog_message">Želite ustaviti uvoz?</string>
      <string name="cancel_moving_dialog_title">Ustavi uvoz</string>
      <string name="cancel_tranfer">Prekliči</string>
+     <string name="cannot_use_mi_huanji_bacause_of_qqdownloader">"Kaže da je QQ Downloader storitev varnostnega kopiranja vašega sistema. Odstranite ga in znova zaženite napravo, da boste lahko uporabljali Mi Mover."</string>
      <string name="cannot_use_mi_huanji_button">Razumem</string>
      <string name="cannot_use_mi_huanji_summary">Kaže da MIUI trenutno varnostno kopira stvari. Ustavite varnostno kopiranje v teku ali ponovno zaženite vašo napravo, da bi aplikaciji Mi Mover omogočili začetek prenosa.</string>
      <string name="cannot_use_mi_huanji_title">Prenos zdaj ni mogoč</string>
