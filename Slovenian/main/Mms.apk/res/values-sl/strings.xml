@@ -244,7 +244,7 @@ dodana med blokirane"</string>
      <string name="converting_vcard_failed">"Ne morem pretvoriti stik"</string>
      <string name="copy">Kopiraj</string>
      <string name="copy_message_text">Kopiraj besedilo</string>
-     <string name="copy_message_text_success">Kopiraje končano</string>
+     <string name="copy_message_text_success">Kopiranje končano</string>
      <string name="copy_to_sdcard">Shrani priponko</string>
      <string name="copy_to_sdcard_fail">Priponke ni mogoče shraniti</string>
      <string name="copy_to_sdcard_success">Priponka shranjena kot %s</string>
