@@ -271,6 +271,11 @@ Ustvarjene dnevnike si lahko ogledate v Raziskovalcu."</string>
      <string name="long_press_home_key">Dolgo pritisnite gumb Domov</string>
      <string name="long_press_menu_key">Dolgo pritisnite gumb Meni</string>
      <string name="long_press_menu_key_when_lock">Dolgo pritisnite Meni na zaklenjenem zaslonu</string>
+     <string name="long_press_power_guide_know">Razumem</string>
+     <string name="long_press_power_guide_message" formatted="false">"Pritisnite in držite gumb za vklop %s sekund, da prebudite Google pomočnika.
+Če gumb držite %s sekund, boste namesto tega odprli meni za zaustavitev."</string>
+     <string name="long_press_power_guide_settings">Nastavitve</string>
+     <string name="long_press_power_guide_title">Zbudi z gumbom za vklop</string>
      <string name="long_press_power_key">Dolgo pritisnite gumb za vklop</string>
      <string name="long_press_power_key_half_of_second">Pritisnite in držite gumb za vklop 0,5 sek da vklopite Google pomočnika</string>
      <string name="long_press_power_key_half_second">Pritisnite in držite gumb za vklop %ss</string>
@@ -461,6 +466,7 @@ Dvakrat tapnite, da odprete Nedavno."</string>
      <string name="stylus_connect_fail">"Ne morem vzpostaviti povezave. Ponovno pritrdite pisalo."</string>
      <string name="stylus_connect_fail_no_battery">Napolnite svoje pisalo</string>
      <string name="stylus_connect_fail_no_reason">"Ne morem vzpostaviti povezave"</string>
+     <string name="stylus_connect_fail_not_match_tablet">"Pisalo ni združljivo s tablico"</string>
      <string name="stylus_connect_fail_not_open_gps">"Ne morem vzpostaviti povezave. Vklopite lokacijske storitve in poskusite znova."</string>
      <string name="stylus_connecting">Povezovanje…</string>
      <string name="stylus_function_and_action">Funkcije</string>

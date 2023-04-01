@@ -99,7 +99,8 @@ Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivira
      <string name="activate_popup_desc_intl_sim_card">Vaš operater vam lahko zaračuna mednarodno SMS sporočilo uporabljeno za aktiviranje %s.</string>
      <string name="activate_popup_desc_intl_sim_card_msg">Za aktiviranje %2$s vam bo %1$d poslal mednarodni SMS. To sporočilo vam bo zaračunal vaš mobilni operater.</string>
      <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Za aktiviranje \"%2$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>mebnarodni plačljiv SMS&lt;/b>bo poslan. Operater vam bo lahko zaračunal ta sporočila.</string>
-     <string name="activate_popup_desc_mi_account_user_manual">%1$s. <Data>Poglejte v &lt;a href=https://account.xiaomi.com/helpcenter/faq>Mi Račun Pomoč uporabnikom&lt;/a> če imate vprašanja.</Data></string>
+     <string name="activate_popup_desc_mi_account_user_manual">"%1$s
+"<Data>Če imate kakršna koli vprašanja, poglejte &lt;a href=https://account.xiaomi.com/helpcenter/faq>Pomoč uporabnikom za račun Xiaomi&lt;/a>.</Data>"</string>
      <string name="activate_popup_desc_mixed_sim_cards">Vaš operater vam lahko zaračuna 1 domače in 1 mednarodno SMS sporočilo uporabljeno za aktiviranje %s.</string>
      <string name="activate_popup_desc_mixed_sim_cards_msg">Za aktiviranje %3$s vam bo %1$d poslal navadno in %2$d mednarodno SMS sporočilo. Vaš operater vam bo ta sporočila zaračunal.</string>
      <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Za aktiviranje \"%3$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domač plačljiv SMS&lt;/b> in &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>mednarodni plačljiv SMS&lt;/b> bosta poslana. Operater vam bo lahko zaračunal ta sporočila.</string>

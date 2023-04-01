@@ -182,6 +182,10 @@
      <string name="head_set_tip_dialog_title">Uporabi notranji mikrofon</string>
      <string name="icon_content_description">Pogovorno okno</string>
      <string name="invalid_argument">Neveljaven argument</string>
+     <string name="invisible_mode_dialog_message">"Ne morete uporabljati mikrofona, ko ste v načinu brez beleženja zgodovine. Najprej izklopite način brez beleženja zgodovine."</string>
+     <string name="invisible_mode_dialog_negative">Prekliči</string>
+     <string name="invisible_mode_dialog_positive">Izklopi</string>
+     <string name="invisible_mode_dialog_title">"Ste nevidni"</string>
      <string name="invisible_mode_error_tip">Izklopite način brez beleženja zgodovine v nastavitvah, da boste lahko uporabljali mikrofon</string>
      <string name="item_view_role_description">Zavihek</string>
      <string name="keywords_search_call_record">Snemanje klicev;Snemanje klicev;Snemanje klicev;Posnetki klicev</string>

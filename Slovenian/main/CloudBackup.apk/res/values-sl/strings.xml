@@ -60,6 +60,7 @@
      <string name="backup_failed_reason_app_usage_denied">Dodelite potrebna dovoljenja za varnostno kopiranje stvari</string>
      <string name="backup_failed_reason_cloud_space_not_enough">Ni dovolj prostora za shranjevanje v Mi Cloudu. Nadgradite svoj plan ali osvobodite prostor za shranjevanje.</string>
      <string name="backup_failed_reason_disk_space_not_enough">Ni dovolj prostora za shranjevanje. Osvobodite prostor za shranjevanje.</string>
+     <string name="backup_failed_reason_get_installed_apps_denied">V nastavitvah dodelite potrebna dovoljenja za varnostno kopiranje stvari</string>
      <string name="backup_failed_reason_network_error">Počakajte minuto ali dve in poskusite znova.</string>
      <string name="backup_finished_notification_content">Shranjene so aplikacije zač.zaslona, sistemske nastavitve itd.</string>
      <string name="backup_now">Napravi var. kopijo zdaj</string>
@@ -223,6 +224,8 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="dialog_btn_restore_skip">Vrni kasneje</string>
      <string name="dialog_button_agree">Dovoli</string>
      <string name="dialog_button_disagree">"Ne dovoli"</string>
+     <string name="dialog_button_get_installed_apps_agree">Nastavitve</string>
+     <string name="dialog_button_get_installed_apps_disagree">Prekliči</string>
      <string name="dialog_buy_cloud_space">Nadgradnja</string>
      <string name="dialog_cancel_backup_cancel">Prekliči</string>
      <string name="dialog_cancel_backup_confirm">V redu</string>
@@ -231,6 +234,8 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="dialog_cloud_space_not_enough">Ta varnostna kopija zahteva %1$s brezplačnega prostora za shranjevanje v oblaku. Nadgradite načrt skladiščenja, če želite varnostno kopirati stvari.</string>
      <string name="dialog_content_cancel_backup">Če prekličete varnostno kopiranje, bodo že naloženi podatki izgubljeni. Vseeno prekličem?</string>
      <string name="dialog_content_cancel_restore">Podatki, ki so že obnovljeni se ohranijo, če prenehate z vračanjem. Neham vračati?</string>
+     <string name="dialog_get_installed_apps_consent_message">Če želite samodejno varnostno kopirati, tej aplikaciji v nastavitvah dodelite dovoljenje za dostop do seznama aplikacij, nameščenih v vaši napravi, in izberite Vedno dovoli.</string>
+     <string name="dialog_get_installed_apps_consent_title">Zahtevana so dovoljenja</string>
      <string name="dialog_msg_overwrite_backup">Razlika med lokalno in Cloud var. kopijo je velika, nadaljevanje izdelave var. kopije bo pobrisalo obstoječo.</string>
      <string name="dialog_msg_restore_require_wlan">Vračanje var. kopije zahteva WiFi povezavo z omrežjem.</string>
      <string name="dialog_msg_restore_require_wlan_china">Vračanje var. kopij zahteva povezavo z WiFi omrežjem.</string>
@@ -340,6 +345,10 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="loading_user_backup">Nalaganje uporabniških var. kopij…</string>
      <string name="managespace_delete_backup">Izbriši</string>
      <string name="managespace_total_space">Skupni prostor: %s</string>
+     <string name="manual_request_notification_permission_dialog_negative_button">Zapri</string>
+     <string name="manual_request_notification_permission_dialog_positive_button">Nastavitve</string>
+     <string name="manual_request_permissions_dialog_description">"Če ne dodelite dovoljenj za \"%s\", ne boste prejeli pravočasnih obvestil o neuspešnih varnostnih kopijah in drugih pomembnih dejanjih. To dovoljenje lahko podelite v nastavitvah."</string>
+     <string name="manual_request_permissions_dialog_title">Potrebna so dovoljenja</string>
      <string name="menu_item_managespace">Uredi prostor</string>
      <string name="menu_item_sort">Razvrsti po</string>
      <string name="menu_item_sort_name">Ime</string>
@@ -463,6 +472,11 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="remove_unfinished">Odstranjevanje, poskusite ponovno kasneje</string>
      <string name="repeat_recommend_wechat_backup_notification_content">Zdaj lahko varnostno kopirate podatke WeChat. Tapnite za podrobnosti.</string>
      <string name="repeat_recommend_wechat_backup_notification_title">Varnostno kopiraj podatke WeChat</string>
+     <string name="request_notification_permission_dialog_confirm">Razumem</string>
+     <string name="request_permission_post_notification">Za pošiljanje obvestil o varnostnih kopijah v oblaku</string>
+     <string name="request_permission_post_notification_title">Obvestila</string>
+     <string name="request_permissions_dialog_description">Dodelite dovoljenja za pošiljanje obvestil in opomnikov, da boste lahko uživali v vseh storitvah, ki jih ponuja varnostno kopiranje v oblaku.</string>
+     <string name="request_permissions_dialog_title">Potrebna so dovoljenja</string>
      <string name="restore_app_order_finish">Končano</string>
      <string name="restore_app_order_loading">Samo trenutek…</string>
      <string name="restore_app_order_retry">Poskusite ponovno</string>
@@ -545,6 +559,8 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="session_failed_disk_no_space_restore_detail">Za obnovitev stvari je potrebno vsaj %s.</string>
      <string name="session_failed_disk_no_space_title">Premalo notranjega pomnilnika. Počistite prostor za shranjevanje in poskusite znova.</string>
      <string name="session_failed_dist_no_space_btn_text">Počistite prostor za shranjevanje</string>
+     <string name="session_failed_get_installed_apps_denied_detail">Če želite samodejno varnostno kopirati, tej aplikaciji v nastavitvah dodelite dovoljenje za dostop do seznama aplikacij, nameščenih v vaši napravi, in izberite Vedno dovoli.</string>
+     <string name="session_failed_get_installed_apps_denied_title">Potrebna so dovoljenja</string>
      <string name="session_failed_no_server_response_title">"Ni bilo mogoče vzpostaviti povezave s strežnikom."</string>
      <string name="session_failed_override_detail">Lokalno varnostno kopiranje se razlikuje od tistega v Xiaomi Cloud. Če nadaljujete, bo trenutna varnostna kopija prepisala prejšnjo. Prepišem zdaj?</string>
      <string name="session_failed_override_title">Prepisovanje varnostne kopije</string>
