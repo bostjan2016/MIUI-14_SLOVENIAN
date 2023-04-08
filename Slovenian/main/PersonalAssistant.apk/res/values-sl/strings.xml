@@ -1154,7 +1154,7 @@ Tapnite dvakrat za podrobnosti."</string>
      <string name="pa_express_detail_list_empty_text">"Stvari se lahko pojavijo tukaj z zamudo.
 Hitro dostavo lahko spremljate tudi na uradnih spletnih mestih kurirskih služb."</string>
      <string name="pa_express_detail_more">Več</string>
-     <string name="pa_express_detail_order_number_prefix">Številka za sledenje: %s</string>
+     <string name="pa_express_detail_order_number_prefix">Številka naročila: %s</string>
      <string name="pa_express_dialog_sign_message">Označim ta paket kot dostavljen? Po tem se njegovo stanje ne bo več posodabljalo.</string>
      <string name="pa_express_empty_extra">Sledi</string>
      <string name="pa_express_empty_title">Tukaj ni podatkov o dostavi</string>
@@ -1315,6 +1315,13 @@ Ostanite na vezi!"</string>
      <string name="pa_picker_home_request_failed">Napaka omrežja</string>
      <string name="pa_picker_home_search_hint">Išči pripomočke</string>
      <string name="pa_picker_home_title">Dodaj pripomočke</string>
+     <string name="pa_picker_image_text_share">Deli</string>
+     <string name="pa_picker_image_text_share_copy_url">Kopiraj URL</string>
+     <string name="pa_picker_image_text_share_more">Več</string>
+     <string name="pa_picker_image_text_share_wechat_favourite">WeChat priljubljeno</string>
+     <string name="pa_picker_image_text_share_wechat_session">WeChat</string>
+     <string name="pa_picker_image_text_share_wechat_timeline">WeChat trenutki</string>
+     <string name="pa_picker_image_text_share_weibo">Weibo</string>
      <string name="pa_picker_item_retry">"Ne morem naložiti. Poskusite znova."</string>
      <string name="pa_picker_list_app_footer_classic_widget">Android pripomočki</string>
      <string name="pa_picker_list_app_title">Aplikacije s pripomočki</string>
@@ -1327,9 +1334,18 @@ Ostanite na vezi!"</string>
      <string name="pa_picker_loading">Delam…</string>
      <string name="pa_picker_maml_list_activity_title">Dodaj pripomočke</string>
      <string name="pa_picker_no_relevant_content">"Nič ne najdem"</string>
+     <string name="pa_picker_order_go_to_allow_cta">Dovoli</string>
+     <string name="pa_picker_order_go_to_login">Prijava</string>
+     <string name="pa_picker_order_login_xiaomi_account">Če želite uporabljati to storitev se prijavite v svoj račun Xiaomi.</string>
+     <string name="pa_picker_order_theme_app_cta_pre">Dovolite tej aplikaciji povezavo s spletom, da boste lahko uporabljali to storitev.</string>
      <string name="pa_picker_permission_denied">"Meni aplikacij mora dostopati do stanja namestitve
 za prikaz pripomočkov."</string>
      <string name="pa_picker_purchase_order">Kupljeno</string>
+     <string name="pa_picker_recommend_add_limit_toast">"Ne morem dodati več pripomočkov"</string>
+     <string name="pa_picker_recommend_bottom_button_add">Dodaj pripomoček</string>
+     <string name="pa_picker_recommend_bottom_button_download_and_add">Dodaj pripomoček</string>
+     <string name="pa_picker_recommend_download_tip">Ko dodate pripomoček, se povezana aplikacija samodejno prenese</string>
+     <string name="pa_picker_recommend_title">Priporočeno za vas</string>
      <string name="pa_picker_request">Nastavitve</string>
      <string name="pa_picker_retry">Poskusi znova</string>
      <string name="pa_picker_search">Išči</string>
@@ -1350,12 +1366,15 @@ za prikaz pripomočkov."</string>
      <string name="pa_picker_tab_title_category">Kategorije</string>
      <string name="pa_picker_tab_title_fun">Odkrijte</string>
      <string name="pa_picker_tab_title_recommend">Priporočeno</string>
+     <string name="pa_picker_theme_app_version_error">Pojavila se je napaka</string>
      <string name="pa_picker_tips_count_limit_forbidden">"V meni aplikacij ni mogoče dodati več pripomočkov. Izbrišite starejše pripomočke, da dodate nove."</string>
      <string name="pa_picker_toast_add_successfully">Dodano</string>
      <string name="pa_picker_toast_count_limit_forbidden">"Ni mogoče dodati več pripomočkov"</string>
      <string name="pa_picker_toast_count_limit_forbidden_for_type">"Ni mogoče dodati več pripomočkov te vrste"</string>
      <string name="pa_picker_toast_count_limit_warning">Dodano. Ne pozabite, da lahko namestitev preveč pripomočkov na začetni zaslon upočasni vašo napravo.</string>
      <string name="pa_picker_toast_screen_cell_locked">"Postavitev začetnega zaslona je zaklenjena. Pripomočkov ni mogoče dodati."</string>
+     <string name="pa_picker_widget_select_uninstall_description">%1$s, ni nameščeno</string>
+     <string name="pa_picker_widget_select_upgrade_description">%1$s, posodobitev na voljo</string>
      <string name="pa_privacy_text">Zasebnost</string>
      <string name="pa_read_storage_permission_description">Za prikaz ozadja začetnega zaslona kot ozadja aplikacije</string>
      <string name="pa_recommend_add_btn">Začni</string>
@@ -1456,6 +1475,7 @@ za prikaz pripomočkov."</string>
      <string name="pa_vertical_center">Navpična postavitev. Sredinsko poravnano.</string>
      <string name="pa_vertical_left">Navpična postavitev. Levo poravnano.</string>
      <string name="pa_vertical_right">Navpična postavitev. Desno poravnano.</string>
+     <string name="pa_widget_advert_loading_dialog_message">Delam…</string>
      <string name="pa_widget_menu_edit">Uredi</string>
      <string name="pa_widget_menu_remove">Odstrani</string>
      <string name="pa_widget_menu_replace">Zamenjaj</string>

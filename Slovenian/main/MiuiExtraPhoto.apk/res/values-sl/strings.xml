@@ -225,6 +225,9 @@
      <string name="noon">Poldne</string>
      <string name="ok">V redu</string>
      <string name="open">Vklj.</string>
+     <string name="operation_original">Primerjaj</string>
+     <string name="operation_redo">Ponovi</string>
+     <string name="operation_undo">Razveljavi</string>
      <string name="pm">pop.</string>
      <string name="refocus_discard_confirm_message">Shranim spremembe?</string>
      <string name="refocus_discard_negative_btn">Zavrzi</string>

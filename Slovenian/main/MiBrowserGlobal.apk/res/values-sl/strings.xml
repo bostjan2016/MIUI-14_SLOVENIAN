@@ -643,6 +643,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="download_keep_queued_download">Obdrži</string>
      <string name="download_list_no_items_tip">Tu ni ničesar.</string>
      <string name="download_list_open_xl_ok">V redu</string>
+     <string name="download_live_unsupported">"Ni mogoče prenesti prenosov v živo"</string>
      <string name="download_memory_info_avai">" na voljo %s|"</string>
      <string name="download_memory_info_total">" skupno ​%s"</string>
      <string name="download_menu_title_clear_all">Počisti vse</string>
@@ -1200,7 +1201,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="miuishare_title_share">Deli</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Vrstica za iskanje</string>
-     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
@@ -1212,6 +1213,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -1647,6 +1649,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="notification_category_facebook">Facebook</string>
      <string name="notification_category_group_general">Splošno</string>
      <string name="notification_category_media">Predstavnosti</string>
+     <string name="notification_category_stickcard">Hitra orodja</string>
      <string name="notification_download_completed">Uspešno prenešeno</string>
      <string name="notification_download_failed">Prenos ni uspel.</string>
      <string name="notification_wechat_expired_empty">WeChat je že izbrisal te videoposnetke.</string>
@@ -2124,6 +2127,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="readmode_recommend">Pokaži priporočeno</string>
      <string name="readmode_recommend_message">To knjigo ste že prebrali. Izberite drugo</string>
      <string name="readmode_refresh">Osveži</string>
+     <string name="readmode_tips">Vklopi način samo za besedilo</string>
      <string name="readmodelist_bookmarks_to_show">Bralni seznam</string>
      <string name="reboot">Ponovni zagon</string>
      <string name="recent_apk_status_install">NAMEŠČENO</string>
@@ -2216,6 +2220,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="save_to_camera_failed">"Slike ni mogoče shraniti"</string>
      <string name="save_to_camera_success">Shranjeno</string>
      <string name="save_to_private_folder">Dodaj v skrite datoteke</string>
+     <string name="scan_type_empty_folder">Prazna mapa</string>
      <string name="scanner_uninstalled_text">Za nadaljevanje namestite Skener</string>
      <string name="scanner_uninstalled_title">Skener je bil odstranjen</string>
      <string name="scanning_info">Najdeno: TXT (%1$d), EPUB (%2$d), PDF (%3$d)</string>
@@ -2899,6 +2904,7 @@ Velikost posodobitve: %2$s"</string>
      <string name="year_month_day_format">dd. MMM yyyy</string>
      <string name="yes">Da</string>
      <string name="yesterday">Včeraj</string>
+     <string name="youtube_dialog_content">"Zapustili boste Mi brskalnik in odprli YouTube. Nadaljujem?"</string>
      <string name="ytb_added_subscription">Uspešno naročeno</string>
      <string name="ytb_cancel">Prekliči</string>
      <string name="ytb_deleted_subscription">Odjava je uspela</string>

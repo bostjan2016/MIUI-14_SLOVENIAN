@@ -62,6 +62,10 @@
      <string name="effect_3dsurround">Prostorski zvok</string>
      <string name="effect_3dsurround_summary">Izboljšaj globino predvajanja zvoka za slušalke in zvočnike</string>
      <string name="effect_3dsurround_summary_headphone">Izboljšaj globino predvajanja zvoka za slušalke</string>
+     <string name="effect_dolby">Dolby</string>
+     <string name="effect_misound">Nesporazum</string>
+     <string name="effect_none">Nič</string>
+     <string name="effect_selection">Zvočni učinki</string>
      <string name="effect_virtual_surround">Virtualni prostorski zvok</string>
      <string name="effect_virtual_surround_summary">"Obogati globino zvoka za predvajanje zvoka in videa v slušalkah (ta storitev ne bo delovala, ko se predvaja zvok %.1f)"</string>
      <string name="end_wireless_transmission">Ustavi</string>
@@ -178,7 +182,7 @@
      <string name="input_head_set">Nadenite slušalke</string>
      <string name="input_hint_prefix">Vhod v %1$s</string>
      <string name="item_view_role_description">Zavihek</string>
-     <string name="keep_sound">Shrani zvok</string>
+     <string name="keep_sound">Ohrani zvok</string>
      <string name="low_pitch">Nizek ton</string>
      <string name="material_clock_toggle_content_description">Izberite dop. ali pop.</string>
      <string name="material_hour_selection">Izberite uro</string>
@@ -514,6 +518,7 @@
      <string name="sound_transmission_title">Brezžični mikrofon</string>
      <string name="spatial_audio">Poglobljen zvok</string>
      <string name="spatial_audio_summary">Izkusite potopitev in občutek prostora, ko se zvok predvaja prek slušalk</string>
+     <string name="spatial_audio_summary_spk">Izkusite potopitev in občutek prostora med predvajanjem zvoka</string>
      <string name="speaker_scenario_resume">Obnovi izvirne efekte</string>
      <string name="speaker_scenario_selection">Zvok zvočnikov</string>
      <string name="speaker_scenario_selection_another">Original</string>

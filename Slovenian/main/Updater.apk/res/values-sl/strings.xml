@@ -42,6 +42,7 @@
      <string name="download_title_full_download">Pridobivanje informacij…</string>
      <string name="downloading">Prenos:</string>
      <string name="downloading_desc">Poteka prenos, preverite status v področju obvestil.</string>
+     <string name="fastboot_desc">Naprava se bo zdaj znova zagnala v način Fastboot. Če načina ne poznate, prekličite prihodnja dejanja. Nadaljujem?</string>
      <string name="fastboot_mode">Posodabljanje je v načinu Fastboot, rom lahko flešate samo z Terminal na PC!</string>
      <string name="fastboot_update_warning">Ta posodobitev je samo za fastboot namestitev!</string>
      <string name="fetch_notification_default_channel_name">Prenosi</string>
@@ -63,6 +64,7 @@ Podatki ne bodo izbrisani."</string>
      <string name="install_title">Ste prepričani da želite nadaljevati?</string>
      <string name="menu_title_current_version_log">Kaj je novega</string>
      <string name="menu_title_download_current_rom">Prenesi posodobitev</string>
+     <string name="menu_title_fastboot">Ponovni zagon v Fastboot načinu</string>
      <string name="menu_title_fastboot_mode">Posodobi v načinu Fastboot</string>
      <string name="menu_title_pick_rom_file">Izberite paket posodobitve</string>
      <string name="menu_title_recovery">Ponovni zagon v TWRP recovery</string>
@@ -97,7 +99,7 @@ Posodobitve niso na voljo za vas!"</string>
      <string name="pick_not_found">Ne najdem upravitelja datotek.</string>
      <string name="pick_title">Izberi:</string>
      <string name="reboot">Ponovni zagon</string>
-     <string name="recovery_desc">Naprava se bo ponovno zagnala v TWRP. Nadaljujem?</string>
+     <string name="recovery_desc">Naprava se bo zdaj znova zagnala v Recovery načinu. Če načina ne poznate, prekličite prihodnja dejanja. Nadaljujem?</string>
      <string name="recovery_mode">Posodabljanje je v Recovery načinu, lahko flešate ROM v Posodabljanje!</string>
      <string name="server_error">Strežnik ne reagira, aplikacija morda ne bo pravilno delala!</string>
      <string name="share_desc">MIUI verzija je posodobljena na %1$s, poglejte spremembe na %2$s</string>
