@@ -2353,6 +2353,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="skip_current_version">Preskoči to verzijo</string>
      <string name="sku_all">Vse</string>
      <string name="sku_price_everymonth">%1$s vsak mesec</string>
+     <string name="slide_card">Povlecite za več</string>
      <string name="sms_send_success">Uspešno poslano</string>
      <string name="snapshot">Lokalno</string>
      <string name="snapshot_failed">"Strani ni bilo mogoče shraniti"</string>
@@ -2574,6 +2575,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="toast_exit_browser">Znova tapnite za izhod iz brskalnika</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
+     <string name="top_news">Najboljše zgodbe</string>
      <string name="top_up">Dopolni</string>
      <string name="topsite_click">Kliknite TopSite</string>
      <string name="track_permission_name">Ne sledi</string>

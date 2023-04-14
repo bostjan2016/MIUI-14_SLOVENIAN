@@ -159,7 +159,8 @@
      <string name="cta_reminder">Aplikacija beležke potrebuje povezavo s spletom, snemanje zvoka in dostop do vaših stikov za normalno delovanje. Dovolim?</string>
      <string name="cta_v2_agree_desc">Dovoli tej aplikaciji, da se poveže s spletom in ji dodeli potrebna dovoljenja, navedena zgoraj.</string>
      <string name="cta_v2_app_purpose">Izdelava, pregled in urejanje beležk</string>
-     <string name="cta_v2_app_purpose_v12">Dobrodošli v Beležki! S to aplikacijo lahko ustvarite naloge in opombe, ki vsebujejo besedilo, slike in zvok.</string>
+     <string name="cta_v2_app_purpose_v12">Dobrodošli v Beležki! S to aplikacijo lahko ustvarite beležke in naloge, ki vsebujejo besedilo, slike in zvok.</string>
+     <string name="cta_v2_app_purpose_v12_lite">Dobrodošli v Beležki! S to aplikacijo lahko ustvarite beležke in naloge.</string>
      <string name="data_empty_folder">Ni drugih map za prikaz</string>
      <string name="data_empty_note">Ni beležk</string>
      <string name="data_empty_todo">Ni nalog</string>
@@ -380,6 +381,7 @@ Tapnite + da napravite mapo"</string>
      <string name="image_annotation_edit_hint">Opis slike</string>
      <string name="image_annotation_edit_length_warning">Opis slike lahko vsebuje do %d znakov</string>
      <string name="info_note_enter_desktop">Dodano na začetni zaslon</string>
+     <string name="insert_image_size_limit_tip">"Ta slika je večja od %d MB. Samodejno je stisnjena."</string>
      <string name="item_view_role_description">Zavihek</string>
      <string name="last_excerpt_unfinish_hint">Zadnji izvleček je nepopoln</string>
      <string name="loading_text">Nalaganje…</string>
@@ -499,7 +501,7 @@ Tapnite + da napravite mapo"</string>
      <string name="miui_plus_relay_waring_data_not_find">"Stvari, ki si jo ogledujete v drugi napravi, ni bilo mogoče najti. Prepričajte se, da so vse stvari sinhronizirane."</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Vrstica za iskanje</string>
-     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
@@ -509,8 +511,9 @@ Tapnite + da napravite mapo"</string>
      <string name="miuix_appcompat_cloud_state_syncing">Sinhr. z Cloudom…</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
-     <string name="miuix_appcompat_deselect_all">Prekliči</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -1049,6 +1052,7 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
      <string name="warn_cannot_add_new_style">"Nove oblike ni mogoče dodati, ker je beležka predolga"</string>
      <string name="warn_disable_edit_in_browse_mode">"Beležk ne morete urejati v načinu samo za branje"</string>
      <string name="warn_enter_browse_mode">"Ste v načinu samo za branje"</string>
+     <string name="warn_enter_browse_mode_forbid_create">"V načinu samo za branje ni mogoče ustvarjati ali urejati beležk"</string>
      <string name="web_sso_login_fail">Ponovno se prijavite</string>
      <string name="web_sso_login_message">Prijava…</string>
      <string name="webview_reload">Poskusi znova</string>
