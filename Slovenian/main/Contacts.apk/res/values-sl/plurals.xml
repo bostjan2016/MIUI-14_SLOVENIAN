@@ -121,6 +121,10 @@
         <item quantity="other">Skupaj številk: %1$d</item>
         <item quantity="one">%1$d številka</item>
      </plurals>
+     <plurals name="group_sms_error_message">
+        <item quantity="other">"SMS ne sme imeti več kot %d prejemnikov."</item>
+        <item quantity="one">"SMS ne sme imeti več kot %d prejemnika."</item>
+     </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>
