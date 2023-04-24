@@ -287,7 +287,7 @@ Na vašem računalniku lahko začnete novo sejo."</string>
      <string name="nfc_check_the_touch_device">Za povezavo naprav morata biti WiFi in Bluetooth vklopljena tudi na drugi napravi. Preverite, ali je povezava za drugo napravo dovoljena v Nastavitve > Povezava &amp; skupna raba > Povezane naprave in poskusite znova.</string>
      <string name="nfc_check_the_touch_device_china">Za povezavo naprav morata biti WiFi in Bluetooth vklopljena tudi na drugi napravi. Preverite, ali je povezava za drugo napravo dovoljena v Nastavitve > Povezava &amp; skupna raba > Povezane naprave in poskusite znova.</string>
      <string name="nfc_check_wifi_and_bluetooth">Preverite stanje WiFi in Bluetooth</string>
-     <string name="nfc_check_wifi_and_bluetooth_china">Preverite stanje Wi-Fi in Bluetooth</string>
+     <string name="nfc_check_wifi_and_bluetooth_china">Preverite stanje WiFi in Bluetooth</string>
      <string name="nfc_circulation_failed">"Ne morem prenesti"</string>
      <string name="nfc_connect_fail">"Ni bilo mogoče vzpostaviti povezave. Poskusite znova kasneje."</string>
      <string name="nfc_connect_fail_pad">"Ni bilo mogoče vzpostaviti povezave"</string>
