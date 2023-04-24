@@ -488,6 +488,8 @@
      <string name="home_gesture_notification_and_control_center">Plošča obvestil in Center za kontrolo</string>
      <string name="home_gesture_notification_bar">Obvestila</string>
      <string name="home_pull_down_action">Podrsajte dol na zač. zaslonu</string>
+     <string name="home_pull_down_content">Povlecite navzdol po začetnem zaslonu, da poiščete stvari v tej napravi in na spletu.</string>
+     <string name="home_pull_down_content_tips">Nastavitve lahko spremenite v Nastavitve > Začetni zaslon > Povlecite navzdol po začetnem zaslonu. Vaše nastavitve za potezo povlecite navzgor bodo ostale nespremenjene.</string>
      <string name="home_pull_down_know">Razumem</string>
      <string name="home_pull_up_content">Iskanje lahko odprete tako, da povlečete navzdol po zač. zaslonu.</string>
      <string name="home_screen">Začetni zaslon</string>

@@ -67,6 +67,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="ad_tag_text_1">Popularno</string>
      <string name="ad_tag_text_2">Moda</string>
      <string name="add">Dodaj</string>
+     <string name="add_home_icon_success">Dodano</string>
      <string name="add_resource_detail_fail">"Ne morem dodati vira"</string>
      <string name="afternoon">Popoldne</string>
      <string name="all_resources">Vse</string>
@@ -734,7 +735,7 @@ mm"</string>
      <string name="miuishare_weibo_title">Weibo</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Vrstica za iskanje</string>
-     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
@@ -746,6 +747,7 @@ mm"</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -1284,6 +1286,7 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="resource_search_color_hint_red">Rdeča</string>
      <string name="resource_search_color_hint_yellow">Rumena</string>
      <string name="resource_search_history">Zgodovina iskanja</string>
+     <string name="resource_search_hot_tag">Popularno</string>
      <string name="resource_search_list_empty">"Nič nisem našel."</string>
      <string name="resource_see_more">Pokaži več</string>
      <string name="resource_select">Izberi</string>

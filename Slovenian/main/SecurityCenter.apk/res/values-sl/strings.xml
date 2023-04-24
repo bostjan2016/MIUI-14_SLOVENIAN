@@ -506,6 +506,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="app_manager_apps_generation_summary">Posodobite, da lahko uporabljate najnovejša opravila</string>
      <string name="app_manager_appupdate_remind">Obvesti o posodobitvah</string>
      <string name="app_manager_as_dlg_msg">Dovoljenje aplikacijam za samod. zagon lahko zahteva dodatni RAM in vir baterije. Vseeno dovolim?</string>
+     <string name="app_manager_as_dlg_msg_new">"Če aplikaciji dovolite samodejni zagon, se lahko poveča količina pomnilnika in trajanje baterije, ki jo uporablja. MIUI bo optimiziral dovoljenja za samodejni zagon aplikacij, ki jih ne uporabljate pogosto, da bi izboljšal delovanje vaše naprave."</string>
      <string name="app_manager_as_dlg_title">Pozor</string>
      <string name="app_manager_back">Nazaj</string>
      <string name="app_manager_bipartition">Dvojne aplikacije</string>
@@ -847,6 +848,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="auto_import_games">Potavite vse vaše igre na eno mesto</string>
      <string name="auto_send_correcting_msg">Pustite prazno za samodejno preverjanje prek brezplačnih sporočil SMS</string>
      <string name="auto_set_by_brand">Podrobnosti podatkovnega načrta sinhronizirajte s svojim mobilnim operaterjem</string>
+     <string name="auto_start_tips">"MIUI bo optimiziral dovoljenja za samodejni zagon aplikacij, ki jih ne uporabljate pogosto, da izboljša delovanje naprave."</string>
      <string name="auto_task_allow_suggestion">Predlogi pametnih nalog</string>
      <string name="auto_task_available_device">Naprave na voljp</string>
      <string name="auto_task_condition_choose_battery_level_down">Ko baterija doseže določen nivo</string>
@@ -1582,6 +1584,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
      <string name="dialog_btn_delete_icon">Odstrani</string>
      <string name="dialog_btn_no_create_icon">Prekliči</string>
      <string name="dialog_btn_yes_create_icon">Dodaj</string>
+     <string name="dialog_btn_yes_install_icon">Namesti</string>
      <string name="dialog_button_ignore">Prezri</string>
      <string name="dialog_button_yes">Da</string>
      <string name="dialog_change_package_type_summary">Sprememba vrste plana podatkov bo vrnila vse nastavitve uporabe podatkov (npr. omejitev podatkov) na njihove privzete vrednosti. Želite zamenjati vrsto plana podatkov?</string>
@@ -1595,6 +1598,8 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
      <string name="dialog_msg_delete_icon_title">Odstranim to bližnjico na začetnem zaslonu?</string>
      <string name="dialog_msg_delete_icon_title_pad">Odstranim to bližnjico na začetnem zaslonu?</string>
      <string name="dialog_msg_delete_icon_title_phone">Odstranim to bližnjico na začetnem zaslonu?</string>
+     <string name="dialog_msg_install_manager_content">Znova namestim Varnost?</string>
+     <string name="dialog_msg_install_manager_content_pad">Znova namestim Varnost?</string>
      <string name="dialog_msg_stop_paysafety_scan">Ustavim varnostno preverjanje plačila?</string>
      <string name="dialog_msg_stop_virus_scan">Želite ustaviti varnostno preverjanje?</string>
      <string name="dialog_no_longer_alert">"Ne kaži več”</string>
@@ -1740,7 +1745,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="eletric_group_title_two_identification_risk_mms">Prejmi opozorila, ko so kode za preverjanje posredovane</string>
      <string name="eletric_group_title_two_identification_risk_mms_summary">"Ko bodo potrditvene kode iz vaših sporočil posredovane družbenim medijem, boste prejeli opozorilo"</string>
      <string name="eletric_group_title_two_identification_risk_screen">Skrij zasebne aplikacije</string>
-     <string name="eletric_group_title_two_identification_risk_screen_summary">Predvajanje bo začasno ustavljeno, če preklopite na Alipay, WeChat, Galerija ali Sporočila</string>
+     <string name="eletric_group_title_two_identification_risk_screen_summary">"Če odprete aplikacije, ki vsebujejo občutljive osebne podatke (WeChat, Alipay, Galerija itd.), medtem ko delite zaslon svoje naprave, ti podatki ne bodo prikazani. Lahko ročno znova začnete deliti."</string>
      <string name="eletric_group_two_identification_risk_app">Opozori na tvegane finančne transakcije</string>
      <string name="eletric_group_two_identification_risk_mms">Zaščita s potrditveno kodo</string>
      <string name="eletric_identification_unfamiliar_numbers">Prepoznaj neznane številke</string>
@@ -2441,6 +2446,12 @@ lahko izprazni baterijo in povzroči pregrevanje"</string>
      <string name="gb_turbo_time_subtitle">Začnite vaše seje</string>
      <string name="gb_turbo_voice_subtitle">Popestrite svoje pogovore</string>
      <string name="gb_turbo_wonder_subtitle">Posnemite ključne trenutke</string>
+     <string name="gb_vision_enhance">Izboljšani vizualni elementi</string>
+     <string name="gb_vision_enhance_desc">Izboljšajte kakovost slike in zmogljivost</string>
+     <string name="gb_vision_enhance_smart_frame_insertion">Pametna hitrost sličic</string>
+     <string name="gb_vision_enhance_smart_frame_insertion_desc">Samodejno prilagodite hitrost sličic, da bo gibanje bolj gladko</string>
+     <string name="gb_vision_enhance_super_resolution">Super resolucija</string>
+     <string name="gb_vision_enhance_super_resolution_desc">Povečajte ločljivost za ogled drobnejših podrobnosti</string>
      <string name="gb_voice_change_audition_tip">Demo</string>
      <string name="gb_voice_change_settinged">Menjava glasu je vključena</string>
      <string name="gb_voice_changer_cartoon">Risanka</string>
@@ -3168,7 +3179,7 @@ Vaša naprava je zdaj %s hitrejša."</string>
      <string name="miui_optimization_close_title">Ta storitev je namenjena razvijalcem in morda ni primerna za splošne uporabnike. Če izklopite optimizacijo MIUI, lahko spremenite naslednje:</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Vrstica za iskanje</string>
-     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
@@ -3178,8 +3189,9 @@ Vaša naprava je zdaj %s hitrejša."</string>
      <string name="miuix_appcompat_cloud_state_syncing">Sinhronizacija z Cloudom…</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
-     <string name="miuix_appcompat_deselect_all">Prekliči</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -3644,6 +3656,8 @@ To skrajšuje trajanje baterije."</string>
      <string name="operator_number_cmcc">10086</string>
      <string name="operator_number_telcom">10000</string>
      <string name="operator_number_unicom">10010</string>
+     <string name="opt_antivirus_scan_antivirus_notification_summary">Uporaba zlonamernih aplikacij predstavlja varnostna tveganja</string>
+     <string name="opt_antivirus_scan_single_antivirus_notification_title">%s je morda zlonamerna aplikacija</string>
      <string name="optimize_manage_title">Povečaj hitrost</string>
      <string name="optimize_result_ads_close_text">Oglas</string>
      <string name="optimize_result_available_memory_info">Na voljo​ prostora</string>
@@ -3801,11 +3815,14 @@ To skrajšuje trajanje baterije."</string>
      <string name="pc_main_power_manager_hour_minute">%1$sh %2$sm do popolne napolnjenosti</string>
      <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh ostalo</string>
      <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm ostalo</string>
+     <string name="pc_no_more_remind">"Ne opominjaj več"</string>
      <string name="pc_performance_mode_dialog_summary">Vaša naprava bo lahko v načinu zmogljivosti delovala %s. Upoštevajte, da ta način delovanja poveča porabo energije in lahko povzroči pregrevanje.</string>
      <string name="pc_performance_mode_dialog_summary2">Zmogljivost naprave se bo izboljšala. To lahko poveča porabo energije in povzroči težave s pregrevanjem. Vseeno vklopim?</string>
      <string name="pc_performance_mode_dialog_title">Način zmogljivost</string>
      <string name="pc_performance_mode_noti_summary">Način zmogljivost lahko poveča porabo energije in povzroči težave s pregrevanjem</string>
      <string name="pc_performance_mode_noti_title">Izboljšana zmogljivost naprave</string>
+     <string name="pc_remind_close_cover_to_charge_summary">Pred polnjenjem napravo zložite za hitrejšo in stabilnejšo izkušnjo polnjenja.</string>
+     <string name="pc_remind_close_cover_to_charge_title">Zložite za polnjenje</string>
      <string name="pc_search_keywords_battery">Baterija</string>
      <string name="pc_search_keywords_battery_save">Varčevanje baterije</string>
      <string name="pc_search_keywords_battery_use">Uporaba baterije</string>
@@ -3819,6 +3836,8 @@ To skrajšuje trajanje baterije."</string>
      <string name="pc_temperature_too_high">Naprava je pregreta</string>
      <string name="pc_to_phone_install">Blokirana namestitev (%s) preko USB-a</string>
      <string name="pc_wait_device_cools_down">Počakajte, da se naprava ohladi, da lahko uporabite to storitev.</string>
+     <string name="pc_wireless_charge_adjust_position_summary">Postavite ga na brezžični polnilnik</string>
+     <string name="pc_wireless_charge_adjust_position_title">Hitreje napolnite svojo napravo</string>
      <string name="pc_xiaoai_create_auto_task">Nova opravila z Mi AI</string>
      <string name="per_month_pkg_traffic_settings">Nastavi omejitev podatkov</string>
      <string name="percent_formatted_text">%s%%</string>
@@ -5870,6 +5889,7 @@ Z formatiranjem bo izbrisana vsebina ^2. Če želite preprečiti izgubo vsebine,
      <string name="superpower_settins_autoleave_title">Izključi samodejno</string>
      <string name="superpower_settins_other">Dodatne nastavitve</string>
      <string name="superpower_settins_switch_summary">Omejuje največje porabnike energije da so osnovne storitve (npr. klici, SMS in povezovanje na omrežje) na voljo kolikor je mogoče</string>
+     <string name="support_app_name_securitycenter">Varnostna orodja</string>
      <string name="support_game_booster_tips">Pohitritev hitrosti &amp; izboljšanje doživetja igranja</string>
      <string name="sys_app_prot_cracked_confirm">V redu</string>
      <string name="sys_app_prot_cracked_login">Prijavite se z Mi Računom</string>
@@ -6534,6 +6554,16 @@ Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca.
      <string name="vb_ve_settings_ai_stronger">AI</string>
      <string name="vb_ve_settings_display_style_tips">*Ti učinki se uporabijo za cel zaslon</string>
      <string name="vb_ve_settings_display_style_tips_new">*Učinki bodo uporabljeni samo za območje predvajanja videoposnetkov</string>
+     <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*Ta učinek bo uporabljen samo za območje predvajanja videa.
+
+Ta storitev ne deluje z izboljšanimi videoposnetki.
+
+Vklop enega bo izklopil drugega."</string>
+     <string name="vb_ve_settings_display_style_tips_with_conflict_tips">"*Ta učinek bo uporabljen na celotnem zaslonu.
+
+Ta storitev ne deluje z izboljšanimi videoposnetki.
+
+Vklop enega bo izklopil drugega."</string>
      <string name="vb_ve_settings_pic_border_stronger">Izboljšani obrisi</string>
      <string name="vb_ve_settings_picture_stronger">Izboljšane animacije</string>
      <string name="vb_video_effects_3d">Prostorski zvok</string>
@@ -6549,6 +6579,7 @@ Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca.
      <string name="vb_video_effects_dolby_tips">"Izboljšani dialog in razširjeni stereo ne delujeta, ko je vklopljen Poglobljeni zvok"</string>
      <string name="vb_video_effects_immersion_sound">Poglobljen zvok</string>
      <string name="vb_video_effects_immersion_sound_summary">Izkusite potopitev in občutek prostora, ko se podprt zvok predvaja prek slušalk</string>
+     <string name="vb_video_effects_immersion_sound_summary_new">Izkusite potopitev in občutek prostora ob predvajanju podprtega zvoka</string>
      <string name="vb_video_effects_liquid_summary">Izboljšajte jasnost dialoga v videoposnetkih</string>
      <string name="vb_video_effects_only_headphone">Deluje samo s slušalkami</string>
      <string name="vb_video_effects_setting_black_white">Č&amp;B</string>

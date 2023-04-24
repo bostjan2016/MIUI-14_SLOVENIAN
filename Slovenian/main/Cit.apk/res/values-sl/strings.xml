@@ -551,6 +551,7 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
      <string name="cit_pass">Uspešno</string>
      <string name="cit_pencil_reverse_wireless_charger_summary">Za začetek preizkusa svinčnik postavite na desno območje zaznavanja</string>
      <string name="cit_pencil_reverse_wireless_charger_title">Test polnjenja svinčnika</string>
+     <string name="cit_pixeworks_chip_check_title">Preverjanje čipov Pixeworks Iris 7</string>
      <string name="cit_play_sd_mp3_hifi_summary">"Potrdite da obstaja datoteka z imenom \"music.mp3\" shranjena na SD kartici. Datoteka \"music.mp3\" mora biti predvajana skozi pot HIFI naprave pri začetku tega testiranje."</string>
      <string name="cit_play_sd_mp3_hifi_title">Predvajaj MP3(HIFI) shranjen na SD kartici</string>
      <string name="cit_play_sd_mp3_summary">"Potrdite da obstaja datoteka z imenom  \"music.mp3\" shranjena na SD kartici. Datoteka \"music.mp3\" mora biti predvajana preko zunanjih zvočnikov naprave pri začetku tega testiranje."</string>
@@ -1081,6 +1082,7 @@ Obrnite napravo, govorite v zgornji mikrofon, morali bi slišati glas v zvočnik
      <string name="enrol">Vpis</string>
      <string name="enrolCount">VpisŠtevilo</string>
      <string name="enrolQuality">VpisKakovost</string>
+     <string name="enrollment_error_tip">Sproži se strategija nadzora kartice za vnos prstnih odtisov, prosimo, zagotovite, da so prstni odtisi jasni in čisti, ali pa zapustite trenutni element preizkusa in znova zaženite test.</string>
      <string name="error">Napaka</string>
      <string name="error_app_internal">Notranja napaka aplikacije</string>
      <string name="error_app_unsupported">Nepodprt format</string>

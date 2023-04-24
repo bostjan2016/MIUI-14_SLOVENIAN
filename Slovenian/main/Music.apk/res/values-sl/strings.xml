@@ -99,6 +99,8 @@
      <string name="action_item_play_all">Predvajaj vse</string>
      <string name="action_item_play_next">Predvajaj kasneje</string>
      <string name="action_item_play_video">Predvajaj videoposnetek</string>
+     <string name="action_item_podcast">Podrobnosti o podcastu</string>
+     <string name="action_item_podcast_speed">Playback speed</string>
      <string name="action_item_remove">Odstrani</string>
      <string name="action_item_remove_from_favorite">Odstrani priljubljene</string>
      <string name="action_item_send">Pošlji</string>
@@ -735,16 +737,16 @@ To kodo pošljite nadzorniku."</string>
      <string name="exo_controls_playback_speed">Hitrost</string>
      <string name="exo_controls_playback_speed_normal">Normalno</string>
      <string name="exo_controls_previous_description">Prejšnja pesem</string>
-     <string name="exo_controls_repeat_all_description">Ponovi vse</string>
-     <string name="exo_controls_repeat_off_description">Ne ponavljaj</string>
-     <string name="exo_controls_repeat_one_description">Ponovi enkrat</string>
+     <string name="exo_controls_repeat_all_description">Trenutni način: Ponovi vse. Preklop načina ponavljanja</string>
+     <string name="exo_controls_repeat_off_description">Trenutni način: brez ponovitve. Preklop načina ponavljanja</string>
+     <string name="exo_controls_repeat_one_description">Trenutni način: ponovi eno. Preklop načina ponavljanja</string>
      <string name="exo_controls_rewind_description">Prevrti</string>
      <string name="exo_controls_seek_bar_description">Napredek predvajanja</string>
      <string name="exo_controls_settings_description">Nastavitve</string>
      <string name="exo_controls_show">Pokaži kontrolnike predvajalnika</string>
      <string name="exo_controls_shuffle_description">Naključno</string>
-     <string name="exo_controls_shuffle_off_description">Naključno izkl.</string>
-     <string name="exo_controls_shuffle_on_description">Naključno vkl.</string>
+     <string name="exo_controls_shuffle_off_description">Omogoči naključni način</string>
+     <string name="exo_controls_shuffle_on_description">Onemogoči naključni način</string>
      <string name="exo_controls_stop_description">Ustavi</string>
      <string name="exo_controls_vr_description">VR način</string>
      <string name="exo_download_completed">Prenos dokončan</string>
@@ -752,6 +754,9 @@ To kodo pošljite nadzorniku."</string>
      <string name="exo_download_downloading">Prenos</string>
      <string name="exo_download_failed">Preuzimanje ni uspel</string>
      <string name="exo_download_notification_channel_name">Prenosi</string>
+     <string name="exo_download_paused">Prenosi zaustavljeni</string>
+     <string name="exo_download_paused_for_network">Prenosi čakajo na omrežje</string>
+     <string name="exo_download_paused_for_wifi">Prenosi čakajo na WiFi</string>
      <string name="exo_download_removing">Odstrani prenose</string>
      <string name="exo_item_list">%1$s, %2$s</string>
      <string name="exo_media_action_repeat_all_description">Ponovi vse</string>
@@ -1346,6 +1351,8 @@ To kodo pošljite nadzorniku."</string>
      <string name="my_playlist_set_to_public">Nastavite na javno</string>
      <string name="nav_app_bar_navigate_up_description">Pomaknite se navzgor</string>
      <string name="nav_app_bar_open_drawer_description">Odprite navigacijski predal</string>
+     <string name="need_to_close">Pokaži manj</string>
+     <string name="need_to_show">Pokaži več</string>
      <string name="network_disable">"Ne morem se povezati na omrežje"</string>
      <string name="network_error">Nalaganje ni uspelo, ponovno naložite</string>
      <string name="network_error_and_retry">Ne morem se povezati, tapnite za nov poskus</string>
@@ -1994,6 +2001,8 @@ Bodite srečni"</string>
      <string name="share_song">Deli</string>
      <string name="share_text_list">"Seznam pesmi od Mi Glasba: "</string>
      <string name="share_text_song">"Pesem v Mi Glasba: "</string>
+     <string name="shortcut_get">Ogled</string>
+     <string name="shortcut_success">Uspešno ustvarjeno. Oglejte si na začetnem zaslonu.</string>
      <string name="show_float_first_hint">Zmanjšaj player</string>
      <string name="show_more">Pokaži še %s</string>
      <string name="shuffle_music">Naključno predvajanje</string>
@@ -2002,6 +2011,7 @@ Bodite srečni"</string>
      <string name="shuffle_play_toast_text">Naključno predvajanje…</string>
      <string name="similar_albums">Podobni albumi</string>
      <string name="similar_playlists">Podobni seznami pesmi</string>
+     <string name="similar_podcasts">Podobni podcasti</string>
      <string name="similar_songs">Podobne pesmi</string>
      <string name="similar_videos">Podobni videoposnetki</string>
      <string name="skip">Preskoči</string>

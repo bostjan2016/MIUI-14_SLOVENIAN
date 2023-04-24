@@ -280,6 +280,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="aspect_ratio_square">1:1</string>
      <string name="assistant_page_community">Skupnost</string>
      <string name="assistant_page_discovery">Odkrij</string>
+     <string name="assistant_page_image_printing">Tiskanje</string>
      <string name="assistant_page_label">Spomini</string>
      <string name="assistant_page_server_error">Preverite omrežne nastavitve</string>
      <string name="assistant_today_of_year_function_closed_tip">Vključi</string>
@@ -528,7 +529,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="cleaner_screen_shot_action">Izbriši</string>
      <string name="cleaner_screen_shot_description">Izbrišite posnetke zaslona ki jih ne rabite več.</string>
      <string name="cleaner_screen_shot_title">Izbriši posnetke zaslona</string>
-     <string name="cleaner_similar_action">Izbriši zdaj</string>
+     <string name="cleaner_similar_action">Pokaži</string>
      <string name="cleaner_similar_description">Izbriši podvojene fotografije</string>
      <string name="cleaner_similar_title">Podvojene fotografije</string>
      <string name="cleaner_size">Izbriši smeti (%s)</string>
@@ -541,7 +542,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="cleaner_stop_scan">Ustavi skeniranje</string>
      <string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s zasedeno</string>
      <string name="cleaner_title">Čistilec</string>
-     <string name="cleaner_video_action">Izbriši zdaj</string>
+     <string name="cleaner_video_action">Pokaži</string>
      <string name="cleaner_video_description">Izbrišite videoposnetke ki zavzemajo prostor za shranjevanje</string>
      <string name="cleaner_video_pick_delete_selected">Izbriši izbrane videoposnetke</string>
      <string name="cleaner_video_title">Izbriši videoposnetke</string>
@@ -1565,7 +1566,7 @@ za normalno delovanje, tapnite \"Nastavi\", da odprete Dovoljenja."</string>
      <string name="loading_video_fail_sync_without_network">Povežite se na omrežje da boste prevzeli metapodatke</string>
      <string name="loading_video_fail_syncing">Počakajte dokler metapodatki ne bodo popolnoma prevzeti in poskusite ponovno</string>
      <string name="loading_video_thumbnail">Prenašanje naslovnice videoposneteka…</string>
-     <string name="local_secret_tip">Ko je ta storitev vklopljena, se vse zasebne stvari sinhronizirajo z oblakom. Nastavitve lahko spremenite v Nastavitve > Sinhronizacija z oblakom > Urejanje sinhroniziranih albumov > Zasebni album.</string>
+     <string name="local_secret_tip">Vse zasebne stvari lahko hranite v tej napravi, ne da bi jih sinhronizirali z oblakom. Nastavitve lahko spremenite v Nastavitve > Sinhronizacija z oblakom > Upravljanje sinhroniziranih albumov.</string>
      <string name="local_space_full_button_text">Očisti prostor</string>
      <string name="login_and_enable_service">Za uporabo Mi Clouda se prijavite</string>
      <string name="login_by_local_phone_long_text">Prijavite se</string>
@@ -1787,7 +1788,7 @@ za normalno delovanje, tapnite \"Nastavi\", da odprete Dovoljenja."</string>
      <string name="mishop_login_other">Drug račun</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Vrstica za iskanje</string>
-     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
@@ -1799,6 +1800,7 @@ za normalno delovanje, tapnite \"Nastavi\", da odprete Dovoljenja."</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -1956,6 +1958,7 @@ za normalno delovanje, tapnite \"Nastavi\", da odprete Dovoljenja."</string>
      <string name="multi_view_tip_sub_title">Razširite dva prsta enega od drugega ali enega proti drugemu da prilagodite velikost prikaza.</string>
      <string name="multi_view_tip_title">Povečevanje in zmanjševanje</string>
      <string name="must_pick_file">Izberi sliko</string>
+     <string name="my_family">Moj dom</string>
      <string name="name_split">, </string>
      <string name="national_day">Dan državnosti</string>
      <string name="nearby_share">Skupna raba v bližini</string>
@@ -3583,6 +3586,7 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="user_alias_self">Sam</string>
      <string name="user_avatar_update_title">Spremeni fotografijo profila</string>
      <string name="user_avatar_uploading">Delam…</string>
+     <string name="user_family">"%1$s dom"</string>
      <string name="user_name_phone_number">Telefonska številka</string>
      <string name="user_notice_identify_summary_format">"Z uporabo te storitve se strinjate z &amp;lt;a href=\"%1$s\"&amp;gt;\"Pogoji uporabe\"&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;\"Pravila o zasebnosti\"</string>
      <string name="user_notice_title">Pozor</string>

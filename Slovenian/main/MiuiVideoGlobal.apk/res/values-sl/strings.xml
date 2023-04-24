@@ -390,6 +390,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="dialog_video_high">Visoko</string>
      <string name="dialog_video_low">Nizko</string>
      <string name="dialog_video_medium">Srednje</string>
+     <string name="dialog_ytb_content">"Zapustili boste Mi Video in odprli YouTube. Nadaljujem?"</string>
      <string name="disagree">"Ne strinjam se"</string>
      <string name="diy_channels_tips">Zdaj si lahko prilagodite seznam kanalov.</string>
      <string name="do_not_show_again">Ne kaži več</string>

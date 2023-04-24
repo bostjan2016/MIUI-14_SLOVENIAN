@@ -4,13 +4,13 @@
         <item quantity="other">Pred 1 uro</item>
      </plurals>
      <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Pred 1 uro</item>
+        <item quantity="other">Pred %d uro</item>
      </plurals>
      <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>
      <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Čez 1 uro</item>
+        <item quantity="other">Čez %d uro</item>
      </plurals>
      <plurals name="abbrev_in_half_hour">
         <item quantity="other">Čez pol ure</item>
@@ -20,14 +20,14 @@
      </plurals>
      <plurals name="abbrev_in_num_minutes">
         <item quantity="other">Čez %d min</item>
-        <item quantity="one">čez 1 min</item>
+        <item quantity="one">čez %d min</item>
      </plurals>
      <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Pravkar</item>
      </plurals>
      <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">pred %d minut</item>
-        <item quantity="one">pred 1 min</item>
+        <item quantity="one">pred %d min</item>
      </plurals>
      <plurals name="add_game_notification_title">
         <item quantity="other">Dodano iger: %d</item>
@@ -360,6 +360,14 @@
      <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Razumem (%ds)</item>
         <item quantity="one">Razumem (%ds)</item>
+     </plurals>
+     <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"Opomba:
+·Izboljšani vizualni elementi ne bodo na voljo, ko je vklopljeno varčevanje z baterijo ali če je vaša naprava pregreta.
+·Pametno število sličic v sekundi kaže najboljše rezultate, ko je vaša igra nastavljena na prikaz vsaj %d sličic na sekundo."</item>
+        <item quantity="one">"Opomba:
+·Izboljšani vizualni elementi ne bodo na voljo, ko je vklopljeno varčevanje z baterijo ali če je vaša naprava pregreta.
+·Pametno število sličic v sekundi kaže najboljše rezultate, ko je vaša igra nastavljena na prikaz vsaj %d sličico na sekundo."</item>
      </plurals>
      <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Poskusite Voice Changeer takoj 
@@ -702,6 +710,10 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="other">%d aplikacij</item>
         <item quantity="one">%d aplikacija</item>
      </plurals>
+     <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d aplikacij, vključno z %1$s, je morda zlonamernih</item>
+        <item quantity="one">%2$d aplikacija, vključno z %1$s, je morda zlonamernih</item>
+     </plurals>
      <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>
@@ -825,6 +837,10 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
      <plurals name="power_center_battery_minute">
         <item quantity="other">"%d min "</item>
         <item quantity="one">"%d min "</item>
+     </plurals>
+     <plurals name="power_center_battery_optimization">
+        <item quantity="other">Optimizirajte porabo baterije v %d scenarijih</item>
+        <item quantity="one">Optimizirajte porabo baterije v %d scenariju</item>
      </plurals>
      <plurals name="power_center_battery_problem">
         <item quantity="other">Odpravite %d težav porabe baterije</item>
