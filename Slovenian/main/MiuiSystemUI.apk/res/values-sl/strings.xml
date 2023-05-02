@@ -2665,6 +2665,8 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Varčevabje podat. vklj.</string>
      <string name="quick_settings_hotspot_secondary_label_transient">Vklop…</string>
      <string name="quick_settings_ime_label">Način vnosa</string>
+     <string name="quick_settings_intelligent_dual_sim_accelerate_summary">Za povečanje hitrosti povezave uporabite mobilne podatke sekundarne kartice SIM</string>
+     <string name="quick_settings_intelligent_dual_sim_accelerate_title">Pametna dvojna kartica SIM</string>
      <string name="quick_settings_internet_label">Splet</string>
      <string name="quick_settings_inversion_label">Obrni barve</string>
      <string name="quick_settings_location_label">Lokacija</string>
@@ -2673,6 +2675,10 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_media_device_label">Predstavnostna naprava</string>
      <string name="quick_settings_mic_label">Dostop do mikrofona</string>
      <string name="quick_settings_midrop_label">Mi Drop</string>
+     <string name="quick_settings_miui_wifi_detail_empty_text">Na voljo ni nobenega omrežja WiFi</string>
+     <string name="quick_settings_miui_wifi_label">WiFi</string>
+     <string name="quick_settings_miui_wlan_detail_empty_text">Na voljo ni nobenega omrežja WiFi</string>
+     <string name="quick_settings_miui_wlan_label">WiFi</string>
      <string name="quick_settings_more_settings">Več nastavitev</string>
      <string name="quick_settings_more_user_settings">Uporabniške nastavitve</string>
      <string name="quick_settings_mute_label">Utišaj</string>
@@ -2715,8 +2721,12 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_secondary_label_until">Do %s</string>
      <string name="quick_settings_settings_label">Nastavitve</string>
      <string name="quick_settings_sim_disabled">" (Onemogočeno)"</string>
+     <string name="quick_settings_state_saved">Shranjeno</string>
+     <string name="quick_settings_state_wifi_select_nearby_ap">Izberite omrežja WiFi v bližini</string>
+     <string name="quick_settings_state_wlan_select_nearby_ap">Izberite omrežja WiFi v bližini</string>
      <string name="quick_settings_sync_label">Sinhr.</string>
      <string name="quick_settings_tethering_label">Splet prek mobilne naprave</string>
+     <string name="quick_settings_tiles">privzeto</string>
      <string name="quick_settings_tiles_old_mode">celica,wifi,bt,bliskavica,varčevanje baterije,posnetek zaslona,uredi</string>
      <string name="quick_settings_tiles_super_save">celica,wifi,bt,gps,vibriraj</string>
      <string name="quick_settings_time_label">Čas</string>
@@ -2736,6 +2746,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Menjava omrežja</string>
      <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Dvopasovno povečevanje WiFi hitrosti potrebuje dva različna WiFi pasova. Če se povežete z drugim glavnim omrežjem bo pomožna povezava izgubljena.</string>
      <string name="quick_settings_wifi_detail_empty_text">Na voljo ni nobeno omrežje WiFi</string>
+     <string name="quick_settings_wifi_is_off">WiFi izključen</string>
      <string name="quick_settings_wifi_label">WiFi</string>
      <string name="quick_settings_wifi_nearby">Izberite bližje omrežje</string>
      <string name="quick_settings_wifi_no_network">Ni omrežja</string>
@@ -2744,6 +2755,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_wifi_on_label">WiFi je vklopljen.</string>
      <string name="quick_settings_wifi_secondary_label_transient">Vklop…</string>
      <string name="quick_settings_wireless_label">Obrnjeno brezžično polnjenje</string>
+     <string name="quick_settings_wlan_is_off">WiFi izključen</string>
      <string name="quick_settings_work_mode_label">Način za delo</string>
      <string name="quick_step_accessibility_toggle_overview">Vklop/izklop pregleda</string>
      <string name="rapid_charge_mode_tip">Hitro polnjenje</string>

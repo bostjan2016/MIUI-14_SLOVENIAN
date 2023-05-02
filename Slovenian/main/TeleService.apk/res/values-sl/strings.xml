@@ -1536,6 +1536,8 @@ Tega klica ni mogoče dokončati. Poskusite znova, ko se telefon ohladi.
      <string name="incoming_video_show_pref_title">"Pokaži video profil klicatelja"</string>
      <string name="input_password">Vnesite geslo</string>
      <string name="install_other_apps">Namestitev neznanih aplikacij</string>
+     <string name="intelligent_dual_sim_summary">Za povečanje hitrosti povezave uporabite mobilne podatke sekundarne kartice SIM</string>
+     <string name="intelligent_dual_sim_title">Pametna dvojna kartica SIM</string>
      <string name="internation_remain_minutes">(ali %1$s %2$s mednarodnega časa razgovora)</string>
      <string name="international_calls">Samo mednarodni</string>
      <string name="international_dial_complete_intention">Prihranite denar pri mednarodnih klicih.</string>
