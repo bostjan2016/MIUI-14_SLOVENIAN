@@ -2726,7 +2726,6 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_state_wlan_select_nearby_ap">Izberite omrežja WiFi v bližini</string>
      <string name="quick_settings_sync_label">Sinhr.</string>
      <string name="quick_settings_tethering_label">Splet prek mobilne naprave</string>
-     <string name="quick_settings_tiles">privzeto</string>
      <string name="quick_settings_tiles_old_mode">celica,wifi,bt,bliskavica,varčevanje baterije,posnetek zaslona,uredi</string>
      <string name="quick_settings_tiles_super_save">celica,wifi,bt,gps,vibriraj</string>
      <string name="quick_settings_time_label">Čas</string>
