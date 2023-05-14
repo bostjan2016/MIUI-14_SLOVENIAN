@@ -28,8 +28,8 @@
      <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
      <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
      <string name="abc_toolbar_collapse_description">Strni</string>
-     <string name="about_pure_mode">O varnem načinu</string>
-     <string name="about_safe_mode">Več o varnem načinu</string>
+     <string name="about_pure_mode">O Mi zaščita</string>
+     <string name="about_safe_mode">Več o Mi zaščita</string>
      <string name="access_denied_info">Preveč poskusov. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="account_crop_user_avatar">Obreži fotografijo</string>
      <string name="account_empty_user_name">Vnesite uporabniško ime za račun Mi</string>
@@ -82,6 +82,7 @@
      <string name="allPerms">Vse</string>
      <string name="all_permissions">Vsa dovoljenja</string>
      <string name="allow_current_install">Dovoli enkrat</string>
+     <string name="allowed_this_time">Dovoli enkrat</string>
      <string name="am">dop.</string>
      <string name="anonymous_source_continue">Nadaljuj</string>
      <string name="anonymous_source_warning">Vaš telefon in osebni podatki so podvrženi napadom neznanih aplikacij. Z namestitvijo te aplikacije sprejemate odgovornost za poškodovanje telefona ali krajo podatkov do katere lahko pride z njeno uporabo.</string>
@@ -105,6 +106,7 @@
      <string name="app_install_safe_check">Preverite aplikacije pred namestitvijo</string>
      <string name="app_installed_notification_channel_description">Obvestilo o nameščeni aplikaciji</string>
      <string name="app_installing_not_allow">"%1$s niste dovolili namestitve aplikacij. To lahko spremenite v nastavitvah."</string>
+     <string name="app_installing_not_allow_1">"%1$s je blokirana namestitev aplikacije. "</string>
      <string name="app_installing_toast">Počakajte, da se vse potekajoče namestitve dokončajo in poskusite znova</string>
      <string name="app_name">Orodje za namestitev paketa.</string>
      <string name="app_name_unknown">Neznano</string>
@@ -143,11 +145,20 @@
      <string name="btn_text_install_security_version_in_appstore">Zamenjaj z varno verzijo</string>
      <string name="btn_text_scaning">Preverjanje</string>
      <string name="btn_text_security_install">Zamenjaj z varno verzijo</string>
+     <string name="bundle_app_learn_how_to_install">Kako namestiti \"%1$s\"</string>
+     <string name="bundle_app_market_install_background">Namesti</string>
+     <string name="bundle_app_market_install_permissions">Dovoljenja</string>
+     <string name="bundle_app_market_install_privacy">Zasebnost</string>
+     <string name="bundle_app_market_install_title">Namesti \"%1$s\"?</string>
      <string name="bundle_app_on_self_desc_text">Aplikacija, ki ste jo izbrali, je že prenesena. Če želite prenesti tudi \"%1$s\", tapnite tukaj.</string>
      <string name="bundle_app_on_self_desc_text_click">tapnite tukaj.</string>
      <string name="bundle_app_on_self_tips">Ta aplikacija je navedena v GetApps. Lahko prenesete z zaupanjem.</string>
      <string name="bundle_app_on_self_tips_no_store">"Prenesli boste \"%1$s\""</string>
      <string name="bundle_app_on_self_title_text">\"%1$s\" je del prenosa v paketu</string>
+     <string name="bundle_app_sure_name">Potrdite aplikacijo, ki jo želite namestiti</string>
+     <string name="bundle_app_sure_no_market_description">"Aplikacija, ki jo nameravate namestiti, morda ni tista, ki jo iščete. Ta aplikacija je lahko tvegana ali goljufiva. Nadaljujte previdno."</string>
+     <string name="bundle_app_sure_no_market_tip">Tapnite tukaj za nadaljevanje namestitve \"%1$s\"</string>
+     <string name="bundle_app_sure_title">Ta aplikacija morda ni \"%1$s\"</string>
      <string name="bundle_no_store_app_on_self_desc_text">\"%1$s\" je del prenosa v paketu. Če še vedno želite prenesti \"%2$s\", tapnite tukaj.</string>
      <string name="button_text_back">Nazaj</string>
      <string name="caller_app">Zahteva dovoljenje od %1$s</string>
@@ -1017,6 +1028,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="permission_title">Dovoljenja – %1$s</string>
      <string name="permission_warning_template">Dovolim &lt;b&gt;%1$s&lt;/b&gt; da %2$s?</string>
      <string name="permlab_togglePermissions">Vključi dovoljenja</string>
+     <string name="please_input_install_app_name">Vnesite ime aplikacije</string>
      <string name="please_input_phone_password">Vnesite zaklepanje zaslona</string>
      <string name="pm">pop.</string>
      <string name="pref_ads">Priporočila</string>
@@ -1048,10 +1060,10 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="pure_introduction_title3">Varnost plačila</string>
      <string name="pure_introduction_title4">Varovanje zasebnosti</string>
      <string name="pure_introduction_title5">Zaščita pred goljufijami</string>
-     <string name="pure_mode_des">Varni način zagotavlja, da je vsaka aplikacija, nameščena v vaši napravi, prestala varnostne teste Xiaomi.</string>
+     <string name="pure_mode_des">Mi zaščita zagotavlja, da je vsaka aplikacija, nameščena v vaši napravi, prestala varnostne teste Xiaomi.</string>
      <string name="pure_mode_elderly_recommend_title">"Vklopi Mi zaščito"</string>
      <string name="pure_mode_give_up_protect">Ne, hvala</string>
-     <string name="pure_mode_open_toast">Varni način je vklopljen</string>
+     <string name="pure_mode_open_toast">Mi zaščita je vklopljena</string>
      <string name="pure_mode_tip_dialog_des">Dovolite, da dokonča namestitev?</string>
      <string name="pure_mode_tip_dialog_elderly_des">Za zaščito vaše zasebnosti in varnosti Mi zaščita blokira namestitev aplikacij iz neznanih ali tveganih virov.</string>
      <string name="pure_mode_tip_dialog_elderly_set">Če vseeno želite namestiti to aplikacijo, lahko to storite tukaj.</string>
@@ -1062,6 +1074,8 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="reboot_time">Pripravlja se ponovni zagon…(%1$s)</string>
      <string name="replace_app_des_text">Želite zamenjati aplikacijo s to verzijo?</string>
      <string name="report_text">Prijavi</string>
+     <string name="request_network_failed">Prišlo je do napake v omrežju. Tapnite, da poskusite znova.</string>
+     <string name="request_network_please_wait">Delam…</string>
      <string name="resolve_suggestion_title">Predlog</string>
      <string name="review_button_cancel">Prekini</string>
      <string name="review_button_continue">Nadaljuj</string>
@@ -1115,15 +1129,15 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="safe_high_speed_installing">Namestitev varne različice…</string>
      <string name="safe_install">Namesti</string>
      <string name="safe_install_mode_settings_old">Varni način</string>
-     <string name="safe_mode">Varni način</string>
+     <string name="safe_mode">Mi zaščita</string>
      <string name="safe_mode_already_authorize">Dovoljeno</string>
      <string name="safe_mode_authorize_name">Nedavno nameščeno: %1$s</string>
      <string name="safe_mode_authorize_once_install">Dovoli enkrat</string>
      <string name="safe_mode_authorize_once_install_sucess">Dovolili ste namestitev %1$s. Poiščite preneseni namestitveni paket in nadaljujte.</string>
-     <string name="safe_mode_close_tip">Izklop varnega načina</string>
-     <string name="safe_mode_close_tip_des">"Ko izklopite varni način, ne boste mogli izvedeti, ali so aplikacije, ki ste jih namestili, prestali naše varnostne teste. Vseeno izklopim?"</string>
+     <string name="safe_mode_close_tip">Izklop Mi zaščita</string>
+     <string name="safe_mode_close_tip_des">"Ko izklopite Mi zaščita, ne boste mogli izvedeti, ali so aplikacije, ki ste jih namestili, prestali naše varnostne teste. Vseeno izklopim?"</string>
      <string name="safe_mode_close_tip_des_once">"Če to storitev izklopite, bodo aplikacije, ki niso prestale varnostnih testov Xiaomi, lahko nameščene v vaši napravi. Če se želite izogniti varnostnim tveganjem, lahko enkrat dovolite namestitev teh aplikacij, če jim zaupate. Če ohranite vklopljen varni način, se boste v prihodnje izognili varnostnim tveganjem."</string>
-     <string name="safe_mode_in_service">Varen način v storitvi</string>
+     <string name="safe_mode_in_service">Mi zaščita v storitvi</string>
      <string name="safe_mode_introduce_close_tip">Pozor</string>
      <string name="safe_mode_introduce_close_tip_des">Zaradi vaše zasebnosti in varnosti priporočamo, da Mi zaščita ostane vključena.</string>
      <string name="safe_mode_is_open">Vklj.</string>
@@ -1131,9 +1145,9 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="safe_mode_none_networkd_title">Povežite se na omrežje</string>
      <string name="safe_mode_server_error_msg">"Ni bilo mogoče preveriti, ali je ta aplikacija že prestala naše varnostne teste. Počakajte minuto ali dve in poskusite znova."</string>
      <string name="safe_mode_server_error_title">Nekaj je šlo narobe</string>
-     <string name="safe_mode_tip_title_off_msg">Varni način izkl.</string>
-     <string name="safe_mode_tip_title_on_msg">Varni način</string>
-     <string name="safe_mode_title_text">Varni način</string>
+     <string name="safe_mode_tip_title_off_msg">Mi zaščita izkl.</string>
+     <string name="safe_mode_tip_title_on_msg">Mi zaščita</string>
+     <string name="safe_mode_title_text">Mi zaščita</string>
      <string name="safe_relative">Varnost</string>
      <string name="safe_title_once">Naj bo vaša naprava varna</string>
      <string name="safe_title_two">Nevtralizirajte tveganja</string>
@@ -1148,18 +1162,24 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="second_recomment_ad_title">Ljudjem, ki so namestili &lt;font color=#0BAE73>%1$s&lt;/font> je všeč tudi</string>
      <string name="secure_mode_app_install_verify">Dovolite nepreverjene aplikacije</string>
      <string name="secure_mode_authority_verification_type">Način preverjanja</string>
+     <string name="secure_mode_new_function">Nove storitve</string>
+     <string name="secure_mode_new_function_1">Skrij ID naprave in prepreči sledenje</string>
+     <string name="secure_mode_new_function_2">"Shrani podatke o vsaki aplikaciji ločeno"</string>
+     <string name="secure_mode_new_function_3">Prepreči zavajajoče in vsiljene namestitve aplikacij</string>
+     <string name="secure_mode_new_function_4">Prepreči nenameren zagon aplikacij</string>
+     <string name="secure_mode_new_title">Celovita zaščita pred nepregledanimi aplikacijami</string>
      <string name="secure_mode_open_app_verify_des">"Dovolite namestitev za aplikacije, ki jih GetApps ni preveril"</string>
      <string name="secure_mode_security_verify">Varnostno dovoljenje</string>
      <string name="secure_verify_close_tip_des">"Če to storitev izklopite, vaša naprava ne bo izvajala varnostnih pregledov aplikacij in vse aplikacije je mogoče brez pooblastila prenesti. Potrdite svojo identiteto, da boste lahko izklopili to storitev."</string>
      <string name="secure_verify_close_title">Izklop varnostnega preverjanja</string>
      <string name="security_auth">Potrdite svojo identiteto</string>
      <string name="security_auth_msg">Potrdite svojo identiteto</string>
-     <string name="security_mode_close_feedback">Hvala za uporabo varnega načina</string>
+     <string name="security_mode_close_feedback">Hvala za uporabo Mi zaščita</string>
      <string name="security_mode_close_tips_service_list_title">Mi zaščita vam pomaga:</string>
      <string name="security_mode_feedback_commit">Predloži</string>
      <string name="security_mode_feedback_multiple_choice">" (Izberite vse ustrezno)"</string>
-     <string name="security_mode_feedback_reason">Zakaj izklapljate varni način?</string>
-     <string name="security_mode_feedback_reason_annoying">"Dolgočasen je"</string>
+     <string name="security_mode_feedback_reason">Zakaj izklapljate Mi zaščita?</string>
+     <string name="security_mode_feedback_reason_annoying">"Dolgočasna je"</string>
      <string name="security_mode_feedback_reason_input_hint">Povejte nam kaj mislite</string>
      <string name="security_mode_feedback_reason_install">"Ne morem namestiti aplikacij, ko je vklopljen"</string>
      <string name="security_mode_feedback_reason_invalid">"Ni razlik, če je vklopljen ali izklopljen"</string>
@@ -1169,8 +1189,8 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="security_mode_guide_about_security_mode">Več o tem</string>
      <string name="security_mode_guide_about_security_mode_2">Kaj je Mi zaščita?</string>
      <string name="security_mode_guide_do_not_show_again">"Ne kaži več"</string>
-     <string name="security_mode_introduce">Funkcije varnega načina</string>
-     <string name="security_mode_introduce_setting">Nastavitve varnega načina</string>
+     <string name="security_mode_introduce">Storitve Mi zaščita</string>
+     <string name="security_mode_introduce_setting">Nastavitve Mi zaščita</string>
      <string name="security_mode_off_suggestion_msg">Priporočeno</string>
      <string name="security_mode_on_suggestion_msg">Vklj.</string>
      <string name="security_mode_open_guide_elder_action_button">Vklopi</string>
@@ -1179,28 +1199,49 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="security_mode_open_notification_action_button">Podrobnosti</string>
      <string name="security_mode_open_notification_msg">Vaša naprava je zaščitena</string>
      <string name="security_mode_open_notification_title">Mi zaščita je vključena</string>
-     <string name="security_mode_renamed">Varni način je nov</string>
+     <string name="security_mode_renamed">Mi zaščita je nova</string>
      <string name="security_mode_renamed_ok">razumem</string>
      <string name="security_settings_desc">Dovoli da ta aplikacija:</string>
      <string name="send">Pošlji</string>
      <string name="server_error_msg">"Ni bilo mogoče vzpostaviti povezave z omrežjem za izvedbo varnostnega preverjanja"</string>
      <string name="service_mode">Vrsta storitve</string>
      <string name="service_mode_advantage_app_error_install_subtitle">Prejmite obvestilo, ko aplikacije poskušajo namestiti druge aplikacije</string>
+     <string name="service_mode_advantage_app_error_install_tip">"Dajte soglasje
+za namestitev drugih aplikacij"</string>
      <string name="service_mode_advantage_app_error_install_title">Zaščita pred nenamerno namestitvijo</string>
      <string name="service_mode_advantage_app_security_detection_subtitle">Prepozna in prepreči namestitev visoko tveganih ali zlonamernih aplikacij in virusov</string>
+     <string name="service_mode_advantage_app_security_detection_tip">"Vedite, kdaj so aplikacije
+varne"</string>
      <string name="service_mode_advantage_app_security_detection_title">Varnostno preverjanje aplikacije</string>
+     <string name="service_mode_advantage_bottom_tip">Mi zaščita</string>
+     <string name="service_mode_advantage_icon_dark_desc">"Prenesene aplikacije niso vedno varne.&lt;br>Lahko razkrijejo vaše zasebne podatke.&lt;br>Veliko aplikacij se uporablja za goljufije in prevare.&lt;br>&lt;font color=#569a77>Mi zaščita&lt;/font> je tukaj, da reši te težave."</string>
+     <string name="service_mode_advantage_icon_desc">"Prenesene aplikacije niso vedno varne.&lt;br>Lahko razkrijejo vaše zasebne podatke.&lt;br>Veliko aplikacij se uporablja za goljufije in prevare.&lt;br>&lt;font color=#52E0A6>Mi zaščita&lt;/font> je tukaj, da reši te težave."</string>
      <string name="service_mode_advantage_icon_title">Prednosti Mi zaščite</string>
      <string name="service_mode_advantage_pay_protection_subtitle">Ocenjuje varnost plačilnih okolij in prepoznava tveganja</string>
+     <string name="service_mode_advantage_pay_protection_tip">Zaščitite svoje finance</string>
      <string name="service_mode_advantage_pay_protection_title">Zaščita plačila</string>
      <string name="service_mode_advantage_risk_app_download_subtitle">Pri prenosu iz brskalnika prepozna in opozori na tvegane aplikacije</string>
+     <string name="service_mode_advantage_risk_app_download_tip">"\u0009Zaznano tveganje
+med prenosom aplikacije"</string>
      <string name="service_mode_advantage_risk_app_download_title">Prepreči tvegane prenose</string>
+     <string name="service_mode_advantage_risk_app_forbidden_subtitle">"Mi zaščita tveganim aplikacijam privzeto ne dovoljuje namestitve česar koli drugega v vašo napravo."</string>
+     <string name="service_mode_advantage_risk_app_forbidden_tip">"Izognite se
+možnim tveganjem"</string>
+     <string name="service_mode_advantage_risk_app_forbidden_title">"Ne dovolite, da bi tvegane aplikacije namestile karkoli drugega"</string>
      <string name="service_mode_advantage_risk_app_remind_subtitle">Prejmite opozorilo, ko se izvaja tvegana aplikacija</string>
+     <string name="service_mode_advantage_risk_app_remind_tip">"Izvedite o
+nevarni aktivnosti"</string>
      <string name="service_mode_advantage_risk_app_remind_title">Opozorila o tveganjih</string>
+     <string name="service_mode_advantage_risk_app_safe_subtitle">Mi zaščita vas bo obvestila o aplikacijah, ki prihajajo iz nezanesljivih virov.</string>
+     <string name="service_mode_advantage_risk_app_safe_tip">"Izvedite odkod
+izvirajo aplikacije"</string>
+     <string name="service_mode_advantage_risk_app_safe_title">Opozorila o izvoru aplikacije</string>
      <string name="service_mode_advantage_start">Vklopi Mi zaščito</string>
-     <string name="service_mode_advantage_subtitle">Z Mi zaščito lahko z zaupanjem prenesete in uporabljate svoje najljubše aplikacije. Vaša varnost in zasebnost sta naši glavni prioriteti.</string>
+     <string name="service_mode_advantage_subtitle">Kako deluje &lt;font color=#52E0A6>Mi zaščita&lt;/font>&lt;br>?.</string>
      <string name="service_mode_advantage_telecom_fraud_protection_subtitle">Prepozna in prestreže goljufive klice in sporočila ter prepreči goljufive prenose sredstev</string>
+     <string name="service_mode_advantage_telecom_fraud_protection_tip">Izognite se prevaram</string>
      <string name="service_mode_advantage_telecom_fraud_protection_title">Zaščita klicev pred prevarami</string>
-     <string name="service_mode_advantage_title">"Poskrbeli smo za vas"</string>
+     <string name="service_mode_advantage_title">"Uporaba Mi zaščite"</string>
      <string name="service_mode_app_error_install">Zaščita pred nenamerno namestitvijo</string>
      <string name="service_mode_app_error_install_summary">Prejmite obvestilo pri nameščanju aplikacij iz nepreverjenih virov</string>
      <string name="service_mode_app_security_detection">Varnostno preverjanje aplikacije</string>
@@ -1220,6 +1261,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="settings_security_mode_recent_install_app">Pred kratkim nameščeno: %1$s</string>
      <string name="settings_security_mode_service_list_title_off_msg">Vklopite Mi zaščito da boste uživali v naslednjih storitvah:</string>
      <string name="settings_security_mode_service_list_title_on_msg">Varni način ponuja naslednje storitve</string>
+     <string name="settings_security_mode_service_msg_0">Novi ukrepi proti goljufijam in zaščiti zasebnosti</string>
      <string name="settings_security_mode_service_msg_1">Pred namestitvijo preverite aplikacije iz neznanih virov</string>
      <string name="settings_security_mode_service_msg_2">Nadzirajte in omejite škodljivo dejavnost aplikacij</string>
      <string name="settings_security_mode_service_msg_3">Nadzirajte dovoljenja, povezana z zasebnostjo</string>
@@ -1229,16 +1271,17 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="settings_security_mode_service_opening_msg_3">Varnost plačil</string>
      <string name="settings_security_mode_service_opening_msg_4">Varovanje zasebnosti</string>
      <string name="settings_security_mode_service_opening_msg_5">Zaščita pred goljufijami</string>
+     <string name="settings_security_mode_service_title_0">Namestite varne aplikacije</string>
      <string name="settings_security_mode_service_title_1">Zaščita pred tveganimi aplikacijami</string>
      <string name="settings_security_mode_service_title_2">Spremljajte vedenje aplikacij</string>
      <string name="settings_security_mode_service_title_3">Varovanje zasebnosti</string>
      <string name="settings_security_mode_service_title_4">Varnost plačil</string>
      <string name="settings_security_mode_status_off_msg">Izklj.</string>
-     <string name="settings_security_mode_status_on_msg">Varni način je vklopljen</string>
-     <string name="settings_security_mode_title_off_msg">Varni način</string>
-     <string name="settings_warning_dialog_detail">Zahtevano bo v naslednjih primerih:
+     <string name="settings_security_mode_status_on_msg">Mi zaščita je vklopljena</string>
+     <string name="settings_security_mode_title_off_msg">Mi zaščita</string>
+     <string name="settings_warning_dialog_detail">"Zahtevano bo v naslednjih primerih:
  <li>Ko aplikacija vsebuje viruse.</li>
- <li>Namestitveni paket izvira iz neznanega vira.</li></string>
+ <li>Namestitveni paket izvira iz neznanega vira.</li>"</string>
      <string name="settings_warning_dialog_msg">"Vaš telefon je podvržen varnostnim tveganjem. Če izključite to storitev se od vas ne bo zahtevalo da namestite varne verzije aplikacije. Vseeno izključim?"</string>
      <string name="settings_warning_dialog_msg_tablet">"Vaša naprava je podvržena varnostnim tveganjem. Če izključite to storitev se od vas ne bo zahtevalo da namestite varne verzije aplikacije. Vseeno izključim?"</string>
      <string name="settings_warning_dialog_title">Pozor</string>
@@ -1325,11 +1368,11 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="virus_install_confirm_install">Namesti</string>
      <string name="virus_install_confirm_msg">"Aplikacija, ki jo nameravate namestiti, vsebuje viruse, ki lahko vaše osebne podatke ogrozijo ali uveljavijo zlonamerne odbitke."</string>
      <string name="virus_install_confirm_title">Potrdi namestitev</string>
-     <string name="virus_safe_install_mode_security_tips">Če zaupate tej aplikaciji, lahko dovolite njeno namestitev v Nastavitve > Aplikacije > Varni način.</string>
-     <string name="virus_safe_install_mode_security_tips_pi">Če zaupate tej aplikaciji, tapnite ikono Nastavitve in izberite \"Varni način\" za odobritev namestitve.</string>
+     <string name="virus_safe_install_mode_security_tips">Če zaupate tej aplikaciji, lahko dovolite njeno namestitev v Nastavitve > Aplikacije > Mi zaščita.</string>
+     <string name="virus_safe_install_mode_security_tips_pi">Če zaupate tej aplikaciji, tapnite ikono Nastavitve in izberite \"Mi zaščita\" za odobritev namestitve.</string>
      <string name="virus_scan_caller_unknown">Neznano</string>
      <string name="virus_scan_clear">Odstrani</string>
-     <string name="virus_scan_install">vseeno namesti </string>
+     <string name="virus_scan_install">Vseeno namesti </string>
      <string name="virus_scan_is_risk">Ta aplikacija predstavlja tveganje za varnost vaše naprave.</string>
      <string name="virus_scan_is_virus">Ta aplikacija vsebuje virus.</string>
      <string name="virus_scanning">Preverjam…</string>
@@ -1348,8 +1391,8 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
-     <string name="welcome_to_security_mody">Dobrodošli v varnem načinu</string>
-     <string name="what_is_security_mode">Kaj je varni način?</string>
+     <string name="welcome_to_security_mody">Dobrodošli v Mi zaščita</string>
+     <string name="what_is_security_mode">Kaj je Mi zaščita?</string>
      <string name="xiaomi_account_risk">Mi račun geslo</string>
      <string name="xiaomi_account_verify">Prijavite se v svoj račun Xiaomi, da boste lahko nadaljevali namestitev.</string>
      <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>

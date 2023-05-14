@@ -43,8 +43,8 @@
         <item>Vsi dogodki v nizu</item>
      </string-array>
      <string-array name="close_alarm_repeating_labels">
-        <item>Samo za ta čas</item>
-        <item>Izključi ponovljeni opomnik</item>
+        <item>Izklopi enkrat</item>
+        <item>Vedno izklopljeno</item>
      </string-array>
      <string-array name="date_calculate_spinner">
         <item>Naprej</item>
@@ -186,8 +186,8 @@
         <item>2 tedna</item>
      </string-array>
      <string-array name="open_alarm_repeating_labels">
-        <item>Samo za ta čas</item>
-        <item>Nastavi ponovljeni opomnik</item>
+        <item>Vklopi enkrat</item>
+        <item>Vedno vklopljeno</item>
      </string-array>
      <string-array name="ordinal_labels">
         <item>1.</item>

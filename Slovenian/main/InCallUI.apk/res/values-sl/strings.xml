@@ -148,6 +148,7 @@
      <string name="close">Zapri</string>
      <string name="close_camera_failed">"Ne morem zapreti kamere"</string>
      <string name="close_camera_requesting">Izklop kamere…</string>
+     <string name="cloud_video_conference">Video konferenca v oblaku</string>
      <string name="conference_call_description" formatted="false">%s,%s itd. skupaj %s</string>
      <string name="conference_call_recorder_title">Konferenčni klic</string>
      <string name="conference_call_single_description" formatted="false">%s itd. skupaj %s</string>
@@ -275,7 +276,7 @@
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
-     <string name="high_temperature_toast">Pri zaščiti pred visoko temperaturo storitev začasno ni na voljo</string>
+     <string name="high_temperature_toast">"Vaša naprava je pregreta. Te storitve zdaj ni mogoče uporabiti."</string>
      <string name="inCallLabel">Telefon</string>
      <string name="incall_bubble_hangup_click_hint">Ponovno tapnite za vrnitev na klic</string>
      <string name="incall_call_type_label_sip">Spletni klic</string>

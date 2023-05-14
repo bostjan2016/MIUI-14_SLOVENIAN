@@ -4,4 +4,8 @@
         <item>Moški</item>
         <item>Ženska</item>
      </string-array>
+     <string-array name="passport_account_user_gender_name">
+        <item>Moški</item>
+        <item>Ženska</item>
+     </string-array>
 </resources>

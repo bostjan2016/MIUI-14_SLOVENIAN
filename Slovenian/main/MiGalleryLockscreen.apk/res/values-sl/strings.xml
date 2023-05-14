@@ -220,6 +220,7 @@
      <string name="delete_pic">Izbriši sliko</string>
      <string name="deny_des">Wallpaper Carousel potrbuje dostop do Galerije za normalno delovanje.</string>
      <string name="detail_ad_type_ad">OGLAS</string>
+     <string name="detail_ad_type_close_ad">Zapri oglas</string>
      <string name="detail_ad_type_video">Popularni videoposnetki</string>
      <string name="detail_add_cw">Dodaj sliko ozadja</string>
      <string name="detail_add_shortcut">Dodaj na zač. zaslon</string>
@@ -1014,7 +1015,7 @@ mm"</string>
      <string name="passport_user_agreement_p4">Pravila o zasebnosti</string>
      <string name="passport_user_agreement_prefix">Strinjam se z </string>
      <string name="passport_user_avatar_update_title">Spremenite fotografijo profila</string>
-     <string name="passport_user_avatar_uploading">Just a sec…</string>
+     <string name="passport_user_avatar_uploading">Delam…</string>
      <string name="passport_user_id_hint">E-pošta/št. telefona/Xiaomi račun</string>
      <string name="passport_user_id_intro">Vnesite geslo %1$s</string>
      <string name="passport_user_id_notice">Vaša ID Mi Računa je %s.</string>
