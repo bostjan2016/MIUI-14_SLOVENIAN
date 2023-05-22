@@ -995,6 +995,8 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="operation_compress">Stisni</string>
      <string name="operation_compressing">Stiskam...</string>
      <string name="operation_copy">Kopiraj</string>
+     <string name="operation_copy_clipboard">Kopiraj v odložišče</string>
+     <string name="operation_copy_local">Kopiraj v mapo</string>
      <string name="operation_copying">Kopiram...</string>
      <string name="operation_copying_detail">Kopiram (%1$d/%2$d)</string>
      <string name="operation_create_folder">Ustvari mapo</string>
@@ -1492,7 +1494,8 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="title_upload_video">Delite male videoposnetke</string>
      <string name="to_open">Nastavitve</string>
      <string name="to_setting">Nastavitve</string>
-     <string name="toast_file_not_can_read">Ni najdene aplikacije za to opravilo.</string>
+     <string name="toast_copy_clipboard">Dodano v odložišče</string>
+     <string name="toast_file_not_can_read">Ne najdem aplikacije za to opravilo.</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
      <string name="tools">ORODJA</string>

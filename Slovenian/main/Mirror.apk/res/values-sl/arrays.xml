@@ -6,13 +6,12 @@
         <item>Screen Combo;Multiscreen;Predvajanje zaslona;PC;Računalnik</item>
      </string-array>
      <string-array name="settings_tips_message">
-        <item>"1. Pred uporabo storitve Screen Combo izklopite prenosno dostopno točko, Mi Share ali oddajanje v mobilni napravi.
-2. Izključite WiFi na mobilni napravi in računalniku.
-3. Preverite ali je vaša mobilna naprava blizu računalnikaa."</item>
-        <item>Vaš računalnik uporablja Bluetooth za zaznavanje prej povezanih mobilnih naprav. Prepričajte se, da je v mobilni napravi vklopljen Bluetooth.</item>
-        <item>"Mobilne naprave ne morejo sinhronizirati podatkov z računalniki, ko je zaslon zaklenjen. Screen Combo privzeto ne omogoča zaklepanja zaslona, ​​ko je vaša mobilna naprava povezana z računalnikom. To lahko spremenite v nastavitvah."</item>
-        <item>"1. Izbrani telefoni Xiaomi z Androidom Q ali novejšim podpirajo Screen Combo. Če po skeniranju kode QR vidite spletno mesto MIUI, vaša naprava še ni podprta.
-2. Če želite v računalniku uporabljati Screen Combo, najprej namestite najnovejšo različico Mi Smart Share."</item>
+        <item>"1.Pred uporabo Screen Combo izklopite prenosno dostopno točko, Mi Share ali predvajanje na mobilni napravi.
+2. Vklopite WiFi na mobilni napravi in računalniku.
+3. Prepričajte se, da je vaša mobilna naprava blizu vašega računalnika."</item>
+        <item>Vaš računalnik uporablja Bluetooth za zaznavanje mobilnih naprav, ki so bile predhodno povezane. Preverite, ali je Bluetooth vklopljen na vaši mobilni napravi.</item>
+        <item>"Mobilne naprave ne morejo sinhronizirati podatkov z računalniki, ko je zaslon zaklenjen. Screen Combo privzeto ne dovoljuje zaklepanja zaslona, ko je vaša mobilna naprava povezana z računalnikom. To lahko spremenite v nastavitvah."</item>
+        <item>"1. Združljive mobilne naprave: Mi 11, Mi 10 Ultra, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Redmi K30s Ultra, Redmi K20 Pro, Redmi K30 Pro. Če ste po skeniranju kode QR preusmerjeni na naše uradno spletno mesto, vaša naprava še ni podprta.2. Združljivi računalniki: Mi Notebook Pro X 15, Mi Notebook Pro 15.6 (2020), Redmi G, Redmibook 16, Redmibook 14 Ⅱ, Redmibook Air 13. Prenesite MIUI+ Beta za svoj računalnik tukaj: https://plus.miui.com."</item>
      </string-array>
      <string-array name="settings_tips_title">
         <item>"Se ne morete povezati s pomočjo QR kode?"</item>

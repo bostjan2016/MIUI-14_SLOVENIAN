@@ -70,7 +70,7 @@
      <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za prenos datotek med napravami</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
-     <string name="default_boss_terminal_name">Mi Notebook</string>
+     <string name="default_boss_terminal_name">Xiaomi računalnik</string>
      <string name="default_error_msg">Neznana napaka</string>
      <string name="device_max_screen_count_toast">Ta naprava podpira samo odpiranje dveh oken hkrati</string>
      <string name="display_max_screen_count_toast">V tej različici lahko odprete do 2 okna</string>
@@ -201,7 +201,8 @@ Na vašem računalniku lahko začnete novo sejo."</string>
      <string name="login_xiaomi_account_summary_phone">Če se želite povezati z drugimi tablicami, uporabite isti račun Xiaomi na obeh povezanih napravah. Prijava zdaj?</string>
      <string name="login_xiaomi_account_title">Prijavite se v račun Xiaomi</string>
      <string name="low_battery_notification_action">Vklopi</string>
-     <string name="low_battery_notification_content">Na %1$s je ostalo manj kot %2$d%% baterije. Vklopite varčevanje z baterijo.</string>
+     <string name="low_battery_notification_content">Na %1$s je ostalo manj kot %2$s baterije.</string>
+     <string name="low_battery_notification_content_default">Baterija telefona je manj od %1$s</string>
      <string name="low_battery_notification_title">Nizka baterija</string>
      <string name="low_version_dialog_message">Posodobite MIUI+ v računalniku ali prenesite najnovejšo različico iz plus.miui.com.</string>
      <string name="low_version_dialog_title">Posodobite MIUI+</string>
@@ -295,7 +296,11 @@ Na vašem računalniku lahko začnete novo sejo."</string>
      <string name="nfc_login">Prijava</string>
      <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Če želite povezati naprave, najprej vklopite WiFi in Bluetooth na tej napravi. Vklopim zdaj?</string>
      <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">Če želite povezati naprave, najprej vklopite WiFi in Bluetooth na tej napravi. Vklopim zdaj?</string>
+     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc">"Povezave z računalnikom ni bilo mogoče vzpostaviti. Prepričajte se, da sta WiFi in Bluetooth vklopljena na obeh napravah."</string>
+     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc_china">"Povezave z računalnikom ni bilo mogoče vzpostaviti. Prepričajte se, da sta WiFi in Bluetooth vklopljena na obeh napravah."</string>
      <string name="nfc_no_xiaomi_account">"Kaže da se niste prijavili v svoj račun Xiaomi. Za prenos stvari se prijavite v račun Xiaomi, ki ga uporabljate na tabličnem računalniku."</string>
+     <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">"Povezave z računalnikom ni bilo mogoče vzpostaviti. Prepričajte se, da ste v telefonu in računalniku vklopili WiFi in Bluetooth ter da vaš računalnik uporablja MIUI+."</string>
+     <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Povezave z računalnikom ni bilo mogoče vzpostaviti. Prepričajte se, da ste v telefonu in računalniku vklopili WiFi in Bluetooth ter da vaš računalnik uporablja MIUI+."</string>
      <string name="nfc_wifi_and_bluetooth">Vklopi WiFi in Bluetooth</string>
      <string name="nfc_wifi_and_bluetooth_china">Vklopi WiFi in Bluetooth</string>
      <string name="night">Noč</string>
@@ -445,7 +450,7 @@ Na vašem računalniku lahko začnete novo sejo."</string>
      <string name="settings_connect">Kako se povezati</string>
      <string name="settings_connect_more_help"><u>Pomoč</u></string>
      <string name="settings_connect_pc_group">Deluje z računalnikom</string>
-     <string name="settings_connect_summary1">Odprite Mi Smart Share na računalniku in izberite \"Screen Combo\".Mi Smart Share lahko prenesete iz www.miui.com.</string>
+     <string name="settings_connect_summary1">Odprite Mi Smart Share v računalniku in izberite \"Screen Combo\". Mi Smart Share lahko prenesete s spletnega mesta www.miui.com.</string>
      <string name="settings_connect_summary2">S svojo mobilno napravo skenirajte kodo QR na računalniškem zaslonu. Za to lahko uporabite več sistemskih aplikacij (npr. Skener, kamera, brskalnik Mi).</string>
      <string name="settings_connect_title1">1. korak</string>
      <string name="settings_connect_title2">2. korak</string>

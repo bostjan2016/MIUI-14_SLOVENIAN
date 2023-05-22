@@ -69,6 +69,10 @@
         <item quantity="other">"Ne morem prenesti %1$d stvari"</item>
         <item quantity="one">"Ne morem prenesti %1$d stvar"</item>
      </plurals>
+     <plurals name="download_notification_wait_network">
+        <item quantity="other">Čakam na prenos. %1$s preostalih datotek.</item>
+        <item quantity="one">Čakam na prenos. %1$s preostala datoteka.</item>
+     </plurals>
      <plurals name="downloading_info_for_sys_title">
         <item quantity="other">Prenos… %1$d ostalo (%2$s%%)</item>
         <item quantity="one">Prenos… %1$d ostalo (%2$s%%)</item>
@@ -179,6 +183,10 @@
      <plurals name="upload_fail_info_for_sys_content">
         <item quantity="other">"Ne morem naložiti %1$d stvari"</item>
         <item quantity="one">"Ne morem naložiti %1$d stvar"</item>
+     </plurals>
+     <plurals name="upload_notification_wait_network">
+        <item quantity="other">Čakam na nalaganje. %1$s preostalih datotek.</item>
+        <item quantity="one">Čakam na nalaganje. %1$s preostala datoteka.</item>
      </plurals>
      <plurals name="uploading_info_for_sys_title">
         <item quantity="other">Nalaganje… %1$d ostalo (%2$s%%)</item>

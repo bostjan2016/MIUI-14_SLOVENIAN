@@ -165,6 +165,10 @@
         <item quantity="other">%d stvari izbrano</item>
         <item quantity="one">%d stvar izbrana</item>
      </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
+     </plurals>
      <plurals name="mw_last_num_days">
         <item quantity="other">Zadnjih %d dni</item>
         <item quantity="one">Zadnji %d dan</item>

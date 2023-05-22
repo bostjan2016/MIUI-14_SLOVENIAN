@@ -662,6 +662,9 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="notify_wifiap_dialog_msg">Če želite skenirati kodo in konfigurirati omrežje, najprej izklopite prenosno dostopno točko.</string>
      <string name="notify_wifiap_dialog_negative">Razumem</string>
      <string name="notify_wifiap_dialog_title">Konfiguriraj omrežje</string>
+     <string name="onehop_mirror_guide_message_button">Razumem</string>
+     <string name="onehop_mirror_guide_message_text_1">Prenesite zaslon telefona na računalnik z enim dotikom.</string>
+     <string name="onehop_mirror_guide_message_text_2">Izberite fotografije, videoposnetke in druge datoteke iz galerije ali upravitelja datotek za prenos v računalnik.</string>
      <string name="open_game_accelerate">Vključi Game Turbo</string>
      <string name="p2p_location_des">Za povezavo mobilne naprave z zunanjimi monitorji</string>
      <string name="paipai_connect_btn_text">Končano</string>

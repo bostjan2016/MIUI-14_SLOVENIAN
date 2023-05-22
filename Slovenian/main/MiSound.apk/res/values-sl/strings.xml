@@ -68,6 +68,7 @@
      <string name="effect_selection">Zvočni učinki</string>
      <string name="effect_virtual_surround">Virtualni prostorski zvok</string>
      <string name="effect_virtual_surround_summary">"Obogati globino zvoka za predvajanje zvoka in videa v slušalkah (ta storitev ne bo delovala, ko se predvaja zvok %.1f)"</string>
+     <string name="effect_virtual_surround_summary_spk">Obogati globino zvoka za predvajanje zvoka in videa</string>
      <string name="end_wireless_transmission">Ustavi</string>
      <string name="eq_auto">Lastno</string>
      <string name="eq_blues">Blues</string>

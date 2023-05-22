@@ -34,6 +34,8 @@
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Popoldne</string>
      <string name="am">dop.</string>
+     <string name="annotation_open">Pokaži orodja</string>
+     <string name="annotation_stow">Skrij orodja</string>
      <string name="app_name">Posnetek zaslona</string>
      <string name="asus">Asus</string>
      <string name="asus_phone">Asus</string>
@@ -161,7 +163,7 @@
      <string name="long_screenshot_error">"Posnetka zaslona ni bilo mogoče narediti. Poskusite ponovno."</string>
      <string name="long_screenshot_guide_text">"Tapnite za izdelavo
 drsnega posnetka zaslona"</string>
-     <string name="long_screenshot_intercepted_error">"Posnetka zaslona ni bilo mogoče narediti. Poskusite ponovno."</string>
+     <string name="long_screenshot_intercepted_error">"Prišlo je do prekinitve. Posnetek zaslona je bil shranjen v Galerijo."</string>
      <string name="long_screenshot_out_of_memory_error">Slika je prevelika</string>
      <string name="long_screenshot_processing">Obdelovanje…</string>
      <string name="long_screenshot_processing_description_accessibility">Obdelovanje</string>
@@ -256,7 +258,7 @@ drsnega posnetka zaslona"</string>
      <string name="oppo">OPPO</string>
      <string name="oppo_phone">OPPO</string>
      <string name="partial_screenshot_edit">Uredi</string>
-     <string name="partial_screenshot_failed_to_capture_title">"Ta aplikacija ne dovoljuje posnetkov zaslona"</string>
+     <string name="partial_screenshot_failed_to_capture_title">"Ne morem narediti posnetkov zaslona te strani"</string>
      <string name="partial_screenshot_failed_to_save_title">"Ne morem shraniti. Ni dovolj prostora za shranjevanje."</string>
      <string name="partial_screenshot_insert_failed">"Ne morem shraniti"</string>
      <string name="partial_screenshot_repaint">Začni znova</string>
@@ -286,6 +288,10 @@ drsnega posnetka zaslona"</string>
      <string name="photo_save_to_msg">Shranjeno v %s</string>
      <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
+     <string name="privacy_mosaic_result_done">Zasebni podatki so blokirani</string>
+     <string name="privacy_mosaic_result_fail">"Zasebnih podatkov ni bilo mogoče blokirati. Poskusite ponovno."</string>
+     <string name="privacy_mosaic_result_none">Ni zasebnih podatkov</string>
+     <string name="privacy_mosaic_tip">Tapnite, da blokirate zasebne podatke</string>
      <string name="remover_menu_processing">Obdelujem</string>
      <string name="samsung_phone">Samsung telefon</string>
      <string name="saturday">Sobota</string>
@@ -332,6 +338,9 @@ drsnega posnetka zaslona"</string>
      <string name="screenshot_save">Shrani</string>
      <string name="screenshot_send">Pošlji</string>
      <string name="screenshot_thumbnail">Sličica zaslona</string>
+     <string name="scroll_annotation">Pomikajte se in dodajte opombe</string>
+     <string name="scroll_annotation_btn_quit">Izhod iz opomb</string>
+     <string name="scroll_annotation_quit_dialog_picture_msg">Shranim opombe pred izhodom?</string>
      <string name="search_menu_title">Išči</string>
      <string name="send">Pošlji</string>
      <string name="send_files_by">Skupna raba datotek prek</string>

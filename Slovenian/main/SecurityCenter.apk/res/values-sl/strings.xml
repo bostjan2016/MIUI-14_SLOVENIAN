@@ -4553,7 +4553,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="pref_month_traffic_limit">Mesečna omejitev uporabe podatkov</string>
      <string name="pref_more_settings">Dodatne nastavitve</string>
      <string name="pref_more_traffic_settings">Dodatne nastavitve</string>
-     <string name="pref_new_installed_preconfig_title">"Privzete nastavite novih aplikacij"</string>
+     <string name="pref_new_installed_preconfig_title">"Privzete nastavitve novih aplikacij"</string>
      <string name="pref_normal_traffic_limit">Kadar presežete plan podatkov</string>
      <string name="pref_open_adjust_traffic">"Posodobi porabo podatkov vsakodnevno z uporabo statistike mobilnega operaterja"</string>
      <string name="pref_operator_not_set">"Operater ni nastavljen"</string>
