@@ -105,8 +105,8 @@
         <item quantity="one">Geslo vnesite vsaj enkrat na %d uro, da si ga laže zapomnete</item>
      </plurals>
      <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Vzorec vnesite vsaj enkrat na %d ur, da si ga laže zapomnete</item>
-        <item quantity="one">Vzorec vnesite vsaj enkrat na %d uro, da si ga laže zapomnete</item>
+        <item quantity="other">Geslo vnesite vsaj enkrat na %d ur, da si ga laže zapomnete</item>
+        <item quantity="one">Geslo vnesite vsaj enkrat na %d uro, da si ga laže zapomnete</item>
      </plurals>
      <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
         <item quantity="other">Še %d hr do polne baterije</item>
