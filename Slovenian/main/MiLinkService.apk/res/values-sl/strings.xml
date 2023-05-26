@@ -160,6 +160,8 @@ za zrcaljenje zaslona tega tabličnega računalnika"</string>
 2. Pritisnite in držite gumb na ohišju.
 3. Dokončajte seznanjanje na ciljni napravi."</string>
      <string name="circulate_headset_back_to_box_desc_err_308">Če želite prenašati predvajanje med napravami, najprej seznanite slušalke s televizorjem.</string>
+     <string name="circulate_headset_back_to_box_desc_err_310">"1. Pritisnite gumb za vklop na daljinskem upravljalniku televizorja, da odklopite zvočnike.
+2. Poskusite znova priključiti slušalke, ko zaslon zasveti."</string>
      <string name="circulate_headset_back_to_box_desc_pad">"1. Obe slušalki vstavite v etui.
 2. Pritisnite in držite gumb na ohišju.
 3. Dokončajte seznanjanje v nastavitvah Bluetooth ali v pojavnem pogovornem oknu v tej napravi."</string>
@@ -172,9 +174,18 @@ za zrcaljenje zaslona tega tabličnega računalnika"</string>
      <string name="circulate_headset_back_to_box_subtitle">"Teh slušalk ni mogoče samodejno seznaniti. Namesto tega jih seznanite ročno na ciljni napravi."</string>
      <string name="circulate_headset_back_to_box_title">Najprej seznanite slušalke</string>
      <string name="circulate_headset_back_to_box_title_err_308">Seznanite slušalke</string>
+     <string name="circulate_headset_back_to_box_title_err_310">Najprej odklopite TV zvočnike</string>
      <string name="circulate_headset_back_to_box_title_pad">Seznanite slušalke s to napravo</string>
      <string name="circulate_headset_back_to_box_title_phone">Seznanite slušalke s to napravo</string>
      <string name="circulate_headset_back_to_box_title_tv">Seznanite slušalke</string>
+     <string name="circulate_headset_control_anc_clear">Prozornost</string>
+     <string name="circulate_headset_control_anc_disable_hint">Vaše slušalke so povezane z dvema napravama. S te naprave lahko prilagodite samo glasnost.</string>
+     <string name="circulate_headset_control_anc_noise_cancel">Odpravljanje hrupa</string>
+     <string name="circulate_headset_control_anc_off">Izklj.</string>
+     <string name="circulate_headset_control_battery_case">Etui</string>
+     <string name="circulate_headset_control_battery_left">L</string>
+     <string name="circulate_headset_control_battery_right">D</string>
+     <string name="circulate_headset_control_more_settings">Dodatne nastavitve</string>
      <string name="circulate_headset_duplicate_cancel">Prekliči</string>
      <string name="circulate_headset_duplicate_dialog_message">Kaže da je na vaš %1$s povezan drug komplet slušalk. Jih zamenjam s trenutnim parom?</string>
      <string name="circulate_headset_duplicate_dialog_title">Zamenjaj slušalke, povezane z %1$s</string>
@@ -184,6 +195,8 @@ za zrcaljenje zaslona tega tabličnega računalnika"</string>
      <string name="circulate_headset_error_default">Povezava je potekla</string>
      <string name="circulate_headset_error_device_not_support">"Slušalk ni mogoče povezati s to napravo"</string>
      <string name="circulate_headset_error_headset_not_support">"Vaših slušalk ni mogoče povezati s tem računalnikom"</string>
+     <string name="circulate_headset_error_headset_not_worn">Vstavite obe slušalki in poskusite znova</string>
+     <string name="circulate_headset_error_headset_not_worn_both">Vstavite obe slušalki in poskusite znova</string>
      <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Vklopite Bluetooth na televizorju
 in se prijavite v svoj račun Xiaomi"</string>
      <string name="circulate_headset_error_self_upgrade">"Tega dejanja ni bilo mogoče dokončati. Najprej posodobite Mi Smart Hub."</string>

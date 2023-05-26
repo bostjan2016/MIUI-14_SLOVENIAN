@@ -43,6 +43,7 @@
      <string name="actionbar_close_description">Zapri</string>
      <string name="actionbar_home_description">Nazaj</string>
      <string name="add_account_desc">Sinhroniziram beležke z vašim Mi Računom?</string>
+     <string name="added_to_clipboard">Uspešno kopirano</string>
      <string name="afternoon">pop.</string>
      <string name="alarm_bar_title">Opomnik</string>
      <string name="alert_action_edit_anyway">Nadaljuj urejanje</string>
@@ -142,6 +143,7 @@
      <string name="check_in_todo_app">Pokaži naloge</string>
      <string name="clear_text_end_icon_content_description">Izbriši besedilo</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
+     <string name="clip_resource_deleted">Ta stvar ni več na voljo</string>
      <string name="close">Zapri</string>
      <string name="cloud_service_state_open_reminder">Vključite sinhr. z Mi Cloudom da sinhronizirate beležke.</string>
      <string name="cloud_service_state_open_reminder_note_and_todo">Vključite sinhr. z Mi Cloudom</string>

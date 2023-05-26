@@ -107,6 +107,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="apply_not_support_aod">"Vedno na zaslonu ni podprto v tej napravi"</string>
      <string name="apply_not_support_in_second_space">"Ne morem uporabiti v Drugem prostoru"</string>
      <string name="apply_not_support_maml_aod">"Ne morem kombinirati Vedno na zaslonu s temami v tej napravi"</string>
+     <string name="apply_not_support_video_wallpaper_warning">"Videoposnetkov 4K, 8K in Dolby ni mogoče nastaviti kot video ozadja."</string>
      <string name="apply_sensor_video_wallpaper_dialog_message">To ozadje bo uporabljeno za notranji in zunanji zaklenjeni zaslon ter začetni zaslon.</string>
      <string name="apply_succeed">Nastavljeno</string>
      <string name="apply_success_not_enable_aod">Najprej vključite Vedno na zaslonu v nastavitvah</string>
