@@ -830,6 +830,7 @@ Ta operacija ne bo vplivala na vaše slike v galeriji."</string>
      <string name="incentive_login_success_for_already_claimd">Uspešno vpisani. Zahtevane točke.</string>
      <string name="incentive_login_tip">Prijavite se, če želite zaslužiti točke in prejemati nagrade</string>
      <string name="incentive_my_points">Moje točke</string>
+     <string name="incentive_offline">"Žal vam moramo sporočiti, da ukinjamo našo storitev opravil. Svoje obstoječe žetone lahko unovčite do 31. julija 2023."</string>
      <string name="incentive_popup_window_share">Delite, da zaslužite točke</string>
      <string name="incentive_popup_window_subscribe">Naročite se, da zaslužite točke</string>
      <string name="incentive_rules_title_bar">Pravila</string>
@@ -1096,6 +1097,13 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="lv_video_null">Ni videoposnetkov</string>
      <string name="lv_volume">Glasnost</string>
      <string name="manage">Urejanje</string>
+     <string name="manager_request_Content">"Zaradi Androidove politike upravljanja datotek Mi Video ne more dostopati do videoposnetkov iz drugih aplikacij.
+Mi Video lahko omogočite dostop in predvajanje vseh video datotek.
+To dovoljenje bomo uporabili samo za iskanje videoposnetkov, ki jih iščete, in ne bomo dostopali do drugih datotek. Dovolim?"</string>
+     <string name="manager_request_cancel">Prekliči</string>
+     <string name="manager_request_continue">Dovoli</string>
+     <string name="manager_request_tip">"Ne kaži več"</string>
+     <string name="manager_request_title">"Do te datoteke ni mogoče dostopati"</string>
      <string name="mangotv_feature_list_title3">Dodana epizoda %s</string>
      <string name="mangotv_feature_more">Več</string>
      <string name="mangotv_feature_title1">Epizode</string>
@@ -1279,7 +1287,9 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="my_feedback_title">Moje povratne informacije</string>
      <string name="need_update_app">Posodobite Mi Video za uporabo vseh njegovih funkcij</string>
      <string name="network_connect_info">Povezava z omrežjem ni uspela. Preverite omrežne nastavitve in poskusite ponovno.</string>
+     <string name="network_error_and_retry_tip">"Ne morem vzpostaviti povezave z omrežjem. Preverite omrežne nastavitve in poskusite znova."</string>
      <string name="network_error_info">Prišlo je do napake v omrežju. Preverite omrežne nastavitve in poskusite znova.</string>
+     <string name="network_error_tip">"Ne morem vzpostaviti povezave z omrežjem. Preverite omrežne nastavitve."</string>
      <string name="network_failed">Povezava z omrežjem ni uspela</string>
      <string name="network_timeout_info">Povezave z omrežjem ni bilo mogoče vzpostaviti. Poskusite ponovno."</string>
      <string name="neverthink_player_loading">Nalaganje Neverthink videoposnetkov…</string>
