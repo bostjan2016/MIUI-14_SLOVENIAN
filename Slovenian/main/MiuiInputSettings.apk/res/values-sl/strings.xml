@@ -49,6 +49,12 @@
      <string name="back_tap">Dotik zadaj</string>
      <string name="back_triple_tap">Trojni dotik zadaj</string>
      <string name="bottomsheet_action_expand_halfway">Razširi do polovice</string>
+     <string name="bt_enable_pair_connect_cancel">prekliči</string>
+     <string name="bt_enable_pair_connect_fail">povezava prekinjena, poskusi znova</string>
+     <string name="bt_enable_pair_connect_line">Xiaomi Pad tipkovnica</string>
+     <string name="bt_enable_pair_connect_ok">poveži</string>
+     <string name="bt_enable_pair_connect_succceed">povezano</string>
+     <string name="bt_enable_pair_connecting">povezovanje</string>
      <string name="builtin_keyboard_settings_title">Fizična tipkovnica</string>
      <string name="camera_key_action_app_title">Odpri aplikacijo</string>
      <string name="camera_key_action_category_title">"Fotoaparata ni mogoče uporabiti"</string>

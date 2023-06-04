@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accept">Dovoli</string>
-    <string name="decline">Zavrni</string>
-    <string name="dlg_ok">V redu</string>
-    <string name="notification_channel_network_alerts">Opozorila omrežja</string>
-    <string name="notification_channel_network_available">Omrežja na voljo</string>
-    <string name="notification_channel_network_status">Omrežja status</string>
-    <string name="ok">V redu</string>
-    <string name="wifiResourcesAppLabel">Sistem WiFi viri</string>
-    <string name="wifi_available_action_all_networks">Vsa omrežja</string>
-    <string name="wifi_available_action_connect">Poveži</string>
-    <string name="wifi_available_content_failed_to_connect">Tapnite za ogled vseh omrežij</string>
-    <string name="wifi_available_title">Poveži se z odprtim omrežjem WiFi</string>
-    <string name="wifi_available_title_connected">Vzpostavljena povezava z omrežjem WiFi</string>
-    <string name="wifi_available_title_connecting">Povezava z omrežjem WiFi</string>
-    <string name="wifi_available_title_failed_to_connect">Ne morem se povezati na omrežje</string>
+     <string name="accept">Dovoli</string>
+     <string name="decline">Zavrni</string>
+     <string name="dlg_ok">V redu</string>
+     <string name="notification_channel_network_alerts">Opozorila omrežja</string>
+     <string name="notification_channel_network_available">Omrežja na voljo</string>
+     <string name="notification_channel_network_status">Omrežja status</string>
+     <string name="ok">V redu</string>
+     <string name="wifiResourcesAppLabel">Sistem WiFi viri</string>
+     <string name="wifi_available_action_all_networks">Vsa omrežja</string>
+     <string name="wifi_available_action_connect">Poveži</string>
+     <string name="wifi_available_content_failed_to_connect">Tapnite za ogled vseh omrežij</string>
+     <string name="wifi_available_title">Poveži se z odprtim omrežjem WiFi</string>
+     <string name="wifi_available_title_connected">Vzpostavljena povezava z omrežjem WiFi</string>
+     <string name="wifi_available_title_connecting">Povezava z omrežjem WiFi</string>
+     <string name="wifi_available_title_failed_to_connect">Ne morem se povezati na omrežje</string>
      <string name="wifi_ca_cert_dialog_abort_text">"Ne, ne poveži se"</string>
      <string name="wifi_ca_cert_dialog_continue_text">Da, poveži se</string>
      <string name="wifi_ca_cert_dialog_message_contact_text">"Stik:
@@ -36,12 +36,12 @@
 %1$s
 
 "</string>
-     <string name="wifi_ca_cert_dialog_message_signature_name_text">"Podpis:
+     <string name="wifi_ca_cert_dialog_message_signature_name_text">"SHA-256 Prstni odtis:
 %1$s
 
 "</string>
-     <string name="wifi_ca_cert_dialog_preT_abort_text">"Ne povezuj se"</string>
-     <string name="wifi_ca_cert_dialog_preT_continue_text">Vseeno se poveži</string>
+     <string name="wifi_ca_cert_dialog_preT_abort_text">"Prekini povezavo"</string>
+     <string name="wifi_ca_cert_dialog_preT_continue_text">Ostani povezan</string>
      <string name="wifi_ca_cert_dialog_preT_message_hint">Omrežju %1$s manjka potrdilo.</string>
      <string name="wifi_ca_cert_dialog_preT_message_link">Naučite se dodajati potrdila</string>
      <string name="wifi_ca_cert_dialog_preT_title">"Tega omrežja ni mogoče preveriti"</string>
