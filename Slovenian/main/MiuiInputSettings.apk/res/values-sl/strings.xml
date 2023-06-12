@@ -173,6 +173,12 @@ Ustvarjene dnevnike si lahko ogledate v Raziskovalcu."</string>
      <string name="intelligence_suppression_summary">Dinamično prilagodi velikost območja blizu robov, kjer bo naključni dotik prezrt glede na vaš prijem</string>
      <string name="intelligence_suppression_title">Samodejno (priporočeno)</string>
      <string name="item_view_role_description">Zavihek</string>
+     <string name="kddi_long_press_power_guide_assistant_message">Pritisnite in držite gumb za vklop %ss, da prebudite Google pomočnika</string>
+     <string name="kddi_long_press_power_guide_assistant_title">Zbudi Google pomočnika</string>
+     <string name="kddi_long_press_power_guide_know">Razumem</string>
+     <string name="kddi_long_press_power_guide_settings">Nastavitve</string>
+     <string name="kddi_long_press_power_guide_shutdown_message">Istočasno pritisnite gumbe za vklop in glasnost, da znova zaženete ali izklopite napravo</string>
+     <string name="kddi_long_press_power_guide_shutdown_title">Znova zaženite ali izklopite napravo</string>
      <string name="key_combination_power_back">Vklop + Nazaj</string>
      <string name="key_combination_power_home">Vklop + Domov</string>
      <string name="key_combination_power_menu">Vklop + Meni</string>
@@ -198,6 +204,10 @@ Ustvarjene dnevnike si lahko ogledate v Raziskovalcu."</string>
      <string name="keyboard_back_light">Osvetlitev tipkovnice</string>
      <string name="keyboard_back_light_automatic_adjustment">Samodejno prilagodi osvetlitev ozadja</string>
      <string name="keyboard_back_light_brightness">Svetlost osvetlitve ozadja</string>
+     <string name="keyboard_connect_fail_text">"Tipkovnice ni bilo mogoče povezati"</string>
+     <string name="keyboard_connect_lose_text">Izgubljena povezava s tipkovnico</string>
+     <string name="keyboard_connect_low_electricity_text">Baterija tipkovnice je skoraj prazna. Priključite jo na vir napajanja.</string>
+     <string name="keyboard_connect_success_text">Tipkovnica uspešno povezana</string>
      <string name="keyboard_cursor_style_title">Slog kazalca</string>
      <string name="keyboard_cursor_title">Kazalec</string>
      <string name="keyboard_function_summary_first_line">·Pritisnite in držite za prikaz bližnjic.</string>
@@ -504,7 +514,9 @@ Dvakrat tapnite, da odprete Nedavno."</string>
      <string name="stylus_ota_updating">Posodabljam</string>
      <string name="stylus_pen_mask_text">Tapnite zaslon, da začnete pisati</string>
      <string name="stylus_primary_key">Prvi gumb</string>
-     <string name="stylus_quick_write">Piši</string>
+     <string name="stylus_quick_note_summary">Ko je zaslon izklopljen, se ga dotaknite s pisalom, da začnete pisati. Ta storitev poveča porabo energije.</string>
+     <string name="stylus_quick_note_title">Pišite z izklopljenim zaslonom</string>
+     <string name="stylus_quick_write">Pišite</string>
      <string name="stylus_quick_write_summary">Za pisanje ali risanje pritisnite in držite gumb za pisanje.</string>
      <string name="stylus_schematic_diagram">Demo</string>
      <string name="stylus_screen_shot">Naredi posnetek zaslona</string>

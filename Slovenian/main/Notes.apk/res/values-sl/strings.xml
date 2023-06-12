@@ -673,6 +673,7 @@ Tapnite + da napravite mapo"</string>
      <string name="pad_note_list_not_text_stub">Ni besedila</string>
      <string name="pad_todo_create_hint">Dodaj opravilo</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
+     <string name="paste_unsupported_data">"Ne morem prilepiti te vsebine"</string>
      <string name="pc_action_create_new_folder">Mapa</string>
      <string name="pc_action_create_new_mind_note">Mapa misli</string>
      <string name="pc_action_create_new_normal_note">Beležka</string>

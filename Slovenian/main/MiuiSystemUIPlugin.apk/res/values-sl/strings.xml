@@ -98,7 +98,7 @@
      <string name="controls_edit_added_subtitle">Povlecite stvari, da jih preuredite</string>
      <string name="controls_edit_added_title">Dodano</string>
      <string name="controls_edit_done_button">Končano</string>
-     <string name="controls_edit_go_to_app_guide">Odpri</string>
+     <string name="controls_edit_go_to_app_guide">Odpri %s</string>
      <string name="controls_edit_not_added_title">Na voljo</string>
      <string name="controls_edit_panel_not_added_title">Naprave na voljo</string>
      <string name="controls_edit_panel_save_button">Gotovo</string>
@@ -488,6 +488,7 @@ Dolgotrajno poslušanje visoke glasnosti lahko poškoduje vaš sluh."</string>
      <string name="sunday_shortest">N</string>
      <string name="switch_bar_off">Izkl.</string>
      <string name="switch_bar_on">Vkl.</string>
+     <string name="system_update">Posodobitev sistema</string>
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>

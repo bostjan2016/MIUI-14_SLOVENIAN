@@ -689,6 +689,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="download_sdcard_busy_dlg_title">SD kartica ni na voljo</string>
      <string name="download_sdcard_no_space">Prenos ni uspel. Ni dovolj prostora za shranjevanje.</string>
      <string name="download_secure_download_in_xiaomi_market">Prenos prek trgovine App Store</string>
+     <string name="download_select_dir">Izberite drugo mapo</string>
      <string name="download_status_failed">Prenos ni uspel</string>
      <string name="download_status_pending">Čakanje</string>
      <string name="download_title">Prenosi</string>
@@ -982,6 +983,8 @@ Pošljite to kodo nadzorniku."</string>
      <string name="general__web_window_view__copy_notify">naslov kopiran</string>
      <string name="general__web_window_view__sys_client">za odpiranje uporabite sistemski brskalnik</string>
      <string name="general_calendar_events_permission_desc">Dovolite %1$s dostop do vašega koledarja za prejemanje opomnikov.</string>
+     <string name="generate_gpt">"Povzemi 500-besedni povzetek z istim jezikom spodnjega članka: 
+ %s"</string>
      <string name="geolocation_permissions_prompt_dont_share">Zavrni</string>
      <string name="geolocation_permissions_prompt_message">%s želi izvedeti vašo lokacijo</string>
      <string name="geolocation_permissions_prompt_remember">Zapomni si izbiro</string>
@@ -1857,6 +1860,10 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="pay_now">Plačaj</string>
      <string name="pay_success_toast">Plačilo uspešno</string>
      <string name="payment_method">Načini plačila</string>
+     <string name="pdf_confirm">V redu</string>
+     <string name="pdf_failed_message">"Ne morem narediti povzetka"</string>
+     <string name="pdf_retry">Poskusi znova</string>
+     <string name="pdf_summary">Povzetek</string>
      <string name="per_month">Na mesec</string>
      <string name="permission_agree_service">Prebral/-a sem in se strinjam z naslednjimi pogoji in določili.</string>
      <string name="permission_alert_window">Da boste lahko uporabili to storitev, dovolite prikazovanje pojavnih oken v nastavitvah.</string>
@@ -2237,6 +2244,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="reject_all_label">Zavrni vse</string>
      <string name="release_to_refresh">Spustite za osvežitev</string>
      <string name="relevant_recommendations">Priporočeno</string>
+     <string name="remember_my_choice">Zapomni si izbiro</string>
      <string name="remember_passwords_confirm_message">Izklop te storitve lahko vpliva na porabo.</string>
      <string name="remote_config">Oddaljena konfiguracija(Klikni za izvoz)</string>
      <string name="remove_bookmark">Odstrani zaznamek</string>
@@ -2445,6 +2453,8 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="sku_all">Vse</string>
      <string name="sku_price_everymonth">%1$s vsak mesec</string>
      <string name="slide_card">Povlecite za več</string>
+     <string name="smart_subtitle">"Pridobite povzetek vsebine članka, ki ga ustvari umetna inteligenca, da si na prvi pogled ogledate glavne točke."</string>
+     <string name="smart_summary">Pametni povzetek</string>
      <string name="sms_send_success">Uspešno poslano</string>
      <string name="snapshot">Lokalno</string>
      <string name="snapshot_failed">"Strani ni bilo mogoče shraniti"</string>
@@ -2867,6 +2877,14 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
      <string name="weather_card_feel">Občutek kot %s</string>
      <string name="weather_card_rh">Vlaga</string>
      <string name="weather_card_vis">Vidljivost</string>
+     <string name="weather_card_wind_direction_east">V veter</string>
+     <string name="weather_card_wind_direction_north">S veter</string>
+     <string name="weather_card_wind_direction_northeast">SV veter</string>
+     <string name="weather_card_wind_direction_northwest">SZ veter</string>
+     <string name="weather_card_wind_direction_south">J veter</string>
+     <string name="weather_card_wind_direction_southeast">JV veter</string>
+     <string name="weather_card_wind_direction_southwest">JZ veter</string>
+     <string name="weather_card_wind_direction_west">Z veter</string>
      <string name="weather_card_wind_spd">Veter</string>
      <string name="weather_cp_des">Vreme iz Microsoft Start</string>
      <string name="weather_location_confirm_message">Izklop te storitve lahko vpliva na porabo.</string>
