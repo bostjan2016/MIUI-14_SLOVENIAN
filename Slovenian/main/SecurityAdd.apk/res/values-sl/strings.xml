@@ -248,6 +248,9 @@
      <string name="gb_pannel_control_mode_high_quality">Visoka kvaliteta</string>
      <string name="gb_pannel_control_mode_normal">Privzeto</string>
      <string name="gb_pannel_control_mode_power_saving">Varčevanje energije</string>
+     <string name="gb_web_panel_failure_retry">"Ne morem naložiti."Poskusite znova.</string>
+     <string name="gb_web_panel_game_loading">Delam…</string>
+     <string name="gb_web_panel_network_exception">"Iger trenutno ni mogoče priporočiti zaradi omrežne napake. Preverite omrežne nastavitve in poskusite znova."</string>
      <string name="gb_webwindow_schemedialog_accept">Odpri</string>
      <string name="gb_webwindow_schemedialog_cancel">Prekliči</string>
      <string name="gb_webwindow_schemedialog_title">Odprem Igre?</string>
@@ -292,7 +295,7 @@
      <string name="miuishare_weibo_title">Weibo</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Vrstica za iskanje</string>
-     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
@@ -302,8 +305,9 @@
      <string name="miuix_appcompat_cloud_state_syncing">Sinhronizacija z Cloudom…</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
-     <string name="miuix_appcompat_deselect_all">Prekliči</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -435,6 +439,7 @@
      <string name="pc_activity_title">Optimiziraj baterijo</string>
      <string name="pc_entered_extreme_mode">Način mirovanja je vklopljen</string>
      <string name="pc_entered_extreme_mode_summary">"Vaša naprava je prazna in je prešla v način mirovanja. Aplikacije bodo delovale v ozadju in ne bodo pošiljale obvestil."</string>
+     <string name="pc_entered_extreme_mode_summary2">"Vaša naprava je skoraj prazna. V načinu mirovanja ne boste prejeli nobenih obvestil od aplikacij, ki delujejo v ozadju."</string>
      <string name="pc_extreme_exit_and_power_off">Izhod</string>
      <string name="pc_extreme_mode_bg_toast">"V načinu mirovanja bodo aplikacije delovale v ozadju in ne bodo pošiljale obvestil"</string>
      <string name="pc_extreme_mode_exit_risk_title">Pozor</string>

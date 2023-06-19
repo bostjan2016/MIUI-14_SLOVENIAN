@@ -546,6 +546,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="more">Več</string>
      <string name="morning">Jutro</string>
      <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
+     <string name="net_daig_network_repair">Popravilo omrežja</string>
      <string name="net_diag_cancel">Prekliči</string>
      <string name="net_diag_continue">Nadaljuj</string>
      <string name="net_diag_dialog_msg">Testiranje omrežja vam bo pomagalo odkriti težave in izboljšati povezavo.</string>
@@ -560,9 +561,15 @@ Pošljite to kodo nadzorniku."</string>
      <string name="net_diag_entry_network_protocol">Omrežni protokol</string>
      <string name="net_diag_entry_network_rssi">Kakovost signala</string>
      <string name="net_diag_entry_router_topology">Omrežno usmerjanje</string>
+     <string name="net_diag_fix_guide_window_msg">Prišlo je do napake v omrežju. Tapnite za odpravljanje težav.</string>
+     <string name="net_diag_fixing">Popravilo omrežja. To lahko traja kako minuto.</string>
      <string name="net_diag_header_internet">Splet</string>
      <string name="net_diag_header_router">Usmerjevalnik</string>
      <string name="net_diag_header_this_device">Ta naprava</string>
+     <string name="net_diag_repair_msg">Med tem postopkom bo WiFi prekinjen in nato znova povezan. Popravim zdaj?</string>
+     <string name="net_diag_repair_msg_china">Med tem postopkom bo WiFi prekinjen in nato znova povezan. Popravim zdaj?</string>
+     <string name="net_diag_repair_static_ip_msg">Omrežne konfiguracije se lahko med tem postopkom ponastavijo. Popravim zdaj?</string>
+     <string name="net_diag_repair_title">Popravim omrežje?</string>
      <string name="net_diag_title">Testiranje omrežja</string>
      <string name="net_diag_toast_cellular_data">Če želite preizkusiti omrežje, najprej izklopite mobilne podatke.</string>
      <string name="net_diag_toast_other_networks">Če želite preizkusiti omrežje, se povežite na WiFi in najprej prekinite povezavo z drugimi omrežji.</string>

@@ -416,7 +416,7 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="in_progress">Poteka</string>
      <string name="inconsistent_pwd">"Gesli se ne ujemata"</string>
      <string name="indeterminate">Niti preverjeno niti nepreverjeno</string>
-     <string name="input_email_address_notice">"Ta naslov e-pošte bo uporabljen za potrjevanje vašega računa"</string>
+     <string name="input_email_address_notice">"Na navedeni naslov vam bomo poslali e-pošto s kodo za preverjanje."</string>
      <string name="input_new_pwd">Vnesite novo geslo</string>
      <string name="io_error_title">Potrdite vaše omrežje</string>
      <string name="item_view_role_description">Zavihek</string>
@@ -487,7 +487,7 @@ Pošljite to kodo našemu tehniku."</string>
 (Št. odklepanj: %2$s)"</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Vrstica za iskanje</string>
-     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
@@ -496,6 +496,7 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -797,6 +798,7 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="passport_imei_permission_denied_message">"Prosimo za dovoljenje za pridobitev IMEI vaše naprave. Mi Račun uporablja IMEI za identitifikacijo naprave na kateri ste se prijavili/prijavljate, da obdržite Mi Račun varen."</string>
      <string name="passport_imei_permission_denied_title">Zahteva za IMEI dovoljenje</string>
      <string name="passport_input_captcha_hint">Vnesite kodo</string>
+     <string name="passport_input_email_vcode_hint">Vnesite kodo</string>
      <string name="passport_input_password_for_login">Ta številka je povezana z obstoječim računom, vnesite svoje geslo</string>
      <string name="passport_input_password_hint">Vnesite geslo</string>
      <string name="passport_input_phone_hint">Vnesite telefonsko številko</string>
@@ -1003,6 +1005,7 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="passport_user_password_hint">Geslo</string>
      <string name="passport_user_reg_region">Država/Regija</string>
      <string name="passport_user_reg_region_warning">"Po zaprtju računa ne morete spremeniti državo/regijo"</string>
+     <string name="passport_vcode_email_send_prompt"><Data>Vaša potrditvena koda je bila poslana na &lt;a href=>&lt;xliff:g id=email_address>%s&lt;/xliff:g>&lt;/a></Data></string>
      <string name="passport_vcode_notice">Koda</string>
      <string name="passport_vcode_notification_title">Vaš vpis za preverjanje je nepopoln</string>
      <string name="passport_vcode_prompt_long">Vnesite kodo za preverjanje ki jo je ustvaril Mi Varnostni žeton</string>
@@ -1166,8 +1169,8 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
      <string name="system_ad">Oglasi v sist. aplikacijah</string>
-     <string name="system_ad_list">Poglejte povezane aplikacije.</string>
-     <string name="system_ad_summary">"Vklopite to storitev in tako omogočite prikazovanje majhnega števila oglasov v sistemskih aplikacijah. Ti oglasi nam pomagajo razvijati in izboljševati naše izdelke in storitve. To storitev lahko kadarkoli izklopite. Hvala za podporo! "</string>
+     <string name="system_ad_list">Poglejte povezane aplikacije</string>
+     <string name="system_ad_summary">Vklopite to storitev in tako omogočite prikazovanje majhnega števila oglasov v sistemskih aplikacijah. Ti oglasi nam pomagajo razvijati in izboljševati naše izdelke in storitve. To storitev lahko kadarkoli izklopite.</string>
      <string name="system_ad_switch">Oglasi v sist. aplikacijah</string>
      <string name="system_ad_switch_failed">"Ne morem uporabiti"</string>
      <string name="system_error_info">Sistem je zaseden. Počakajte minuto ali dve in poskusite znova.</string>

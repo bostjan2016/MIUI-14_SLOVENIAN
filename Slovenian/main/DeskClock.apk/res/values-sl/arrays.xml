@@ -77,6 +77,15 @@
         <item>Vsak dan</item>
         <item>Delovnik</item>
      </string-array>
+     <string-array name="bedtime_guide_repeat_type_international">
+        <item>Pon - Pet</item>
+        <item>Vsak dan</item>
+     </string-array>
+     <string-array name="bedtime_repeat_entires_international">
+        <item>Vsak dan</item>
+        <item>Pon - Pet</item>
+        <item>Po meri</item>
+     </string-array>
      <string-array name="bedtime_repeat_entries">
         <item>Vsak dan</item>
         <item>Pon - Pet</item>

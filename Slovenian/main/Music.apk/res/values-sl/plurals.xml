@@ -332,4 +332,12 @@ Opomba: Datoteka bo izbrisana tudi iz te naprave."</item>
         <item quantity="other">%d dni ostalo</item>
         <item quantity="one">%d dan ostal</item>
      </plurals>
+     <plurals name="whitelist_multi_added">
+        <item quantity="other">Dodano %d datotek</item>
+        <item quantity="one">Dodana %d datoteka</item>
+     </plurals>
+     <plurals name="whitelist_multi_added_before">
+        <item quantity="other">%d datotek je bilo že dodanih</item>
+        <item quantity="one">%d datotek je bila že dodana</item>
+     </plurals>
 </resources>

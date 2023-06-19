@@ -120,6 +120,10 @@
      <string name="ad_setting">Dodatne nastavitve</string>
      <string name="add">Dodaj</string>
      <string name="add_music">Dodaj skladbe</string>
+     <string name="add_songs_manually_bottom">Dodaj</string>
+     <string name="add_songs_manually_home">Dodaj skladbe ročno</string>
+     <string name="add_songs_manually_setting">Dodaj skladbe ročno</string>
+     <string name="add_to_group_notify">%1$s se je pridružil družini</string>
      <string name="add_to_last_of_playlist">Dodaj na konec seznama pesmi.</string>
      <string name="add_to_playlist">Dodaj v čakalno vrsto</string>
      <string name="add_to_playlist_successful">Uspešno dodano</string>
@@ -440,6 +444,7 @@ predvsem nudi Ultimate Inc."</string>
      <string name="create_playlist">Ustvari nov seznam predvajanja</string>
      <string name="create_playlist_failure">"Ne morem izdelati seznama predvajanja"</string>
      <string name="create_playlist_input_hint">Vnesi ime seznama predvajanja</string>
+     <string name="create_shortcut_for_playlist">Ustvarim bližnjico seznam predvajanja na začetnem zaslonu?</string>
      <string name="current_album">Trenutni ovitek albuma</string>
      <string name="current_lyric">Trenutni tekst</string>
      <string name="current_service_key">storitev</string>
@@ -2398,6 +2403,15 @@ Bodite srečni"</string>
      <string name="weixin_login_btn_content_description">Prijava z WeChat</string>
      <string name="welcome_to_entertainment">Oglejte si novo storitev Zabava za glasbene igre in še več</string>
      <string name="welcome_to_new_music">Dobrodošli v novo verzijo Mi Glasbe</string>
+     <string name="whitelist_add_exist">"Nekatere pesmi so že navedene v lokalnih pesmih in tukaj niso prikazane"</string>
+     <string name="whitelist_add_failed">"Ne morem dodati"</string>
+     <string name="whitelist_desc_1">"Če Mi glasba v vaši napravi ne najde skladb, ki jih iščete, jih lahko dodate ročno."</string>
+     <string name="whitelist_desc_2">"Te datoteke bodo prikazane, tudi če se velikost datoteke in dolžina pesmi ne ujemata ali če so v skritih mapah."</string>
+     <string name="whitelist_dialog_content">"Odstranjene datoteke ne bodo več prikazane med izjemami Mi glasba, vendar ne bodo izbrisane iz vaše naprave. Odstranim zdaj?"</string>
+     <string name="whitelist_dialog_title">Odstranim datoteke?</string>
+     <string name="whitelist_entrance_desc">"Ročno dodajte datoteke, ki jih Mi glasba ne najde samodejno"</string>
+     <string name="whitelist_entrance_text_1">"Ne najdete pesmi? "</string>
+     <string name="whitelist_title">Datoteke izjeme</string>
      <string name="wifi_required_body" formatted="false">"Uporabite WiFi da dokončate prenos %s . 
 
 Pritisnite %s da zaženete prenos naslednjič ko se povežete preko WiFi."</string>

@@ -60,6 +60,7 @@
      <string name="auto_frontflash_title">Test bliskavice sprednje kamere</string>
      <string name="auto_rearflash_description">Vse luči bliskavice zadnje kamere so prižgane, kliknite za uspelo, drugače kliknite za neuspeh</string>
      <string name="auto_rearflash_title">Test bliskavice zadnje kamere</string>
+     <string name="aux_mic_check_record_tip">Snemanje, prosim nekaj povejte v AUX MIC na zadnji strani telefona</string>
      <string name="back_mic_check_record_tip">Snemanje, prosim nekaj povejte v MIC na zadnji strani telefona</string>
      <string name="band_config_setting">BAND</string>
      <string name="baterry_percent">"Napolnjenost baterije: "</string>
@@ -203,10 +204,14 @@ Pred kalibracijo naprave jo položite na ravno površino."</string>
      <string name="cit_audio_hw_check_summary">Test preverjanja zvočne strojne opreme</string>
      <string name="cit_audio_hw_check_tips">Test v teku</string>
      <string name="cit_audio_hw_check_title">Test preverjanja zvočne strojne opreme</string>
+     <string name="cit_audio_lb_backmic_to_earpiece_title">Test povratnih informacij zvočnika zadnjega mikrofona</string>
      <string name="cit_audio_lb_backmic_to_speaker_title">Testiranje zadnjega zvočnika mikrofona</string>
      <string name="cit_audio_lb_frontmic_to_speaker_title">Testiranje pov. inf. sprednjega zvočnika mikrofona</string>
      <string name="cit_audio_lb_mainmic_to_earpiece_title">Testiranje glavnega zvočnika mikrofona</string>
      <string name="cit_audio_lb_phonecall_title">Imitacija klica</string>
+     <string name="cit_audio_lb_summary_backmic_to_earpiece">"Preskus povratne informacije od zadnjega mikrofona do sprejemnika.
+
+Držite napravo, kot da kličete, govorite v glavni mikrofon, iz slušalke bi morali slišati glas"</string>
      <string name="cit_audio_lb_summary_backmic_to_speaker">"Testiranje zadnjega zvočnika mikrofona. 
 
 Obrnite telefon, govorite v zadnji mikrofon, morali bi slišati glas v zvočniku"</string>
@@ -219,9 +224,13 @@ Držite telefon kot da kličete, govorite v glavni mikrofon, morali bi slišati 
      <string name="cit_audio_lb_summary_phonecall">"Testiranje Simulacije klica.
 
 Držite telefon kot da kličete, govorite v glavni mikrofon, morali bi slišati glas iz sprejemnika, napravite testiranje v tihem okolju"</string>
+     <string name="cit_audio_lb_summary_topmic_to_earpiece">"Test povratnih informacij od zgornjega mikrofona do sprejemnika.
+
+Držite napravo, kot da kličete, govorite v glavni mikrofon, iz slušalke bi morali slišati glas"</string>
      <string name="cit_audio_lb_summary_topmic_to_speaker">"Testiranje zgornjega mikrofona na zvočniku.
 
 Obrnite, govorite v zgornji mikrofon, morali bi slišati glas v zvočniku"</string>
+     <string name="cit_audio_lb_topmic_to_earpiece_title">Test povratnih informacij zvočnika zgornjega mikrofona</string>
      <string name="cit_audio_lb_topmic_to_speaker_title">Testiranje povratne informacije zvočnika zgornjega mikrofona</string>
      <string name="cit_audio_left_caldata">"Podatki Levo PA kalibriranja:
 "</string>
@@ -370,6 +379,15 @@ in polnilec obrnite nazaj"</string>
 Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
      <string name="cit_emergencycall_check_summary">Pritisnite Kliči 112 za klicanje številke 112 da preveriteali se lahko kliče 112.</string>
      <string name="cit_emergencycall_check_title">Nujni klic</string>
+     <string name="cit_esim_check_summary">V nadaljevanju je prikazano stanje eSIM, pravilen prikaz stanja eSIM pa pomeni, da je bil test uspešen</string>
+     <string name="cit_esim_check_title">eSIM kartica</string>
+     <string name="cit_esim_eid_error">eID neskladnost</string>
+     <string name="cit_esim_mode_general_summary">Podpira preklapljanje eSIM/SIM2</string>
+     <string name="cit_esim_mode_number">eSIM način:</string>
+     <string name="cit_esim_mode_single_summary">Ne podpira preklapljanje eSIM/SIM2</string>
+     <string name="cit_esim_serial_number">eSIM kartica :</string>
+     <string name="cit_esim_state_absent">eSIM ni aktivirana</string>
+     <string name="cit_esim_state_ready">eSIM omogočena</string>
      <string name="cit_exit_test_summary">Pri izhodu bodo izbrisani vsi povezani tekstualni podatki.</string>
      <string name="cit_exit_test_title">Ustavi testiranje</string>
      <string name="cit_external_keyboard_test_summary">Po priključitvi tipkovnice naključno vnesite znake in opazujte rezultate testa</string>
@@ -535,6 +553,7 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
  4. Dotaknite se ikone Preveri. Sistem bo samodejno shranil fotografijo.
  5. Fotografija ki ste jo posneli bi morala biti prikazana v nadaljevanju. Dotaknite se Izbriši za dokončanje testiranje."</string>
      <string name="cit_main_camera_check_title">Zadnja kamera</string>
+     <string name="cit_modem_hardware_title">Preizkus strojne opreme modema</string>
      <string name="cit_name">Testiranje strojne opreme</string>
      <string name="cit_nfc_check_enable_tip">Init NFC Test okolja</string>
      <string name="cit_nfc_check_summary">Postavite kartico na vrh zadnje strani telefona</string>
@@ -951,6 +970,7 @@ Druga vrstica prikazuje ime in številko različice privzetih MBN in Carrier MBN
      <string name="cit_tool_wlan_sniffer_test_title">WiFi sniffer testno orodje</string>
      <string name="cit_tool_wlan_test_title">WiFi testno orodje</string>
      <string name="cit_tool_wlan_tx_ax_gI">Varovalni interval:</string>
+     <string name="cit_tool_wlan_tx_be_gI">Varovalni interval:</string>
      <string name="cit_tool_wlan_tx_bg_chan">kanal:</string>
      <string name="cit_tool_wlan_tx_n_bandwidth">pasovna širina:</string>
      <string name="cit_tool_wlan_tx_n_chan">kanal:</string>
@@ -1260,6 +1280,7 @@ določen položaj"</string>
      <string name="ok">V redu</string>
      <string name="open_third_color_led">Odpri tribarvno led</string>
      <string name="pass">Uspelo</string>
+     <string name="password_enroll_error">Vaš telefon ima geslo, ne morem dobiti podatkov o prstnem odtisu</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
      <string name="phone_not_been_restarted">Telefon ni bil znova zagnan</string>
      <string name="picture">Slika</string>
@@ -1318,6 +1339,7 @@ Kliknite tipko Push kamere da boste ugotovili ali se je kamera vključila"</stri
      <string name="receiver_on_off_tips">Sprejemnik  Vkl/Izkl stikalo</string>
      <string name="refresh_number_of_keys">osveži število tipk</string>
      <string name="removeFingerprint">Odstrani prstni odtis</string>
+     <string name="remove_finger">test odstranitve prsta</string>
      <string name="remove_headset_and_starttest">Odstranite slušalke in pritisnite start za testiranje</string>
      <string name="request_permission">Za ta vzorec je potrebno dovoljenje kamere.</string>
      <string name="resetpixel_test">PONASTAVI TEST PIXLOV</string>

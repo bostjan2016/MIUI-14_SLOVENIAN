@@ -21,6 +21,10 @@
 %1$s
 
 "</string>
+     <string name="wifi_ca_cert_dialog_message_expiration_text">"Veljavnost potrdila:
+%1$s
+
+"</string>
      <string name="wifi_ca_cert_dialog_message_hint">"Temu omrežju dovolite povezavo samo, če so spodnje informacije videti pravilne.
 
 "</string>

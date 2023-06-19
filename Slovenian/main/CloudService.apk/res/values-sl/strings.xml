@@ -327,7 +327,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="gallery_data_transfer_ddl">Rok: %s</string>
      <string name="gallery_data_transfer_summary">"Stvari galerije ni več mogoče sinhronizirati z Xiaomi Cloud. Priporočamo, da fotografije in videoposnetke, ki ste jih sinhronizirali z oblakom, prenesete v Google Foto in uporabite njihove storitve za varnostno kopiranje svojih stvari."</string>
      <string name="gallery_data_transfer_title">Prenesite sinhronizirane fotografije in videoposnetke v Google Foto</string>
-     <string name="gallery_service_termination_announcement">Obvestilo: Stvari galerije ni več mogoče sinhronizirati z Xiaomi Cloud</string>
+     <string name="gallery_service_termination_announcement">Obvestilo o prekinitvi sinhronizacije Xiaomi Cloud za stvari iz Galerije in prenosu v Google Foto</string>
      <string name="gallery_service_termination_announcement_title">"Stvari galerije ni več mogoče sinhronizirati z Xiaomi Cloud. Priporočamo, da fotografije in videoposnetke, ki ste jih sinhronizirali z oblakom, prenesete v Google Foto ali obiščete i.mi.com, da prenesete sinhronizirane fotografije in videoposnetke v svojo napravo. Storitve prenosa in prenosa bodo na voljo do %s, takrat pa bodo vse stvari galerije, sinhronizirane z vašim računom Xiaomi Cloud, trajno izbrisane."</string>
      <string name="gallery_service_termination_btn_continue">Nadaljuj</string>
      <string name="gallery_service_termination_more_info">Za več podrobnosti glejte \"%s\"</string>
@@ -501,7 +501,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="micloud_detail_query_error">"Ne morem dobiti statusa sinhronizacije"</string>
      <string name="micloud_dspt">"Sinhronizirajte stike, sporočila, zgodovino klicev in druge stvari na vseh napravah.
 Najdite in zaklenite napravo, če se izgubi."</string>
-     <string name="micloud_dspt_provision">Uporabi Mi Cloud za sinhronizacijo podatkov, iskanje naprave in skupno rabo stvari s prijatelji.</string>
+     <string name="micloud_dspt_provision">Xiaomi Cloud lahko uporabite za sinhronizacijo fotografij, stikov, sporočil, zgodovine klicev, zapiskov in drugih podatkov, lociranje vaše naprave in skupno rabo stvari s prijatelji. Ta aplikacija mora za normalno delovanje vzpostaviti povezavo s spletom. Sinhronizacija stvari bo morda zahtevala mobilno podatkovno povezavo in vklop WiFi.</string>
      <string name="micloud_dspt_provision_china">Uporabi Mi Cloud za sinhronizacijo podatkov, iskanje naprave in skupno rabo stvari s prijatelji.</string>
      <string name="micloud_dspt_provision_china_no_call">Xiaomi Cloud lahko uporabite za sinhronizacijo fotografij, stikov, sporočil, zapiskov, posnetkov in drugih podatkov, lociranje vaše naprave in skupno rabo stvari z prijatelji. Ta aplikacija mora za normalno delovanje vzpostaviti povezavo s spletom. Sinhronizacija stvari bo morda zahtevala mobilno podatkovno povezavo in vklop WiFi.</string>
      <string name="micloud_dspt_provision_china_no_sms">Xiaomi Cloud lahko uporabite za sinhronizacijo fotografij, stikov, zgodovine klicev, zapiskov in drugih podatkov, lociranje vaše naprave in skupno rabo stvari z prijatelji. Ta aplikacija mora za normalno delovanje vzpostaviti povezavo s spletom. Sinhronizacija stvari bo morda zahtevala mobilno podatkovno povezavo in vklop WiFi.</string>
@@ -725,7 +725,8 @@ Najdite in zaklenite napravo, če se izgubi."</string>
      <string name="micloud_space_duokan_detail">Urejajte vašo Duokan vsebino s pomočjo Duokan aplikacije.</string>
      <string name="micloud_space_duokan_title">Duokan</string>
      <string name="micloud_space_full_influence">Kaj se zgodi ko mi zmanjka prostora?</string>
-     <string name="micloud_space_soundrecorder_detail">Urejajte posnetke shranjene na vaši napravi</string>
+     <string name="micloud_space_soundrecorder_detail">Odprite aplikacijo Snemalnik v napravi Xiaomi in izberite mapo z stvarmi, shranjenimi v oblaku.
+Prepričajte se, da uporabljate povezani račun Xiaomi kot sistemski račun MIUI</string>
      <string name="micloud_space_soundrecorder_title">Posnetki</string>
      <string name="micloud_storage">Prostor za shranjevanje</string>
      <string name="micloud_storage_detail">Podrobnosti</string>
@@ -1266,6 +1267,7 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
      <string name="update_dialog_no_update_toast_text">Nameščena verzija je zadnja</string>
      <string name="update_dialog_title">Na voljo je posodobitev</string>
      <string name="update_dialog_update_button_text">Posodobi</string>
+     <string name="upgrade_member_storage">Xiaomi Cloud članstvo</string>
      <string name="upgrade_space">Dodaj prostor</string>
      <string name="upgrade_space_gb">GB</string>
      <string name="upgrade_space_mibipreyear">%s Mi kreditov na leto</string>

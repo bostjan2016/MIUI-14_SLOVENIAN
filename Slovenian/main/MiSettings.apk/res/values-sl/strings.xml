@@ -307,6 +307,8 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="focus_time_exception_tip">Kaže da je zamenjan sistemski čas. Izključite način fokusiranja.</string>
      <string name="follow_apps_settings">Na podlagi nastavitev aplikacije</string>
      <string name="follow_sim1">Uporabi nastavitve SIM 1</string>
+     <string name="footer_max_fps" formatted="false">"
+%d. Hitrost osveževanja je mogoče prilagoditi do %s Hz za podprte aplikacije in igre."</string>
      <string name="force_rest">Uporabite odmore</string>
      <string name="force_rest_summary">Vzemite si obvezne odmore, ko seje dosežejo nastavljeno omejitev</string>
      <string name="force_rest_time">Trajanje odmora</string>
@@ -419,11 +421,12 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="marabou_stork">Marabu štorklja</string>
      <string name="marabou_stork_info">Štorklja marabu je ogromna ptica, pogosta smetarka.</string>
      <string name="masked_palm_civet">Maskirana palmova cibetka</string>
+     <string name="max_fps_string">Do %s Hz</string>
      <string name="medium_tree_finch">Srednja drevesna ščinkavica</string>
      <string name="midnight">Noč</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Vrstica za iskanje</string>
-     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
@@ -435,6 +438,7 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -651,6 +655,7 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="stop_summary">Če to izključite bo izbrisana vsa statistika in podatki časa zaslona</string>
      <string name="suggestion">Povratna inf.</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+     <string name="summary_max_fps_for_intelligent">Dinamično prilagodite hitrost osveževanja do %s Hz glede na scenarije, da uravnotežite zmogljivost in porabo energije</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>

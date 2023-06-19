@@ -171,6 +171,12 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="ad_btn_default_text">Izvedite več</string>
      <string name="ad_floating_window_title">Za odklepanje zaprite plavajoče okno</string>
      <string name="ad_split_screen_title">Za odklep zaslona izidite iz celega zaslona</string>
+     <string name="ad_text_adx">Oglasi</string>
+     <string name="ad_text_btn_download">Namesti</string>
+     <string name="ad_text_develop">Razvijalec: %1$s</string>
+     <string name="ad_text_permission">Dovoljenja</string>
+     <string name="ad_text_privacy">Zasebnost</string>
+     <string name="ad_text_version">Različica: %1$s</string>
      <string name="ad_update_time">Zadnja posodobitev %s</string>
      <string name="ad_update_time_unKnown">Zadnja posodobitev neznana</string>
      <string name="adb_install_no_network">Povežite se na omrežje in poskusite ponovno</string>
@@ -215,6 +221,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="alert_back_milink_hangup_tips_content_vb">"Predvajanje ne bo prekinjeno če je zaslon izključen in aplikacija dela v ozadju. Pritisnite gumb Vklop da spet vključite zaslon."</string>
      <string name="all_address_choose_hint">Vse številke v tej pokrajini</string>
      <string name="allow_all">Dovoli vse</string>
+     <string name="allow_onetime">Dovoli enkrat</string>
      <string name="already_close_gamebooster">Pohitritev hitrosti igranja je izključeno</string>
      <string name="am">dop.</string>
      <string name="anim_gamebooster_text">Samo trenutek…</string>
@@ -489,6 +496,15 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="app_install_tips_go_to">Odpri</string>
      <string name="app_install_tips_install_success">%1$s uspešno nameščen</string>
      <string name="app_maanger_app_uninstalled_toast">Ta aplikacija je odstranjena</string>
+     <string name="app_management_for_chain_start">Blokiraj odpiranje drugih aplikacij</string>
+     <string name="app_management_for_chain_start_desc">Prepreči tej aplikaciji povezovanje ali odpiranje drugih aplikacij</string>
+     <string name="app_management_for_device_id">Skrij identifikatorje in prepreči sledenje</string>
+     <string name="app_management_for_device_id_desc">Prepreči tej aplikaciji dostop do vaše telefonske številke in osebnih podatkov</string>
+     <string name="app_management_for_independent_storage">Izoliraj predpomnjene podatke</string>
+     <string name="app_management_for_independent_storage_desc">Aplikaciji dovolite samo dostop do lastnih datotek in podatkov</string>
+     <string name="app_management_for_install">Blokiraj prenose aplikacij</string>
+     <string name="app_management_for_install_desc">Prepreči tej aplikaciji prenos ali namestitev drugih aplikacij</string>
+     <string name="app_management_measures">Upravljanje aplikacij</string>
      <string name="app_manager_advanced_setting">Dodatne nastavitve</string>
      <string name="app_manager_allow">Da</string>
      <string name="app_manager_anomaly_analysis">Analiziraj nepravilnosti v aplikacijah tretjih oseb</string>
@@ -641,6 +657,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="app_manager_tab_manager">Urejanje</string>
      <string name="app_manager_thumbnail_blur_summary">Zameglite pregled aplikacij v nedavno</string>
      <string name="app_manager_thumbnail_blur_title">Zamegleni pregledi aplikacij</string>
+     <string name="app_manager_thumbnail_shield_summary">Zamaskiraj predoglede aplikacij v Nedavno</string>
      <string name="app_manager_title">Aplikacije</string>
      <string name="app_manager_to_appstore">Odkrijte več aplikacij</string>
      <string name="app_manager_total_size">Skupaj</string>
@@ -670,6 +687,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="app_name_pad">Varnost</string>
      <string name="app_name_phone">Varnost</string>
      <string name="app_name_securitycenter">Varnost</string>
+     <string name="app_name_securitycenter_new">Varnost</string>
      <string name="app_not_installed_toast">"Aplikacija ni nameščena v vaši napravi."</string>
      <string name="app_perm_manager_service">Dovoljenja</string>
      <string name="app_permission_use_group_calendar">Koledar</string>
@@ -822,8 +840,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="apps_item_sign_install_button_text">Zamenjaj</string>
      <string name="apps_item_sms_default_set_success">Uspešno nastavljeno!</string>
      <string name="apps_item_sms_reset_button_text">Vrni privzeto</string>
-     <string name="apps_item_sms_title">Privzete nastavitve sporočil</string>
-     <string name="apps_item_summary_sms">%s ima dostop do sporočil, to lahko povzroči varnostne težave</string>
+     <string name="apps_item_sms_title">Privzeta aplikacija za sporočanje je bila zamenjana</string>
+     <string name="apps_item_summary_sms"%s zdaj upravlja vaš SMS. Za bolj stabilno in varno izkušnjo namesto tega uporabite sistemsko aplikacijo MIUI."</string>
      <string name="apps_item_summary_system_rooted">ROOT dostop je dovoljen, vrnite na privzeto da boste preprečili varnostne težave!</string>
      <string name="apps_item_summary_system_update">Nekatere napake so odpravljene v novi verziji, tako da so plačila še varnejša.</string>
      <string name="apps_item_title_system">Posodobitev sistema</string>
@@ -997,6 +1015,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="auto_task_voice_dialog_alarm_title">Alarmi</string>
      <string name="auto_task_voice_dialog_call_title">Klici, obvestila, opomniki</string>
      <string name="auto_task_voice_dialog_media_title">Glasba, igre, predstavnosti</string>
+     <string name="autostart_now_tip">"Blokirano \"%1$s\" za odpiranje \"%2$s\" "</string>
      <string name="back">Nazaj</string>
      <string name="back_app_name">Vrni se na zakl. aplikacije</string>
      <string name="back_description_securitycenter">Nazaj</string>
@@ -1125,6 +1144,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="blacklist_prefix_add_hint">Blokiraj vse številke ki se začnejo s to predštevilko</string>
      <string name="block_message_number">SMS-ov: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
      <string name="block_phone_number">Klicev: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+     <string name="blur_location_title">Približna lokacija</string>
      <string name="boost_done">Uspešno pohitreno</string>
      <string name="boost_stop">Izključi pohitritev</string>
      <string name="booster_immediately">Pohitri</string>
@@ -1305,6 +1325,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="cetus_invisible_mode_warn_location">"Ste nevidni. Dovoljenja za lokacijo so onemogočena."</string>
      <string name="cetus_invisible_mode_warn_open">Način brez beleženja zgodovine začasno izključi dovoljenja za mikrofon, kamero in lokacijo za vse aplikacije. Vklopim zdaj?</string>
      <string name="cetus_invisible_mode_warn_record_audio">"Ste nevidni. Dovoljenja za mikrofon so onemogočena."</string>
+     <string name="chainstart_desc_for_exemption">Nepregledana aplikacija \"%1$s\" odpira \"%2$s\". Bodite previdni pri plačilih.</string>
      <string name="character_counter_content_description">Vneseni znaki %1$d od %2$d</string>
      <string name="character_counter_overflowed_content_description">Omejitev znakov je presežena %1$d od %2$d</string>
      <string name="charge_high_temp_warning_dialog_ok">Razumem</string>
@@ -1407,6 +1428,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="cs_func_toast_headset">Odklopite slušalke, da lahko uporabite to storitev</string>
      <string name="cs_func_toast_light">Preklopite na sprednjo kamero, da boste lahko uporabljali to storitev</string>
      <string name="cs_func_toast_pickup">Če želite uporabljati to storitev, preklopite na videoklic</string>
+     <string name="cs_pickup_denoise_desc">Zmanjšaj hrup dohodnega zvoka med uporabo zvočnikov ali slušalk</string>
+     <string name="cs_pickup_denoise_title">Zmanjšanje hrupa</string>
      <string name="cs_pickup_multi_desc">%d stopinj zajema zvoka</string>
      <string name="cs_pickup_multi_title">Več udeležencev</string>
      <string name="cs_pickup_single_desc">Zajemaj samo zvok pred zaslonom</string>
@@ -1429,6 +1452,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="cta_dialog_positive">Strinjam se se</string>
      <string name="cta_dialog_title">Pravila in pogoji</string>
      <string name="cta_main_purpose">"Dobrodošli v Varnost! Varnost in njene module (vključno z varnostnimi komponentami MIUI, sistemskimi storitvami in Joyose) lahko uporabite za sprostitev prostora za shranjevanje, pregledovanje vaše naprave glede virusov, nadzor porabe baterije, optimizacijo vaše naprave za igranje iger, upravljanje aplikacij, prejemanje zgodnjih opozoril o potresih in več. Varnostne komponente MIUI se bodo povezale s spletom in izvajale varnostne preglede, medtem ko nameščate aplikacije in plačujete."</string>
+     <string name="cta_main_purpose_new">"Dobrodošli v Varnost! Varnost in njene module (vključno z varnostnimi komponentami MIUI, varnostnimi in sistemskimi storitvami ter Joyose) lahko uporabite za sprostitev prostora za shranjevanje, skeniranje vaše naprave glede virusov, nadzor porabe baterije, optimizacijo naprave za igranje iger, upravljanje aplikacij, prejemanje zgodnjih opozoril o potresu , in več. Varnostne komponente MIUI se bodo med nameščanjem aplikacij in plačevanjem povezale s spletom in izvajale varnostne preglede."</string>
      <string name="cta_settings">Dovoli spletno povezavo in dostop do lokacije</string>
      <string name="current_network_state_not_need_diagnose">Spletna povezava je v redu</string>
      <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Za uporabo seznama blokiranih in klicanje stikov v sili, ko so izdana opozorila o potresu</string>
@@ -1708,6 +1732,8 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="doze_optimization_title">Optimizirano urejanje dotika</string>
      <string name="dual_setting_simcard1">SIM 1</string>
      <string name="dual_setting_simcard2">SIM 2</string>
+     <string name="dynamic_performance_optimization_summary">Dinamično prilagodi ločljivost med igralnimi sejami</string>
+     <string name="dynamic_performance_optimization_title">Dinamična zmogljivost</string>
      <string name="early_morning">Jutro</string>
      <string name="edit_new_task_name">Vnesite ime opravila</string>
      <string name="edit_phone_num">Uredite telefonsko številko SIM</string>
@@ -2448,6 +2474,8 @@ lahko izprazni baterijo in povzroči pregrevanje"</string>
      <string name="gb_turbo_wonder_subtitle">Posnemite ključne trenutke</string>
      <string name="gb_vision_enhance">Izboljšani vizualni elementi</string>
      <string name="gb_vision_enhance_desc">Izboljšajte kakovost slike in zmogljivost</string>
+     <string name="gb_vision_enhance_frme_insertion_tips">"Pametna hitrost sličic
+%dFPS"</string>
      <string name="gb_vision_enhance_smart_frame_insertion">Pametna hitrost sličic</string>
      <string name="gb_vision_enhance_smart_frame_insertion_desc">Samodejno prilagodite hitrost sličic, da bo gibanje bolj gladko</string>
      <string name="gb_vision_enhance_super_resolution">Super resolucija</string>
@@ -2809,6 +2837,7 @@ da se pridružite našemu lovu na jajca!"</string>
      <string name="input_aviable_traffic">Nastavi omejitev porabe podatkov</string>
      <string name="input_celluar_data_quota_hint">Vnesite omejitev podatkov</string>
      <string name="input_cellular_data_warn_hint">Vnesite opzorilo omejitve porabe podatkov</string>
+     <string name="input_hint_search_app">Iskanje aplikacij</string>
      <string name="input_password_hint_text">Vnesite geslo</string>
      <string name="input_phone_num_hint">Uredi tel. številko SIM</string>
      <string name="input_title">Tapnite za vnos</string>
@@ -3365,7 +3394,7 @@ Možnost \"Samodejno prilagodi statistiko uporabe podatkov\" lahko kadarkoli izk
  3. Signal omrežja mobilnega operaterja je lahko slab na vaši trenutni lokaciji."</string>
      <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
      <string name="network_operator_exception_summary">"Ne morem aktivirati SIM kartice. Preverite če je  SIM kartica pravilno vstavljena in da je vaša tarifa aktivirana."</string>
-     <string name="network_permission_exception_tips">"Ne morem uporabiti mobilne podatke za povezovanje na omrežje"</string>
+     <string name="network_permission_exception_tips">Ta funkcija mora uporabljati mobilne podatke, da lahko normalno deluje.</string>
      <string name="network_roaming_exception_tips">"Ne morem uporabiti mobilne podatke v gostovanju za povezovanje na omrežje."</string>
      <string name="network_route_exception_detail">"Morda je problem z routerjem s katerim ste povezani:
 
@@ -3682,7 +3711,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="optimize_result_summary_sucurity_risk">Nekatera varnostna opravila so izključena. Vključite jih za večjo varnost:</string>
      <string name="optimize_result_summary_system_default_settings">"Uporaba privzetih MIUI aplikacij povečuje stabilnost in varnost sistema."</string>
      <string name="optimize_result_title_sucurity_risk">Najdeno varnostno tveganje</string>
-     <string name="optimize_result_title_system_default_settings">Privzete nastavitve so spremenjene</string>
+     <string name="optimize_result_title_system_default_settings">Privzete sistemske nastavitve so spremenjene</string>
      <string name="optimize_result_title_uninstall_apps">Odstrani aplikacije</string>
      <string name="optimize_result_toast_system_default_settings">Vrni na privzete nastavitve</string>
      <string name="optimize_result_toast_system_no_item_selected">Ni izbranih stvari</string>
@@ -3703,6 +3732,14 @@ To skrajšuje trajanje baterije."</string>
      <string name="other_milink_connect">"Ne morem predvajati. Predvaja se druga vsebina."</string>
      <string name="other_operator_name_virtual_operator">Drugi virtualni operaterji</string>
      <string name="over_package_reminder_type">Ko je podatkovni paket porabljen</string>
+     <string name="overlay_permission_dialog_comment">Dovolite varnosti, da prikaže stvari prek drugih aplikacij.</string>
+     <string name="overlay_permission_dialog_comment_pad">Dovolite varnosti, da prikaže stvari prek drugih aplikacij.</string>
+     <string name="overlay_permission_dialog_comment_security_service">Dovolite \"Varnostnim orodjem\", da prikažejo stvari prek drugih aplikacij. To dovoljenje lahko podelite v nastavitvah.</string>
+     <string name="overlay_permission_dialog_message">Varnost potrebuje dovoljenja, da lahko normalno deluje.</string>
+     <string name="overlay_permission_dialog_message_pad">Varnost potrebuje dovoljenja, da lahko normalno deluje.</string>
+     <string name="overlay_permission_dialog_message_security_service">Varnost potrebuje določena dovoljenja za normalno delovanje.</string>
+     <string name="overlay_permission_dialog_open">Nastavitve</string>
+     <string name="overlay_permission_dialog_title">Potrebna so dovoljenja</string>
      <string name="package_change_notification_summary">Tapnite da izveste več.</string>
      <string name="package_change_notification_title">Nastavite omejitev podatkov na samodejno</string>
      <string name="package_setted_error_notification_summary">Tapnite za prikaz podrobnosti o porabi podatkov.</string>
@@ -4486,6 +4523,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="pp_understanding_privacy">Ozaveščenost</string>
      <string name="pp_virtual_identity_manager">Virtualna ID</string>
      <string name="pp_virtual_identity_summary">Virtualna ID (OAID) je lahko posredovana namesto pravega identifikatorja. Ščiti vašo zasebnost in vam omogoča nadzor nad tem, kako aplikacije sledijo vašemu vedenju.</string>
+     <string name="precise_location_title">Natančna lokacija</string>
      <string name="pref_about">O aplikaciji</string>
      <string name="pref_about_traffic_title">Nastavitve porabe podatkov</string>
      <string name="pref_add_traffic_pkg">Dodatno kupljeni podatki</string>
@@ -4889,6 +4927,8 @@ Umaknem soglasje zdaj?"</string>
      <string name="privacy_thumbnail_blur_search_empty">"Nič ne najdem"</string>
      <string name="privacy_thumbnail_blur_title">Zamegli preglede</string>
      <string name="privacy_thumbnail_blur_top_tip">Izberite aplikacije, za katere bodo pogledi v meniju Nedavno zamegljeni</string>
+     <string name="privacy_thumbnail_shield_title">Predogled maskiranja</string>
+     <string name="privacy_thumbnail_shield_top_tip">Maskirajte predoglede za aplikacije, prikazane v Nedavnih</string>
      <string name="privacy_type_open">Vključeno</string>
      <string name="privacy_update_dialog_content_1">%s Pravila o zasebnosti so bila posodobljena:</string>
      <string name="privacy_update_dialog_content_2"><Data>Preberite in se strinjajte z novo različico &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a> preden nadaljujete.</Data></string>
@@ -5317,6 +5357,7 @@ Umaknem soglasje zdaj?"</string>
      <string name="sim_lock_start_summary">Ta storitev vas ščiti pred morebitnimi tveganji v primeru izgube kartice SIM.</string>
      <string name="sim_lock_start_title">SIM varnost</string>
      <string name="sim_lock_toast_no_sim">Najprej namestite kartico SIM</string>
+     <string name="sim_lock_verify_time_out">Časovna omejitev preverjanja je potekla. Poskusite ponovno.</string>
      <string name="sim_not_ready">"SIM kartica ni pripravljena"</string>
      <string name="sim_not_ready_toast">"SIM kartica ni pripravljena"</string>
      <string name="sim_state_exception_summary">Stanje SIM kartice kaže da nekaj ni v redu z njo.</string>
@@ -5595,6 +5636,7 @@ Umaknem soglasje zdaj?"</string>
      <string name="st_show_num_keyword">" ključne besede"</string>
      <string name="st_show_num_number">" Številk"</string>
      <string name="st_sms_group">SMS</string>
+     <string name="st_sms_intercept_oversea">Mednarodni SMS</string>
      <string name="st_sub_title_customize_mode_name">Ime</string>
      <string name="st_sub_title_whiteblack_list_group">Seznam blokiranih</string>
      <string name="st_sum_call_wait">Vaše sporočilo \"Sem odsoten\" se bo predvajal kot signal zaseden za dohodne klice.</string>
@@ -5784,7 +5826,7 @@ Z formatiranjem bo izbrisana vsebina ^2. Če želite preprečiti izgubo vsebine,
      <string name="summary_block_calls_from_cantacts">"Klici sikov so blokirani."</string>
      <string name="summary_block_calls_from_strangers">Klici tujcev so blokirani</string>
      <string name="summary_cleaner_cloudscan">Naloži in primerjaj imena map s spletnimi opredelitvami</string>
-     <string name="summary_cloud_account">Dobite največ iz vaše Mi naprave</string>
+     <string name="summary_cloud_account">Uporabljajte vse storitve Xiaomi</string>
      <string name="summary_cloud_service">Sinhroniziraj fotografije, imenik in ostalo v vseh vaših napravah</string>
      <string name="summary_cloud_space_almost_full">Kupite več prostora</string>
      <string name="summary_cloud_space_full">Pridobite več prostora za shranjevanje in dostop do več opravil</string>

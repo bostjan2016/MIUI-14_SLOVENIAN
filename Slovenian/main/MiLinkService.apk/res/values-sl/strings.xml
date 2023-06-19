@@ -265,6 +265,8 @@ vaših naprav?"</string>
      <string name="dialog_miplay_permission_message">Dovoli Castingu, da snema zvoke, dostopa do datotek v notranjem pomnilniku in do vaše lokacije, da lahko normalno uporabljate to storitev. Dotaknite se \"Nastavitve\" in za nadaljevanje izberite \"Dovoljenja aplikacij\".</string>
      <string name="dialog_miplay_permission_positive">Nastavitve</string>
      <string name="dialog_miplay_permission_title">Potrebno je dovoljenje</string>
+     <string name="dialog_nearbydevice_permission_message">Dovolite tej napravi dostop do bližnjih naprav, da bo lahko uporabljala storitev predvajanja.</string>
+     <string name="dialog_nearbydevice_permission_title">Potrebna so dovoljenja</string>
      <string name="dialog_nfc_cast_wifi_off">Vključite WiFi da boste lahko predvajali preko NFC. Vključim?</string>
      <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Mobilno napravo in televizor povežite z istim omrežjem Wifi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Pri nekaterih modelih televizorjev je ta storitev na voljo samo, če je zrcaljenje zaslona vklopljeno. Poglejte &lt;a href=milink://com.milink.service/specification>\"Pomoč\"&lt;/a> da izveste več.</Data></string>
      <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Mobilno napravo in televizor povežite z istim omrežjem Wifi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Pri nekaterih modelih televizorjev je ta storitev na voljo samo, če je zrcaljenje zaslona vklopljeno. Poglejte &lt;a href=milink://com.milink.service/specification>\"Pomoč\"&lt;/a> da izveste več.</Data></string>

@@ -348,6 +348,11 @@
 Kako podeliti dovoljenje
 Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="new_saf_permission_dialog_grant_permission_immediately">Naprej</string>
+     <string name="new_search_alll_records_hint">Iskanje po vseh posnetkih</string>
+     <string name="new_search_app_records_hint">Iskanje posnetkov aplikacije</string>
+     <string name="new_search_call_records_hint">Iskanje posnetkov klicev</string>
+     <string name="new_search_fm_records_hint">Iskanje radijskih posnetkov</string>
+     <string name="new_search_recorder_records_hint">Iskanje v snemalniku</string>
      <string name="night">Večer</string>
      <string name="no_content">Tu ni ničesar</string>
      <string name="no_file">Prazno</string>

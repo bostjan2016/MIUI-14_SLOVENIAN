@@ -153,11 +153,11 @@
         <item quantity="one">%1$d sek.</item>
      </plurals>
      <plurals name="worldcolock_timezone_gap_fast">
-        <item quantity="other">%s ur naprej</item>
-        <item quantity="one">%s ura naprej</item>
+        <item quantity="other">+%s ur</item>
+        <item quantity="one">+%s uro</item>
      </plurals>
      <plurals name="worldcolock_timezone_gap_slow">
-        <item quantity="other">%s ur nazaj</item>
-        <item quantity="one">%s ura nazaj</item>
+        <item quantity="other">-%s ur</item>
+        <item quantity="one">-%s uro</item>
      </plurals>
 </resources>

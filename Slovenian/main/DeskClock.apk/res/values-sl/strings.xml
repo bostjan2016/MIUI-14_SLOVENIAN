@@ -43,7 +43,7 @@
      <string name="afternoon">Popoldne</string>
      <string name="aggree_desc">Dovolite aplikaciji povezavo s spletom in odobrite zgoraj navedena obvezna dovoljenja.</string>
      <string name="agree">Strinjam se</string>
-     <string name="alarm_alert">Privzeto zvonjenje</string>
+     <string name="alarm_alert">Alarm zvoni</string>
      <string name="alarm_alert_alert_silenced">Alarm utišan po %1$s minutah.</string>
      <string name="alarm_alert_close_entrance">Izključi</string>
      <string name="alarm_alert_disabled">Izključeno</string>
@@ -171,7 +171,7 @@
      <string name="delete_selected_timer_item">Izbrišem izbrano nalogo štoparice?</string>
      <string name="delete_timer_item_title">Izbriši izbrano opravilo</string>
      <string name="delete_timezone_title">Izbriši časovni pas</string>
-     <string name="deskclock_sleep_no_disturbance">Ura - Urejaj čas za spanje -DND način</string>
+     <string name="deskclock_sleep_no_disturbance">Ura > Urejaj čas za spanje > DND način</string>
      <string name="device_sounds">Zvoki naprave</string>
      <string name="dialog_confirm_abort">Zavržem spremembe?</string>
      <string name="dialog_legal_off_day">Kaže da uporabljate praznične alarme. Potrebna je povezava na splet. Pred uporabo se morate strinjati z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?"</string>
@@ -589,7 +589,7 @@ mm"</string>
      <string name="sleep_notification_title">Čas je za posteljo</string>
      <string name="sleep_record">Spremljajte spanje</string>
      <string name="sleep_record_desc">Vključite za začetek snemanja podatkov o stanju spanja</string>
-     <string name="sleep_record_desc_detailed">"Ponuja Mi Zdravje. Po vklopu Mi Zdravje samodejno beleži vaše spanje na osnovi uporabe telefona, statistike aktivnosti in časa ki ste ga nastavili (kdaj ste zaspali/se zbudili), z prikazom statistike v obliki lestvice. Za točne podatke dovolite aplikaciji samodejni zagon. Vsi povezani podatki bodo shranjeni lokalno v vaši napravi.
+     <string name="sleep_record_desc_detailed">"Storitev sledenja spanju zagotavlja Xiaomi zdravje. Ko je vklopljeno, Xiaomi zdravje samodejno beleži vaše spanje na podlagi vaše uporabe telefona, statističnih podatkov o dejavnosti ter nastavljenega časa za spanje in bujenja ter vam prikazuje statistične podatke v obliki grafikonov. Če želite natančneje slediti spanju dovolite samodejni zagon Xiaomi zdravje. Vsi povezani podatki bodo shranjeni lokalno v vaši napravi za enostavno upravljanje.
 "</string>
      <string name="sleep_record_desc_detailed_new">Sledenje spanju omogoča storitev Mi Fitness Sleep. Če vklopite to storitev, bo Mi Fitness samodejno zbiral in prikazoval podatke o vašem spanju glede na vašo uporabo telefona, dejavnost ter čas spanja in zbujanja, ki ste ga nastavili. Za natančnejše sledenje spanju dovolite Mi Fitness, da se samodejno zažene.</string>
      <string name="sleep_record_no_data">"Vaša statistika bo prikazana tu
@@ -599,6 +599,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="sleep_wake_time">%1$s-%2$s</string>
      <string name="slider_text">Podrsajte navzgor za preklic alarma</string>
      <string name="slider_text_new">Podrsajte navzgor za ustavitev alarma</string>
+     <string name="snooze_alarm_alert">Odloženo do %s</string>
      <string name="snooze_confirm_cancel">Zavrzi alarm</string>
      <string name="snooze_duration">Odloži</string>
      <string name="snooze_duration_text">%1$s | %2$s</string>
@@ -654,6 +655,8 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="timer_alert_mute_on">"Alarm se ne bo oglasil ko se kronometer ustavi"</string>
      <string name="timer_alert_mute_remind">Tapni za izklop kronometra</string>
      <string name="timer_alert_mute_switch">Preskoči na izklop odštevanja</string>
+     <string name="timer_alert_pause">Kronometer ima premor</string>
+     <string name="timer_alert_running">Kronometer deluje</string>
      <string name="timer_alert_type_beach">Plaža</string>
      <string name="timer_alert_type_forest">Gozd</string>
      <string name="timer_alert_type_mute">Privzeto</string>
