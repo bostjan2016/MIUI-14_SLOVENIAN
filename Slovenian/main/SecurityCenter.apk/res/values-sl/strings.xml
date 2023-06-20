@@ -841,7 +841,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="apps_item_sms_default_set_success">Uspešno nastavljeno!</string>
      <string name="apps_item_sms_reset_button_text">Vrni privzeto</string>
      <string name="apps_item_sms_title">Privzeta aplikacija za sporočanje je bila zamenjana</string>
-     <string name="apps_item_summary_sms"%s zdaj upravlja vaš SMS. Za bolj stabilno in varno izkušnjo namesto tega uporabite sistemsko aplikacijo MIUI."</string>
+     <string name="apps_item_summary_sms">"%s zdaj upravlja vaš SMS. Za bolj stabilno in varno izkušnjo namesto tega uporabite sistemsko aplikacijo MIUI."</string>
      <string name="apps_item_summary_system_rooted">ROOT dostop je dovoljen, vrnite na privzeto da boste preprečili varnostne težave!</string>
      <string name="apps_item_summary_system_update">Nekatere napake so odpravljene v novi verziji, tako da so plačila še varnejša.</string>
      <string name="apps_item_title_system">Posodobitev sistema</string>
