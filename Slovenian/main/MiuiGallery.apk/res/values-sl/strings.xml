@@ -1394,7 +1394,7 @@ za normalno delovanje, tapnite \"Nastavi\", da odprete Dovoljenja."</string>
      <string name="hdr_show_hint">Prilagodite zaslon, da prikažete več podrobnosti v sencah in svetlih delih stvari z visokim dinamičnim razponom</string>
      <string name="hdr_show_title">Pokaži HDR</string>
      <string name="hdr_switch_show_hint">Uporabite HDR za prikaz več podrobnosti v svetlih in senčnih delih</string>
-     <string name="hdr_switch_show_title">Pokaži visok dinamični razpon</string>
+     <string name="hdr_switch_show_title">Pro HDR zaslon</string>
      <string name="header_help">Pomoč</string>
      <string name="hello_blank_fragment">Pozdravljen prazen fragment</string>
      <string name="help">"Ne najdete naprav?"</string>
@@ -1564,7 +1564,7 @@ za normalno delovanje, tapnite \"Nastavi\", da odprete Dovoljenja."</string>
      <string name="loading_members">Nalaganje članov…</string>
      <string name="loading_processing_tip">Obdelava fotografije…</string>
      <string name="loading_suspend">Nalaganje ustavljeno. Nadaljevalo se bo ko bo WiFi na voljo.</string>
-     <string name="loading_text_format" formatted="false">Odstranjevanje zasebnih podatkov iz fotografij (%d/%d)…</string>
+     <string name="loading_text_format">Odstranjevanje zasebnih podatkov…</string>
      <string name="loading_video">Prenašam videoposnetek…</string>
      <string name="loading_video_compress_lib">Prenos dodatka za strnjevanje videoposnetka…</string>
      <string name="loading_video_fail_sync_without_network">Povežite se na omrežje da boste prevzeli metapodatke</string>
@@ -2821,6 +2821,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="search_syncing">Sinhronizacija podatkov, vrnite se malo kasneje</string>
      <string name="search_title_album">Album</string>
      <string name="search_title_app_screenshot">Posnetek zaslona aplikacije</string>
+     <string name="search_title_daily">čas</string>
      <string name="search_title_history">Preišči zgodovino</string>
      <string name="search_title_location">Lokacije</string>
      <string name="search_title_more">Več</string>

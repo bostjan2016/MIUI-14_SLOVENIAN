@@ -536,6 +536,10 @@
         <item quantity="other">"Ne morem deliti. Še vedno se obdeluje %d fotografij…"</item>
         <item quantity="one">"Ne morem deliti. Še vedno se obdeluje %d fotografija…"</item>
      </plurals>
+     <plurals name="send_too_many_files_error">
+        <item quantity="other">Izberite do %d stvari za pošiljanje</item>
+        <item quantity="one">Izberite %d stvar za pošiljanje</item>
+     </plurals>
      <plurals name="send_video_dialog_desc">
         <item quantity="other">%2$d videoposnetkov od %1$s</item>
         <item quantity="one">%2$d videoposnetek od %1$s</item>
