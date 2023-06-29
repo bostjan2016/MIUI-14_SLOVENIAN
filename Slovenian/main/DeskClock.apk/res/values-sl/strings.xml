@@ -174,7 +174,7 @@
      <string name="deskclock_sleep_no_disturbance">Ura > Urejaj čas za spanje > DND način</string>
      <string name="device_sounds">Zvoki naprave</string>
      <string name="dialog_confirm_abort">Zavržem spremembe?</string>
-     <string name="dialog_legal_off_day"><Data>"Kaže da uporabljate praznične alarme. Potrebna je povezava na splet. Pred uporabo se morate strinjati z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%3$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?"</Data></string>"</string>
+     <string name="dialog_legal_off_day"><Data>"Kaže da uporabljate praznične alarme. Potrebna je povezava na splet. Pred uporabo se morate strinjati z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%3$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?"</Data></string>
      <string name="dialog_legal_off_day_desc">"Ura se ne sme povezati na splet zaradi posodabljanja podatkov o praznikih. Prazniki alarma se bodo izključili v soboto in nedeljo"</string>
      <string name="dialog_legal_workday"><Data>"Kaže da uporabljate tedenske alarme. Potrebna je povezava na splet. Pred uporabo se morate strinjati z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%3$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?"</Data></string>
      <string name="dialog_legal_workday_and_off_day">"Kaže da uporabljate tedenske in praznične alarme. Potrebna je povezava na splet. Pred uporabo se morate strinjati z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?"</string>
@@ -395,7 +395,7 @@ mm"</string>
      <string name="module_update_success">Posodobljeni zvok za MIUI pametne alarme prenešen. Lahko nastavite MIUI pametne alarme v nastavitvah ure.</string>
      <string name="module_update_success_control">Razumem</string>
      <string name="module_weather_ringtone_download_data">Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu. Ura mora prenesti ≈30MB avdio datotek da bo to delovalo. Prenesem?</string>
-     <string name="module_weather_ringtone_download_data_new">Vremenski alarm izbere različne melodije zvonjenja glede na trenutno vreme. Ura mora prenesti ≈%d MB zvoka, da deluje. Prenesem</string>
+     <string name="module_weather_ringtone_download_data_new">Vremenski alarm izbere različne melodije zvonjenja glede na trenutno vreme. Ura mora prenesti ≈%d MB zvoka, da deluje. Prenesem?</string>
      <string name="module_weather_ringtone_download_data_privacy"><Data>Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu. Ura se mora povezati na splet za prenos ≈30MB avdio datotek. Pred uporabo preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?</Data></string>
      <string name="module_weather_ringtone_download_data_privacy_new" formatted="false"><Data>Vremenski alarm izbere različne melodije zvonjenja glede na trenutno vreme. Za prenos se mora Ura povezati na splet za prenos ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB zvokov. Preden začnete uporabljati Uro, morate prebrati in se strinjati z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%3$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?</Data></string>
      <string name="module_weather_ringtone_download_wifi">Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu. Ura mora prenesti avdio datoteke da bo to delovalo. Prenesem?</string>
