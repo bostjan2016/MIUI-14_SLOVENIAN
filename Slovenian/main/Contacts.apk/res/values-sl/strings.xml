@@ -382,6 +382,9 @@
      <string name="callrecordview_item_op_time_rejected">"Zavrnjeno"</string>
      <string name="callrecordview_item_op_time_short_incoming">"Dohodni:"</string>
      <string name="callrecordview_item_op_time_short_outgoing">"Odhodni: "</string>
+     <string name="callrecordview_item_op_time_xiaoai_automatic_answer">Samodejni odgovor</string>
+     <string name="callrecordview_item_op_time_xiaoai_call">Mi AI pomočnik za klice</string>
+     <string name="callrecordview_item_op_time_xiaoai_manual_answer">Ročno zbiranje</string>
      <string name="callrecordview_item_op_video">Video</string>
      <string name="callrecordview_menu_add_call_note">Dodaj beležko klica</string>
      <string name="callrecordview_menu_aiphone">AI klici</string>
@@ -1714,6 +1717,8 @@ Napravite varnostno kopijo stikov."</string>
      <string name="scan_duplicate_message">Število stikov z istimi podatki: %1$d</string>
      <string name="scan_merge">Iščem podvojene stike...</string>
      <string name="scan_not_installed">Najprej namestite aplikacijo Skener</string>
+     <string name="scan_not_installed_china">Najprej namestite Mi AI Skener</string>
+     <string name="scan_not_installed_global">Najprej namestite Skener</string>
      <string name="scan_qrcode_card_hint1">Skeniraj QR kodo</string>
      <string name="scan_qrcode_card_hint2" />
      <string name="scanning_sdcard_failed_message">Razlog: \"%s\".</string>

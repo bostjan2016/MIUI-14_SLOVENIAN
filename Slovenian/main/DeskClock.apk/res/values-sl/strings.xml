@@ -177,7 +177,7 @@
      <string name="dialog_legal_off_day"><Data>"Kaže da uporabljate praznične alarme. Potrebna je povezava na splet. Pred uporabo se morate strinjati z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%3$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?"</Data></string>
      <string name="dialog_legal_off_day_desc">"Ura se ne sme povezati na splet zaradi posodabljanja podatkov o praznikih. Prazniki alarma se bodo izključili v soboto in nedeljo"</string>
      <string name="dialog_legal_workday"><Data>"Kaže da uporabljate tedenske alarme. Potrebna je povezava na splet. Pred uporabo se morate strinjati z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%3$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?"</Data></string>
-    <string name="dialog_legal_workday_and_off_day"><Data>"Kaže da uporabljate alarme za delavnike in praznike. Ta storitev mora za normalno delovanje vzpostaviti povezavo s spletom. Pred uporabo te storitve se morate strinjati z našimi &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%3$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?"</Data></string>
+     <string name="dialog_legal_workday_and_off_day"><Data>"Kaže da uporabljate alarme za delavnike in praznike. Ta storitev mora za normalno delovanje vzpostaviti povezavo s spletom. Pred uporabo te storitve se morate strinjati z našimi &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%3$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?"</Data></string>
      <string name="dialog_legal_workday_and_off_day_desc">"Ura se ne sme povezati na splet zaradi posodabljanja podatkov o  praznikih. Tedenski alarmi se bodo izključili od ponedeljka do petka. Praznični alarmi se bodo izključili v soboto in nedeljo."</string>
      <string name="dialog_legal_workday_desc">"Ura se ne sme povezati na splet zaradi posodabljanja podatkov o delovnikih. Tedenski alarmi se bodo izključili od ponedeljka do petka."</string>
      <string name="dialog_message_agree">Strinjam se</string>
@@ -306,6 +306,7 @@
      <string name="life_post_setting_open_desc">Izključite ponavljanje alarma med 04:00 in 10:00 da boste poslušali informacije o vremenu</string>
      <string name="life_post_setting_open_subtitle">Pokaži vremensko napoved po izključitvi alarma med 4:00 in 9:30</string>
      <string name="life_post_setting_open_summary">Vključi informacije o vremenu po prvem izključenem alarmu med 4:00 in 10:00</string>
+     <string name="life_post_setting_open_summary_new">Vključi podatke o vremenu po prvem izključenem alarmu med %1$s in %2$s</string>
      <string name="life_post_setting_open_title">Prejmite jutranja poročila</string>
      <string name="life_post_setting_wake_up_list_title">Zgodovina bujenja</string>
      <string name="life_post_wake_up_acumu_day_title">Število dni</string>
