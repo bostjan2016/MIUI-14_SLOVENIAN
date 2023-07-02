@@ -292,6 +292,8 @@ drsnega posnetka zaslona"</string>
      <string name="privacy_mosaic_result_fail">"Zasebnih podatkov ni bilo mogoče blokirati. Poskusite ponovno."</string>
      <string name="privacy_mosaic_result_none">Ni zasebnih podatkov</string>
      <string name="privacy_mosaic_tip">Tapnite, da blokirate zasebne podatke</string>
+     <string name="privacy_mosaic_tip_long">"Drseči posnetki zaslona niso podprti"</string>
+     <string name="privacy_mosaic_tip_partial">"Delni posnetki zaslona niso podprti"</string>
      <string name="remover_menu_processing">Obdelujem</string>
      <string name="samsung_phone">Samsung telefon</string>
      <string name="saturday">Sobota</string>

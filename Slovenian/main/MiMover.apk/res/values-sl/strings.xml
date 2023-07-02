@@ -581,7 +581,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="not_support_data_content3">3. Podatki Drugega prostora</string>
      <string name="not_support_data_content4">4. Dvojne aplikacije</string>
      <string name="not_support_data_link">"Stvari ki se ne morejo prenesti"</string>
-     <string name="not_support_data_summary1">"Teme, ozadja, vozovnice, pomembne kartice se ne morejo prenesti s pomočjo Mi Mover-ja."</string>
+     <string name="not_support_data_summary1">"Kartic za prevoz in dostop ni mogoče prenesti; teme in ozadja je mogoče prenesti na nekatere modele."</string>
      <string name="not_support_data_summary2">Nekatere aplikacije določajo stroge varnostne ukrepe za preprečevanje prenosa podatkov aplikacij. Takšne ukrepe lahko vključujejo bančne aplikacije ali finančne storitve.</string>
      <string name="not_support_data_summary3">"Zaradi sistemskih omejitev stvari iz Drugega prostora ni mogoče prenesti z Mi Mover."</string>
      <string name="not_support_data_summary4">"Dvojnih aplikacij in njihovih podatkov prav tako ni mogoče prenesti. Lahko pa prenesete ustrezne glavne aplikacije."</string>
@@ -787,6 +787,7 @@ Sprostite najmanj %s."</string>
      <string name="sender_finish_title">Uspešno preneseno</string>
      <string name="sender_scanning_code">Sliko postavite v okvir</string>
      <string name="sender_scanning_connecting">Povezovanje z novo napravo…</string>
+     <string name="set_app_suspend">Za to aplikacijo se zdaj izvaja varnostno kopiranje. Počakajte, da se varnostno kopiranje konča in poskusite znova.</string>
      <string name="set_new_device_account">Sinhronizirajte z Mi računom</string>
      <string name="set_new_device_lock">Nastavite zaklepanje zaslona</string>
      <string name="set_new_device_more">Več sistemskih nastavitev…</string>

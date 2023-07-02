@@ -204,14 +204,18 @@ Pred kalibracijo naprave jo položite na ravno površino."</string>
      <string name="cit_audio_hw_check_summary">Test preverjanja zvočne strojne opreme</string>
      <string name="cit_audio_hw_check_tips">Test v teku</string>
      <string name="cit_audio_hw_check_title">Test preverjanja zvočne strojne opreme</string>
+     <string name="cit_audio_lb_auxmic_to_earpiece_title">Preskus povratnih informacij zvočnikov za pomožni mikrofon</string>
      <string name="cit_audio_lb_backmic_to_earpiece_title">Test povratnih informacij zvočnika zadnjega mikrofona</string>
      <string name="cit_audio_lb_backmic_to_speaker_title">Testiranje zadnjega zvočnika mikrofona</string>
      <string name="cit_audio_lb_frontmic_to_speaker_title">Testiranje pov. inf. sprednjega zvočnika mikrofona</string>
      <string name="cit_audio_lb_mainmic_to_earpiece_title">Testiranje glavnega zvočnika mikrofona</string>
      <string name="cit_audio_lb_phonecall_title">Imitacija klica</string>
+     <string name="cit_audio_lb_summary_auxmic_to_earpiece">"Preizkus povratnih informacij od pomožnega mikrofona do sprejemnika.
+
+Držite napravo, kot da kličete, govorite v pomožni mikrofon, slišati bi morali glas iz sprejemnika"</string>
      <string name="cit_audio_lb_summary_backmic_to_earpiece">"Preskus povratne informacije od zadnjega mikrofona do sprejemnika.
 
-Držite napravo, kot da kličete, govorite v glavni mikrofon, iz slušalke bi morali slišati glas"</string>
+Držite napravo, kot da kličete, govorite v zadnji mikrofon, iz slušalke bi morali slišati glas"</string>
      <string name="cit_audio_lb_summary_backmic_to_speaker">"Testiranje zadnjega zvočnika mikrofona. 
 
 Obrnite telefon, govorite v zadnji mikrofon, morali bi slišati glas v zvočniku"</string>
@@ -226,7 +230,7 @@ Držite telefon kot da kličete, govorite v glavni mikrofon, morali bi slišati 
 Držite telefon kot da kličete, govorite v glavni mikrofon, morali bi slišati glas iz sprejemnika, napravite testiranje v tihem okolju"</string>
      <string name="cit_audio_lb_summary_topmic_to_earpiece">"Test povratnih informacij od zgornjega mikrofona do sprejemnika.
 
-Držite napravo, kot da kličete, govorite v glavni mikrofon, iz slušalke bi morali slišati glas"</string>
+Držite napravo, kot da kličete, govorite v zgornji mikrofon, iz slušalke bi morali slišati glas"</string>
      <string name="cit_audio_lb_summary_topmic_to_speaker">"Testiranje zgornjega mikrofona na zvočniku.
 
 Obrnite, govorite v zgornji mikrofon, morali bi slišati glas v zvočniku"</string>
@@ -965,6 +969,7 @@ Druga vrstica prikazuje ime in številko različice privzetih MBN in Carrier MBN
      <string name="cit_tool_wlan_rxbg_test_channel">kanal:</string>
      <string name="cit_tool_wlan_rxn_test_bw">pasovna širina:</string>
      <string name="cit_tool_wlan_rxn_test_channel">kanal:</string>
+     <string name="cit_tool_wlan_sar_test_title">Wifi-SAR orodje</string>
      <string name="cit_tool_wlan_sniffer">WiFi Sniffer orodje</string>
      <string name="cit_tool_wlan_sniffer_settings">Sniffer nastavitve</string>
      <string name="cit_tool_wlan_sniffer_test_title">WiFi sniffer testno orodje</string>

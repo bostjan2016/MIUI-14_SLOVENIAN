@@ -119,6 +119,7 @@
      <string name="help">Pomoč</string>
      <string name="icon_content_description">Pogovorno okno</string>
      <string name="item_view_role_description">Zavihek</string>
+     <string name="lable_sim_not_ready">SIM Orodja ni pripravljeno ali ni podprto</string>
      <string name="material_clock_toggle_content_description">Izberite dopoldanski ali popoldanski čas.</string>
      <string name="material_hour_selection">Izberite uro</string>
      <string name="material_hour_suffix">%1$s</string>

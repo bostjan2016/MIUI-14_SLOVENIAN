@@ -162,7 +162,7 @@
      <string name="album_favorites_name">Priljubljeno</string>
      <string name="album_from_format">Od %s</string>
      <string name="album_hidden_item_button_title">Pokaži</string>
-     <string name="album_hidden_page_title">Skrij</string>
+     <string name="album_hidden_page_title">Skriti albumi</string>
      <string name="album_homepage_show_all_photos">Pokaži vse fotografije</string>
      <string name="album_jump_failed">Počakajte da se albumi sinhronizirajo z Mi Cloudom in poskusite ponovno</string>
      <string name="album_lockscreen_wallpapers">Ozadja zakl. zaslona</string>
@@ -2821,7 +2821,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="search_syncing">Sinhronizacija podatkov, vrnite se malo kasneje</string>
      <string name="search_title_album">Album</string>
      <string name="search_title_app_screenshot">Posnetek zaslona aplikacije</string>
-     <string name="search_title_daily">čas</string>
+     <string name="search_title_daily">Čas</string>
      <string name="search_title_history">Preišči zgodovino</string>
      <string name="search_title_location">Lokacije</string>
      <string name="search_title_more">Več</string>

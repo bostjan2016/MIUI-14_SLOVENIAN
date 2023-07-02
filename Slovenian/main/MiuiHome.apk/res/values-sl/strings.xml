@@ -252,6 +252,8 @@
      <string name="close_multi_finger_slide_summary">Te poteze bodo v nekaterih primerih prezrte (npr. predvajanje iger in videoposnetkov)</string>
      <string name="close_multi_finger_slide_title">"Ne odzivaj se na kretnje s tremi in štirimi prsti"</string>
      <string name="cloud_app_restore_title">Na čakanju</string>
+     <string name="color_group">Združi ikone po barvah</string>
+     <string name="color_group_anim">Animacije v barvnih kategorijah</string>
      <string name="common_google_play_services_unknown_issue">%1$s ima težave s storitvami Google Play. Poskusite ponovno.</string>
      <string name="common_home_search_delete">Brisanje iskalne vrstice na zač. zaslonu</string>
      <string name="common_home_search_delete_cancle">Prekliči</string>
@@ -354,6 +356,7 @@
      <string name="failed_to_drop_widget_invalid">Pripomoček nepravilen</string>
      <string name="failed_to_drop_widget_nospace">Na tem zaslonu ni več prostora</string>
      <string name="failed_to_load_image">"Ne morem naložiti slike"</string>
+     <string name="find_app_by_color">Združite ikone po barvah, da hitreje najdete aplikacije</string>
      <string name="fmt_date">D</string>
      <string name="fmt_date_day">d</string>
      <string name="fmt_date_long_month">MMMM</string>
@@ -430,6 +433,8 @@
      <string name="free_style_enter_tip">Če si želite ogledati Mi prostor, potegnite z dvema prstoma navzdol z vrha zaslona</string>
      <string name="free_style_exit_tip">Če se želite vrniti na začetni zaslon, potegnite z dvema prstoma navzgor iz dna zaslona</string>
      <string name="free_style_londing_text">Samo trenutek…</string>
+     <string name="free_style_title">Mi prostor</string>
+     <string name="free_style_unavailable_message">Mi prostor v tej različici ni več podprt. Lahko pa še naprej uporabljate to temo.</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>

@@ -88,6 +88,7 @@
      <string name="abnormal_consume_type_cpu">Visoka CPU poraba</string>
      <string name="abnormal_consume_type_wakelock">"Sistem se ne more uspavati"</string>
      <string name="about_autostart">O samod. zagonu</string>
+     <string name="about_autostart_gloabl">O samodejnem zagonu v ozadju</string>
      <string name="ac_enable_title">Vključite zaklepanje aplikacij</string>
      <string name="ac_enter_applock">Vstopi v zakl. aplikacij</string>
      <string name="ac_firstUseApplock_subTitle">Uporabite boljša varnostna orodja na nivoju sistema</string>
@@ -139,6 +140,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="activity_title_antivirus_kddi">Varnostni pregled</string>
      <string name="activity_title_apps_manager">Aplikacije</string>
      <string name="activity_title_auto_start_manager">Samodejni zagon</string>
+     <string name="activity_title_auto_start_manager_global">Samodejni zagon v ozadju</string>
      <string name="activity_title_create_shortcut">Uredi bližnjice</string>
      <string name="activity_title_deep_clean">Globinsko čiščenje</string>
      <string name="activity_title_default_apps_manager">Privzete aplikacije</string>
@@ -1614,6 +1616,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
      <string name="dialog_change_package_type_summary">Sprememba vrste plana podatkov bo vrnila vse nastavitve uporabe podatkov (npr. omejitev podatkov) na njihove privzete vrednosti. Želite zamenjati vrsto plana podatkov?</string>
      <string name="dialog_change_package_type_title">Sprememba vrste plana podatkov</string>
      <string name="dialog_msg_auto_start_declare">Nekatere aplikacije lahko napačno zaznajo da jim je MIUI preprečil zagon. Preverite dovoljenje za posamično aplikacijo v Nastavitve - Aplikacije.</string>
+     <string name="dialog_msg_auto_start_declare_global">Nekatere aplikacije morda nepravilno kažejo, da jim je MIUI preprečil zagon. V nastavitvah preverite dovoljenja, ki so bila dodeljena posameznim aplikacijam.</string>
      <string name="dialog_msg_create_icon_content">Dodam bližnjico na začetni zaslon zdaj?</string>
      <string name="dialog_msg_create_icon_not_remain_anymore">"Ne kaži več"</string>
      <string name="dialog_msg_delete_icon_content">Varnost vam omogoča brisanje smeti v vaši napravi, iskanje in nevtralizacijo virusov, varčevanje z baterijo, upravljanje dovoljenj in več.</string>
@@ -1649,6 +1652,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
      <string name="dialog_skt_roaming_warning_title">Pogodba o podatkovnem gostovanju</string>
      <string name="dialog_title_attention">Pozor</string>
      <string name="dialog_title_auto_start_declare">O samodejnem zagonu</string>
+     <string name="dialog_title_auto_start_declare_global">O samodejnem zagonu v ozadju</string>
      <string name="dialog_title_stop_paysafety_scan">Stop</string>
      <string name="dialog_title_stop_virus_scan">Ustavi varnostno preverjanje</string>
      <string name="disable_air_mode">Najprej izključite način Letalo</string>
@@ -3802,6 +3806,10 @@ To skrajšuje trajanje baterije."</string>
      <string name="pc_battery_history_total_consumption_title">Skupna poraba energije</string>
      <string name="pc_battery_history_usetime_title">Aktivno</string>
      <string name="pc_close_notifi_action">Izključi</string>
+     <string name="pc_continuity_has_open_save_mode_notifi_sumary">Varčevanje z baterijo bo izklopljeno, ko je %1$s %2$s ali popolnoma napolnjeno</string>
+     <string name="pc_continuity_has_open_save_mode_notifi_title">Varčevanje z baterijo je vklopljeno na %s</string>
+     <string name="pc_continuity_open_save_mode_notifi_sumary">Baterija %1$s je nižja od %2$s. Vklopite varčevanje z baterijo, da dodate %3$s %4$s.</string>
+     <string name="pc_continuity_open_save_mode_notifi_title">%s baterija je nizka</string>
      <string name="pc_emergency_call">Klic v sili</string>
      <string name="pc_endurance_calculation">Računam…</string>
      <string name="pc_entered_extreme_mode">Način mirovanja je vklopljen</string>

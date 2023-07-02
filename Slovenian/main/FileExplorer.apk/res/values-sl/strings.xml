@@ -266,6 +266,7 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="create_share_link_description">Izdelava povezave…</string>
      <string name="create_shortcut_success">Bližnjica uspešno dodana</string>
      <string name="cta_function_account_operation">Za hitro prijavo v račun Xiaomi</string>
+     <string name="cta_use_sync_midrive_file">Za sinhronizacijo datotek z Mi Drive</string>
      <string name="cution">Nasveti</string>
      <string name="daily_clockin">Prijavi se</string>
      <string name="data_capacity">Podatki %1$s</string>
@@ -1325,6 +1326,7 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="select_interest_str">Izberite teme ki so vam všeč</string>
      <string name="select_interest_tip">Tega je veliko za odkriti!</string>
      <string name="select_music">Glasba</string>
+     <string name="select_pdf">Izberite PDF</string>
      <string name="select_video">Videoposnetki</string>
      <string name="select_volume">Izberite lokacijo shranjevanja</string>
      <string name="send">Pošlji</string>

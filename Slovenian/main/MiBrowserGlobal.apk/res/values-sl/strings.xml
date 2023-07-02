@@ -149,6 +149,11 @@
      <string name="allow_current">Dovoli enkrat</string>
      <string name="already_add">%s dodan na zač. zaslon</string>
      <string name="am">dop.</string>
+
+     <string name="antivirus_btn_scanned">Išči</string>
+     <string name="antivirus_desc_no_scanned">Tapnite za iskanje</string>
+     <string name="antivirus_desc_scanned">Kaže, da je vse v redu</string>
+     <string name="antivirus_title">Varnostni pregled</string>
      <string name="app_cache">Predpomnilnik</string>
      <string name="app_category_tag_daily_recommendation">"Današnji izbori"</string>
      <string name="app_category_tag_editor_recommendation">"Urednikov izbor"</string>
@@ -271,6 +276,7 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="branch_local_search_settings">Nastavitve lokalnega iskanja</string>
      <string name="branch_new_function">Nova storitev</string>
      <string name="branch_search_bar_tips">Išči aplikacije in igre</string>
+     <string name="branch_search_guide_pop_search">Išči</string>
      <string name="branch_search_guide_privacy">"To storitev zagotavlja Branch Metrics Inc. Z njimi bomo delili vašo lokacijo, iskanja in Google Ads ID. Preberite in se strinjate z njihovimi "<font color="#B3000000"><a href="http://url1">Pravila in pogoji</a></font> in <font color="#B3000000"><a href="http://url2">Pravila o zasebnosti</a></font> preden nadaljujete.</string>
      <string name="branch_search_in_browser">Išči \"%1$s\" v brskalniku</string>
      <string name="branch_setting">Nastavitve</string>
@@ -347,6 +353,7 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="choose_to_signup">Ne, ga bom ustvaril</string>
      <string name="choosertitle_sharevia">Delite prek</string>
      <string name="clean_cache">Počisti predpomnilnik</string>
+     <string name="clean_cache_btn_clean">Izbriši</string>
      <string name="clear">Izbriši</string>
      <string name="clear_history">Počisti zgodovino</string>
      <string name="clear_most_visited">Nedavno</string>
@@ -1199,6 +1206,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="media_error_source">Ne morem najti vira</string>
      <string name="media_error_timeout">Potekel čas povezave</string>
      <string name="media_error_video_not_exist">Videoposnetek ne obstaja</string>
+     <string name="memory_btn_clean">Osvobodi</string>
      <string name="memory_clear_nothing_result">V predpomnilniku ni ničesar za brisanje</string>
      <string name="memory_clear_result">%1$s očiščeno</string>
      <string name="memory_management">Urejajte shrambo</string>
@@ -1411,6 +1419,13 @@ Pošljite to kodo nadzorniku."</string>
      <string name="mw_actionbar_web_search">Spletno iskanje</string>
      <string name="mw_add_to_dictionary">Dodaj v slovar</string>
      <string name="mw_autofill_popup_content_description">Prikaz pojavnega okna s samodejnim izpolnjevanjem</string>
+     <string name="mw_call_notification_answer_action">Odgovor</string>
+     <string name="mw_call_notification_answer_video_action">Video</string>
+     <string name="mw_call_notification_decline_action">Zavrni</string>
+     <string name="mw_call_notification_hang_up_action">Odloži</string>
+     <string name="mw_call_notification_incoming_text">Dohodni klic</string>
+     <string name="mw_call_notification_ongoing_text">Odhodni klic</string>
+     <string name="mw_call_notification_screening_text">Pregledovanje dohodnega klica</string>
      <string name="mw_chip_remove_icon_content_description">Odstrani \"%1$s\"</string>
      <string name="mw_color_picker_button_black">Črna</string>
      <string name="mw_color_picker_button_blue">Modra</string>
@@ -1445,6 +1460,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="mw_common_open_on_phone">Odpri v telefonu</string>
      <string name="mw_common_signin_button_text">Prijava</string>
      <string name="mw_common_signin_button_text_long">Prijava preko Googla</string>
+     <string name="mw_copied">Kopirano</string>
      <string name="mw_copy_to_clipboard_failure_message">Ni kopirano v odložišče</string>
      <string name="mw_crash_label">Zrušenje (%1$s) - [%2$s]</string>
      <string name="mw_crash_report_button_text">Navedite več informacij</string>
@@ -1481,6 +1497,8 @@ Crash ID: http://crash/%1$s"</string>
      <string name="mw_date_picker_dialog_title">Nastavi datum</string>
      <string name="mw_date_time_picker_dialog_title">Nastavi datum in čas</string>
      <string name="mw_delete_suggestion_text">Izbriši</string>
+     <string name="mw_elided_url_text_view_url_expanded">URL razširjen</string>
+     <string name="mw_elided_url_text_view_url_truncated">URL skrajšan</string>
      <string name="mw_find_next">Poišči naslednjo</string>
      <string name="mw_find_previous">Poišči prejšnjo</string>
      <string name="mw_js_dialog_before_unload">"%s
@@ -1595,8 +1613,10 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="mw_notification_category_sites">Web strani</string>
      <string name="mw_notification_hidden_text">Skrita vsebina</string>
      <string name="mw_older">Starejše</string>
+     <string name="mw_opening_android_media_picker">Izbirnika fotografij ni mogoče odpreti</string>
      <string name="mw_opening_file_error">Izbrane datoteke ni mogoče odpreti</string>
      <string name="mw_permission_alert_window">Za uporabo te storitve dovolite prikaz pojavnih oken.</string>
+     <string name="mw_permission_denied_error">Predstavnosti ni mogoče izbrati zaradi zavrnjenih dovoljenj</string>
      <string name="mw_permission_unknown">Neznana možnost</string>
      <string name="mw_private_browsing_warning">Ta storitev ni podprta v tej različici operacijskega sistema Android.</string>
      <string name="mw_profiler_error_toast">Zagon profilerja ni uspel</string>
@@ -1939,6 +1959,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="popup_video">Videoposnetek v pojavnem oknu</string>
      <string name="popup_window_attempt">Dovolim tej strani, da odpre pojavno okno?</string>
      <string name="positive_confirm_message">Vseeno izklopi</string>
+     <string name="power_saving_btn_clean">Možnosti</string>
      <string name="power_saving_settings">Varčevanje z baterijo</string>
      <string name="pref_accessibility">Dostopnost</string>
      <string name="pref_accessibility_title">Dostopnost</string>

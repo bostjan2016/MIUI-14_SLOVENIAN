@@ -40,12 +40,12 @@
 %1$s
 
 "</string>
-     <string name="wifi_ca_cert_dialog_message_signature_name_text">"SHA-256 Prstni odtis:
+     <string name="wifi_ca_cert_dialog_message_signature_name_text">"Podpis:
 %1$s
 
 "</string>
-     <string name="wifi_ca_cert_dialog_preT_abort_text">"Prekini povezavo"</string>
-     <string name="wifi_ca_cert_dialog_preT_continue_text">Ostani povezan</string>
+     <string name="wifi_ca_cert_dialog_preT_abort_text">"Ne poveži"</string>
+     <string name="wifi_ca_cert_dialog_preT_continue_text">Vseeno poveži</string>
      <string name="wifi_ca_cert_dialog_preT_message_hint">Omrežju %1$s manjka potrdilo.</string>
      <string name="wifi_ca_cert_dialog_preT_message_link">Naučite se dodajati potrdila</string>
      <string name="wifi_ca_cert_dialog_preT_title">"Tega omrežja ni mogoče preveriti"</string>
