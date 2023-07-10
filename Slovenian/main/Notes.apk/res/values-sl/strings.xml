@@ -349,8 +349,11 @@ Tapnite + da napravite mapo"</string>
      <string name="fmt_weekday_time_timezone">W T z</string>
      <string name="fmt_weekday_timezone">W z</string>
      <string name="folder_exist">Mapa z enakim imenom že obstaja</string>
+     <string name="folder_note">Mape beležke</string>
      <string name="folder_operation_delete">Izbriši</string>
      <string name="folder_operation_rename">Preimenuj</string>
+     <string name="folder_other">Druge mape</string>
+     <string name="foler_pinned">Pripete mape</string>
      <string name="force_touch_menu_add">Dodaj beležko</string>
      <string name="format_move_note_out_folder">Beležka je premeščena</string>
      <string name="format_move_note_to_folder">Premeščeno v %1$s</string>
@@ -613,6 +616,7 @@ Tapnite + da napravite mapo"</string>
      <string name="mtrl_picker_toggle_to_year_selection">Tapnite za prehod na izbiro leta</string>
      <string name="network_error_info">Prišlo je do napake v omrežju. Preverite omrežne nastavitve in poskusite znova.</string>
      <string name="network_timeout_info">"Ni bilo mogoče vzpostaviti povezave z omrežjem. Poskusite ponovno."</string>
+     <string name="new_alert_title_delete">Izbriši beležke</string>
      <string name="new_app_name">Mi Beležke</string>
      <string name="new_audio_create_cancel_talkback_des">Odpovedano</string>
      <string name="new_audio_create_done_talkback_des">Napravljeno</string>
@@ -620,6 +624,7 @@ Tapnite + da napravite mapo"</string>
      <string name="new_audio_create_talkback_des">Pritisnite za ustvarjanje tekstne beležke. Pritisnite in držite za ustvarjanje zvočne beležke. Spustite tipko da ustavite snemanje in napravite beležko ali podrajte gor da prekličete.</string>
      <string name="new_data_empty_note">Tu ni ničesar</string>
      <string name="new_lite_audio_create_talkback_des">Tapnite, da ustvarite beležko</string>
+     <string name="new_sync_desc_state_disable">Vklopite sinhronizacijo v oblaku za beležke, opravila in drugo</string>
      <string name="night">Noč</string>
      <string name="no_network">"Ne morem se povezati na omrežje"</string>
      <string name="noon">Poldne</string>

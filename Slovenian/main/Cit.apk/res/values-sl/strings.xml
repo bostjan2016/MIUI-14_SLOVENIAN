@@ -516,6 +516,7 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
      <string name="cit_headset_pull_hint">Izključite slušalke</string>
      <string name="cit_headset_right_hph_val">Vrednost impedance desnega kanala：</string>
      <string name="cit_hide_menu">Skrij Meni</string>
+     <string name="cit_horn_motor_test">Test motorja hupe</string>
      <string name="cit_hvdcp_charger_in">Polnjenje preko (USB_HVDCP)</string>
      <string name="cit_init_fp_fod_test_tip">Init testno okolje za prstne odtise</string>
      <string name="cit_kayboard_home_down">Tipka: DOMOV</string>
@@ -1437,6 +1438,9 @@ Po uspešnem kalibriranju nadzorujte napravo blizu in stran od telefona"</string
      <string name="test_cases">Test ovitka</string>
      <string name="test_front_mic">Sprednji mikrofon</string>
      <string name="test_headset">Test slušalk</string>
+     <string name="test_horn_motor_summary">"Slišali boste dve naključni številki
+Kliknite ustrezen gumb glede na številko, ki jo slišite
+Izberite pravi gumb glede na različne pogoje vibriranja"</string>
      <string name="test_main_mic">Glavni mikrofon</string>
      <string name="test_receiver">Sprejemnik</string>
      <string name="test_receiver_summary">"Slišali boste dve naključni številki

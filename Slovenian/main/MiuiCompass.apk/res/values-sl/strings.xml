@@ -149,6 +149,7 @@
      <string name="invisible_mode_dialog_title">"Ste brez beleženja zgodovine"</string>
      <string name="keywords_search_compass">Kompas;Kalibriranje;Pritisk;Nadmorska višina;Zemljepisna širina;Zemljepisna dolžina;Preveri zemljepisno dolžino; Preveri zemljepisno širino;MIUI kompas;Kompas app;MIUI kompas app;Kje je kompas;Prenesi kompas;Zračni pritisk; Preveri nadmorsko višino;Koliko je višina</string>
      <string name="latitude">Zemljepisna širina</string>
+     <string name="live_action">Predogled v živo</string>
      <string name="location_east">V</string>
      <string name="location_enable">Dovoli</string>
      <string name="location_enable_later">Kasneje</string>
@@ -157,6 +158,8 @@
      <string name="location_not_enabled_summary">Kompas potrebuje dostop do lokacije da lahko prikaže koordinate in nadmorsko višino.</string>
      <string name="location_not_enabled_summary_no_pressure_sensor">Kompas potrebuje dostop do lokacije da lahko prikaže koordinate.</string>
      <string name="location_not_enabled_title">Lokacijske storitve</string>
+     <string name="location_permission_tip_one">Tapnite, da dodelite dovoljenja za lokacijo, da si ogledate zemljepisno širino, dolžino, zračni tlak in nadmorsko višino.</string>
+     <string name="location_permission_tip_two">Tapnite za dodelitev dovoljenj za lokacijo, da si ogledate zemljepisno širino in dolžino.</string>
      <string name="location_south">J</string>
      <string name="location_west">Z</string>
      <string name="longitude">Zemljepisna dolžina</string>
@@ -238,7 +241,13 @@
      <string name="month_september_shortest">S</string>
      <string name="more">Več</string>
      <string name="morning">Jutro</string>
+     <string name="network_dialog_message">Kompas se mora povezati s spletom za dostop do natančnejših podatkov o nadmorski višini. Dovolim?</string>
+     <string name="network_dialog_negative">"Ne dovoli"</string>
+     <string name="network_dialog_positive">Dovoli</string>
+     <string name="network_dialog_title">Potrebna so dovoljenja</string>
      <string name="new_cta_app_purpose">Prikaz smeri in koordinat</string>
+     <string name="new_cta_app_purpose_one">Dobrodošli v Kompas! S to aplikacijo lahko poiščete kardinalne smeri, zemljepisno širino, dolžino, zračni tlak in nadmorsko višino. Aplikacija se mora za zagotavljanje svojih storitev povezati s spletom.</string>
+     <string name="new_cta_app_purpose_two">Dobrodošli v Kompas! S to aplikacijo lahko poiščete kardinalne smeri, zemljepisno širino in dolžino. Aplikacija se mora za zagotavljanje svojih storitev povezati s spletom.</string>
      <string name="new_cta_v2_app_purpose">Prikaz smeri, koordinat, atmosferskega tlaka in trenutne nadmorske višine</string>
      <string name="new_permission_camera_desc">Za prikaz predogledov v živo</string>
      <string name="new_permission_location_desc">Za prikaz koordinat</string>
@@ -287,6 +296,8 @@
      <string name="unit_degree">Stopinje</string>
      <string name="using_camera_confirm_cancel">Končaj</string>
      <string name="using_camera_confirm_ok">Strinjam se</string>
+     <string name="v2_permission_location_desc_one">Za prikaz zemljepisne širine, dolžine, nadmorske višine in zračnega tlaka</string>
+     <string name="v2_permission_location_desc_two">Za prikaz zemljepisne širine in dolžine</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
      <string name="v7_preference_on">VKLJUČENO</string>
      <string name="wednesday">Sreda</string>
