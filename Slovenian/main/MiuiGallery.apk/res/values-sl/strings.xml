@@ -2234,6 +2234,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="passport_user_id_hint">E-pošta/telefonska številka/ID računa Xiaomi</string>
      <string name="passport_user_id_intro">Vnesite geslo za %1$s</string>
      <string name="passport_user_password_hint">Geslo</string>
+     <string name="passport_vcode_what_app_send_prompt">Vaša koda za preverjanje WhatsApp bo poslana na vaš telefon za obnovitev (&lt;font color=#1F93FF>%s&lt;/font>).</string>
      <string name="passport_wechat_not_install">Najprej namestite WeChat</string>
      <string name="passport_wrong_captcha">Koda, ki ste jo vnesli ni pravilna</string>
      <string name="passport_wrong_phone_number_format">Oblika zapisa telefonske številke, ki ste jo vnesli ni veljavna</string>

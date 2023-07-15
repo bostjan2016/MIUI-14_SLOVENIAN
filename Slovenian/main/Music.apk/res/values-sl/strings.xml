@@ -251,7 +251,7 @@
      <string name="avoid_to_use_traffic_summary">Ne uporabljajte mobilnega omrežja za predvajanje glasbe preko omrežja</string>
      <string name="avoid_to_use_traffic_title">Uporabljajte samo WiFi za predvajanje glasbe preko omrežja</string>
      <string name="back">Nazaj</string>
-     <string name="back_confirm">Dotaknite se znova za postavljanje aplikacije v ozadje</string>
+     <string name="back_confirm">Dotaknite se znova za izhod</string>
      <string name="backpack_frame">Okvir</string>
      <string name="backup_complete">Pesmi shranjene na Mi Cloud</string>
      <string name="backup_empty_button">Ni izbranih pesmi</string>
@@ -483,8 +483,8 @@ predvsem nudi Ultimate Inc."</string>
      <string name="desktop_lyric_color">Barva</string>
      <string name="desktop_lyric_dialog_msg">Vključite/izključite tekst na zač. zaslonu v Glasba &gt; Nastavitve &gt; Dodatne nastavitve</string>
      <string name="desktop_lyric_dialog_positive_button">Preiskusite zdaj</string>
-     <string name="desktop_lyric_dialog_title">Poglejte besedilo na delovni površini</string>
-     <string name="desktop_lyric_lock_toast">Zaklenjeno. Uporabite Mini Player</string>
+     <string name="desktop_lyric_dialog_title">Preiskusite zdaj</string>
+     <string name="desktop_lyric_lock_toast">Zaklenjeno. Glasbo lahko odklenete v plošči obvestil</string>
      <string name="desktop_lyric_setting_summary">Pokaži plavajoče besedilo na delovni površini</string>
      <string name="desktop_lyric_setting_title">Besedilo na delovni površini</string>
      <string name="desktop_lyric_textsize">Besedilo</string>
@@ -1066,6 +1066,10 @@ To kodo pošljite nadzorniku."</string>
      <string name="japan_korea_female">Ženski izvajalci (Japonska/Koreja)</string>
      <string name="japan_korea_group">Skupine (Japonska/Koreja)</string>
      <string name="japan_korea_male">Moški izvajalci (Japonska/Koreja)</string>
+     <string name="jump_to_ytb_dialog_cancel">Prekliči</string>
+     <string name="jump_to_ytb_dialog_desc">"Zapustili boste Mi glasbo in odprli YouTube. Odprem YouTube?"</string>
+     <string name="jump_to_ytb_dialog_ok">Potrdi</string>
+     <string name="jump_to_ytb_dialog_title">Zapuščam Mi glasbo</string>
      <string name="just_hit_next">Samo pritisnite naprej</string>
      <string name="karaoke_message">Prenesite in namestite Karaoke dodatek za uporabo te storitve.</string>
      <string name="karaoke_my_studio">Moj Studio</string>
@@ -1216,7 +1220,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="miuishare_weibo_title">Weibo</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Vrstica za iskanje</string>
-     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
@@ -1225,6 +1229,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -1603,12 +1608,12 @@ To kodo pošljite nadzorniku."</string>
      <string name="passport_error_phone_error">Neveljavna telefonska številka</string>
      <string name="passport_error_server">Napaka strežnika</string>
      <string name="passport_error_sms_limit">Na to številko je bilo poslanih preveč kod za preverjanje. Poskusite  znova kasneje.</string>
-     <string name="passport_error_ticket_invalid">This code is incorrect</string>
-     <string name="passport_error_timeout_network_error">The request timed out</string>
-     <string name="passport_error_token_expired">Code expired. Try again.</string>
-     <string name="passport_error_unknow_error">An error occurred</string>
-     <string name="passport_error_unknow_host_network_error">"Couldn't connect to the network"</string>
-     <string name="passport_error_unknow_network_error">A network error occurred</string>
+     <string name="passport_error_ticket_invalid">Koda ni pravilna</string>
+     <string name="passport_error_timeout_network_error">Časovna omejitev zahteve je potekla</string>
+     <string name="passport_error_token_expired">Koda je potekla. Poskusite ponovno.</string>
+     <string name="passport_error_unknow_error">Pojavila se je napaka</string>
+     <string name="passport_error_unknow_host_network_error">"Ni bilo mogoče vzpostaviti povezave z omrežjem"</string>
+     <string name="passport_error_unknow_network_error">Pojavila se je napaka omrežja</string>
      <string name="passport_error_unknown">Neznana napaka</string>
      <string name="passport_error_user_agreement">Najprej se strinjajte z Pogoji uporabe</string>
      <string name="passport_error_user_agreement_error">Najprej se strinjajte s pogoji</string>
@@ -1743,7 +1748,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="payment_success_message">Hvala! Plačilo je uspelo. Uživajte v Gold storitvah.</string>
      <string name="payment_success_title">Čestitamo!</string>
      <string name="pending_apk">Na čakanju…</string>
-     <string name="permission_declaration_message">Dovolite dostop do pomnilnika v Varnost &gt; Dovoljenja &gt; Dovoljenja &gt; Shranjevanje &gt; Glasba da aplikacija Glasba dela normalno.</string>
+     <string name="permission_declaration_message">Dovolite dostop do pomnilnika v Varnost > Dovoljenja > Dovoljenja > Shramba > Glasba da aplikacija Glasba dela normalno.</string>
      <string name="permission_declaration_negative_text">Kasneje</string>
      <string name="permission_declaration_positive_text">Pojdi v Varnost</string>
      <string name="permission_declaration_title">Dovoli dostop</string>
