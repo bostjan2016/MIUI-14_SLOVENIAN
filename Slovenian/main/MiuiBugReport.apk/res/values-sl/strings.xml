@@ -154,7 +154,7 @@
      <string name="cta_confirm">V redu</string>
      <string name="cta_dialog_content">Aplikacija potrebuje povezavo s spletom za normalno delovanje.</string>
      <string name="cta_dialog_title">Spletna povezava</string>
-     <string name="cta_message">&lt;Data>Za normalno delovanje se mora Povratne informacije povezati na splet. Ta aplikacija lahko zahteva tudi dovoljenje za dostop do vaše lokacije. Preberite in se strinjate z &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a> in &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> pred uporabo.&lt;/Data></string>."</string>
+     <string name="cta_message">&lt;Data>Za normalno delovanje se mora Povratne informacije povezati na splet. Ta aplikacija lahko zahteva tudi dovoljenje za dostop do vaše lokacije. Preberite in se strinjate z &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a> in &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> pred uporabo.&lt;/Data>."</string>
      <string name="cta_not_show_again">Ne kaži več</string>
      <string name="customer_service_apply">Zahtevajte Službo za uporabnike</string>
      <string name="customer_service_complain">Poročajte Službi za uporabnike</string>
