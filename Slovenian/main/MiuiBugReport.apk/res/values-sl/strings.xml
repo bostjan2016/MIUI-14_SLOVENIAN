@@ -880,6 +880,14 @@ Preberite in se strinjajte z novo različico %3$s preden nadaljujete."</string>
      <string name="protocal_dialog_title">Pozor</string>
      <string name="psw_hint">Geslo</string>
      <string name="psw_sign_in">Prijavite se z geslom</string>
+     <string name="public_authorize_now">Nastavitve</string>
+     <string name="public_loading_text">Delam…</string>
+     <string name="public_net_error_retry">Poskusite znova</string>
+     <string name="public_net_error_sub_title">Preverite omrežne nastavitve in poskusite znova</string>
+     <string name="public_net_error_title">"Ni bilo mogoče vzpostaviti povezave z omrežjem"</string>
+     <string name="public_open_feedback_service">Začni</string>
+     <string name="public_please_authorize">Za nadaljevanje so potrebna dovoljenja</string>
+     <string name="public_welcome_use_feedback_service">Dobrodošli v Storitve &amp; povratne informacije! S to aplikacijo lahko pošljete povratne informacije, si ogledate pogosto zastavljena vprašanja, zaprosite za vračila in zamenjave izdelkov in drugo.</string>
      <string name="qq_login_btn_content_description">Prijavite se z QQ</string>
      <string name="refresh">Osveži</string>
      <string name="register_by_local_phone_long_text">Ustvari račun</string>

@@ -61,6 +61,7 @@
      <string name="confirm_cancel_task_files">Prekličem pošiljanje datotek %1$s?</string>
      <string name="confirm_cancel_task_images">Prekličem pošiljanje slik %1$s?</string>
      <string name="copy">Kopiraj</string>
+     <string name="copy_success_toast">Kopirano</string>
      <string name="cta_agree_desc">Dovolite tej aplikaciji, da se poveže s spletom in ji dajte obvezna dovoljenja, navedena zgoraj.</string>
      <string name="cta_btn_agree">Strinjam se</string>
      <string name="cta_btn_disagree">"Ne strinjam se"</string>

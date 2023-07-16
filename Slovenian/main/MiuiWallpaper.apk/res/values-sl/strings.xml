@@ -43,6 +43,7 @@
      <string name="date_picker_label_year" />
      <string name="date_picker_lunar">Lunarni Koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
+     <string name="default_wallpaper_type">privzeto</string>
      <string name="download_button">Gumb za prenos</string>
      <string name="download_failed">"Ne morem prenesti"</string>
      <string name="early_morning">Jutro</string>

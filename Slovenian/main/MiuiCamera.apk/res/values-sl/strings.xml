@@ -392,6 +392,7 @@ in samodejno prilagodi nastavitve"</string>
      <string name="ambilight_tips_for_suggest_using_tripod">Za snemanje se priporoča stativ</string>
      <string name="ambilight_tips_for_using_tripod">Uporabite stativ</string>
      <string name="aperture">Zaslonka</string>
+     <string name="aperture_auto_title">SAMODEJNO</string>
      <string name="app_details">Podrobnosti:</string>
      <string name="app_name">Prednost</string>
      <string name="audio_focus_exit_button_text">Izključi Audio fokus</string>

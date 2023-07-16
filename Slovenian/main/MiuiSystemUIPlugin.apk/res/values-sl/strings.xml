@@ -486,6 +486,7 @@ Dolgotrajno poslušanje visoke glasnosti lahko poškoduje vaš sluh."</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
+     <string name="super_volume_toast">Povečanje glasnosti je vklopljeno</string>
      <string name="switch_bar_off">Izkl.</string>
      <string name="switch_bar_on">Vkl.</string>
      <string name="system_update">Posodobitev sistema</string>

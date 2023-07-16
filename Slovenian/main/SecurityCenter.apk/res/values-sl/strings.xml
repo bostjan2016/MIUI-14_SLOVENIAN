@@ -3567,6 +3567,7 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
      <string name="notify_channel_name_behavior">Zgodovina obnašanja</string>
      <string name="notify_channel_name_security">Varnost sistema</string>
      <string name="notify_channel_optimize">Obvestila o varnosti</string>
+     <string name="notify_channel_resident_hide">Obvestila varnostnega pomočnika</string>
      <string name="notify_daily_data_usage_body">Da bi se samodejno omejila poraba podatkov nastavite vaš mesečni promet.</string>
      <string name="notify_daily_limit_body">Tapnite za nast. omejit.</string>
      <string name="notify_daily_limit_title">Izkoriščeno %s danes</string>

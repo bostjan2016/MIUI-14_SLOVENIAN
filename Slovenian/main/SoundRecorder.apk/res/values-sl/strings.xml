@@ -404,6 +404,7 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
      <string name="path_soundrecorder_setting">Sistemske aplikacije/Snemanje</string>
      <string name="pause">Premor</string>
+     <string name="pause_status_focus_notification">Premor</string>
      <string name="pay_error_cancel">Plačilo je bilo preklicano</string>
      <string name="pay_error_null">"Plačila ni bilo mogoče dokončati. Preverite svoj račun."</string>
      <string name="pay_error_unknown">Neznana napaka</string>
@@ -529,6 +530,7 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="recording_quality_high">Visoka</string>
      <string name="recording_quality_low">Nizka</string>
      <string name="recording_quality_standard">Standardna</string>
+     <string name="recording_status_focus_notification">Snemanje</string>
      <string name="recording_stopped">Ustavljeno</string>
      <string name="recording_timer_format_four_sections" formatted="false">%02d:%02d:%02d.%02d</string>
      <string name="recording_timer_format_three_sections" formatted="false">%02d:%02d.%02d</string>
@@ -592,6 +594,7 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="status_bar_back">Dotaknite se da se vrnete na snemanje</string>
      <string name="status_bar_recording">Snemam...</string>
      <string name="status_bar_recording_pause">Snemanje zaustavljeno</string>
+     <string name="stop_status_focus_notification">Končano</string>
      <string name="storage_permission_dialog_title">Potrebna so dovoljenja za shrambo</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="sunday">Nedelja</string>

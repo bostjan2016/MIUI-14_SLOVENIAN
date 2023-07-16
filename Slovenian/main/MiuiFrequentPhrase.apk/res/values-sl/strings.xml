@@ -217,6 +217,10 @@
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
+     <string name="super_clipboard_alert_dialog_cancel_button">Prekliči</string>
+     <string name="super_clipboard_alert_dialog_sure_button">V redu</string>
+     <string name="super_clipboard_send_file">Prilepim datoteko iz odložišča?</string>
+     <string name="super_clipboard_send_image">Prilepim sliko iz odložišča?</string>
      <string name="sync_phrase_label">Pogosti izrazi</string>
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
