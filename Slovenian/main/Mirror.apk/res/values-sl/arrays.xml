@@ -11,7 +11,7 @@
 3. Prepričajte se, da je vaša mobilna naprava blizu vašega računalnika."</item>
         <item>Vaš računalnik uporablja Bluetooth za zaznavanje mobilnih naprav, ki so bile predhodno povezane. Preverite, ali je Bluetooth vklopljen na vaši mobilni napravi.</item>
         <item>"Mobilne naprave ne morejo sinhronizirati podatkov z računalniki, ko je zaslon zaklenjen. Screen Combo privzeto ne dovoljuje zaklepanja zaslona, ko je vaša mobilna naprava povezana z računalnikom. To lahko spremenite v nastavitvah."</item>
-        <item>"1. Združljive mobilne naprave: Mi 11, Mi 10 Ultra, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Redmi K30s Ultra, Redmi K20 Pro, Redmi K30 Pro. Če ste po skeniranju kode QR preusmerjeni na naše uradno spletno mesto, vaša naprava še ni podprta.2. Združljivi računalniki: Mi Notebook Pro X 15, Mi Notebook Pro 15.6 (2020), Redmi G, Redmibook 16, Redmibook 14 Ⅱ, Redmibook Air 13. Prenesite MIUI+ Beta za svoj računalnik tukaj: https://plus.miui.com."</item>
+        <item>"1. Združljive mobilne naprave: Mi 11, Mi 10 Ultra, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Redmi K30s Ultra, Redmi K20 Pro, Redmi K30 Pro. Če ste po skeniranju kode QR preusmerjeni na naše uradno spletno mesto, vaša naprava še ni podprta.
 2. Združljivi računalniki: Mi Notebook Pro X 15, Mi Notebook Pro 15.6 (2020), Redmi G, Redmibook 16, Redmibook 14 Ⅱ, Redmibook Air 13. Prenesite MIUI+ Beta za svoj računalnik tukaj: https://plus.miui.com."</item>
      </string-array>
      <string-array name="settings_tips_title">
