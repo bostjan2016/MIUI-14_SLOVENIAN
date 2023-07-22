@@ -107,6 +107,7 @@
      <string name="cancel_moving_dialog_message">Želite ustaviti uvoz?</string>
      <string name="cancel_moving_dialog_title">Ustavi uvoz</string>
      <string name="cancel_tranfer">Prekliči</string>
+     <string name="cannot_use_mi_huanji_bacause_of_downloader">\"%s\" že zagotavlja storitve varnostnega kopiranja sistema. Odstranite ga in znova zaženite napravo, da boste lahko uporabljali Mi Mover.</string>
      <string name="cannot_use_mi_huanji_bacause_of_qqdownloader">"Kaže da je QQ Downloader storitev varnostnega kopiranja vašega sistema. Odstranite ga in znova zaženite napravo, da boste lahko uporabljali Mi Mover."</string>
      <string name="cannot_use_mi_huanji_button">Razumem</string>
      <string name="cannot_use_mi_huanji_summary">Kaže da MIUI trenutno varnostno kopira stvari. Ustavite varnostno kopiranje v teku ali ponovno zaženite vašo napravo, da bi aplikaciji Mi Mover omogočili začetek prenosa.</string>
@@ -700,7 +701,9 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="receiver_finish_detail_button">Pokaži poročilo</string>
      <string name="receiver_finish_detail_fail">"Ne morem poslati"</string>
      <string name="receiver_finish_detail_success">Poslane stvari</string>
+     <string name="receiver_finish_not_transferred">Ni preneseno</string>
      <string name="receiver_finish_title">"Vse je nastavljeno!"</string>
+     <string name="receiver_finish_transferred">Preneseno</string>
      <string name="receiver_video_summary">Odklenite staro napravo, tapnite \"Prenesi\" in optično preberite to sliko</string>
      <string name="receiver_video_title">Prenos iz stare naprave</string>
      <string name="recent_one_year">Zadnje 1 leto</string>

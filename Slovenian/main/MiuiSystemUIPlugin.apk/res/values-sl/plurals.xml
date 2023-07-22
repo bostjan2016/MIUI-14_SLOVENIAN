@@ -4,13 +4,13 @@
         <item quantity="other">pred 1 uro</item>
      </plurals>
      <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">pred 1 uro</item>
+        <item quantity="other">pred %d uro</item>
      </plurals>
      <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>
      <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Čez 1 uro</item>
+        <item quantity="other">Čez %d uro</item>
      </plurals>
      <plurals name="abbrev_in_half_hour">
         <item quantity="other">Čez pol ure</item>
@@ -20,14 +20,14 @@
      </plurals>
      <plurals name="abbrev_in_num_minutes">
         <item quantity="other">čez %d min</item>
-        <item quantity="one">čez 1 min</item>
+        <item quantity="one">čez %d min</item>
      </plurals>
      <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Pravkar</item>
      </plurals>
      <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">pred %d min</item>
-        <item quantity="one">pred 1 min</item>
+        <item quantity="one">pred %d min</item>
      </plurals>
      <plurals name="controls_number_of_favorites">
         <item quantity="other">Dodano je %s kontrol.</item>

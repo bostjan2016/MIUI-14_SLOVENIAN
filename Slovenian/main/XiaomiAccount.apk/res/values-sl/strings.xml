@@ -157,6 +157,7 @@ Zdaj se lahko prijavite v svoj račun Xiaomi z %s."</string>
      <string name="check_apk_update">Preveri za posodobitve</string>
      <string name="checking_phone_num_availible">Preverjanje telefona…</string>
      <string name="child_account_system_ad_disable_hint">Ta storitev ni na voljo za otroške račune</string>
+     <string name="clear_text_end_icon_content_description">Izbriši besedilo</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
      <string name="close_drawer">Zapri navigacijski meni</string>

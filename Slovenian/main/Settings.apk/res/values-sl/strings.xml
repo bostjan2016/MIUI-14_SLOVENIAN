@@ -3990,6 +3990,8 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
      <string name="enable_blurs_on_windows_summary">Omogoča zameglitve oken na ravni sestavljalnika. Zahteva vnovičen zagon naprave.</string>
      <string name="enable_blurs_on_windows_title">Omogoči zameglitve</string>
      <string name="enable_compatibility">Urejanje aplikacij</string>
+     <string name="enable_crbt_pref_summary">"Med preskušanjem ne prikazuj profilnih videoposnetkov za dohodne klice"</string>
+     <string name="enable_crbt_pref_title">Izklopi videoposnetke profila za dohodne klice</string>
      <string name="enable_crypt_keeper_encrypt">Omogoči enkripcijo</string>
      <string name="enable_data_string">Omogoči mobilne podatke</string>
      <string name="enable_drive_mode">Avtomobilski način</string>

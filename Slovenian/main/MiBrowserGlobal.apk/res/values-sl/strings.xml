@@ -501,6 +501,7 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="contextmenu_webpage_pdf">Shrani kot PDF</string>
      <string name="contextmenu_webpage_snapshot">Shrani stran</string>
      <string name="continue_reading">Nadaljujte z branjem</string>
+     <string name="continue_watch_video">Nadaljujte z gledanjem</string>
      <string name="copy">Kopiraj</string>
      <string name="copy_toast_msg">Povezava je bila kopirana v odložišče</string>
      <string name="copy_url">Kopiraj povezavo</string>
@@ -1748,6 +1749,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="notification_download_failed">Prenos ni uspel.</string>
      <string name="notification_wechat_expired_empty">WeChat je že izbrisal te videoposnetke.</string>
      <string name="notifications">Obvestila</string>
+     <string name="notify_rencet_play">Pred kratkim predvajano</string>
      <string name="novel_continue_read_popup">Beri</string>
      <string name="novel_tab_popup">Oglejte si svoje najnovejše knjige tukaj</string>
      <string name="novel_tab_popup_ok">V redu</string>
@@ -2481,6 +2483,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="snapshot_failed">"Strani ni bilo mogoče shraniti"</string>
      <string name="snapshot_successed">Odprite Zaznamki/Zgodovina->Lokalno za prikaz strani</string>
      <string name="sniff_ask_every_times">Zmeraj vprašaj</string>
+     <string name="sniff_description">Prejemajte pozive, ko spletna stran vsebuje stvari, ki jih je mogoče prenesti</string>
      <string name="sniff_detect_resource">Na tej strani smo opazili vsebino za prenos. Pokažem zdaj?</string>
      <string name="sniff_dialog">Vsebina za prenos</string>
      <string name="sniff_no_resource">Ni vsebine za prenos</string>

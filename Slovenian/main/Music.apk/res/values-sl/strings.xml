@@ -248,6 +248,7 @@
      <string name="autoplay_is_on">Samodejno predvajanje je vklopljeno</string>
      <string name="avail_services">Na voljo</string>
      <string name="available_playlist_name_format">Nov seznam predvajanja %d</string>
+     <string name="avatar">Profilna fotografija</string>
      <string name="avoid_to_use_traffic_summary">Ne uporabljajte mobilnega omrežja za predvajanje glasbe preko omrežja</string>
      <string name="avoid_to_use_traffic_title">Uporabljajte samo WiFi za predvajanje glasbe preko omrežja</string>
      <string name="back">Nazaj</string>

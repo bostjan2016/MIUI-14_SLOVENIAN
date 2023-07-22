@@ -1119,8 +1119,11 @@ Deaktiviram eSIM?"</string>
      <string name="domain_address_title">Strežnik</string>
      <string name="domestic_calls">Samo domači</string>
      <string name="doneButton">Končano</string>
+     <string name="dsda_end_call_toast">Prejšnja klicna seja je bila končana</string>
      <string name="dsda_summary">Izbrana omrežja podpirajo stanje pripravljenosti 5G+4G z dvojno kartico SIM</string>
      <string name="dsda_title">Vklopi 5G+4G DSDA</string>
+     <string name="dsda_turn_off">Dvojni aktivni način je izklopljen. Znova zaženite napravo, da uveljavite spremembe.</string>
+     <string name="dsda_turn_on">Dvojni aktivni način je vklopljen. Znova zaženite napravo, da uveljavite spremembe.</string>
      <string name="dsds_dialog_cancel">Prekliči</string>
      <string name="dsds_dialog_confirm">Vnovičen zagon</string>
      <string name="dsds_dialog_message">Če želite spremeniti to nastavitev, znova zaženite napravo.</string>

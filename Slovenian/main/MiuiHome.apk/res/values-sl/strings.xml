@@ -229,7 +229,7 @@
      <string name="cate_order_reset">Ponastavi</string>
      <string name="category_already_exists">Ta kategorija že obstaja</string>
      <string name="category_cannot_empty">Najprej vnesite kategorijo</string>
-     <string name="category_choose_no_app_select_tip">Vsaka kategorija mora vsebovati najmanj 1 aplikacijo.</string>
+     <string name="category_choose_no_app_select_tip">Vsaka kategorija mora vsebovati najmanj %d aplikacijo.</string>
      <string name="category_drawer_name_hint">Vnesite ime kategorije</string>
      <string name="category_edit_back_confirm_dialog_content">Shranim spremembe?</string>
      <string name="category_edit_back_confirm_dialog_negative_button">"Ne shrani"</string>
@@ -922,7 +922,7 @@ Izboljšana varnost."</string>
      <string name="request_permission_title">Potrebna so dovoljenja</string>
      <string name="reset_cate_tip_content">Če nadaljujete bodo vrnjene privzete skupine . Nadaljujem?</string>
      <string name="reset_cate_tip_title">Vrni privzete skupine</string>
-     <string name="reset_description_first_time">Lahko povrnete razpored iz %1$s v roku 2 ur</string>
+     <string name="reset_description_first_time">Lahko povrnete razpored iz %2$s v roku %1$d ur</string>
      <string name="reset_description_others">Lahko povrnete razpored iz %1$s</string>
      <string name="reset_fail">"Ne morem povrniti"</string>
      <string name="reset_scene_prompt">Zaslon bo ponovno nastavljen na privzeto nastavitev</string>

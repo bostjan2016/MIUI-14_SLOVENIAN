@@ -266,7 +266,7 @@
      <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Tiho je vključeno. Obvestila in mediji so utišani in vibracije so izključene.</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Vrstica za iskanje</string>
-     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
@@ -278,6 +278,7 @@
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>

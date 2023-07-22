@@ -440,6 +440,10 @@
         <item quantity="other">~%d obvestil tedensko</item>
         <item quantity="one">~%d obvestilo tedensko</item>
      </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">Spremembe bodo uporabljene čez %d sekund</item>
+        <item quantity="one">Spremembe bodo uporabljene čez %d sekundo</item>
+    </plurals>
      <plurals name="num_minutes_ago">
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
