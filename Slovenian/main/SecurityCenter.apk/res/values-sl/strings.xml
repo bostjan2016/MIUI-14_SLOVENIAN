@@ -2594,6 +2594,7 @@ vašega igranja"</string>
      <string name="global_dock_guide_desc_without_split_screen">"· Tapnite aplikacijo na stranski vrstici, da jo odprete v plavajočem oknu.
 · Pritisnite in držite indikator, da premikate okno."</string>
      <string name="global_satisfaction_notification_button">Ocenite</string>
+     <string name="global_satisfaction_notification_channel">Anketa o zadovoljstvu uporabnikov</string>
      <string name="global_satisfaction_notification_subhead">Povejte nam o svojih izkušnjah</string>
      <string name="global_satisfaction_notification_title">Ocenite to napravo</string>
      <string name="global_wa_setting_alert_dialog_content">Lahko osvobodite %s</string>
@@ -3027,7 +3028,7 @@ Vaš operater vam lahko računa dodatne stroške če ponovno uporabite mobilno p
      <string name="main_primary_message_leisure_overlimit">Prekoračena omejitev uporabe podatkov</string>
      <string name="main_primary_message_leisure_remain">Omejitev podatkov</string>
      <string name="main_primary_message_traffic_overlimit">Prekoračena omejitev uporabe podatkov</string>
-     <string name="main_primary_message_traffic_remain">Mobilni podatki</string>
+     <string name="main_primary_message_traffic_remain">Ostalo podatkov</string>
      <string name="main_primary_message_traffic_warning">Opozorilo uporabe podatkov</string>
      <string name="main_purchase_tips">Reklama</string>
      <string name="main_tc_over">Uspešno kalibrirano</string>
@@ -3975,6 +3976,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="permission_instruction_external_storage">To dovoljenje aplikacijam omogoča dostop do fotografij, predstavnosti in datotek v vaši napravi. S tem dovoljenjem bodite previdni, da se izognete nepotrebnemu razkritju zasebnih podatkov.</string>
      <string name="permission_instruction_gallery">Za zaščito vaše zasebnosti vam MIUI omogoča, da se odločite, ali dovolite aplikacijam, ki imajo dovoljenja za shranjevanje, dostop do Galerije.</string>
      <string name="permission_instruction_get_accounts">To dovoljenje aplikacijam omogoča dostop do seznama računov, shranjenih v vaši napravi. Ta seznam lahko vsebuje vse vaše osebne račune, ki so jih ustvarili nameščeni programi, pa tudi račune s platform socialnih medijev in komunikacijskih orodij.</string>
+     <string name="permission_instruction_get_identifier">Dostop do identifikatorja naprave</string>
      <string name="permission_instruction_install_shortcuts">To dovoljenje aplikacijam omogoča ustvarjanje bližnjic na začetnem zaslonu.</string>
      <string name="permission_instruction_install_unknown_source">To dovoljenje aplikacijam omogoča namestitev drugih programov v vašo napravo. Zlonamerni programi uporabljajo to dovoljenje za namestitev programov brez vaše potrditve.</string>
      <string name="permission_instruction_location">Ko daste to dovoljenje, bodo aplikacije za dostop do vaše lokacije uporabljale omrežja ali satelitsko določanje položaja. Aplikacijam, ki podpirajo to storitev, lahko dovolite dostop samo do vaše približne lokacije.</string>
@@ -3995,6 +3997,7 @@ To skrajšuje trajanje baterije."</string>
 "</string>
      <string name="permission_instruction_read_contacts">"To dovoljenje aplikacijam omogoča dostop do kontaktnih podatkov, shranjenih v vaši napravi. Te informacije lahko vključujejo pogostost komunikacije z določenimi stiki prek klicev, e-pošte in drugih načinov. To dovoljenje aplikacijam omogoča tudi shranjevanje stikov. Zlonamerne aplikacije lahko to dovoljenje uporabljajo za skupno rabo stikov brez vašega soglasja
 ."</string>
+     <string name="permission_instruction_read_history">Dostop do zgodovine brskanja</string>
      <string name="permission_instruction_read_media_pic">To dovoljenje omogoča aplikacijam dostop do fotografij in videoposnetkov, shranjenih v tej napravi. Te stvari lahko vsebujejo osebne podatke.</string>
      <string name="permission_instruction_read_notify_sms">To dovoljenje aplikacijam omogoča branje besedilnih sporočil obvestil, shranjenih v vaši napravi ali na kartici SIM.</string>
      <string name="permission_instruction_read_phone_state">"To dovoljenje aplikacijam omogoča dostop do vaše telefonske številke, IMEI, IMSI in drugih identifikatorjev naprav. Aplikacije običajno uporabljajo to dovoljenje za ugotavljanje, ali so vaši klici preusmerjeni. Če uporabljate navidezni ID naprave, aplikacije ne bodo mogle dostopati do vaših dejanskih identifikatorjev naprave
@@ -4002,8 +4005,10 @@ To skrajšuje trajanje baterije."</string>
      <string name="permission_instruction_read_sms">"To dovoljenje aplikacijam omogoča branje vseh besedilnih in večpredstavnostnih sporočil, shranjenih v vaši napravi ali kartici SIM. Takšna sporočila lahko vsebujejo gesla, podatke o bančnem računu in druge osebne podatke."</string>
      <string name="permission_instruction_read_write_calendar">To dovoljenje aplikacijam omogoča dostop do koledarja ter branje, dodajanje, odstranjevanje, urejanje, skupno rabo in shranjevanje koledarskih dogodkov. Zlonamerne aplikacije lahko to dovoljenje uporabljajo za pošiljanje sporočil v vašem imenu ali za urejanje koledarskih dogodkov brez vašega soglasja.</string>
      <string name="permission_instruction_receive_mms">To dovoljenje aplikacijam omogoča branje vseh večpredstavnostnih sporočil, shranjenih v vaši napravi ali na kartici SIM. Takšna sporočila lahko vključujejo gesla, podatke o bančnem računu in druge osebne podatke.</string>
+     <string name="permission_instruction_receive_sms">Prejemanje SMS in MMS</string>
      <string name="permission_instruction_record_audio">"To dovoljenje aplikacijam omogoča uporabo mikrofona za snemanje zvoka. Upoštevajte, da to dovoljenje aplikacijam omogoča snemanje česar koli, vključno z vašimi pogovori z drugimi. Najbolje je, da program dovoli uporabo tega dovoljenja samo med njihovo uporabo.
 "</string>
+     <string name="permission_instruction_record_screen">Dostop do vsebine zaslona</string>
      <string name="permission_instruction_running_background">To dovoljenje omogoča izvajanje aplikacij v ozadju. S tem lahko aplikacije zbirajo podatke in nudijo storitve. Upoštevajte, da takšne dejavnosti povečajo porabo energije.</string>
      <string name="permission_instruction_running_exceed_data">To dovoljenje omogoča aplikacijam da ignorirajo omejitev potrebe mobilnih podatkov.</string>
      <string name="permission_instruction_scoped">Nov zaščitni mehanizem za shranjevanje vam omogoča boljši nadzor nad tem, kako združljive aplikacije uporabljajo dovoljenja za shranjevanje</string>
@@ -4016,6 +4021,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="permission_instruction_sociality">Za zaščito vaše zasebnosti vam MIUI omogoča, da se odločite, ali dovolite aplikacijam, ki imajo dovoljenja za shranjevanje, dostop do vaših sporočil v aplikacijah za družabna omrežja.</string>
      <string name="permission_instruction_storage">Za zaščito vaše zasebnosti vam MIUI omogoča, da se odločite, ali dovolite aplikacijam, ki imajo dovoljenja za shranjevanje, dostop do Galerije in vaših sporočil v aplikacijah za družabna omrežja.</string>
      <string name="permission_instruction_touch_pay">To dovoljenje aplikacijam omogoča brezstično plačevanje.</string>
+     <string name="permission_instruction_transfer_data_to_other_devices">Prenos podatkov v druge naprave</string>
      <string name="permission_instruction_use_sip">To dovoljenje aplikacijam omogoča uporabo video storitev SIP.</string>
      <string name="permission_instruction_vr_assistant">To dovoljenje aplikacijam omogoča uporabo storitev pomočnikov VR.</string>
      <string name="permission_instruction_wall_paper">Dodelite to dovoljenje, da aplikacijam omogočite spreminjanje privzetih storitev dinamičnih ozadij in delovanje v ozadju.</string>

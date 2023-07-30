@@ -331,6 +331,8 @@ drsnega posnetka zaslona"</string>
      <string name="screen_talkback_shape">Oblika</string>
      <string name="screen_talkback_small">Zelo majhno</string>
      <string name="screen_talkback_text">Besedilo</string>
+     <string name="screenshot_detected_multiple_template">Več aplikacij, vključno z %1$s je zaznalo ta posnetek zaslona</string>
+     <string name="screenshot_detected_template">%1$s je zaznal ta posnetek zaslona</string>
      <string name="screenshot_edit">Uredi</string>
      <string name="screenshot_failed_in_landscape_mode">"V ležečem načinu ni mogoče narediti drsni posnetek zaslona"</string>
      <string name="screenshot_failed_to_capture_title">"Ta aplikacija ne dovoljuje posnetkov zaslona"</string>
