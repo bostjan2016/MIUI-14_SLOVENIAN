@@ -461,7 +461,7 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
      <string name="provision_skip_underline">Preskoči</string>
      <string name="query_restore_back_view">Mi Cloud var. kopija</string>
-     <string name="query_restore_description">"Če obnovite postavitev in nastavitve začetnega zaslona, ​​bodo aplikacije, ki so že nameščene, obnovljene na prvotne položaje na začetnem zaslonu. Aplikacije, ki niso del te varnostne kopije, bodo premaknjene na zadnjo stran začetnega zaslona."</string>
+     <string name="query_restore_description">"Če obnovite postavitev in nastavitve začetnega zaslona, bodo aplikacije, ki so že nameščene, obnovljene na prvotne položaje na začetnem zaslonu. Aplikacije, ki niso del te varnostne kopije, bodo premaknjene na zadnjo stran začetnega zaslona."</string>
      <string name="query_restore_summary">Najdena var. kopija na Mi Cloudu za to napravo. Obnovim aplikacije in nastavitve zač. zaslona ali uporabim kot novo napravo in izbrišem predhodne var. kopije iz Mi Clouda?</string>
      <string name="recover_home_settings">Obnovi nastavitve zač. zaslona</string>
      <string name="recover_miui_settings">Obnovi nastavitve sistema</string>
