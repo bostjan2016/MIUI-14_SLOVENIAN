@@ -504,6 +504,7 @@
      <string name="superpower_time">h:mm</string>
      <string name="superpower_time_24">H:mm</string>
      <string name="superpower_toast_app_select_full">Pogosto uporabljenim aplikacijam lahko dodate do 6 stvari</string>
+     <string name="superpower_toast_app_select_full_new">Pogosto uporabljenim aplikacijam lahko dodate do %d stvari</string>
      <string name="support_game_booster_tips">Pohitritev &amp; izboljšanje doživetja igranja</string>
      <string name="sys_cpu_title">Uporaba CPU</string>
      <string name="sys_freememory_title">Na voljo</string>

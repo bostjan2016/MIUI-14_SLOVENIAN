@@ -64,8 +64,9 @@
      <string name="effect_3dsurround_summary_headphone">Izboljšaj globino predvajanja zvoka za slušalke</string>
      <string name="effect_dolby">Dolby</string>
      <string name="effect_misound">Nesporazum</string>
-     <string name="effect_none">Nič</string>
+     <string name="effect_none">Original</string>
      <string name="effect_selection">Zvočni učinki</string>
+     <string name="effect_selection_headset">Učinki slušalk</string>
      <string name="effect_virtual_surround">Virtualni prostorski zvok</string>
      <string name="effect_virtual_surround_summary">"Obogati globino zvoka za predvajanje zvoka in videa v slušalkah (ta storitev ne bo delovala, ko se predvaja zvok %.1f)"</string>
      <string name="effect_virtual_surround_summary_spk">Obogati globino zvoka za predvajanje zvoka in videa</string>

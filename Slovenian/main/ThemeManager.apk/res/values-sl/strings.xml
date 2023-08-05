@@ -1775,6 +1775,10 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
      <string name="wallpaper_share_alert">Prišlo je do napake. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="wallpaper_static">Statično</string>
      <string name="wallpaper_subject_version">MI</string>
+     <string name="warning_miui_optimization_closed_dialog_agree">Nastavitve</string>
+     <string name="warning_miui_optimization_closed_dialog_disagree">Uporabi</string>
+     <string name="warning_miui_optimization_closed_dialog_message">"Kaže da niste vklopili optimizacije MIUI. Brez nje ta tema ne bo delovala pravilno, ko jo uporabite. Vseeno jo lahko uporabite ali vklopite optimizacijo MIUI v nastavitvah."</string>
+     <string name="warning_miui_optimization_closed_dialog_title">Pozor</string>
      <string name="warning_subscribe_wallpaper_group_content">"Vklopili ste diaprojekcijo na začetnem zaslonu. %1$s bo uporabljeno na vašem začetnem zaslonu."</string>
      <string name="wechat_not_found">Najprej namestite WeChat</string>
      <string name="wednesday">Sreda</string>

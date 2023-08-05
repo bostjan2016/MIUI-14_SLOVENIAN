@@ -6737,6 +6737,7 @@ Poskusite povečati ločljivost!"</string>
      <string name="virus_app_type_uninstalled">APK</string>
      <string name="virus_app_verison_text">Verzija: %s</string>
      <string name="virus_auto_update_engine">Samod. posodobi: %s</string>
+     <string name="virus_auto_update_engine_1">Samodejno posodobi definicije</string>
      <string name="virus_clear_dialog_title">Očistite zlonamerne aplikacije</string>
      <string name="virus_detail_app">Vsebuje viruse</string>
      <string name="virus_detail_split_line_text"> | </string>

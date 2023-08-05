@@ -268,6 +268,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="exception_param_error">Prišlo je do napake. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="exception_rename_conflict">"Ne morem preimenovati. Stvar z tem imenom že obstaja."</string>
      <string name="exception_rename_illegal_char">"Imena datotek ne smejo vsebovati posebne znake"</string>
+     <string name="exception_share_file">"Ne morem morem naložiti. Počakajte minuto ali dve in poskusite znova."</string>
      <string name="expand_button_title">Napredno</string>
      <string name="fab_menu_sort">Razvrsti</string>
      <string name="failed_dup_secure_phone_number">Ta telefonska številka je že povezana z drugim Mi računom.</string>
@@ -421,7 +422,7 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
      <string name="midnight">Noč</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Vrstica za iskanje</string>
-     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
@@ -430,6 +431,7 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>

@@ -490,6 +490,9 @@ Na vašem računalniku lahko začnete novo sejo."</string>
      <string name="settings_how_use">Uporabi primopredajo</string>
      <string name="settings_log_options">Zapisi</string>
      <string name="settings_more_help">Pomoč</string>
+     <string name="settings_nfc_transfer_desc1">"·Približajte telefon, prijavljen v vaš račun Xiaomi, k modulu NFC te naprave, da delite vsebino zaslona ali prenesete stvari, izbrane v raziskovalcu ali galeriji."</string>
+     <string name="settings_nfc_transfer_desc2">·Seznam združljivih naprav si lahko ogledate tukaj: %s</string>
+     <string name="settings_nfc_transfer_title">Prenesite stvari preko NFC</string>
      <string name="settings_pad">Tablica</string>
      <string name="settings_pad_handoff_title">Poveži se samodejno</string>
      <string name="settings_pc">Računalnik</string>

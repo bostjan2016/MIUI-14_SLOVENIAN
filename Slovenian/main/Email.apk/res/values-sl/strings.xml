@@ -324,6 +324,7 @@
      <string name="auto_remind_discribe_text">Vključi za sprejem samodejnega opomnika</string>
      <string name="auto_remind_text">Samod. opomniki</string>
      <string name="auto_remind_unbind">Zaustavi</string>
+     <string name="auto_start_open_prompt">Dovolite aplikaciji samodejni zagon, da bo lahko sinhronizirala vaša e-poštna sporočila. To dovoljenje lahko podelite v nastavitvah.</string>
      <string name="auto_sync_off">Samodejna sinhronizacija je izključena.</string>
      <string name="automatic_remind_text">Opomni</string>
      <string name="bContact_list_search_hint">Poišči blokirane stike</string>
@@ -361,6 +362,7 @@
      <string name="calendar_skip_no_account_alert">Ta račun ni najden</string>
      <string name="cancel">Prekliči</string>
      <string name="cancel_action">Prekliči</string>
+     <string name="cancel_edit">Ustavi urejanje</string>
      <string name="cancel_pop3_attchemt_downloading">Odpoved prevzemanja priponk ni na voljo za POP3 račun.</string>
      <string name="cant_move_or_change_labels">"Ne morem premakniti, ker izbor vsebuje več računov."</string>
      <string name="cc">Kp</string>
@@ -592,6 +594,7 @@
      <string name="drive_card_code">Koda je:</string>
      <string name="drive_card_tips">%s je dal v skupno rabo stvar, shranjeno v oblaku</string>
      <string name="drive_card_title">URL za shranjevanje v oblaku</string>
+     <string name="drop_sign_operation">Ustavim urejanje in zavržem vse spremembe?</string>
      <string name="dtend">Konec</string>
      <string name="dtstart">Začetek</string>
      <string name="due">Due</string>
@@ -1321,6 +1324,7 @@ Poskusite z ostalo pošto."</string>
      <string name="open_pdf_error">Datoteke PDF ne morem odpreti. Prenesite orodja za odpiranje PDF in poskusite znova.</string>
      <string name="operation_settging">Dejanja</string>
      <string name="optimization_suggestion">Predlogi optimizacije</string>
+     <string name="other_pdf_open">Odpri z…</string>
      <string name="others_mail">Ostalo</string>
      <string name="others_mail_des">(Kompatibilno z 600K poštnimi ponudniki)</string>
      <string name="outbox_alert_button_no_resend">"Ne pošlji"</string>
@@ -1384,6 +1388,7 @@ Poskusite z ostalo pošto."</string>
      <string name="pdf_has_signature_prompt_confirm">Podpisana kopija</string>
      <string name="pdf_has_signature_prompt_message">Zaznana je bila podpisana kopija te priloge. Odprem namesto tega?</string>
      <string name="pdf_save_error">Telo je preveliko, ni ga mogoče izvoziti kot datoteko PDF</string>
+     <string name="pdf_save_local">"Shranjeno v napravo: "</string>
      <string name="pdf_save_no_body">Počakajte, da se besedilo uspešno naloži, in poskusite znova</string>
      <string name="pdf_save_to">Shranjeno v</string>
      <string name="pdf_signature_add">Dodaj nov podpis</string>
@@ -1431,6 +1436,7 @@ Poskusite z ostalo pošto."</string>
      <string name="photo_view_count">%1$d/%2$d</string>
      <string name="pl_select_age">Izberite starost</string>
      <string name="please_fill_in_your_mailbox_information2">Vnesite vaše podatke za račun e-pošte:</string>
+     <string name="please_save_sign_first">Najprej shranite podpis</string>
      <string name="pls_parse_bill_discribe">"Analizirajte račune in informacije o potovanju v svoji e-pošti
 da prejmete opomnike o plačilih in potovanjih"</string>
      <string name="pm">pop.</string>
@@ -1622,6 +1628,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="save_draft_failed">"Ne morem shraniti osnutka"</string>
      <string name="save_power_summary">Določite čas varčevanja z energijo</string>
      <string name="save_power_title">Varčevanje baterije</string>
+     <string name="save_sign_pdf">Shrani v napravo</string>
      <string name="save_this_new_signature">Shranim nov podpis?</string>
      <string name="saved">Shranjeno, %s</string>
      <string name="saving">Shranjujem</string>
@@ -1640,8 +1647,8 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="security_changed_ticker_fmt">Račun \"%s\" je spremenil varnostne nastavitve, uporabniku ni potrebno ničesar storiti.</string>
      <string name="security_needed_ticker_fmt">Račun \"%s\" zahteva posodobitev varnostnih nastavitev.</string>
      <string name="security_notification_content_change_title">Politika varnosti se je spremenila</string>
-     <string name="security_notification_content_unsupported_title">Ne morem izpolniti varnostnih 
-         pravil</string>
+     <string name="security_notification_content_unsupported_title">"Ne morem izpolniti varnostnih 
+ pravil"</string>
      <string name="security_notification_content_update_title">Potrebna je varnostna posodobitev</string>
      <string name="security_unsupported_ticker_fmt">Račun \"%s\" ne more biti sinhroniziran zaradi varnostnih zahtev.</string>
      <string name="see_more_content">Več</string>
@@ -1816,6 +1823,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="train_card_title_change">Zamenjava vstopnic je uspela</string>
      <string name="train_card_title_change_arrival">Zamenjava vstopnic je uspela</string>
      <string name="train_card_title_refund">Uspešno vračilo vozovnice</string>
+     <string name="translated_text_too_long">Izberite manj besedila za kopiranje in poskusite znova</string>
      <string name="translation_loading">Samo trenutek…</string>
      <string name="translation_no_result">Ni rezultatov</string>
      <string name="translation_pronunciation_am">AmE</string>

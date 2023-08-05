@@ -455,6 +455,7 @@ Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
      <string name="cit_front_rear_dual_camera_check_title">Sprednja Bokeh kamera</string>
      <string name="cit_front_rear_sub_camera_check_title">Sprednja Aux kamera</string>
      <string name="cit_front_sub_camera_check_title">Sprednja Aux camera</string>
+     <string name="cit_front_sub_camera_check_title_fold">Podzaslonska Sprednja kamera</string>
      <string name="cit_get_signature_failed">Dobivanje podpisa NEUSPEŠNO</string>
      <string name="cit_goodix_sensor_check_summary">Testiranje Goodix senzorja, pritisnite tipko in počakajte da bodo podatki označeni zeleno pravilni.</string>
      <string name="cit_goodix_sensor_check_title">Senzor prstnega odtisa Goodix</string>
@@ -1452,6 +1453,7 @@ Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
      <string name="test_speaker_summary">"Slišali boste dve naključni številki
 Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
      <string name="test_spi_chip_id">Chip ID:</string>
+     <string name="test_sub_front_camera">Podzaslonska Sprednja kamera</string>
      <string name="test_top_mic">Zgornji mikrofon</string>
      <string name="test_top_speaker">zgornji_zvočnik</string>
      <string name="testagain">Lahko pritisnete tipko Domov za ponovno testiranje</string>
@@ -1496,5 +1498,6 @@ Prosimo, izberite pravi gumb glede na različne načine vibracij"</string>
      <string name="wait_test">Počakaj test</string>
      <string name="waiting">Počakajte 4s.</string>
      <string name="warm_light_title">Topla svetloba</string>
+     <string name="wifi_power_test_testing">Testiranje moči WiFi...</string>
      <string name="yes">Da</string>
 </resources>
