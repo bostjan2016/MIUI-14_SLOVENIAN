@@ -268,7 +268,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="exception_param_error">Prišlo je do napake. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="exception_rename_conflict">"Ne morem preimenovati. Stvar z tem imenom že obstaja."</string>
      <string name="exception_rename_illegal_char">"Imena datotek ne smejo vsebovati posebne znake"</string>
-     <string name="exception_share_file">"Ne morem morem naložiti. Počakajte minuto ali dve in poskusite znova."</string>
+     <string name="exception_share_file">"Ne morem naložiti. Počakajte minuto ali dve in poskusite znova."</string>
      <string name="expand_button_title">Napredno</string>
      <string name="fab_menu_sort">Razvrsti</string>
      <string name="failed_dup_secure_phone_number">Ta telefonska številka je že povezana z drugim Mi računom.</string>
