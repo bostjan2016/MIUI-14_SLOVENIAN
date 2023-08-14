@@ -1741,6 +1741,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="dont_bore_text">Utišaj obvestila in izključi tipke za odstanitev motenj</string>
      <string name="dont_bore_title">DND način</string>
      <string name="download">Prenesi</string>
+     <string name="download_tvm_title">Dodatek Ključna komponenta telefona</string>
      <string name="downloading">Prenašam…</string>
      <string name="doze_optimization_summary">Povečajte občutljivost na dotik in občutljivost</string>
      <string name="doze_optimization_title">Optimizirano urejanje dotika</string>
@@ -2866,6 +2867,8 @@ da se pridružite našemu lovu na jajca!"</string>
      <string name="install_sucess">%s uspešno nameščen</string>
      <string name="install_text">Namesti</string>
      <string name="install_title">Namesti preko USB-a</string>
+     <string name="install_tvm_component_desc">Da zagotovite varnost svojih transakcij, namestite vtičnik Ključna komponenta telefona.</string>
+     <string name="install_tvm_component_title">Namesti vtičnik Ključna komponenta telefona</string>
      <string name="install_type_instant">Instant aplikacija</string>
      <string name="installed">Nameščeno</string>
      <string name="installing">Nameščanje…</string>
@@ -5816,8 +5819,8 @@ Za uporabo ^1, ga morate najprej izvreči."</string>
      <string name="storage_dialog_unsupported">"Ta naprava ne podpira ta ^1.
 
 Za uporabo ^1 v tej napravi ga morate najprej vpeti."</string>
-     <string name="storage_fbo_clear">FBO osvežitev prostora za shranjevanje</string>
-     <string name="storage_fbo_des">"Notranji pomnilnik je razdrobljen, kar lahko močno upočasni vašo napravo. Osvežitev pomnilnika FBO deluje samodejno, ko naprave ne uporabljate. Vaše datoteke fizično organizira v najmanjše število fragmentov, kar zmanjša zamik."</string>
+     <string name="storage_fbo_clear">Osvežitev prostora za shranjevanje</string>
+     <string name="storage_fbo_des">"Notranji pomnilnik je razdrobljen, kar lahko močno upočasni vašo napravo. Osvežitev pomnilnika deluje samodejno, ko naprave ne uporabljate. Vaše datoteke fizično organizira v najmanjše število fragmentov, kar zmanjša zamik."</string>
      <string name="storage_fbo_number_tip">Obdelano %1$s</string>
      <string name="storage_fbo_tools">Optimizacija shrambe</string>
      <string name="storage_file_delete_tip">Želite trajno izbrisati izbrane stvari? Nekatere od njih se lahko po potrebi ponovno naložijo.</string>
@@ -6560,6 +6563,9 @@ Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca.
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
      <string name="turn_off_auto_correction">Izklop samodejne sinhronizacije</string>
+     <string name="tvm_install_failed">"Ne morem namestiti"</string>
+     <string name="tvm_install_successed">Nameščeno</string>
+     <string name="tvm_version_too_low">Najprej posodobite vtičnik Ključna komponenta telefona</string>
      <string name="two_address_choose_hint">%1$s in %2$s</string>
      <string name="type_face_condition_summary">Prilagodite velikost besedila in velikost pisave</string>
      <string name="unable_connect_internet">"Ne morem se povezati na omrežje"</string>
@@ -6590,6 +6596,8 @@ Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca.
      <string name="untrust_app_perm_title">Aplikacija iz neznanega vira</string>
      <string name="untrust_app_perm_warn">Ta aplikacija prihaja iz neznanega vira in lahko predstavlja varnostno tveganje. Spodaj navedena dovoljenja lahko uporabi za ogrožanje vaše zasebnosti. Ta dovoljenja podelite po skrbnem premisleku.</string>
      <string name="updating_diagnostic_botton">Analiza podatkov…</string>
+     <string name="upgrade_tvm_component_desc">Da zagotovite varnost svojih transakcij, posodobite vtičnik Ključna komponenta telefona.</string>
+     <string name="upgrade_tvm_component_title">Posodobite vtičnik Ključna komponenta telefona</string>
      <string name="usage_sorted_activity_lable">Poraba podatkov</string>
      <string name="usage_sorted_empty_text">Prazno</string>
      <string name="usage_sorted_loading_text">Samo trenutek…</string>

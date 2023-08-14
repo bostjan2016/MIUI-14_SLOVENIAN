@@ -2084,6 +2084,7 @@ Bodite srečni"</string>
      <string name="song_offline">Ta pesem ni na voljo.</string>
      <string name="song_picker_complete">Končano</string>
      <string name="song_quality_category">Glasba</string>
+     <string name="song_swipe_navigation">Povlecite levo ali desno, da preklopite skladbo</string>
      <string name="songgroup_pick_album">Albumi</string>
      <string name="songgroup_pick_playlist">Seznami pesmi</string>
      <string name="sort_by_language">Jezik</string>

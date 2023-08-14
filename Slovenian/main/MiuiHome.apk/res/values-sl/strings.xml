@@ -264,6 +264,7 @@
      <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Dvojne aplikacije bodo odstranjene skupaj s temi.</string>
      <string name="confirm_uninstall_dialog_has_xspace_app_msg">Dvojna aplikacija bo odstranjena skupaj s to.</string>
      <string name="confirm_uninstall_dialog_title">Dvojne aplikacije bodo odstranjene.</string>
+     <string name="content_center">Center za vsebine</string>
      <string name="content_description_button_add">Tapnite za dodajanje trenutnim aplikacijam</string>
      <string name="content_description_button_disable">"Ne morem dodati več trenutnih aplikacij"</string>
      <string name="content_description_button_remove">Dotaknite se za odstranitev iz trenutnih aplikacij</string>
@@ -513,6 +514,11 @@
      <string name="in_app_result_by">V-Apl rezultati od</string>
      <string name="install">Namesti</string>
      <string name="intelligent_exposed_button_summary_text">Uporabite pametne predloge, ki temeljijo na vaši uporabi aplikacije, da označite aplikacije v povečanih mapah</string>
+     <string name="international_home_pull_down_content">Za iskanje v tej napravi in spletu povlecite navzdol po začetnem zaslonu.</string>
+     <string name="international_home_pull_down_sub_content">To potezo lahko namesto tega preklopite tako, da odprete kontrolni center v Nastavitve > Začetni zaslon > Povlecite navzdol po začetnem zaslonu.</string>
+     <string name="international_home_pull_down_up_btn_get">Razumem</string>
+     <string name="international_home_pull_up_content">Povlecite navzgor po začetnem zaslonu, da odprete Center vsebine.</string>
+     <string name="international_home_pull_up_sub_content">Če želite odpreti iskanje, povlecite navzdol s sredine začetnega zaslona.</string>
      <string name="invalid_contact_shortcut">Napačen stik</string>
      <string name="is_setting_wallpaper_message">Nastavljam sliko za ozadje…</string>
      <string name="is_system_wallpaper_message">"Ne morem izbrisati sistemskih ozadij"</string>

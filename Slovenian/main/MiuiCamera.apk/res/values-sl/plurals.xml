@@ -61,6 +61,10 @@
         <item quantity="other">&lt;Data>Ta naprava je prevroča.&lt;br>Aplikacija bo zaprta čez &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Trenutni napredek je bil samodejno shranjen.&lt;/Data></item>
         <item quantity="one">&lt;Data>Ta naprava je prevroča.&lt;br>Aplikacija bo zaprta čez &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Trenutni napredek je bil samodejno shranjen.&lt;/Data></item>
      </plurals>
+     <plurals name="exit_version_hint">
+        <item quantity="other">"&lt;Data>"Različica kamere, ki jo uporabljate, ni združljiva z modelom vaše naprave.&lt;br>Aplikacija se bo zaprla čez &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Odstranite posodobitve kamere in poskusite znova."&lt;/Data>"</item>
+        <item quantity="one">"&lt;Data>"Različica kamere, ki jo uporabljate, ni združljiva z modelom vaše naprave.&lt;br>Aplikacija se bo zaprla čez &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Odstranite posodobitve kamere in poskusite znova."&lt;/Data>"</item>
+     </plurals>
      <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d min</item>
         <item quantity="one">%1$d min</item>
