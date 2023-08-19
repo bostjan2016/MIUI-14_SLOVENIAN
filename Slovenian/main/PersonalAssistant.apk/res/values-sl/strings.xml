@@ -1204,6 +1204,8 @@ Hitro dostavo lahko spremljate tudi na uradnih spletnih mestih kurirskih služb.
      <string name="pa_filter_title">Več pripomočkov</string>
      <string name="pa_finish">Končano</string>
      <string name="pa_get_installed_app_permission_description">Za namestitev aplikacij in dodajanje pripomočkov</string>
+     <string name="pa_global_search_description">Išči</string>
+     <string name="pa_global_search_hint">Iskanje…</string>
      <string name="pa_guide_dialog_desc">Pritisnite in držite pripomoček, da ga preuredite. Tapnite plus, da dodate več pripomočkov.</string>
      <string name="pa_guide_dialog_sure">Razumem</string>
      <string name="pa_guide_dialog_title">Oglejte si našo trgovino s pripomočki</string>

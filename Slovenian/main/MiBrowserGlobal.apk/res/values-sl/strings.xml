@@ -217,6 +217,13 @@
      <string name="avatar">Profilna slika</string>
      <string name="back_button_label">Nazaj</string>
      <string name="back_description">Nazaj</string>
+     <string name="back_dialog_antivirus_primary_btn">Išči</string>
+     <string name="back_dialog_health_check_primary_btn">Optimiziraj</string>
+     <string name="back_dialog_storage_content">"%1$s pomnilnika vaše naprave je zasedeno. Očistim zdaj?"</string>
+     <string name="back_dialog_storage_primary_btn">Očisti</string>
+     <string name="back_dialog_title_antivirus">Varnostni pregled</string>
+     <string name="back_dialog_title_health_check">Optimiziraj napravo</string>
+     <string name="back_dialog_title_storage">Upravljaj prostor za shranjevanje</string>
      <string name="back_home">Domača stran</string>
      <string name="batch_download">Prenesi</string>
      <string name="batch_download_tip">Kaže da se več stvari prenaša ob istem času. Želite ustaviti te prenose?</string>
@@ -268,6 +275,7 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="bottom_bar_tabs_long_click_up_tip_txt">Podrsajte navzgor, da zaprete</string>
      <string name="bottomsheet_action_expand_halfway">Razširi do polovice</string>
      <string name="branch_app_suggestion">Priporočeno</string>
+     <string name="branch_app_title">Išči aplikacije</string>
      <string name="branch_apps">Aplikacije</string>
      <string name="branch_contacts">Stiki</string>
      <string name="branch_function_search_for_more">Izboljšano iskanje vam omogoča iskanje elementov v nastavitvah, stikih, sporočilih itd.</string>
@@ -503,6 +511,7 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="continue_reading">Nadaljujte z branjem</string>
      <string name="continue_watch_video">Nadaljujte z gledanjem</string>
      <string name="copy">Kopiraj</string>
+     <string name="copy_success">Kopirano</string>
      <string name="copy_toast_msg">Povezava je bila kopirana v odložišče</string>
      <string name="copy_url">Kopiraj povezavo</string>
      <string name="core_functions_of_browser">Glavne storitve na dosegu roke</string>
@@ -572,9 +581,20 @@ Strani, ki si jih ogledate ne bodo zabeležene v zgodovini."</string>
      <string name="diagnosis_log_sent_format">"Poročila so bila uspešno poslana.
 ID:%s
 Pošljite to kodo nadzorniku."</string>
+     <string name="dialog_ad_callback_cancel">Prekliči</string>
+     <string name="dialog_ad_callback_fraud_info">Goljufija ali prevara</string>
+     <string name="dialog_ad_callback_inappropriate_picture">Neprimerne slike</string>
+     <string name="dialog_ad_callback_others">Ostalo</string>
+     <string name="dialog_ad_callback_title">Prijavite težavo</string>
      <string name="dialog_channel_cancel">Prekliči</string>
      <string name="dialog_channel_confirm">V redu</string>
      <string name="dialog_channel_remove_content">Z odstranitvijo vseh kanalov boste tudi odstranili vsebinski tok.</string>
+     <string name="dialog_dislike_reason_cancel">Prekliči</string>
+     <string name="dialog_dislike_reason_not_interested">"Ne zanima me"</string>
+     <string name="dialog_dislike_reason_others">Otstali razlogi</string>
+     <string name="dialog_dislike_reason_poor_quality">Slaba kakovost</string>
+     <string name="dialog_dislike_reason_repetitive">Ponavljajoče</string>
+     <string name="dialog_dislike_title">"Zakaj vam ta oglas ni všeč?"</string>
      <string name="dialog_game_banner">Poglejte popularne igre!</string>
      <string name="dialog_game_close">Prekliči</string>
      <string name="dialog_game_play">Igraj</string>
@@ -2375,6 +2395,8 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="search_file_type_picture">Fotografija</string>
      <string name="search_file_type_video">Videoposnetek</string>
      <string name="search_for_anything">Išči karkoli</string>
+     <string name="search_for_anything_test_1">Poiščite splet ali svojo napravo</string>
+     <string name="search_for_anything_test_2">Poiščite aplikacije in drugo</string>
      <string name="search_google">Google</string>
      <string name="search_hint">Išči</string>
      <string name="search_label">Brskalnik</string>

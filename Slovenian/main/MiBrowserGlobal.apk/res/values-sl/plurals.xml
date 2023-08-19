@@ -54,6 +54,18 @@
         <item quantity="other">Predvajaj naslednji video čez %d sekund</item>
         <item quantity="one">Predvajaj naslednji video čez %d sekundo</item>
      </plurals>
+     <plurals name="back_dialog_antivirus_content_des">
+        <item quantity="other">"Svoje naprave niste pregledali %d dni. Pregledam zdaj?"</item>
+        <item quantity="one">"Svoje naprave niste pregledali %d dan. Pregledam zdaj?"</item>
+     </plurals>
+     <plurals name="back_dialog_day">
+        <item quantity="other">dni</item>
+        <item quantity="one">dan</item>
+     </plurals>
+     <plurals name="back_dialog_health_check_content_des">
+        <item quantity="other">"Svoje naprave niste optimizirali že %d dni. Optimiziram zdaj?"</item>
+        <item quantity="one">"Svoje naprave niste optimizirali že %d dan. Optimiziram zdaj?"</item>
+     </plurals>
      <plurals name="bonus_amount">
         <item quantity="other">%d bonusov</item>
         <item quantity="one">%d bonus</item>

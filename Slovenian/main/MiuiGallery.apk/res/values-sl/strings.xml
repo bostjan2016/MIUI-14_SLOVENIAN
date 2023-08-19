@@ -713,6 +713,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="crop_tooltip">Povleci oznake za obrezovanje</string>
      <string name="crossprocess">Premik barv</string>
      <string name="cta_agreement_declare"><Data>Če želite v celoti razumeti vaše pravice kot uporabnika in načine, na katere uporabljamo vaše podatke, preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a> pred uporabo aplikacije.</Data></string>
+     <string name="cta_hybrid_feedback_network_declare">Če si želite ogledati rešitve najpogostejših težav, tej aplikaciji najprej dovolite povezavo z omrežjem.</string>
      <string name="cta_network_declare">Za sinhronizacijo fotografij in videoposnetkov z Xiaomi Cloud se mora ta aplikacija povezati s spletom.</string>
      <string name="cta_screenthrow_declare">"Da bi lahko zaslon te naprave oddali na zunanje monitorje, se mora ta aplikacija povezati s spletom."</string>
      <string name="custom_select_title_deselect_all">Prekliči izbrano</string>
@@ -2471,6 +2472,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="picker_title_specify_format">Izberite %d fotografij</string>
      <string name="picker_title_specify_format_one">Izbrano %d fotografij</string>
      <string name="picker_title_unlimit">Izberite fotografijo</string>
+     <string name="picture_not_support_privacy_watermark">"Vodnih žigov ni mogoče dodati. Ta slika je premajhna."</string>
      <string name="places_album_empty_title">Fotografije so lahko razvrščene glede na lokacijo</string>
      <string name="play_gif_desc">Predvajaj GIF</string>
      <string name="play_video_desc">Predvajaj video</string>
@@ -2485,11 +2487,11 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="privacy">Pravila o zasebnosti</string>
      <string name="privacy_cloud_confirm">Vklopi sinhronizacijo</string>
      <string name="privacy_cloud_confirm_content1">Xiaomi Cloud Pravila o zasebnosti</string>
-     <string name="privacy_cloud_confirm_content2">User Agreement</string>
+     <string name="privacy_cloud_confirm_content2">Pogoji uporabe</string>
      <string name="privacy_cloud_confirm_detail"><Data>"Ko vklopite sinhronizacijo, bodo fotografije in videoposnetki iz te naprave naloženi v Xiaomi Cloud in združeni s predhodno sinhroniziranimi elementi (če obstajajo). Preberite in se strinjate z Xiaomi Cloud &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a> preden nadaljujete."</Data></string>
      <string name="privacy_cloud_confirm_detail_negative">Izhod</string>
      <string name="privacy_cloud_confirm_detail_positive">Strinjam se</string>
-     <string name="privacy_cloud_confirm_rejected">Soglasje s politiko zasebnosti Xiaomi Cloud je bilo umaknjeno za ta račun. Poskusite uporabiti drug račun.</string>
+     <string name="privacy_cloud_confirm_rejected">Soglasje s pravili o zasebnosti Xiaomi Cloud je bilo umaknjeno za ta račun. Poskusite uporabiti drug račun.</string>
      <string name="privacy_detail">Pokaži Pravila o zasebnosti</string>
      <string name="privacy_detail_map">Pokaži Galerija Zemljevid Pravila o zasebnosti</string>
      <string name="privacy_entrance">Zasebnost</string>
@@ -2772,6 +2774,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="search_clear_histories">Izbriši zgodovino iskanja</string>
      <string name="search_connection_error">"Ne morem se povezati na omrežje"</string>
      <string name="search_connection_error_and_set">Pritisnite za kontrolo omrežnih nastavitev</string>
+     <string name="search_domestic_edit_hint">Išči fotografije in videoposnetke</string>
      <string name="search_edit_hint">Išči datoteke ali albume</string>
      <string name="search_empty_title">Najdi fotografije z določenimi ljudmi, mesti in objektivi v galeriji</string>
      <string name="search_error">Prišlo je do napake</string>
