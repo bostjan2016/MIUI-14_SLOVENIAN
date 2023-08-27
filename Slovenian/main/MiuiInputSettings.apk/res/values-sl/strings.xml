@@ -38,6 +38,7 @@
      <string name="auto_disable_screenbuttons_ask">Vprašaj za onemogočanje</string>
      <string name="auto_disable_screenbuttons_auto">Vedno onemogoči</string>
      <string name="auto_disable_screenbuttons_cancel">Prekliči</string>
+     <string name="auto_disable_screenbuttons_dialog_title">Onemogočim zaslonske gumbe za %s?</string>
      <string name="auto_disable_screenbuttons_no">Nikoli ne onemogoči</string>
      <string name="auto_disable_screenbuttons_rotation_summary">Ko je vaša naprava v ležečem načinu, bodo navigacijski gumbi blokirani</string>
      <string name="auto_disable_screenbuttons_rotation_title">Blokiraj navigacijske gumbe v ležečem položaju</string>

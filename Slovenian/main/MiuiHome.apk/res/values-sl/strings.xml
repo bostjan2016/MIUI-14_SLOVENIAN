@@ -1005,6 +1005,7 @@ Izboljšana varnost."</string>
      <string name="switch_personal_assistant_app_vault">Osebni asistent</string>
      <string name="switch_personal_assistant_google">Google</string>
      <string name="switch_personal_assistant_none">Nič</string>
+     <string name="switch_personal_assistant_summary">Povlecite desno po začetnem zaslonu, da odprete Google odkrivanje</string>
      <string name="switch_screen_button_order">Zamenjaj mesta tipk</string>
      <string name="switch_screen_button_order_desc">Zamenjaj mesta tipk Nazaj in Meni</string>
      <string name="system_shortcuts_edit">Uredi</string>
@@ -1064,7 +1065,7 @@ Izboljšana varnost."</string>
      <string name="unknown_artist_name">Neznan izvajalec</string>
      <string name="unnamed_folder_name">Mapa</string>
      <string name="unstable_dialog_content">"To je testna verzija sistema Android in je podvržena spremembam. Uporaba te verzije je urejena z licenčnim dogovorom za pregled SDK za Android. Testna verzija Androida ni stabilna izdaja in lahko vsebuje napake in pomanjkljivosti ki lahko poškodujejo sistem, napravo ali podatke. Ne testira se kot tovarniški OS in lahko povzroči prenehanje delovanja naprave, nameščenih storitev ali aplikacij."</string>
-     <string name="unstable_dialog_message">Ta naprava je včlanjena v program za predogled razvijalcev za Android 13. Program razvijalcem in navdušencem za Android omogoča, da preizkusijo predizdajne različice Androida 13. Ta predizdajna različica lahko vsebuje napake in okvare, ki lahko vplivajo na normalno delovanje vaše naprave.</string>
+     <string name="unstable_dialog_message">Ta naprava je včlanjena v program za predogled razvijalcev za Android 14. Program razvijalcem in navdušencem za Android omogoča, da preizkusijo predizdajne različice Androida 14. Ta predizdajna različica lahko vsebuje napake in okvare, ki lahko vplivajo na normalno delovanje vaše naprave.</string>
      <string name="unstable_dialog_title">Predogled programa za razvijalce za Android</string>
      <string name="upgrade_remove_small_window_in_recents">Za odpiranje aplikacij v plavajočih oknih lahko uporabite stransko vrstico</string>
      <string name="use_theme_screen_cells_title">Dovoli temi da spremeni videz zaslona</string>

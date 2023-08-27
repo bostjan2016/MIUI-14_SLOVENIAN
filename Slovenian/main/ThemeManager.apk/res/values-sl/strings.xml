@@ -1381,6 +1381,7 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="selected_resource_file_invalid">"Ne morem uporabljati izbrano datoteko virov"</string>
      <string name="send">Pošlji</string>
      <string name="server_internal_error">Napaka strežnika. Počakajte trenutek ali dva in poskusite ponovno.</string>
+     <string name="server_message">Pomoč strankam: 400–100–5678</string>
      <string name="set_as_colorring">Nastavi kot ton zvonjenja po meri</string>
      <string name="set_calling">Nastavi</string>
      <string name="set_color_ring_back_tone">Nastavite lastno melodijo zvonjenja</string>
