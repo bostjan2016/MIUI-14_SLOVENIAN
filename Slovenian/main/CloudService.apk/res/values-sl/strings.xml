@@ -1310,6 +1310,11 @@ Z uporabo te storitve se strinjate z "</string>
      <string name="warning_bar_title_sync_off">Sinhr. z Mi Cloudom je izključena</string>
      <string name="web_sso_login_fail">Znova se morate prijaviti</string>
      <string name="web_sso_login_message">Prijava…</string>
+     <string name="web_view_auto_login_fail">"Ni se bilo mogoče prijaviti. Poskusite znova."</string>
+     <string name="web_view_login_text">Prijava…</string>
+     <string name="web_view_reload_btn_text">Poskusite znova</string>
+     <string name="web_view_reload_description_text">"Ne morem se povezati na omrežje.
+Preverite omrežne nastavitve in poskusite znova."</string>
      <string name="webview_reload">Poskusite znova</string>
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
