@@ -169,6 +169,10 @@
         <item quantity="other">Posodobitev za %d aplikacij na voljo</item>
         <item quantity="one">Posodobitev za %d aplikacijo na voljo</item>
      </plurals>
+     <plurals name="app_manager_updater_title">
+        <item quantity="other">Posodobi %d aplikacij</item>
+        <item quantity="one">Posodobi %d aplikacijo</item>
+     </plurals>
      <plurals name="app_usage_day">
         <item quantity="other">"Ni uporabljano %d dni"</item>
         <item quantity="one">"Ni uporabljano %d dan"</item>

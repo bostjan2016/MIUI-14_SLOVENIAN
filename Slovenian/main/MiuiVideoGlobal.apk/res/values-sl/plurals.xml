@@ -150,6 +150,10 @@ Na voljo samo danes"</item>
         <item quantity="other">%d videoposnetkov</item>
         <item quantity="one">%d video</item>
      </plurals>
+     <plurals name="local_longpress_speed_chenge_tip">
+        <item quantity="other">Predvajanje s hitrostjo %sX. Spustite za predvajanje z običajno hitrostjo.</item>
+        <item quantity="one">Predvajanje s hitrostjo %sX. Spustite za predvajanje z običajno hitrostjo.</item>
+     </plurals>
      <plurals name="local_video_floder">
         <item quantity="other">%d map</item>
         <item quantity="one">%d mapa</item>

@@ -2524,6 +2524,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="signin_with_facebook">Vpis z Facebook</string>
      <string name="signin_with_google">Vpis z Google</string>
      <string name="simple_page_toast">Na privzeto lahko preklopite v Nastavitve > Nastavitve začetne strani</string>
+     <string name="site_content_has_update">Vsebina strani posodobljena</string>
      <string name="skip">Preskoči</string>
      <string name="skip_button_label">Preskoči</string>
      <string name="skip_current_version">Preskoči to verzijo</string>
@@ -2740,6 +2741,9 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="time_picker_dialog_title">Nastavi čas</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
+     <string name="time_segmented_evening_title">Večerno umirjanje</string>
+     <string name="time_segmented_morning_title">Dobro jutro</string>
+     <string name="time_segmented_noon_title">Popoldanski izbori</string>
      <string name="tip_drag">Dolgo pritisnite za urejanje in povlecite za razvrščanje.</string>
      <string name="tip_not_support_external_sdcard_modify">"Datotek, shranjenih na kartici SD ni mogoče urediti"</string>
      <string name="tip_sync_disabled_by_incognito">"V načinu brez beleženja zgodovine stvari ni mogoče sinhronizirati"</string>

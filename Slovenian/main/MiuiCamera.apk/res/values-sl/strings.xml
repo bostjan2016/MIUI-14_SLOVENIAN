@@ -1651,6 +1651,8 @@ zgledali večji na fotografijah"</string>
      <string name="network_connection_prerequisites_china">Vklopite Bluetooth in WiFi v Centru za kontrolo, če želite uporabljati snemanje z dvojnim telefonom.</string>
      <string name="network_connection_rejected">Zavrnjeno</string>
      <string name="network_connection_timed_out">Povezava potekla</string>
+     <string name="new_bie_dialog_cancel">Zapri opis storitve</string>
+     <string name="new_bie_dialog_desc">Opis storitve</string>
      <string name="newbie_privacy_watermark_msg">Uporabite vodne žige, da zaščitite svoje dokumente pred nepooblaščenim kopiranjem</string>
      <string name="newbie_privacy_watermark_title">Zaščitite svoje dokumente</string>
      <string name="night">Večer</string>

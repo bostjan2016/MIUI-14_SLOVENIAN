@@ -125,6 +125,9 @@
      <string name="auth_fail_warning">Čas potekel. Ponovno se prijavite.</string>
      <string name="auto_play_next_off">Samodejno predvajanje je izklopljeno</string>
      <string name="auto_play_next_on">Samodejno predvajanje je vklopljeno</string>
+     <string name="back_recommend_exchange">Ogled</string>
+     <string name="back_recommend_exit">Izhod</string>
+     <string name="back_recommend_title">Oglejte si več priljubljenih videoposnetkov</string>
      <string name="back_to_mainpage">Odkrij</string>
      <string name="background_playback_enabled">Predvajanje v ozadju je vklopljeno</string>
      <string name="before_yestoday">Pred 2 dnevoma</string>
@@ -796,6 +799,7 @@ Ta operacija ne bo vplivala na vaše slike v galeriji."</string>
      <string name="hello_blank_fragment">Pozdravljen prazen fragment</string>
      <string name="hidden_channels">Spodnji kanali ne bodo prikazani na Začetni strani.</string>
      <string name="hide">Skrij</string>
+     <string name="hide_video_toast">Ta stvar je bila skrita. Skrite stvari lahko najdete in upravljate v Lokalno > Mape > Skrite stvari.</string>
      <string name="hint_icon_ad_title">Priporočeno</string>
      <string name="hint_in_mivideo">Lahko preverite stransko ploščo za dodatne storitve</string>
      <string name="history">Zgodovina</string>
@@ -920,6 +924,7 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="local_hide_folder_dialog_title">Skriti videoposnetki</string>
      <string name="local_hide_folder_setting_goto">Nastavitve</string>
      <string name="local_hide_folder_setting_tip">Svoje skrite videoposnetke lahko upravljate v Profil > Nastavitve > Urejanje skritih videoposnetkov.</string>
+     <string name="local_new_user_speed_guide">Pritisnite, držite in podrsajte, da prilagodite hitrost predvajanja</string>
      <string name="local_play_end_camera_title">Oglejte si več videoposnetkov</string>
      <string name="local_play_end_close_tip">"Priporočila danes ne bodo več prikazana"</string>
      <string name="local_play_end_download_drag_up_guide">Tapnite ali povlecite za prenos</string>
@@ -931,6 +936,14 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="local_push_setting_power_tag">Obvestila o lokalnih videoposnetkih</string>
      <string name="local_push_title">Popularno danes</string>
      <string name="local_push_video_title">Poišči nove lokalne videoposnetke</string>
+     <string name="local_reset_confirm">Vnesite znova</string>
+     <string name="local_reset_error_dif_info">"Nov PIN ne more biti enak staremu"</string>
+     <string name="local_reset_error_wrong_info">"PIN-a se ne ujemata. Poskusite ponovno."</string>
+     <string name="local_reset_new_password">Vnesite novi PIN</string>
+     <string name="local_reset_old_password">Vnesite stari PIN</string>
+     <string name="local_reset_password_done">PIN je bil uspešno spremenjen</string>
+     <string name="local_reset_password_title">Zamenjaj PIN</string>
+     <string name="local_reset_tips">Vnesite %d-mestno PIN</string>
      <string name="local_stretch_zoom_mode">Slika je raztegnjena</string>
      <string name="local_subtitle_choose_language_text">Jezik</string>
      <string name="local_subtitle_exemption_hint">Poišči podnapise na opensubtitle.org</string>
@@ -1290,7 +1303,10 @@ To dovoljenje bomo uporabili samo za iskanje videoposnetkov, ki jih iščete, in
      <string name="music_new_user_dialog_tip">Dobrodošli v Mi Video! Ta aplikacija ponuja lokalni video predvajalnik ter spletne storitve pretakanja glasbe in videoposnetkov.</string>
      <string name="my_favorite_channels">Priljubljeni kanal</string>
      <string name="my_feedback_title">Moje povratne informacije</string>
-     <string name="need_update_app">Posodobite Mi Video za uporabo vseh njegovih funkcij</string>
+     <string name="native_body">Telo</string>
+     <string name="native_headline">Naslov</string>
+     <string name="native_media_view">Ogled medijev</string>
+     <string name="need_update_app">Posodobite Mi Video za uporabo vseh njegovih storitev</string>
      <string name="network_connect_info">Povezava z omrežjem ni uspela. Preverite omrežne nastavitve in poskusite ponovno.</string>
      <string name="network_error_and_retry_tip">"Ne morem vzpostaviti povezave z omrežjem. Preverite omrežne nastavitve in poskusite znova."</string>
      <string name="network_error_info">Prišlo je do napake v omrežju. Preverite omrežne nastavitve in poskusite znova.</string>
@@ -1862,6 +1878,7 @@ Izboljša varnost vašega računa."</string>
      <string name="sign_in_mi_account">Vpis z Mi račun</string>
      <string name="sign_in_progress">Prijava…</string>
      <string name="sign_in_title">Prijavite se z vašim Mi Računom</string>
+     <string name="skip_ad">Preskoči</string>
      <string name="slid_fail_message">Ne morem shraniti videoposnetka</string>
      <string name="slide_save_message">Ustvarjanje videoposnetka…</string>
      <string name="small_video_cancel_button">Prekliči</string>

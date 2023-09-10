@@ -385,6 +385,8 @@ dd.MM"</string>
      <string name="signature">Podpis</string>
      <string name="signature_default_content">"Samo za vas;
   od BOŠTJAN-a"</string>
+     <string name="smart_style">Pametno</string>
+     <string name="smart_style_summary">"Vedno pokaži stvari, razen ko je vaša naprava v žepu, ko je svetloba v okolju dolgo časa slaba ali ko ne gledate v svojo napravo"</string>
      <string name="standard_clock_panel">Standard</string>
      <string name="standard_style">Standardno</string>
      <string name="step_component_info_active_tip">Število korakov zagotavlja Mi zdravje. Strinjate se z Mi zdravje Pravila in pogoji za nadaljevanje.</string>
