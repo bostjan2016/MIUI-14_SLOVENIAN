@@ -105,6 +105,7 @@
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="activate_email_notice">Aktivirajte vaš uporabniški račun v roku 24 ur</string>
      <string name="activity_not_found_notice">Ne morem najti aplikacijo</string>
+     <string name="ad_flag_text">OGLASI</string>
      <string name="ad_loading_tips_text">Nalaganje oglasa…</string>
      <string name="ad_mark">Oglas</string>
      <string name="ad_permission_name">Blokiraj oglase</string>
@@ -197,12 +198,12 @@
      <string name="application">Aplikacije</string>
      <string name="application_name">Brskalnik</string>
      <string name="application_upgrade">Posodobitve</string>
-     <string name="aqi_quality_index_break">Zmerno nevarno</string>
+     <string name="aqi_quality_index_break">Nad indeksom</string>
      <string name="aqi_quality_index_dangerous">Nevarno</string>
      <string name="aqi_quality_index_good">Dobro</string>
      <string name="aqi_quality_index_hazardous">Nevarno</string>
      <string name="aqi_quality_index_light_pollution">Zmerno onesnaženje</string>
-     <string name="aqi_quality_index_moderate">Zmerno</string>
+     <string name="aqi_quality_index_moderate">Dobro</string>
      <string name="aqi_quality_index_pure">Odlično</string>
      <string name="aqi_quality_index_unhealthy">Nezdravo</string>
      <string name="articles_collection_empty">Tu ni ničesar</string>
@@ -300,6 +301,16 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="browserFrameFileErrorLabel">Napaka datoteke</string>
      <string name="browserFrameFormResubmitMessage">"Stran, ki jo poskušate odpreti vsebuje podatke, ki so že bili naloženi. Če podatke pošljete ponovno se vsako dejanje (kot je iskanje in kupovanje) ponovi."</string>
      <string name="browserFrameNetworkErrorLabel">Napaka povezave</string>
+     <string name="browser_wallpaper">Ozadja</string>
+     <string name="browser_wallpaper_application">Uporabi</string>
+     <string name="browser_wallpaper_art">Umetnost</string>
+     <string name="browser_wallpaper_currently_in_use">V uporabi</string>
+     <string name="browser_wallpaper_landscape">Pokrajina</string>
+     <string name="browser_wallpaper_more_btn">Pokaži več</string>
+     <string name="browser_wallpaper_preview">Predogled</string>
+     <string name="browser_wallpaper_subtitle">Prilagodite Mi brskalnik s čudovitimi ozadji.</string>
+     <string name="browser_wallpaper_system_default">Privzeto</string>
+     <string name="browser_wallpaper_title">Ozadja</string>
      <string name="btn_agree">Strinjam se</string>
      <string name="btn_cancel">Prekliči</string>
      <string name="btn_confirm">Razumem</string>
@@ -1704,6 +1715,9 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="my_channel">Moji kanali</string>
      <string name="my_prize_entry">Moje nagrade</string>
      <string name="name_empty">Vnesti morate ime.</string>
+     <string name="native_body">Telo</string>
+     <string name="native_headline">Naslov</string>
+     <string name="native_media_view">Pogled medijev</string>
      <string name="nav_bottom_bar_back">Nazaj</string>
      <string name="nav_bottom_bar_close_all">Zapri vse</string>
      <string name="nav_bottom_bar_new_tab">Nov zavihek</string>
@@ -2526,6 +2540,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="simple_page_toast">Na privzeto lahko preklopite v Nastavitve > Nastavitve začetne strani</string>
      <string name="site_content_has_update">Vsebina strani posodobljena</string>
      <string name="skip">Preskoči</string>
+     <string name="skip_ad">Preskoči</string>
      <string name="skip_button_label">Preskoči</string>
      <string name="skip_current_version">Preskoči to verzijo</string>
      <string name="sku_all">Vse</string>

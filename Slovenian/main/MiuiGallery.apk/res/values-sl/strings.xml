@@ -344,6 +344,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="backup_automatically_title">Samodejno sinhroniziraj</string>
      <string name="backup_battery_low_desc">Še vedno lahko izberete nadaljevanje izdelave var. kopije stvari</string>
      <string name="backup_battery_low_title">Izdelava var. kopije je zaustavljena zaradi prazne baterije</string>
+     <string name="backup_category_title">VAR. KOPIJA</string>
      <string name="backup_close">Zapri var. kopijo</string>
      <string name="backup_cloud_space_low_btn_text">Pridobite več</string>
      <string name="backup_cloud_space_low_desc">%1$s v Mi Cloudu | na voljo %2$s</string>
@@ -360,7 +361,10 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="backup_dirty_num">Skupaj: %s</string>
      <string name="backup_dirty_tip">Fotografije in videoposnetki niso shranjeni</string>
      <string name="backup_disable_message">Galerija mora počistiti predpomnilnik aplikacije, ker ste izklopili sinhronizacijo z oblakom.</string>
+     <string name="backup_display">Opomnik shrambe</string>
      <string name="backup_file_over_size_desc">"Fotografije večje od %1$s in videoposnetki večji od %2$s se ne morejo shraniti."</string>
+     <string name="backup_google_description">Zavarujte svoje fotografije tako, da jih varnostno kopirate v Google Račun</string>
+     <string name="backup_google_name">Google Foto</string>
      <string name="backup_immediately">Shrani</string>
      <string name="backup_need_sync_desc">Pritisni tipko za nadaljevanje</string>
      <string name="backup_need_sync_title">Izdelava var. kopije je zaustavljena</string>
@@ -370,6 +374,8 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="backup_no_wifi_btn_text">Uporabi podatke</string>
      <string name="backup_no_wifi_desc">Var. kopijo lahko izdelate tudi z uporabo mobilnih podatkov</string>
      <string name="backup_no_wifi_title">Pritisni za vklop WiFi</string>
+     <string name="backup_off_des">Vklopite sinhronizacijo z oblakom za samodejno varnostno kopiranje fotografij in videoposnetkov</string>
+     <string name="backup_onedrive_description">Zaščitite svoje fotografije v oblaku in dostopajte do njih v kateri koli napravi</string>
      <string name="backup_only_in_wifi">Uporabljaj samo WiFi za sinhronizacijo fotografij in videoposnetkov</string>
      <string name="backup_only_in_wifi_summary">Nikoli ne uporabi prenosa podatkov za sinhronizacijo fotografij in videoposnetkov</string>
      <string name="backup_only_wifi_dialog_message">Uporabim mobilne podatke za sinhronizacijo fotografij in videoposnetkov?</string>
@@ -1365,6 +1371,8 @@ za fotografije"</string>
      <string name="get_user_info_top_hint_text">Povabilo z Xiaomi račun</string>
      <string name="gif_tip">GIF</string>
      <string name="gigabyteShort">GB</string>
+     <string name="global_cloud_action_upgrade_onedrive">Nadgradite OneDrive</string>
+     <string name="global_cloud_full_space_tip_message">Nadgradite svoj načrt za shranjevanje v oblaku, da boste lahko varnostno kopirali vse svoje fotografije in videoposnetke v oblak.</string>
      <string name="global_pad">Moja tablica</string>
      <string name="global_pc">Moj prenosnik</string>
      <string name="global_phone">Moj telefon</string>
@@ -1694,6 +1702,7 @@ za normalno delovanje, tapnite \"Nastavi\", da odprete Dovoljenja."</string>
      <string name="main_save_compress">Stisni in shrani</string>
      <string name="main_save_error_msg">Ne morem shraniti zaradi napake</string>
      <string name="main_save_origin">Shrani originalno datoteko</string>
+     <string name="manager_backup">Urejanje</string>
      <string name="manual_hide_manage">Dodaj \".nomedia\" datoteke</string>
      <string name="manual_hide_state">Datoteke \".nomedia\" uspešno dodane</string>
      <string name="map_album">Zemljevid</string>
@@ -2050,6 +2059,7 @@ za normalno delovanje, tapnite \"Nastavi\", da odprete Dovoljenja."</string>
      <string name="online_video_vip_transcoding">"Kmalu začnete pretakanje VIP…
 Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="open">Vključi</string>
+     <string name="open_backup">Vključi</string>
      <string name="open_public_message">Ustvari povezavo za deljenje s prijatelji</string>
      <string name="open_public_title">Deli</string>
      <string name="open_settings">Nastavitve</string>
@@ -2865,8 +2875,9 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="see_ignore_faces">"Pokaži ignorirane osebe"</string>
      <string name="see_more_settings">Dodatne nastavitve</string>
      <string name="select_all">Izberi vse</string>
+     <string name="select_backup">Izberi var. kopijo</string>
      <string name="select_image_operation">Dodajanje fotografij</string>
-     <string name="select_item_face">"Na fotog. je %s"</string>
+     <string name="select_item_face">"Na fotografiji je %s"</string>
      <string name="select_origin_tip">Originalna datoteka (%s)</string>
      <string name="send">Pošlji</string>
      <string name="send_diagnosis_log">Pošlji poročila</string>

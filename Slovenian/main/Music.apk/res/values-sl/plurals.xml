@@ -296,6 +296,10 @@ Opomba: Datoteka bo izbrisana tudi iz te naprave."</item>
         <item quantity="other">%d bralcev</item>
         <item quantity="one">%d bralec</item>
      </plurals>
+     <plurals name="reward_seconds_remaining">
+        <item quantity="other">VIP članarina čez %d sek</item>
+        <item quantity="one">VIP članarina čez %d sek</item>
+     </plurals>
      <plurals name="send_songs_toast">
         <item quantity="other">Poslano bo (%d) skladb</item>
         <item quantity="one">1 skladba bo poslana</item>
@@ -331,6 +335,10 @@ Opomba: Datoteka bo izbrisana tudi iz te naprave."</item>
      <plurals name="vip_remain_days_hint">
         <item quantity="other">%d dni ostalo</item>
         <item quantity="one">%d dan ostal</item>
+     </plurals>
+     <plurals name="web_reward_dialog_title">
+        <item quantity="other">"Če gledate %d sekund, boste kot nagrado prejeli VIP članstvo. Vseeno izhod?"</item>
+        <item quantity="one">"Če gledate %d sekundo, boste kot nagrado prejeli VIP članstvo. Vseeno izhod?"</item>
      </plurals>
      <plurals name="whitelist_multi_added">
         <item quantity="other">Dodano %d datotek</item>

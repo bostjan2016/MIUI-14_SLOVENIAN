@@ -151,6 +151,7 @@
      <string name="auto_clean_trigger_percent_sixty">Ko je 60% zaseden</string>
      <string name="auto_cleaner_open">Vključi</string>
      <string name="back">Nazaj</string>
+     <string name="be_figuring">Izračunavam…</string>
      <string name="browser_scan_history_desc">Zgodovina brskalnika</string>
      <string name="browser_search_history_desc">Nastavitve iskanja</string>
      <string name="btn_text_done">Končano</string>
@@ -298,6 +299,7 @@
      <string name="dc_item_title_wechat_chat">Očistite WeChat zgodovino</string>
      <string name="dc_storage_cleaned">Osvobojeno %s</string>
      <string name="dc_storage_info">Na voljo %1$s | Skupaj %2$s</string>
+     <string name="dc_storage_info_new">%1$s na voljo</string>
      <string name="deep_clean_completed_tips">Uspešno očiščeno</string>
      <string name="deep_clean_data_path_clean_title">Očisti predpomnilnik</string>
      <string name="deep_clean_normal_clean_progress_desc">Očiščeno datotek %1$s</string>

@@ -115,6 +115,7 @@
      <string name="ad_close">Zapri</string>
      <string name="ad_data_exception">Napaka podatkov v oglasu</string>
      <string name="ad_extension">Reklama</string>
+     <string name="ad_flag_text">OGLAS</string>
      <string name="ad_mark">Oglas</string>
      <string name="ad_recommend">Priporočila</string>
      <string name="ad_setting">Dodatne nastavitve</string>
@@ -923,6 +924,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="get_more_favorite_content_after_login">Prijavi se da najdeš še več pesmi in videoposnetkov.</string>
      <string name="get_one_day_vip">Imate %d-dnevni VIP!</string>
      <string name="get_one_hour_vip">Imate %d-urni VIP!</string>
+     <string name="get_one_minute_vip">Dobili ste %d-minutni VIP!</string>
      <string name="get_ph_ticket">Pridobi kodo</string>
      <string name="get_phone_bind_exceed_limit">"S telefonsko številko lahko povežete do 3 račune Mi. Novih računov ni mogoče dodati."</string>
      <string name="get_phone_verifycode_exceed_limit">Na to številko je bilo poslanih preveč kod za preverjanje. Počakajte 24 ur in poskusite znova.</string>
@@ -1464,6 +1466,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="ok">"V redu"</string>
      <string name="one_day_vip">%d-dnevni VIP</string>
      <string name="one_hour_vip">%d-urni VIP</string>
+     <string name="one_minute_vip">%d-minutni VIP</string>
      <string name="one_month">1 mesec</string>
      <string name="online_apk_acquired">Prenešeno %d%%</string>
      <string name="online_apk_acquiring">Prenos %d%%</string>
@@ -1916,6 +1919,7 @@ Bodite srečni"</string>
      <string name="retry_after_network_available">"Ne morem se povezati na omrežje. Preverite svojo podatkovno povezavo in poskusite ponovno."</string>
      <string name="retry_download">Poskusi ponovno</string>
      <string name="revoke_upload_playlist_to_hungama_toast">"Spletne pesmi ne bodo sinhronizirane s Hungama"</string>
+     <string name="reward_received">Dobili ste VIP članstvo!</string>
      <string name="ringtone_editing">Urejanje melodij zvonjenja</string>
      <string name="ringtone_not_support">"Format te pesmi ni podprt."</string>
      <string name="ringtone_selected">Izbrano</string>
@@ -2041,6 +2045,7 @@ Bodite srečni"</string>
      <string name="similar_songs">Podobne pesmi</string>
      <string name="similar_videos">Podobni videoposnetki</string>
      <string name="skip">Preskoči</string>
+     <string name="skip_ad">Preskoči</string>
      <string name="skip_query_account">Preskoči</string>
      <string name="sleep_mode">Časovnik</string>
      <string name="sleep_mode_canceled">Časovnik izključen</string>
@@ -2387,6 +2392,7 @@ Bodite srečni"</string>
      <string name="valid_period">"Veljavno do: "</string>
      <string name="version_info">Verzija</string>
      <string name="vhigh_sound_quality">HD</string>
+     <string name="video_loading_fail">"Ne morem naložiti video"</string>
      <string name="video_play_cellular">"Vaša naprava ni povezana na WiFi. Uporabim mobilne podatke?"</string>
      <string name="video_replay_btn">Predvajaj ponovno</string>
      <string name="video_retry_btn">Poskusi ponovno</string>
@@ -2403,6 +2409,8 @@ Bodite srečni"</string>
      <string name="vip_required_with_song">%s je na voljo samo članom Gold. Pesem preskočena.</string>
      <string name="voice_search_first_hint">Poskusite glasovno iskanje!</string>
      <string name="watch_video">Oglejte si video</string>
+     <string name="web_reward_dialog_cancle">Prekliči</string>
+     <string name="web_reward_dialog_ok">Izhod</string>
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
