@@ -302,12 +302,16 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="browserFrameFormResubmitMessage">"Stran, ki jo poskušate odpreti vsebuje podatke, ki so že bili naloženi. Če podatke pošljete ponovno se vsako dejanje (kot je iskanje in kupovanje) ponovi."</string>
      <string name="browserFrameNetworkErrorLabel">Napaka povezave</string>
      <string name="browser_wallpaper">Ozadja</string>
+     <string name="browser_wallpaper_activity">Promocije</string>
      <string name="browser_wallpaper_application">Uporabi</string>
      <string name="browser_wallpaper_art">Umetnost</string>
      <string name="browser_wallpaper_currently_in_use">V uporabi</string>
+     <string name="browser_wallpaper_gallery">Moje slike</string>
      <string name="browser_wallpaper_landscape">Pokrajina</string>
      <string name="browser_wallpaper_more_btn">Pokaži več</string>
+     <string name="browser_wallpaper_my">Moja ozadja</string>
      <string name="browser_wallpaper_preview">Predogled</string>
+     <string name="browser_wallpaper_sub">Pridobite priporočila za počitniška in posebna ozadja</string>
      <string name="browser_wallpaper_subtitle">Prilagodite Mi brskalnik s čudovitimi ozadji.</string>
      <string name="browser_wallpaper_system_default">Privzeto</string>
      <string name="browser_wallpaper_title">Ozadja</string>
@@ -2546,6 +2550,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="sku_all">Vse</string>
      <string name="sku_price_everymonth">%1$s vsak mesec</string>
      <string name="slide_card">Povlecite za več</string>
+     <string name="slide_next_video_text">"Naslednji video: "</string>
      <string name="smart_subtitle">"Pridobite povzetek vsebine članka, ki ga ustvari umetna inteligenca, da si na prvi pogled ogledate glavne točke."</string>
      <string name="smart_summary">Pametni povzetek</string>
      <string name="sms_send_success">Uspešno poslano</string>

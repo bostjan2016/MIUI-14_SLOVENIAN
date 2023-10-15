@@ -1152,6 +1152,13 @@ To kodo pošljite nadzorniku."</string>
      <string name="lyric_label">Besedilo</string>
      <string name="lyric_open_other_connect">Prenesi besedilo z uporabo mobilnega omrežja</string>
      <string name="lyric_setting">Nastavitve besedila</string>
+     <string name="lyrics_guide_button_text">Poskusite</string>
+     <string name="lyrics_guide_four">Za ogled se vrnite na stran z besedili</string>
+     <string name="lyrics_guide_one">Tapnite rezultat iskanja, da ga izberete</string>
+     <string name="lyrics_guide_three">Uredi in shrani besedilo</string>
+     <string name="lyrics_guide_title">Kako iskati in shraniti besedila</string>
+     <string name="lyrics_guide_two">Izberite željena besedila in jih kopirajte</string>
+     <string name="lyrics_popup_title">Tapnite za iskanje besedil</string>
      <string name="male_artist">Moški izvajalci</string>
      <string name="manager_cloud_space">Urejaj Mi Cloud prostor</string>
      <string name="material_clock_toggle_content_description">Izberite dop. ali pop.</string>
@@ -1984,6 +1991,7 @@ Bodite srečni"</string>
      <string name="select_local_lyric">Izberi datoteko</string>
      <string name="select_local_lyric_file">Izberi lokalno datoteko besedila</string>
      <string name="select_lyric">Izberi besedilo</string>
+     <string name="select_lyrics_copy">Izberite in kopirajte besedilo pesmi</string>
      <string name="select_none">Prekliči izbrano</string>
      <string name="select_one_language">Izberite vsaj %d jezik</string>
      <string name="select_operation_items">Izberite stvari</string>

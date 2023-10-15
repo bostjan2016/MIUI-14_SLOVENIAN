@@ -63,6 +63,7 @@
      <string name="alarm_notify_text">Dremež ali prekini budilko.</string>
      <string name="alarm_permanent_alert">Zvonjenje</string>
      <string name="alarm_repeat">Ponovi</string>
+     <string name="alarm_repeat_self_define_button">Prilagodi</string>
      <string name="alarm_ringtone">Melodije zvonjenja alarma</string>
      <string name="alarm_ringtone_picker">Alarmi</string>
      <string name="alarm_screen">Zaslon in melodije Alarma</string>
@@ -322,6 +323,7 @@
      <string name="listen_news_privacy"><Data>Če želite zagotoviti prilagojene storitve in vključiti jutranje novice v vaše alarme, mora ura vzpostaviti povezavo s spletom. Preden začnete uporabljati uro, morate prebrati in se strinjati z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%3$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?</Data></string>
      <string name="load_more_fail">Ne morem naložiti</string>
      <string name="loading_ringtone">Nalagam zvonjenja…</string>
+     <string name="look_sleep_data">Ogled podatkov o spanju</string>
      <string name="menu_add_worldclock">Dodaj uro</string>
      <string name="menu_desk_clock">Ura</string>
      <string name="menu_edit_timer_item">Uredi opravilo kronometra</string>
@@ -487,6 +489,10 @@ mm"</string>
      <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> ur vnaprej</string>
      <string name="notification_adv_time_entries5">Nič</string>
      <string name="notification_permission_desc">"Če ne dodelite dovoljenj za obvestila, ne boste mogli izklopiti alarmov, ko zazvonijo. Podelim dovoljenje zdaj?"</string>
+     <string name="notification_permission_dialog_content">Dovolite tej aplikaciji pošiljanje obvestil, če želite prejemati obvestila o alarmih. To dovoljenje lahko podelite v nastavitvah.</string>
+     <string name="notification_permission_dialog_not_open">Ne zdaj</string>
+     <string name="notification_permission_dialog_open">Nastavitve</string>
+     <string name="notification_permission_dialog_title">Potrebna so dovoljenja</string>
      <string name="oneshot_alarm">Izbriši po izklopu alarma</string>
      <string name="open_keep_screen">Zaslon bo ostal vključen</string>
      <string name="open_notification_permission_remind">Dovolite obvestila, da boste lahko izklopili alarme</string>
@@ -713,6 +719,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="unselect_all">Prekliči vse</string>
      <string name="upcoming_alarm">Prihodnji alarm: %s</string>
      <string name="upcoming_alarm_hint">Zdaj lahko izključite ta alarm</string>
+     <string name="upcoming_alarm_new">Prihajajoči alarm: %s</string>
      <string name="update_health_app">Posodobite Mi Zdravje</string>
      <string name="update_health_app_desc">Storitev ponuja Mi Zdravje. Posodobite Mi Zdravje na najnovejšo verzijo.</string>
      <string name="update_health_app_desc_new">Storitev sledenja spanju zagotavlja Mi Fitness. Za dostop do povezanih storitev posodobite Mi Fitness na najnovejšo različico..</string>

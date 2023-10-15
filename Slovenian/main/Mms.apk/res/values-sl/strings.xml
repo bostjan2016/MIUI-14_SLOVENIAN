@@ -57,8 +57,12 @@
      <string name="add_timing">Čas</string>
      <string name="add_to_block_by_number">"Dodano %s
 med blokirane"</string>
+     <string name="add_to_block_by_number_failed">"Ne morem dodati %s na seznam blokiranih.
+Poskusite znova."</string>
      <string name="add_to_block_by_tag">"Sporočila ki vsebujejo \"%s\"
 dodana med blokirane"</string>
+     <string name="add_to_block_by_tag_failed">"Sporočil, ki vsebujejo \"%s\" ni bilo mogoče dodati na seznam blokiranih.
+Poskusite znova."</string>
      <string name="add_to_browser_favorite_failed">Ni uspelo</string>
      <string name="add_to_browser_favorite_success">Uspelo</string>
      <string name="add_video">Dodaj video posnetek</string>
@@ -167,6 +171,7 @@ dodana med blokirane"</string>
      <string name="close">Zapri</string>
      <string name="cloud_recommend_msg">Dotaknite se za sinhr. sporočil z Mi Cloudom.</string>
      <string name="cloud_recommend_view_tip">Vključite sinhronizacijo z Mi Cloudom za povrnitev sporočil kadarkoli</string>
+     <string name="cloud_space_not_enough">Shramba v oblaku je polna. Nadgradite svoje članstvo za sinhronizacijo najnovejših stvari.</string>
      <string name="cloud_state_disabled">Vključite sinhr. z Mi Cloudom da sinhronizirate sporočila</string>
      <string name="cloud_state_sync_finished">Sinhr. z Mi Cloudom</string>
      <string name="cloud_state_syncing">Sinhr. z Mi Cloud…</string>
@@ -243,6 +248,8 @@ dodana med blokirane"</string>
      <string name="converting_to_text_message">Pretvarjam v sporočilo...</string>
      <string name="converting_vcard_failed">"Ne morem pretvoriti stik"</string>
      <string name="copy">Kopiraj</string>
+     <string name="copy_message">Kopiraj</string>
+     <string name="copy_message_success">Kopirano</string>
      <string name="copy_message_text">Kopiraj besedilo</string>
      <string name="copy_message_text_success">Kopiranje končano</string>
      <string name="copy_to_sdcard">Shrani priponko</string>
@@ -359,6 +366,7 @@ dodana med blokirane"</string>
      <string name="expire_on">Poteče: %s</string>
      <string name="exporting_progress_private_message">Izvažam...</string>
      <string name="fail_to_add_attachment">"Ne morem dodati priponke"</string>
+     <string name="fail_to_add_image">"Ne morem dostopati do kopiranih stvari"</string>
      <string name="fail_to_view_attachment">"Priponka ni na voljo"</string>
      <string name="failed_due_to_not_login">Najprej se vpišite</string>
      <string name="failed_to_add_media">Ne morete dodati %1$s vašemu sporočilu.</string>
@@ -918,6 +926,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam ga 
      <string name="pref_collapse_sp_messages_summary">Samodejno združi SMS obvestila</string>
      <string name="pref_delivery_ringtone">Zvok dostave</string>
      <string name="pref_edit_smsc_address">Številka SMS centra</string>
+     <string name="pref_feedback_title">Povratne informacije</string>
      <string name="pref_forward_title">Posreduj</string>
      <string name="pref_group_ad_mms_recognition">Združi reklamna sporočila</string>
      <string name="pref_hide_verification_code_summary">Samodejno skrij enkratna gesla in obvestila sporočil na zavarovanem zakl. zaslonu</string>
@@ -1412,8 +1421,9 @@ Oglejte si priporočene!"</string>
      <string name="search_path_mms">Nastavitve/Sistemske aplikacije/Sporočila</string>
      <string name="search_setting_description">Besedilo v vaših sporočilih</string>
      <string name="search_show_more_results">Pokaži več</string>
+     <string name="search_sms">Iskanje sporočil</string>
      <string name="search_title_mms">Pošiljanje sporočil</string>
-     <string name="second_mms_introduction">pojdite v Drugi prostor</string>
+     <string name="second_mms_introduction">Preklopite na drugi prostor, da si lahko ogledate zasebna sporočila</string>
      <string name="second_mms_switch">Zamenjaj uporabnika</string>
      <string name="secs">sek</string>
      <string name="security_alert_desc">"<font color="#7f000000">"Pošiljatelja ni med vašimi stiki.
@@ -1651,6 +1661,7 @@ Oglejte si priporočene!"</string>
      <string name="title_show_sms_template">Preveri SMS za kode preverjanja</string>
      <string name="title_show_sms_template_in">Preveri SMS za OTP</string>
      <string name="title_timed_message_dialog">Nastavi časovno sporočilo</string>
+     <string name="title_timed_remind_message_dialog">Nastavi čas opomnika</string>
      <string name="title_use_gsm_alphabet">Uporabljaj GSM abecedo</string>
      <string name="to_address_label">"Za: "</string>
      <string name="to_count">%d prejemnikov</string>
