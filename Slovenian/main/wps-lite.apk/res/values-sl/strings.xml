@@ -173,6 +173,7 @@
      <string name="ppt_video_install_videoplayer_tip">Namestite video predvajalnik</string>
      <string name="ppt_volume_is_too_low_tip">Namestite slušalke ali povečajte glasnost</string>
      <string name="projection_fail">"Predvajanje ni mogoče. Preverite zunanji monitor in poskusite znova."</string>
+     <string name="public_2pic">Izvozi v sliko</string>
      <string name="public_amazon_autosave_finished">Dokument je samodejno shranjen</string>
      <string name="public_bad_doc_to_process">"Neveljaven dokument, opravila ni mogoče dokončati"</string>
      <string name="public_bookmark">Oznaka</string>
@@ -199,6 +200,7 @@
      <string name="public_enter_phonemode">Vhod v mobilni prikaz</string>
      <string name="public_exit_phonemode">Izhod iz mobilnega prikaza</string>
      <string name="public_exit_play">Izhod</string>
+     <string name="public_export_pdf">Izvozi v PDF</string>
      <string name="public_fileNotExist">Datoteka ne obstaja več. Datoteko so drugi programi morda preimenovali, premaknili ali izbrisali.</string>
      <string name="public_file_cant_write_tips">"Datoteke ni mogoče shraniti v trenutni imenik. Shranim v drug imenik kot novo datoteko?"</string>
      <string name="public_file_download">Nalaganje datoteke…</string>
@@ -241,6 +243,8 @@
      <string name="public_other_app">Odpri v drugi aplikaciji</string>
      <string name="public_outline">Vsebine</string>
      <string name="public_paste">Prilepi</string>
+     <string name="public_pdf2word">PDF v Word</string>
+     <string name="public_pdfFillForm">Izpolni obrazec</string>
      <string name="public_pdf_converter_item_name">PDF</string>
      <string name="public_pdf_converter_normal">Normalno</string>
      <string name="public_pdf_converter_open_tip">Odprem ta dokument?</string>
@@ -257,7 +261,8 @@
      <string name="public_permission_request">V nastavitvah dodelite potrebna dovoljenja za delo z dokumenti.</string>
      <string name="public_permission_storage_disallow_msg">"Po preklicu pooblastila ne boste mogli več delati z dokumenti."</string>
      <string name="public_play">Predvajaj</string>
-     <string name="public_ppt_label">Mi Presentation Viewer</string>
+     <string name="public_ppt_label">Pregledovalnik predstavitev Mi</string>
+     <string name="public_privacy_policy">Pravila o zasebnosti</string>
      <string name="public_privacy_update">&lt;Data>Da boste v celoti razumeli vaše pravice kot uporabnika in načine, na katere uporabljamo vaše podatke, preberite in se strinjate z novo različico &lt;a href=\"%s\">Pravila o zasebnosti&lt;/a> preden nadaljujete.&lt;/Data></string>
      <string name="public_re_licensing">Odobrite avtorizacijo</string>
      <string name="public_readOnlyMode">Samo za branje</string>
@@ -316,6 +321,7 @@
      <string name="public_wpscloud_recovery_edit_not_exist_tips">Druge aplikacije so dokument izbrisale in je obnovljen iz WPS Cloud dokumentov.</string>
      <string name="public_wpscloud_recovery_edit_not_save_tips">"Zadnja urejena vsebina ni bila shranjena in je obnovljen iz WPS Cloud dokumentov."</string>
      <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Varno shranite dokument</string>
+     <string name="public_writer2pic">Izvozi v slikovno datoteko</string>
      <string name="public_writer_label">Mi pregledovalnik besedila</string>
      <string name="public_writer_ui_delete">Izbriši</string>
      <string name="reader_ppt_autoplay">samod. predvajanje</string>

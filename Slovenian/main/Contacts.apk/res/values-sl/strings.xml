@@ -417,7 +417,7 @@
      <string name="callrecordview_menu_show_called">Odhodni klici</string>
      <string name="callrecordview_menu_show_missed">Neodgovorjeni klici</string>
      <string name="callrecordview_menu_show_new">Novi stiki</string>
-     <string name="callrecordview_menu_show_sim">%s klicev</string>
+     <string name="callrecordview_menu_show_sim">%s klici</string>
      <string name="callrecordview_menu_show_stranger">Klici neznanih številk</string>
      <string name="callrecordview_menu_show_title">Pokaži zgodovino klicev</string>
      <string name="callrecordview_menu_voip">VoIP</string>
