@@ -124,6 +124,7 @@
      <string name="add_songs_manually_bottom">Dodaj</string>
      <string name="add_songs_manually_home">Dodaj skladbe ročno</string>
      <string name="add_songs_manually_setting">Dodaj skladbe ročno</string>
+     <string name="add_songs_to_playlist">Dodaj na seznam predvajanja</string>
      <string name="add_to_group_notify">%1$s se je pridružil družini</string>
      <string name="add_to_last_of_playlist">Dodaj na konec seznama pesmi.</string>
      <string name="add_to_playlist">Dodaj v čakalno vrsto</string>
@@ -983,6 +984,11 @@ To kodo pošljite nadzorniku."</string>
      <string name="hgm_vip_no_ads">Brez oglasov ali omejitev</string>
      <string name="hide_album">Skrij ovitek albuma</string>
      <string name="hide_lyric">Skrij besedilo</string>
+     <string name="hide_or_add_songs_manually">Pokaži skrite pesmi</string>
+     <string name="hide_reason_folder">Skrita mapa</string>
+     <string name="hide_reason_other">Drugi razlogi</string>
+     <string name="hide_reason_size">Manj kot %1$s</string>
+     <string name="hide_songs_title">Skrite pesmi</string>
      <string name="hifi_quality">Hi-Fi kvaliteta</string>
      <string name="high_sound_quality">Visoka</string>
      <string name="higher_quality_music">Visoka avdio kvaliteta</string>
@@ -993,6 +999,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="home_tab_local">Moja glasba</string>
      <string name="home_tab_more_music">Več glasbe</string>
      <string name="home_tab_online">Online glasba</string>
+     <string name="home_tab_podcast">Podkasti</string>
      <string name="home_tab_recommend">Online</string>
      <string name="home_tab_search">Išči</string>
      <string name="home_tab_yandex">Yandex.Glasba</string>

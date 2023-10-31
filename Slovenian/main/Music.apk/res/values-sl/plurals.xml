@@ -218,11 +218,15 @@ Opomba: Datoteka bo izbrisana tudi iz te naprave."</item>
         <item quantity="one">1 skladba</item>
      </plurals>
      <plurals name="free_downloads_num_hint">
-        <item quantity="other">ostalo %d brezplačhih prenosov</item>
-        <item quantity="one">ostal %d brezplačhih prenos</item>
+        <item quantity="other">ostalo %d brezplačnih prenosov</item>
+        <item quantity="one">ostal %d brezplačen prenos</item>
      </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
+     </plurals>
+     <plurals name="hide_reason_duration">
+        <item quantity="other">Manj kot %1$ds</item>
+        <item quantity="one">Manj kot %1$ds</item>
      </plurals>
      <plurals name="in_a_hour">
         <item quantity="other">Čez 1 uro</item>

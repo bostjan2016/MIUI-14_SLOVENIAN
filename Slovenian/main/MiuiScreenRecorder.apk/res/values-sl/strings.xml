@@ -243,6 +243,7 @@ Tapnite za ogled"</string>
      <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
      <string name="privacy_settings">Zasebnost</string>
+     <string name="protect_oneself_when_recording">"Snemanje klica. Med uporabo te storitve zaščitite svojo zasebnost in zasebnost drugih ljudi."</string>
      <string name="quit_recording">Izhod iz Snemanja zaslona</string>
      <string name="record_time_too_short">Posneti video je prekratek</string>
      <string name="recording_failure">Snemanje ni uspelo, ponovno zaženite snemanje</string>

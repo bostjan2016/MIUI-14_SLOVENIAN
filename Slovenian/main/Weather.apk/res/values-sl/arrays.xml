@@ -79,6 +79,30 @@
         <item>Kritično onesnaženo</item>
         <item>Nad indeksom</item>
      </string-array>
+     <string-array name="realtime_humidity_status">
+        <item>Suho</item>
+        <item>Udobno</item>
+        <item>Vlažno</item>
+     </string-array>
+     <string-array name="realtime_pressure_status">
+        <item>Visoko</item>
+        <item>Zmerno</item>
+        <item>Nizko</item>
+     </string-array>
+     <string-array name="realtime_temperature_status">
+        <item>Mrzlo</item>
+        <item>Prijetno</item>
+        <item>Udobno</item>
+        <item>Toplo</item>
+        <item>Vroče</item>
+     </string-array>
+     <string-array name="realtime_uv_level">
+        <item>Nizko</item>
+        <item>Zmerno</item>
+        <item>Visoko</item>
+        <item>Zelo visoko</item>
+        <item>Hudo</item>
+     </string-array>
      <string-array name="weather_type">
         <item>Jasno</item>
         <item>Oblačno</item>
@@ -101,7 +125,7 @@
         <item>Močna peščena nevihta</item>
         <item>Peščena nevihta</item>
         <item>Pesek</item>
-        <item>Vetrovno</item>
+        <item>Prašna nevihta</item>
         <item>Toča</item>
         <item>Prah</item>
         <item>Megla</item>

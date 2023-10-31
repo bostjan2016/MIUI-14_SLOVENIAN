@@ -263,7 +263,7 @@
      <string name="permlab_downloadManager">Dostop do upravitelja prenosov.</string>
      <string name="permlab_downloadManagerAdvanced">Napredne opravila upravitelja prenosov.</string>
      <string name="permlab_downloadWithoutNotification">Prenesi brez obvestil</string>
-     <string name="permlab_seeAllExternal">Odpri vse prenose na zunanjem pomnilniku</string>
+     <string name="permlab_seeAllExternal">Odpri vse prenose v zunanjem pomnilniku</string>
      <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
      <string name="privacy_notif_content">Tapni za ogled podrobnosti.</string>

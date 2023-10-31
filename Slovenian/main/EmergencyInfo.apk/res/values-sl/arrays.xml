@@ -167,6 +167,23 @@
         <item>Omogočene glave filtrirane</item>
         <item>Omogočeni mediji Pkts filtrirani</item>
      </string-array>
+     <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Pusti samo glave ACL</item>
+        <item>Filtriraj medijske pakete A2DP</item>
+        <item>Filtriraj kanal RFCOMM</item>
+     </string-array>
+     <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Onemogoči</item>
+        <item>Izpolni z nizom znakov</item>
+        <item>Pusti samo glavo</item>
+        <item>Odstrani</item>
+     </string-array>
+     <string-array name="bt_hci_snoop_log_profile_filter_values">
+        <item>onemogočeno</item>
+        <item>čarovnija</item>
+        <item>glava</item>
+        <item>polni filter</item>
+     </string-array>
      <string-array name="bt_hci_snoop_log_values">
         <item>onemogočeno</item>
         <item>filtrirano</item>
@@ -348,6 +365,12 @@
         <item>300</item>
         <item>350</item>
         <item>400</item>
+     </string-array>
+     <string-array name="udfps_accessibility_touch_hints">
+        <item>Premakni levo</item>
+        <item>Premakni dol</item>
+        <item>Premakni desno</item>
+        <item>Premakni gor</item>
      </string-array>
      <string-array name="usb_configuration_titles">
         <item>Polnjenje</item>

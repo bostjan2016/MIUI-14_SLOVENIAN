@@ -416,8 +416,8 @@ Pošljite to kodo nadzorniku."</string>
      <string name="micloud_space_duokan_detail">"Odprite Duokan na telefonu in pojdite na Bookshelf &gt; Cloud shramba za urejanje prostora za shranjevanje.
 Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</string>
      <string name="micloud_space_duokan_title">Duokan prostor za shranjevanje</string>
-     <string name="micloud_space_soundrecorder_detail">"Odprite aplikacijo Snemalnik v mobilni napravi in izberite mapo s stvarmi, shranjenimi v oblaku.
-Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</string>
+     <string name="micloud_space_soundrecorder_detail">"Odprite aplikacijo Snemalnik v napravi in izberite mapo s stvarmi, shranjenimi v oblaku.
+Prepričajte se, da Mi račun uporabljate kot račun sistema."</string>
      <string name="micloud_space_soundrecorder_title">Avdio posnetki</string>
      <string name="midnight">Noč</string>
      <string name="miuix_access_state_desc">Izbrano</string>

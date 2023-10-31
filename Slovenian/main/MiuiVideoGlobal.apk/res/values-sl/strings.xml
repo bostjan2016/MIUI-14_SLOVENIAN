@@ -79,7 +79,9 @@
      <string name="ad_bar_notification_setting_sub_title">Pokaži dogodke v plošči obvestil</string>
      <string name="ad_bar_notification_setting_title">Dogodki</string>
      <string name="ad_buy">Nakup</string>
+     <string name="ad_click_to_play">Tapnite za igranje</string>
      <string name="ad_download">Prenos</string>
+     <string name="ad_flag_text">Oglasi</string>
      <string name="ad_join">Pridružitev skupnosti</string>
      <string name="ad_left_time">sekund do konca reklame</string>
      <string name="ad_more">Več</string>
@@ -933,6 +935,16 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="local_play_recommend_guide_card_bottom">Več videoposnetkov</string>
      <string name="local_play_recommend_guide_card_title">Priporočeno</string>
      <string name="local_play_tip">Predvajanje lokalnega videoposnetka</string>
+     <string name="local_push_random_title_1">"Oglejte si danes najbolj priljubljene videe"</string>
+     <string name="local_push_random_title_10">"Glejte, uživajte in delite trenutno najbolj priljubljene videoposnetke"</string>
+     <string name="local_push_random_title_2">"Poglejte, kaj se danes dogaja v svetu"</string>
+     <string name="local_push_random_title_3">"Ne zamudite današnjih naslovnic"</string>
+     <string name="local_push_random_title_4">"Oglejte si trenutno najbolj priljubljene videoposnetke v vaši regiji"</string>
+     <string name="local_push_random_title_5">"Ne zamudite najbolj vročih videoposnetkov tega tedna"</string>
+     <string name="local_push_random_title_6">Oglejte si te nove in priljubljene videoposnetke</string>
+     <string name="local_push_random_title_7">"Ne boste mogli nehati gledati najbolj priljubljenih kratkih videoposnetkov tega tedna!"</string>
+     <string name="local_push_random_title_8">"Oglejte si današnje sveže, zabavne nove videoposnetke"</string>
+     <string name="local_push_random_title_9">Ti videoposnetki razturajo!</string>
      <string name="local_push_setting_power_tag">Obvestila o lokalnih videoposnetkih</string>
      <string name="local_push_title">Popularno danes</string>
      <string name="local_push_video_title">Poišči nove lokalne videoposnetke</string>
@@ -1350,6 +1362,7 @@ To dovoljenje bomo uporabili samo za iskanje videoposnetkov, ki jih iščete, in
      <string name="notification_last_played_status">Zgodovina predvajanja</string>
      <string name="notification_open_tip">Vklopite, če želite prejemati obvestila</string>
      <string name="notification_promotion">Priporočila</string>
+     <string name="notification_pupular_today_open_tip">Prikaz priljubljenih videoposnetkov</string>
      <string name="notification_recall_action">Vklopi</string>
      <string name="notification_recall_desc">Mi Video vas lahko obvesti o popularnih videoposnetkih in vaših naročninah</string>
      <string name="notification_recall_title">Vklopite obvestila</string>
@@ -1592,7 +1605,7 @@ Izboljša varnost vašega računa."</string>
      <string name="phone_number">Telefonska številka</string>
      <string name="photoPickerNotFoundText">Ni slik.</string>
      <string name="pip">Slika v sliki</string>
-     <string name="pip_not_supported_toast">Posodobite MIUI, da boste lahko uporabljali sliko v sliki.</string>
+     <string name="pip_not_supported_toast">Posodobite, da boste lahko uporabljali sliko v sliki.</string>
      <string name="play_list_delete_title">Izbrišem seznam predvajanja?</string>
      <string name="play_list_detial_add">Dodaj videoposnetke</string>
      <string name="play_list_detial_delete">Izbriši</string>

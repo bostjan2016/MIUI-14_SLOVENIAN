@@ -86,10 +86,10 @@
      <string name="add">Dodaj</string>
      <string name="add_cw_fail_tip">"Ne morem dodati sliko ozadja"</string>
      <string name="add_cw_success_tip">Slika ozadja uspešno dodana</string>
-     <string name="add_first_cw_toast1">Uspešno dodano. Wallpaper Carousel je vključen in diaprojekcija zagnana.</string>
-     <string name="add_first_cw_toast2">Nekaj stvari uspešno dodano. Wallpaper Carousel je vključen in diaprojekcija zagnana.</string>
-     <string name="add_first_cw_toast3">Slike ozadja uspešno dodane. Wallpaper Carousel je vključen in diaprojekcija zagnana.</string>
-     <string name="add_first_cw_toast4">Wallpaper Carousel je vključen in diaprojekcija zagnana.</string>
+     <string name="add_first_cw_toast1">Uspešno dodano. Prikaz izbranih ozadij.</string>
+     <string name="add_first_cw_toast2">Nekatera izbrana ozadja so bila uspešno dodana.</string>
+     <string name="add_first_cw_toast3">Vaša ozadja so bila uspešno dodana.</string>
+     <string name="add_first_cw_toast4">Wallpaper Carousel je vključen. Prikaz izbranih ozadij.</string>
      <string name="add_launch_hint_text">Dodaj bližnjico zač. zaslona</string>
      <string name="add_local_picture">Galerija</string>
      <string name="add_online_picture">Online slike</string>
@@ -108,6 +108,7 @@
      <string name="app_self_upgrade_dlg_postive_btn">Posodobi</string>
      <string name="app_self_upgrade_dlg_title">Posodabljanje aplikacije</string>
      <string name="app_self_upgrade_toast_downloading_install">Začetek prenosa in namestitve nove verzije</string>
+     <string name="applied_and_added_to_custom_wallpaper">"Uspešno dodano v vašo diaprojekcijo. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Ogled&lt;/font>&lt;/a>"</string>
      <string name="apply">Nastavi</string>
      <string name="apply_to_above_all">Nastavi oboje</string>
      <string name="apply_to_screenlock">Nastavi za zak. zaslon</string>
@@ -181,8 +182,8 @@
      <string name="custom_wallpaper_des">Vključite Wallpaper Carousel, dodajte svoje fotografije in omrežne slike v miks da se bodo samodejno prikazale v predstavitvi.</string>
      <string name="cw_add">Dodaj</string>
      <string name="cw_add2">Dodaj (%1$d)</string>
-     <string name="cw_add_fail">"Ne morem dodati v diaprojekcijo"</string>
-     <string name="cw_add_num_tip">"Ne morem dodati več stvari v diaprojekcijo"</string>
+     <string name="cw_add_fail">"Ne morem dodati"</string>
+     <string name="cw_add_num_tip">"Ne morem izbrati več ozadij za dodajanje"</string>
      <string name="cw_add_success">Uspešno dodano</string>
      <string name="cw_add_tip_fail">"Ne morem dodati"</string>
      <string name="cw_add_wallpaper">Dodaj sliko ozadja</string>
@@ -208,8 +209,8 @@
      <string name="cw_my_fav">Priljubljeno</string>
      <string name="cw_permission_tip">Dovolite Wallpaper Carousel dostop do shrambe v Nastavitve &gt; Nastavitve aplikacije.</string>
      <string name="cw_wallpaper_empty_dlg_btn">Razumem</string>
-     <string name="cw_wallpaper_empty_dlg_content">"Niste dodali nobene stvari v diaprojekcijo. Vrženo v priporočila."</string>
-     <string name="cw_wallpaper_empty_dlg_title">Ni stvari</string>
+     <string name="cw_wallpaper_empty_dlg_content">"Svoji diaprojekciji po meri niste dodali nobenega ozadja. Wallpaper Carousel bo namesto tega prikazal priporočena ozadja."</string>
+     <string name="cw_wallpaper_empty_dlg_title">Ni dodanih stvari</string>
      <string name="cw_wallpaper_manager">Urejaj slike ozadja</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
@@ -274,9 +275,9 @@ Pošljite to kodo nadzorniku."</string>
      <string name="double_click_to_exit_activity">Tapni ponovno za izhod</string>
      <string name="early_morning">Jutro</string>
      <string name="edit_wallpaper">Urejanje ozadij</string>
-     <string name="enable_toast_ar">Zamenjano na priporočila</string>
-     <string name="enable_toast_cw">Zamenjano na diaprojekcijo</string>
-     <string name="enable_toast_cwo">Wallpaper Carousel je vključen in diaprojekcija zagnana</string>
+     <string name="enable_toast_ar">Prikaz priporočenih ozadij</string>
+     <string name="enable_toast_cw">Prikaz diaprojekcije po meri</string>
+     <string name="enable_toast_cwo">Wallpaper Carousel in diaprojekcija po meri sta vklopljena</string>
      <string name="enable_toast_subscribe">Wallpaper Carousel je vključen in predplačila so aktivirana.</string>
      <string name="error_dup_binded_email">Ta naslov e-pošte je že povezan z drugim Mi Računom.</string>
      <string name="error_icon_content_description">Napaka</string>
@@ -287,7 +288,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="explorer_activity_title">Wallpaper Carousel</string>
      <string name="exposed_dropdown_menu_content_description">Pokaži padajoči meni</string>
      <string name="external_storage_permission">Dostop do shrambe</string>
-     <string name="external_storage_permission_summary">Za izbiro ozadij po meri in shranjevanje prenesenih stvari</string>
+     <string name="external_storage_permission_summary">Dovolite tej aplikaciji dostop do datotek v vaši napravi, da boste lahko dodali lastna ozadja v Wallpaper Carousel in shranili preneseno vsebino v vašo napravo</string>
      <string name="facebook_login_btn_content_description">Vpis z Facebook</string>
      <string name="failed_dup_secure_phone_number">Ta telefonska številka je že povezana z drugim Mi Računom</string>
      <string name="favor_list_no_data">Ni stvari.</string>
@@ -389,7 +390,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="lks_cta_ok">Strinjam se</string>
      <string name="lks_cta_reject">"Ne strinjam se"</string>
      <string name="lks_cta_summary1">Wallpaper Carousel ponuja naslednje storitve :</string>
-     <string name="lks_cta_summary2">"1. Samodejno posodobljena ozadja&lt;br>2. Sveže slike in zgodbe so dostavljene na vaš zaklenjen zaslon&lt;br>3. Možnosti prilagajanja&lt;br>Ta storitev se mora za normalno delovanje povezati s spletom.&lt;br>&lt;br>Za zagotavljanje dodatnih storitev bomo morda prosili za dovoljenje za dostop in shranjevanje elementov v pomnilnik te naprave. Preberite in se strinjate z &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Pogoji uporabe&lt;/font>&lt;/a> in &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Pravila o zasebnosti&lt;/font>&lt;/a> preden nadaljujete."</string>
+     <string name="lks_cta_summary2">"1. Samodejno posodobljena ozadja&lt;br>2. Sveže slike in zgodbe so dostavljene na vaš zaklenjen zaslon&lt;br>3. Možnosti prilagajanja&lt;br>Ta storitev se mora za normalno delovanje povezati s spletom.&lt;br>&lt;br>Za zagotavljanje dodatnih storitev bomo morda prosili za dovoljenje za dostop in shranjevanje elementov v pomnilnik te naprave. Preberite in se strinjate z &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Pogoji uporabe&lt;/font>&lt;/a> in &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Pravila o zasebnosti&lt;/font>&lt;/a> preden nadaljujete."</string>
      <string name="lks_cta_title">Pogoji in pravila</string>
      <string name="lks_current_lks_wallpaper">Trenutni zaklenjeni zaslon</string>
      <string name="lks_data_warning_toast_1">"Za brskanje po ozadjih uporabljate mobilne podatke.
@@ -1088,6 +1089,7 @@ mm"</string>
      <string name="pull_to_refresh_refreshing_label">Osveževanje…</string>
      <string name="pull_to_refresh_release_label">Spusti za osvežitev</string>
      <string name="qq_login_btn_content_description">Vpis z QQ</string>
+     <string name="reach_custom_limitation">"Ne morem dodati več ozadij. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Urejaj&lt;/font>&lt;/a>"</string>
      <string name="recommend_switch_desc">Prejem priporočil na osnovi vaših zanimanj</string>
      <string name="recommend_switch_dlg_close">Izključi</string>
      <string name="recommend_switch_dlg_desc">"Ne boste mogli prejemati priporočil na osnovi vaših zanimanj če to izklopite."</string>
@@ -1107,7 +1109,7 @@ mm"</string>
      <string name="request_error_unknown">Prišlo je do sistemske napake. Pojdite nazaj in poskusite znova.</string>
      <string name="request_gallery_permission_message">Dovolite dostop do Galerije:&lt;br />Za nastavitev profilnih fotografij</string>
      <string name="require_permission">Potrebna so dovoljenja</string>
-     <string name="require_permission_text">Če želite shraniti in si ogledati stvari, dovolite Wallpaper Carousel dostop do shrambe.</string>
+     <string name="require_permission_text">Ta aplikacija potrebuje dovoljenje za dostop do datotek v vaši napravi, da lahko doda svoja ozadja v Wallpaper Carousel in shrani preneseno vsebino v vašo napravo.</string>
      <string name="resend_active_email">Pošlji ponovno</string>
      <string name="resend_email_reach_limit_message">Zahtevali ste preveč preverjanj po e-pošti. Prepričajte se, da e-poštno sporočilo ni v mapi »Neželena pošta«.</string>
      <string name="resend_email_reach_limit_title">Preveč poskusov</string>
@@ -1147,6 +1149,7 @@ mm"</string>
      <string name="see_detail">Pokaži</string>
      <string name="see_more">Pokaži več</string>
      <string name="see_more_content">Pokaži več</string>
+     <string name="select_at_least_one_mode">Izberite način Wallpaper Carousel</string>
      <string name="select_package">Izberi verzijo</string>
      <string name="select_photo_album">Izberi album</string>
      <string name="select_picture">Izberi slike</string>
@@ -1160,10 +1163,12 @@ mm"</string>
      <string name="setting_about_item_des">Verzija</string>
      <string name="setting_about_item_title">O Wallpaper Carousel</string>
      <string name="setting_des">Diaprojekcijo ponuja Wallpaper Carousel. Poiščite \"Wallpaper Carousel\" v aplikaciji Nastavitve za ogled vseh razpoložljivih možnosti</string>
+     <string name="setting_des_custom_only">Naša storitev diaprojekcije je zdaj popolnoma prilagodljiva. Kako pogosto se spreminja ozadje, lahko prilagodite v Nastavitve > Zaklenjeni zaslon > Nastavitve Wallpaper Carousel.</string>
+     <string name="setting_des_recommend_selected">"Naša storitev diaprojekcije je zdaj popolnoma prilagodljiva. Pridobite priporočila za slike, ki vam bodo všeč, in dodajte svoje. Kako pogosto se spreminja ozadje, lahko prilagodite v Nastavitve > Zaklenjen zaslon > Nastavitve Wallpaper Carousel."</string>
      <string name="setting_head">Nastavitve</string>
      <string name="setting_ok">Nastavitve</string>
      <string name="setting_tip">"Ne kaži"</string>
-     <string name="setting_title">Diaprojekcija</string>
+     <string name="setting_title">Uspešno dodano</string>
      <string name="settings">Nastavitve</string>
      <string name="share">Deli</string>
      <string name="share_today_morning">Skupna raba</string>
@@ -1192,7 +1197,7 @@ mm"</string>
      <string name="sns_bind_limit">Preveč poskusov. Poskusite z drugimi načini prijave.</string>
      <string name="sns_sign_in">Drugi načini prijave</string>
      <string name="sst_auto_recommand_desc">Naročite se na svoje priljubljene kategorije da boste vsakodnevno dobili nove slike in zgodbe na zakl. zaslon.</string>
-     <string name="sst_auto_recommand_title">Dobite priporočila za prilagojena ozadja</string>
+     <string name="sst_auto_recommand_title">Priporočite ozadja</string>
      <string name="sst_change_wallpaper_desc">"Izberite kje želite postaviti ozadje"</string>
      <string name="sst_change_wallpaper_desk">Začetni zaslon</string>
      <string name="sst_change_wallpaper_lock">Zakl. zaslon</string>
@@ -1204,7 +1209,7 @@ mm"</string>
      <string name="sst_cover_chg_enable_title">Pokaži med polnjenjem</string>
      <string name="sst_custom_wallpaper_desc">Izberite slike iz Galerije in priporočila</string>
      <string name="sst_custom_wallpaper_title">Lastna diaprojekcija</string>
-     <string name="sst_custom_wallpaper_title2">diaprojekcija</string>
+     <string name="sst_custom_wallpaper_title2">Izberi moja ozadja</string>
      <string name="sst_disable_unopen">Beta storitev</string>
      <string name="sst_effect_next_wallpaper">Nastavite novo ozadje za uporabo sprememb</string>
      <string name="sst_favor_desc">Pokaži priljubljene slike ozadja</string>
@@ -1243,12 +1248,12 @@ mm"</string>
      <string name="sst_subscrible_manager_title_bar_text">Urejaj naročila</string>
      <string name="sst_subscripted">Naročeno</string>
      <string name="sst_subscripted2">Kategorije na voljo</string>
-     <string name="sst_switch_wallpaper_order_desc">Izberite vrstni red posodobitve ozadja</string>
+     <string name="sst_switch_wallpaper_order_desc">Izberite vrstni red diapozitivov</string>
      <string name="sst_switch_wallpaper_order_fixed">Vrstni red</string>
      <string name="sst_switch_wallpaper_order_random">Naključno</string>
      <string name="sst_switch_wallpaper_order_title">Posodobi razpored</string>
      <string name="sst_wallpaper_define_desc">Urejaj</string>
-     <string name="sst_wallpaper_define_title">Moja diaprojekcija</string>
+     <string name="sst_wallpaper_define_title">Diaprojekcija po meri</string>
      <string name="sst_wallpaper_define_title2">Dodaj slike</string>
      <string name="sst_wallpaper_history_des">Poglejte nedavna priporočila</string>
      <string name="sst_wallpaper_history_title">Zgodovina</string>

@@ -169,6 +169,7 @@
      <string name="daily_forecast_add_city_add">Spremljaj</string>
      <string name="daily_forecast_add_city_message">Spremljaj vremensko napoved v %1$s za natančnejšo napoved prognozu.</string>
      <string name="daily_forecast_add_city_title">Spremljaj vremensko napoved v %1$s</string>
+     <string name="daily_forecast_card_title">%d-dnevna napoved</string>
      <string name="daily_forecast_detail">Podrobnosti napovedi</string>
      <string name="daily_forecast_detail_date">d/M</string>
      <string name="daily_forecast_no_data">"Ne morem dobiti podatkov o vremenu
@@ -247,7 +248,7 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
      <string name="feedback_result_interval_time_too_short">%1$s sek. po povratni informaciji</string>
      <string name="feedback_result_success">Poslano, hvala vam za povratno informacijo</string>
      <string name="feedback_sand">Pesek</string>
-     <string name="feedback_sandy">Pesek</string>
+     <string name="feedback_sandy">Prašna nevihta</string>
      <string name="feedback_sunny">Sončno</string>
      <string name="first_start_network_msg">Ta aplikacija potrebuje spletno povezavo in dostop do lokacije za normalno delovanje.</string>
      <string name="first_start_network_title">Povezava s spletom in dostop do lokacije</string>
