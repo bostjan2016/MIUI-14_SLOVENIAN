@@ -117,9 +117,10 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LC3</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_titles">
         <item>Uporabi sistemsko izbiro (privzeto)</item>
@@ -128,9 +129,10 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LC3</item>
      </string-array>
      <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -139,9 +141,9 @@
         <item>, aktivno (telefon)</item>
      </string-array>
      <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp13</item>
         <item>avrcp15</item>
+        <item>avrcp13</item>
+        <item>avrcp14</item>
         <item>avrcp16</item>
      </string-array>
      <string-array name="bluetooth_avrcp_versions">
@@ -166,6 +168,7 @@
         <item>Omogočeno</item>
         <item>Omogočene glave filtrirane</item>
         <item>Omogočeni mediji Pkts filtrirani</item>
+        <item>Omogočeni profili filtrirani</item>
      </string-array>
      <string-array name="bt_hci_snoop_log_filters_entries">
         <item>Pusti samo glave ACL</item>
@@ -215,7 +218,7 @@
         <item>Nič</item>
         <item>Logcat</item>
         <item>Systrace (grafika)</item>
-        <item>Pri napaki glGetError kliči sklad</item>
+        <item>Sklad klicev na glGetError</item>
      </string-array>
      <string-array name="enable_opengl_traces_values">
         <item>0</item>

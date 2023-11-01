@@ -369,6 +369,13 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="blur_location_is_on_tip">%1$s uporablja vašo približno lokacijo. Nadaljevanje uporabe namesto natančne lokacije?</string>
      <string name="blur_location_now_tip">Približna lokacija je vključena</string>
      <string name="blur_location_title">Približna lokacija</string>
+     <string name="call_notification_answer_action">Odgovor</string>
+     <string name="call_notification_answer_video_action">Video</string>
+     <string name="call_notification_decline_action">Zavrni</string>
+     <string name="call_notification_hang_up_action">Prekini</string>
+     <string name="call_notification_incoming_text">Dohodni klic</string>
+     <string name="call_notification_ongoing_text">Odhodni klic</string>
+     <string name="call_notification_screening_text">Preverjanje dohodnega klica</string>
      <string name="carwith_grant_permission_tips_when_lock">Najprej odklenite telefon</string>
      <string name="cetus_invisible_mode_notice_audio">"Ste nevidni. Ne morem uporabiti mikrofona."</string>
      <string name="cetus_invisible_mode_notice_camera">"Ste nevidni. Ne morem uporabiti kamere."</string>
@@ -391,6 +398,8 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
      <string name="default_permission_description">izvesti neznana opravila</string>
+     <string name="deny_fine_keep_blur_location">Približna lokacija</string>
+     <string name="deny_fine_keep_blur_location_dont_ask_again">Vedno dovoli približne vrednosti</string>
      <string name="early_morning">Jutro</string>
      <string name="evening">Večer</string>
      <string name="expand_button_title">Napredno</string>
@@ -456,14 +465,19 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="gold_master_dialog_title">%1$s želi dostop do odložišča</string>
      <string name="grant_confirm_question">Želite odobriti ta dovoljenja? Omogočen bo dostop:</string>
      <string name="grant_dialog_button_allow">Dovoli</string>
+     <string name="grant_dialog_button_allow_all">Dovoli za vse</string>
      <string name="grant_dialog_button_allow_always">Dovoli ves čas</string>
      <string name="grant_dialog_button_allow_background">Dovoli ves čas</string>
      <string name="grant_dialog_button_allow_foreground">Dovoli samo med uporabo aplikacije</string>
+     <string name="grant_dialog_button_allow_more_selected_photos">Izberite več stvari</string>
      <string name="grant_dialog_button_allow_onetime">Dovoli enkrat</string>
+     <string name="grant_dialog_button_allow_selected_photos">Izberite stvari</string>
+     <string name="grant_dialog_button_always_allow_all">Vedno dovoli za vse stvari</string>
      <string name="grant_dialog_button_deny">Zavrni</string>
      <string name="grant_dialog_button_deny_and_dont_ask_again">Dovoli in ne sprašuj več</string>
      <string name="grant_dialog_button_deny_background">Samo med uporabo aplikacije</string>
      <string name="grant_dialog_button_deny_background_and_dont_ask_again">Dovoli samo med uporabo aplikacije in ne sprašuj več</string>
+     <string name="grant_dialog_button_dont_allow_more_selected_photos">"Ne dovoli dodatne izbire"</string>
      <string name="grant_dialog_button_only_allow_foreground_locate">Zaenkrat omeji</string>
      <string name="grant_dialog_button_only_allow_foreground_locate_and_dont_ask_again">Vedno omeji</string>
      <string name="grant_dialog_storage_category_title">Ta aplikacija zahteva dovoljenja za dostop do Galerije in sporočil v aplikacijah za družabna omrežja</string>
@@ -485,6 +499,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -563,6 +578,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="permdesc_call_phone">Dovolim %1$s klicanje?</string>
      <string name="permdesc_camera">Dovolim %1$s snemati fotografije in videoposnetke?</string>
      <string name="permdesc_get_account">Dovolim %1$s dostop do vseh računov, shranjenih v tej napravi?</string>
+     <string name="permdesc_get_installed_apps">Dovolim \"%1$s\" dostop do informacij o nameščenih aplikacijah?</string>
      <string name="permdesc_in_calls">Nadzirati dohodne klice</string>
      <string name="permdesc_isolate_storage">Dovolim %1$s dostop do fotografij, videoposnetkov in zvoka, shranjenih v tej napravi?</string>
      <string name="permdesc_location">Dovolim %1$s dostop do podatkov o lokaciji?</string>
@@ -716,6 +732,8 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>
+     <string name="tilte_request_coarse_location">Dovolim %1$s dostop do vaše približne lokacije?</string>
+     <string name="tilte_request_fine_location">Dovolim %1$s dostop do vaše natančne lokacije ali pa namesto tega uporabim približno lokacijo?</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>

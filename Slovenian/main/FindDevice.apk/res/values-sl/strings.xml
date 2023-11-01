@@ -33,6 +33,13 @@
      <string name="afternoon">Popoldne</string>
      <string name="am">dop.</string>
      <string name="app_name">Najdi napravo</string>
+     <string name="call_notification_answer_action">Odgovor</string>
+     <string name="call_notification_answer_video_action">Video</string>
+     <string name="call_notification_decline_action">Zavrni</string>
+     <string name="call_notification_hang_up_action">Prekini</string>
+     <string name="call_notification_incoming_text">Dohodni klic</string>
+     <string name="call_notification_ongoing_text">Odhodni klic</string>
+     <string name="call_notification_screening_text">Preverjanje dohodnega klica</string>
      <string name="captcha">Captcha</string>
      <string name="change_find_device_status_failed">"Ne morem odkleniti. %s."</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
@@ -154,6 +161,7 @@ Za podrobnosti kontaktirajte svojega prodajalca."</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -214,6 +222,7 @@ Za podrobnosti kontaktirajte svojega prodajalca."</string>
      <string name="noon">Poldne</string>
      <string name="not_set">Ni nastavljeno</string>
      <string name="open_wifi_settings">Odpri nastavitve WiFi</string>
+     <string name="open_wifi_settings_china">Odpri nastavitve WiFi</string>
      <string name="passport_checking_vcode">Kontrola gesla…</string>
      <string name="passport_error_empty_vcode">Vnesite kontrolno kodo</string>
      <string name="passport_notification_need_unlock_again">Poskusite odkleniti ponovno </string>
@@ -278,6 +287,14 @@ Vstavite delujočo kartico SIM in se ne povezujte z neveljavnimi omrežji WiFi.
 Ste pozabili geslo?
 Pojdite na id.mi.com, izberite »Pozabljeno geslo?« in sledite navodilom.
  
+Ne morete aktivirati naprave?
+Pojdite na i.mi.com/ss in oddajte svojo vlogo za odklepanje naprave."</string>
+     <string name="unlock_help_china">"Povežite se na omrežje.
+Vstavite delujočo kartico SIM in se ne povezujte z neveljavnimi omrežji WiFi.
+
+Ste pozabili geslo?
+Pojdite na id.mi.com, izberite \"Pozabljeno geslo?\", in sledite navodilom.
+
 Ne morete aktivirati naprave?
 Pojdite na i.mi.com/ss in oddajte svojo vlogo za odklepanje naprave."</string>
      <string name="unlock_help_title">Pomoč pri odklepanju:</string>

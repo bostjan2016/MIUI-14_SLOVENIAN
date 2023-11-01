@@ -76,6 +76,10 @@
         <item quantity="other">%d stvari izbrano</item>
         <item quantity="one">%d stvar izbrana</item>
      </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
+     </plurals>
      <plurals name="new_task_backup_failed">
         <item quantity="other">"Var. kopija uspešno napravljena. Ne morem varnostno kopirati %d stvari."</item>
         <item quantity="one">"Var. kopija uspešno napravljena. Ne morem varnostno kopirati %d stvar."</item>

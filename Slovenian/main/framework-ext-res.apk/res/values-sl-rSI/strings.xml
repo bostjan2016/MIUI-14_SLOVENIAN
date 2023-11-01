@@ -193,6 +193,19 @@
      <string name="freeform_exchange_tip">Odpri plavajoče okno v celozaslonskem načinu</string>
      <string name="freeform_exchange_tip2">Povlecite v kot da prenehate</string>
      <string name="freeform_exchange_tip3">Odpri plavajoče okno v celozaslonskem načinu</string>
+     <string name="freeform_guide_tip_dock">Povlecite aplikacijo na sredino zaslona, da jo odprete v lebdečem oknu</string>
+     <string name="freeform_guide_tip_dock_browser">Pritisnite in držite ikono, da odprete novo okno</string>
+     <string name="freeform_guide_tip_dock_email">Pritisnite in držite ikono, da odprete novo okno</string>
+     <string name="freeform_guide_tip_dock_note">Pritisnite in držite ikono, da odprete novo okno</string>
+     <string name="freeform_guide_tip_dock_wps">Pritisnite in držite ikono, da odprete novo okno</string>
+     <string name="freeform_guide_tip_down">Če želite zapreti plavajoče okno, pritisnite in držite vrstico z dejanji, nato pa jo hitro povlecite navzgor</string>
+     <string name="freeform_guide_tip_drag">Če želite spremeniti velikost okna, pritisnite in držite njegov vogal ter povlecite</string>
+     <string name="freeform_guide_tip_notification">Če želite odpreti lebdeče okno, pritisnite in držite vrstico z dejanji, nato pa jo povlecite navzdol</string>
+     <string name="freeform_guide_tip_pin">Če želite pomanjšati okno, pritisnite in držite vrstico z dejanji, nato pa hitro povlecite okno do roba zaslona</string>
+     <string name="freeform_guide_tip_pin_up">Povlecite pomanjšano okno, da ga vrnete</string>
+     <string name="freeform_guide_tip_sidebar">Povlecite navzven, da odprete stransko vrstico</string>
+     <string name="freeform_guide_tip_split">Povlecite aplikacijo na stran, da preklopite na razdeljeni zaslon</string>
+     <string name="freeform_guide_tip_top">Če želite premikati okno, pritisnite in držite vrstico z dejanji, nato pa povlecite okno</string>
      <string name="frenchchic">Chic</string>
      <string name="frequent_email">Pogosti naslovi e-pošte</string>
      <string name="frequent_phrases">Pogosti izrazi</string>
@@ -227,6 +240,7 @@
      <string name="hawaii">Havaji</string>
      <string name="help">"Ne morete najti naprav?"</string>
      <string name="help_content">"Če ne najdete potrebne naprave, prosite drugo osebo da vključi Mi Share."</string>
+     <string name="high_temperature_brightness_toast">Večja svetlost zaslona bo napravo segrela in porabila več energije</string>
      <string name="hisense">Hisense</string>
      <string name="hisense_phone">Hisense</string>
      <string name="hs_guide_dialog_button_confirm">Razumem</string>
@@ -279,9 +293,13 @@
      <string name="knock_slide_shape">Narišite krog s členkom</string>
      <string name="ks_back_home">Začetni zaslon</string>
      <string name="ks_close_window">Zapri trenutno okno</string>
+     <string name="ks_launch_app_full_window">Celozaslonski način</string>
+     <string name="ks_launch_app_small_window">Plavajoče okno</string>
      <string name="ks_launch_control_center">Center za kontrolo</string>
      <string name="ks_launch_notification_center">Plošča obvestil</string>
      <string name="ks_launch_recents_tasks">Odpri Nedavno</string>
+     <string name="ks_launch_split_screen_to_left">Razdeljen zaslon/povlecite delilnik v levo</string>
+     <string name="ks_launch_split_screen_to_right">Razdeljen zaslon/povlecite delilnik v desno</string>
      <string name="ks_lock_screen">Zak. zaslon</string>
      <string name="ks_regional_screen_shot">Posnetek zaslona (delni)</string>
      <string name="ks_screenshot">Posnetek zaslona (cel zaslon)</string>
@@ -375,7 +393,11 @@
      <string name="nps_ContentText">Kliknite za preverjanje podrobnosti</string>
      <string name="nps_ContentTitle">Iskanje GPS</string>
 
+     <string name="nps_blur_ContentText">zdaj uporablja zamegljeno lokacijo</string>
+     <string name="nps_close_blur_location">Vklopite dovoljenje za visoko natančnost</string>
+     <string name="nps_close_mock_location">onemogočite lažno lokacijo</string>
      <string name="nps_description">obvestilo o statusu GPS</string>
+     <string name="nps_location_service_unavailable">lokacijska storitev ni na voljo</string>
      <string name="nps_mock_description">uporaba virtualne lokacije, za obnovitev je potreben ponovni zagon</string>
      <string name="nps_monitor_name">GPS lokacija</string>
      <string name="nubia">Nubia</string>
@@ -433,6 +455,7 @@
      <string name="presentation_payphone">Payphone</string>
      <string name="presentation_private">Zasebna številka</string>
      <string name="presentation_unknown">Neznana številka</string>
+     <string name="propotional_freeform_tip">"Kaže da ta aplikacija v celoti ne podpira plavajočih oken"</string>
      <string name="radar">Radar</string>
      <string name="raindrops">Kapljice</string>
      <string name="realme">realme</string>
@@ -470,6 +493,7 @@
      <string name="resolver_mi_browser">Mi brskalnik</string>
      <string name="resolver_offical_recommend">Službeno</string>
      <string name="resolver_other_method">Druge opcije</string>
+     <string name="resolver_print">Tiskanje</string>
      <string name="resolver_recommend_options_tag">Priporočene opcije</string>
      <string name="resource_select">Izberi</string>
      <string name="reveries">Sanjarjenja (stereo)</string>
@@ -528,6 +552,13 @@
      <string name="sim_added_reboot_title">SIM kartica bo aktivirana po ponovnem zagonu naprave.</string>
      <string name="sim_lock_non_ais_msg">"Vaša SIM kartica ni popolnoma uporabna v tem telefonu ker ni v skladu z pravili in pogoji vaše naročnine. Za vprašanja in informacije se obrnite na Xiaomi servisne centre ali trgovino kjer ste kupili napravo."</string>
      <string name="sim_lock_now_ais_title">SIM %1$d</string>
+     <string name="sla_btn_concel">"Ne opominjaj"</string>
+     <string name="sla_btn_confirm">Vklopi</string>
+     <string name="sla_btn_keep">Ignoriraj</string>
+     <string name="sla_btn_stop">Ustavi</string>
+     <string name="sla_remind_text">Za povečanje hitrosti lahko uporabite mobilne podatke. To lahko povzroči dodatne stroške operaterja.</string>
+     <string name="sla_title">Povečanje hitrosti</string>
+     <string name="sla_traffic_text">"Danes ste porabili že %d MB mobilnih podatkov. Povečevanje hitrosti lahko ustavite, da prihranite mobilne podatke."</string>
      <string name="slatoast">Uporaba mobilnih podatkov za povečanje hitrosti bo povzročila večjo porabo in možne večje stroške</string>
      <string name="slavewifi">Dvopasovni WiFi</string>
      <string name="slavewifi_disconnect">Prekini povezavo</string>
@@ -544,9 +575,11 @@
      <string name="smartisan_phone">Smartisan</string>
      <string name="softap_notifif_summary">Povezano: %d</string>
      <string name="softap_notifif_title">Hot-spot \"%s\" vključen</string>
+     <string name="softap_stat_toast">Hotspot aktiven</string>
      <string name="southwestmountain_preview">Gore</string>
      <string name="spaceage">Vesoljska doba</string>
      <string name="split_screen">Odpri deljeni zaslon</string>
+     <string name="split_screen_recommend_tip">Razdeljen zaslon</string>
      <string name="spring">Pomlad</string>
      <string name="standard">Tiho</string>
      <string name="standard_description">Utišaj melodije zvonjenja za dohodne klice in obvestila</string>
@@ -677,6 +710,14 @@ da uporabite sprednjo kamero"</string>
      <string name="waterdrop_preview">Kapljice</string>
      <string name="wifi_assistant_wifi_no_internet">To WiFi omrežje nima dostopa do spleta</string>
      <string name="wifi_assistant_wifi_no_internet_detail">Tapni za prikaz podrobnosti</string>
+     <string name="wifi_disable_micar_p2p_dialog_message">Povezava z novim omrežjem WiFi bo prekinila povezavo vaše naprave z avtomobilom. Prekinem povezavo zdaj?</string>
+     <string name="wifi_disable_micar_p2p_dialog_message_carwith">Če se povežete z novim omrežjem WiFi, boste prekinili povezavo vaše naprave s CarWith. Prekinem povezavo zdaj?</string>
+     <string name="wifi_disable_micar_p2p_dialog_message_carwith_china">Če se povežete z novim omrežjem WiFi, boste prekinili povezavo vaše naprave s CarWith. Prekinem povezavo zdaj?</string>
+     <string name="wifi_disable_micar_p2p_dialog_message_china">Povezava z novim omrežjem WiFi bo prekinila povezavo vaše naprave z avtomobilom. Prekinem povezavo zdaj?</string>
+     <string name="wifi_disable_micar_p2p_dialog_negative_button">Prekliči</string>
+     <string name="wifi_disable_micar_p2p_dialog_positive_button">Prekini povezavo</string>
+     <string name="wifi_disable_micar_p2p_dialog_title">Prekinem povezavo z avtom?</string>
+     <string name="wifi_disable_micar_p2p_dialog_title_carwith">Prekinem povezavo z CarWith?</string>
      <string name="windchime">Zvončki vetra</string>
      <string name="wireless_charging_notification_message1">"Ne najdem brezžičnih naprav za polnjenje. Obrnjeno brezžično polnjenje je zdaj izključeno."</string>
      <string name="wireless_charging_notification_message2">Baterija je napolnjena manj kot %s. Obrnjeno brezžično polnjenje je izključeno.</string>
@@ -705,6 +746,8 @@ da uporabite sprednjo kamero"</string>
      <string name="xiaomi_poco_f1">POCO F1</string>
      <string name="xspace_head">Dvojna aplikacija</string>
      <string name="xspace_resolver_activity_title">Izberite aplikacijo</string>
+     <string name="zone_volume_automatic_change_optimization_text">Priporočljivo je, da greste na poprodajni pregled. Ali želite blokirati gumbe za glasnost in uporabiti privzeto glasnost?</string>
+     <string name="zone_volume_automatic_change_optimization_title">V gumbu za glasnost je bila zaznana nepravilnost</string>
      <string name="zte">ZTE</string>
      <string name="zte_phone">ZTE</string>
 </resources>
