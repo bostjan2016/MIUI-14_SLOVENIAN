@@ -33,9 +33,9 @@
      <string name="access_terms">Dostop do pogojev</string>
      <string name="account_management_disclaimer_header">Vaš račun je upravljan</string>
      <string name="account_management_disclaimer_subheader">Skrbnik za IT z upravljanjem mobilnih naprav skrbi za uveljavljanje varnostnih pravilnikov</string>
-     <string name="admin_has_ability_to_monitor_device">"Skrbnik za IT lahko nadzira in upravlja nastavitve, dostop za podjetje, aplikacije, dovoljenja in podatke, povezane s to napravo, vključno z omrežno dejavnostjo, podatki o lokaciji naprave, zgodovino klicev in zgodovino iskanja stikov.
+     <string name="admin_has_ability_to_monitor_device">"Vaš skrbnik IT ima možnost spremljanja in upravljanja nastavitev, korporativnega dostopa, aplikacij, dovoljenj in podatkov, povezanih s to %1$s, vključno z vašo omrežno dejavnostjo, kot tudi lokacijo vaše naprave, zgodovino klicev in zgodovino iskanja stikov.
 
-Za več informacij, vključno s pravilniki organizacije o zasebnosti, se obrnite na skrbnika za IT."</string>
+Za več informacij, vključno s pravilniki o zasebnosti vaše organizacije, se obrnite na svojega skrbnika za IT."</string>
      <string name="admin_has_ability_to_monitor_profile">"Skrbnik za IT lahko nadzira in upravlja nastavitve, dostop za podjetje, aplikacije, dovoljenja in podatke, povezane s tem profilom, vključno z omrežno dejavnostjo, podatki o lokaciji naprave, zgodovino klicev in zgodovino iskanja stikov.
 
 Za več informacij, vključno s pravilniki organizacije o zasebnosti, se obrnite na skrbnika za IT."</string>
@@ -87,7 +87,7 @@ Za več informacij, vključno s pravilniki organizacije o zasebnosti, se obrnite
      <string name="cope_provisioning_step_1_header">Poslovne aplikacije se nahajajo v vašem poslovnem profilu, upravlja pa jih skrbnik IT</string>
      <string name="cope_provisioning_step_2_header">Osebne aplikacije so ločene in skrite pred poslovnimi aplikacijami</string>
      <string name="cope_provisioning_step_3_header">Vaš IT skrbnik lahko upravlja napravo in blokira nekatere programe</string>
-     <string name="cope_provisioning_summary">Poslovne aplikacije se nahajajo v vašem poslovnem profilu, upravlja pa jih skrbnik IT. Osebne aplikacije so ločene in skrite pred poslovnimi aplikacijami. Vaš IT skrbnik lahko upravlja to napravo in blokira nekatere programe.</string>
+     <string name="cope_provisioning_summary">Delovne aplikacije so shranjene v vašem delovnem profilu in jih upravlja vaš skrbnik za IT. Osebne aplikacije so ločene in skrite od delovnih. Vaš skrbnik za IT lahko nadzoruje ta %1$s in blokira določene aplikacije.</string>
      <string name="copy">Kopiraj</string>
      <string name="copying_certs">Nastavljanje digitalnih potrdil</string>
      <string name="couldnt_set_up_device">Nastavljanje naprave ni uspelo. Kontaktirajte skrbnika.</string>
@@ -97,9 +97,9 @@ Za več informacij, vključno s pravilniki organizacije o zasebnosti, se obrnite
      <string name="default_owned_device_username">Uporabnik delovne naprave</string>
      <string name="delete_profile">Izbriši</string>
      <string name="delete_profile_title">Odstranim delovni profil?</string>
-     <string name="device_already_set_up">Naprava je nastavljena</string>
-     <string name="device_doesnt_allow_encryption_contact_admin">Ta naprva ne dopušča šifriranja ki je potrebno za nastavljanje. Kontaktirajte skrbnika</string>
-     <string name="device_has_reset_protection_contact_admin">Na vaši napravi je vključena zaščita pred ponastavitvijo. Kontaktirajte skrbnika.</string>
+     <string name="device_already_set_up">%1$s je že nastavljena</string>
+     <string name="device_doesnt_allow_encryption_contact_admin">Ta %1$s ne dovoljuje šifriranja, ki je potrebno za nastavitev. Za pomoč se obrnite na skrbnika IT</string>
+     <string name="device_has_reset_protection_contact_admin">Vaša %1$s ima vklopljeno zaščito pred ponastavitvijo. Za pomoč se obrnite na skrbnika IT.</string>
      <string name="device_owner_cancel_cancel">Prekliči</string>
      <string name="device_owner_cancel_message">Ali želite ustaviti nastavitev in izbrisati podatke v napravi?</string>
      <string name="device_owner_description">Za varnost in urejanje te naprave bo skrbela vaša organizacija.</string>
@@ -116,8 +116,8 @@ Za več informacij, vključno s pravilniki organizacije o zasebnosti, se obrnite
      <string name="done">Končano</string>
      <string name="downloading_administrator_header">Priprava za nastavitev za delo …</string>
      <string name="encrypt">Šifriraj</string>
-     <string name="encrypt_device_text_for_device_owner_setup">Če želite nadaljevati nastavitev naprave jo morate šifrirati. To bo morda trajalo nekaj časa.</string>
-     <string name="encrypt_device_text_for_profile_owner_setup">"Če želite nadaljevati nastavitev delovnega profila morate šifrirati napravo. To bo morda trajalo nekaj časa."</string>
+     <string name="encrypt_device_text_for_device_owner_setup">Če želite nastaviti to %1$s, jo morate najprej šifrirati. To lahko traja nekaj časa.</string>
+     <string name="encrypt_device_text_for_profile_owner_setup">"Če želite nastaviti delovni profil, mora biti vaša %1$s šifrirana. To lahko traja nekaj časa."</string>
      <string name="encrypt_this_device_question">Šifriram napravo?</string>
      <string name="error_download_failed">Skrbniške aplikacije ni bilo mogoče prenesti</string>
      <string name="error_hash_mismatch">Skrbniške aplikacije ni bilo mogoče uporabiti zaradi napake kontrolne vsote. Za pomoč se obrnite na skrbnika za IT.</string>
@@ -125,17 +125,17 @@ Za več informacij, vključno s pravilniki organizacije o zasebnosti, se obrnite
      <string name="error_installation_failed">Skrbniške aplikacije ni bilo mogoče namestiti</string>
      <string name="error_package_invalid">Skrbniške aplikacije ni mogoče uporabljati. Manjkajo ji komponente ali pa je poškodovana. Za pomoč se obrnite na skrbnika za IT.</string>
      <string name="error_role_holder_download_install_failed">Poskusite znova pozneje ali za pomoč prosite skrbnika IT</string>
-     <string name="error_role_holder_hash_mismatch">"Naprave ni mogoče nastaviti. Obrnite se na skrbnika IT in navedite \"Neveljavna kontrolna vsota\"."</string>
-     <string name="error_role_holder_package_invalid">"Naprave ni mogoče nastaviti. Obrnite se na skrbnika IT in navedite \"Manjkajoče ali poškodovane komponente\"."</string>
+     <string name="error_role_holder_hash_mismatch">"%1$s ni mogoče nastaviti. Obrnite se na skrbnika IT in navedite \"Neveljavna kontrolna vsota\".</string>
+     <string name="error_role_holder_package_invalid">"%1$s ni mogoče nastaviti. Obrnite se na skrbnika IT in navedite \"Manjkajoče ali poškodovane komponente\"."</string>
      <string name="error_wifi">Ni bilo mogoče vzpostaviti povezave z omrežjem WiFi</string>
      <string name="expand">Razširi</string>
      <string name="expand_button_title">Dodatno</string>
      <string name="exposed_dropdown_menu_content_description">Prikaz spustnega menija</string>
-     <string name="financed_device_screen_header">To napravo zagotavlja %s.</string>
-     <string name="financed_make_payments_subheader_description">Ponudnik obročnega odplačila %1$s lahko namesti svojo aplikacijo %2$s, da boste lahko plačevali obroke za to napravo.</string>
-     <string name="financed_make_payments_subheader_title">Plačevanje obrokov za to napravo</string>
-     <string name="financed_restrict_device_subheader_description">Ponudnik obročnega odplačila %1$s lahko omeji dostop do te naprave v primeru neplačevanja obrokov.</string>
-     <string name="financed_restrict_device_subheader_title">Uporabo te naprave je mogoče omejiti.</string>
+     <string name="financed_device_screen_header">To %1$s zagotavlja %2$s.</string>
+     <string name="financed_make_payments_subheader_description">%1$s lahko namesti aplikacijo %2$s, da lahko plačujete za ta %3$s.</string>
+     <string name="financed_make_payments_subheader_title">Izvedite plačila za ta %1$s</string>
+     <string name="financed_restrict_device_subheader_description">%1$s lahko omeji dostop do te %2$s, če ne plačujete.</string>
+     <string name="financed_restrict_device_subheader_title">To %1$s je mogoče omejiti.</string>
      <string name="for_help_contact_admin">Za pomoč se obrnite na skrbnika za IT</string>
      <string name="frp_clear_progress_text">Počakajte ...</string>
      <string name="frp_clear_progress_title">Brisanje</string>
@@ -143,18 +143,18 @@ Za več informacij, vključno s pravilniki organizacije o zasebnosti, se obrnite
      <string name="fully_managed_device_provisioning_accept_header">Nastavimo vašo službeno napravo</string>
      <string name="fully_managed_device_provisioning_permissions_header">Vaša dejavnost in podatki</string>
      <string name="fully_managed_device_provisioning_permissions_secondary_header">Dovoljenja za aplikacije</string>
-     <string name="fully_managed_device_provisioning_permissions_secondary_subheader">Skrbnik za IT lahko nastavlja dovoljenja za aplikacije v tej napravi, na primer dovoljenja za mikrofon, fotoaparat in lokacijo.</string>
-     <string name="fully_managed_device_provisioning_privacy_body">Skrbnik za IT bo morda lahko videl podatke in dejavnost v tej napravi</string>
+     <string name="fully_managed_device_provisioning_permissions_secondary_subheader">Vaš skrbnik IT lahko nastavi dovoljenja za aplikacije na tej %1$s, kot so dovoljenja za mikrofon, kamero in lokacijo.</string>
+     <string name="fully_managed_device_provisioning_privacy_body">Vaš skrbnik IT bo morda lahko videl vaše podatke in dejavnost v tem %1$s</string>
      <string name="fully_managed_device_provisioning_privacy_title">Opomnik glede zasebnosti</string>
      <string name="fully_managed_device_provisioning_progress_label">Nastavljanje naprave …</string>
      <string name="fully_managed_device_provisioning_return_device_subheader">Vrnite se na prejšnji zaslon ali ponastavite to napravo in jo vrnite skrbniku za IT.</string>
      <string name="fully_managed_device_provisioning_return_device_title">To napravo vrnite skrbniku za IT</string>
      <string name="fully_managed_device_provisioning_step_1_header">Delovne aplikacije imejte na dosegu prstov</string>
-     <string name="fully_managed_device_provisioning_step_2_header">Ta naprava ni zasebna</string>
-     <string name="fully_managed_device_provisioning_step_2_subheader">Skrbnik za IT bo morda lahko videl podatke in dejavnost v tej napravi.</string>
-     <string name="fully_managed_device_provisioning_summary">S to napravo lahko preprosto dostopate do delovnih aplikacij. Ta naprava ni zasebna, zato bo skrbnik za IT morda lahko videl vaše podatke in dejavnost.</string>
+     <string name="fully_managed_device_provisioning_step_2_header">Ta %1$s ni zasebna</string>
+     <string name="fully_managed_device_provisioning_step_2_subheader">Skrbnik za IT bo morda lahko videl podatke in dejavnost v tej %1$s.</string>
+     <string name="fully_managed_device_provisioning_summary">Uporabite ta %1$s za enostaven dostop do službenih aplikacij. Ta %1$s ni zaseben, zato bo vaš skrbnik IT morda lahko videl vaše podatke in dejavnost.</string>
      <string name="fully_managed_device_reset_and_return_button">Ponastavi napravo pred vrnitvijo</string>
-     <string name="fully_managed_device_with_permission_control_provisioning_summary">S to napravo lahko preprosto dostopate do delovnih aplikacij. Ta naprava ni zasebna, zato bo skrbnik za IT morda lahko videl vaše podatke in dejavnost. Skrbnik za IT prav tako lahko nastavlja dovoljenja za aplikacije v tej napravi, na primer dovoljenja za mikrofon, fotoaparat in lokacijo.</string>
+     <string name="fully_managed_device_with_permission_control_provisioning_summary">Uporabite ta %1$s za enostaven dostop do službenih aplikacij. Ta %1$s ni zaseben, zato bo vaš skrbnik IT morda lahko videl vašo dejavnost in podatke. Vaš skrbnik za IT lahko nastavi tudi dovoljenja za aplikacije v tej napravi, kot so dovoljenja za mikrofon, kamero in lokacijo.</string>
      <string name="icon_content_description">Pogovorno okno</string>
      <string name="if_questions_contact_admin">Če imate dodatna vprašanja se obrnite na administratorja organizacije</string>
      <string name="info_anim_title_0">Spremenite način dela</string>
@@ -261,7 +261,7 @@ Za več informacij, vključno s pravilniki organizacije o zasebnosti, se obrnite
      <string name="read_more_delete_profile">Preden nadaljujete, <a href="#read_this_link">preberite to</a>.</string>
      <string name="read_terms">Preberite pogoje</string>
      <string name="reset">Ponastavi</string>
-     <string name="reset_device">Ponastavite napravo in jo poskusite znova nastaviti</string>
+     <string name="reset_device">Ponastavite %1$s in jo poskusite znova nastaviti</string>
      <string name="scroll_bar_page_down_button">Pomik navzdol</string>
      <string name="scroll_bar_page_up_button">Pomik navzgor</string>
      <string name="search_menu_title">Iskanje</string>
@@ -271,9 +271,9 @@ Za več informacij, vključno s pravilniki organizacije o zasebnosti, se obrnite
      <string name="set_up_your_device">Nastavitev naprave</string>
      <string name="setting_up">Nastavljanje…</string>
      <string name="setting_up_workspace">Nastavitev delovnega profila…</string>
-     <string name="setup_device">Nastavitev vaše naprave</string>
-     <string name="setup_device_encryption">Nastavitev naprave. Šifriranje.</string>
-     <string name="setup_device_progress">Nastavitev naprave. Prikaz napredka</string>
+     <string name="setup_device">Nastavite vašo %1$s</string>
+     <string name="setup_device_encryption">Nastavite %1$s. Šifriranje.</string>
+     <string name="setup_device_progress">Nastavite %1$s. Prikaz napredka</string>
      <string name="setup_isnt_finished_contact_admin">Nastavitev ni dokončana. Če potrebujete pomoč se obrnite na administratorja.</string>
      <string name="setup_profile">Nastavitev profila</string>
      <string name="setup_profile_encryption">Nastavitev profila. Šifriranje</string>
@@ -284,8 +284,9 @@ Za več informacij, vključno s pravilniki organizacije o zasebnosti, se obrnite
      <string name="setup_work_profile">Nastavitev profila</string>
      <string name="something_went_wrong">Nekaj ni v redu</string>
      <string name="speed_bump_lockout_message">Osredotočite se na cesto</string>
-     <string name="stop_setup_reset_device_question">Ali želite ustaviti nastavitev in vrniti napravo na privzeto?</string>
+     <string name="stop_setup_reset_device_question">Ustavim nastavitev &amp; ponastavim %1$s?</string>
      <string name="sud_back_button_label">Nazaj</string>
+     <string name="sud_default_device_name">naprava</string>
      <string name="sud_more_button_label">Več</string>
      <string name="sud_next_button_label">Naprej</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -298,14 +299,14 @@ Za več informacij, vključno s pravilniki organizacije o zasebnosti, se obrnite
      <string name="the_following_is_your_mdm">Ta aplikacija bo morala dostopati do tega profila:</string>
      <string name="the_following_is_your_mdm_for_device">Ta aplikacija bo upravljala napravo:</string>
      <string name="theft_protection_disabled_warning">Če nadaljujete, opravila zaščite pred krajo ne bodo omogočena. Če želite vklopiti zaščito pred krajo prekličite in napravo nastavite kot osebno.</string>
-     <string name="this_will_reset_take_back_first_screen">Naprava se bo povrnila na tovarniške nastavitve in na osnovni zaslon</string>
+     <string name="this_will_reset_take_back_first_screen">%1$s se bo povrnila na tovarniške nastavitve in se vrnila na začetni zaslon</string>
      <string name="url_error">Strani ni mogoče prikazati.</string>
      <string name="user_consent_msg">Sprejmem</string>
      <string name="user_setup_incomplete">Nastavitev uporabnika ni končana</string>
      <string name="v7_preference_off">IZKLOPLJENO</string>
      <string name="v7_preference_on">VKLOPLJENO</string>
      <string name="view_terms">Prikaz pogojev</string>
-     <string name="work_profile_cant_be_added_contact_admin">Delovnega profila ni mogoče dodati v to napravo. Če imate vprašanja, se obrnite na skrbnika.</string>
+     <string name="work_profile_cant_be_added_contact_admin">Delovnega profila ni mogoče dodati v to %1$s. Če imate vprašanja, se obrnite na skrbnika.</string>
      <string name="work_profile_description">V tem profilu bodo vaše delovne aplikacije, ki jih bo upravljala vaša organizacija</string>
      <string name="work_profile_info">Podatki o delovnem profilu</string>
      <string name="work_profile_provisioning_accept_header">Najprej nastavimo vaš delovni profil</string>

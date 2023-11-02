@@ -299,11 +299,13 @@ To bližnjico lahko v meniju »Nastavitve« > »Storitve za ljudi s posebnimi po
      <string name="app_streaming_blocked_message">V napravi %1$s ni mogoče dostopati do te vsebine. Poskusite s telefonom.</string>
      <string name="app_streaming_blocked_message_for_fingerprint_dialog">Ta aplikacija zahteva dodatno varnost. Poskusite s telefonom.</string>
      <string name="app_streaming_blocked_message_for_permission_dialog">V napravi %1$s trenutno ni mogoče dostopati do te vsebine. Poskusite s telefonom.</string>
+     <string name="app_streaming_blocked_message_for_settings_dialog">V napravi %1$s ni mogoče dostopati do te vsebine. Poskusite s telefonom.</string>
      <string name="app_streaming_blocked_title">%1$s ni na voljo</string>
      <string name="app_streaming_blocked_title_for_camera_dialog">Fotoaparat ni na voljo</string>
      <string name="app_streaming_blocked_title_for_fingerprint_dialog">Nadaljevanje v telefonu</string>
      <string name="app_streaming_blocked_title_for_microphone_dialog">Mikrofon ni na voljo</string>
      <string name="app_streaming_blocked_title_for_permission_dialog">Potrebno je dovoljenje</string>
+     <string name="app_streaming_blocked_title_for_playstore_dialog">Trgovina Play ni na voljo</string>
      <string name="app_streaming_blocked_title_for_settings_dialog">Nastavitve telefona niso na voljo</string>
      <string name="app_suspended_default_message">Aplikacija %1$s trenutno ni na voljo. To ureja aplikacija %2$s.</string>
      <string name="app_suspended_more_details">Več o tem</string>
@@ -313,6 +315,8 @@ To bližnjico lahko v meniju »Nastavitve« > »Storitve za ljudi s posebnimi po
      <string name="as_app_forced_to_restricted_bucket">Paket %1$s je bil dodan v segment OMEJENO</string>
      <string name="audit_safemode_notification">Ponastavitev naprave na tovarniške nastavitve za uporabo brez omejitev</string>
      <string name="audit_safemode_notification_details">Dotaknite se, če želite izvedeti več.</string>
+     <string name="auto_data_switch_content">To lahko kadar koli spremenite v nastavitvah.</string>
+     <string name="auto_data_switch_title">Prenos podatkov je preklopljen na operaterja %s</string>
      <string name="autofill">Samodejno izpolnjevanje</string>
      <string name="autofill_address_type_same_as_re">enako kot</string>
      <string name="autofill_address_type_use_my_re">uporabi moj</string>
@@ -327,6 +331,7 @@ To bližnjico lahko v meniju »Nastavitve« > »Storitve za ljudi s posebnimi po
      <string name="autofill_parish">Župnija</string>
      <string name="autofill_picker_accessibility_title">Možnosti samodejnega izpolnjevanja</string>
      <string name="autofill_picker_no_suggestions">Ni predlogov za samodejno izpolnjevanje</string>
+     <string name="autofill_picker_some_suggestions">{count,plural, =1{En predlog za samodejno izpolnjevanje}one{# predlog za samodejno izpolnjevanje}two{# predloga za samodejno izpolnjevanje}few{# predlogi za samodejno izpolnjevanje}other{# predlogov za samodejno izpolnjevanje}}</string>
      <string name="autofill_postal_code">Poštna številka</string>
      <string name="autofill_prefecture">Prefektura</string>
      <string name="autofill_province">Pokrajina</string>
@@ -445,10 +450,18 @@ To bližnjico lahko v meniju »Nastavitve« > »Storitve za ljudi s posebnimi po
      <string name="chooser_no_direct_share_targets">Neposredna skupna raba ni na voljo</string>
      <string name="chooser_wallpaper">Spreminjanje ozadja</string>
      <string name="clearDefaultHintMsg">Izbrišite privzeto aplikacijo v sistemskih nastavitvah > Aplikacije > Preneseno.</string>
+     <string name="clone_profile_label_badge">Klon aplikacije %1$s</string>
      <string name="close_button_text">Zapri</string>
      <string name="color_correction_feature_name">Popravljanje barv</string>
      <string name="color_inversion_feature_name">Inverzija barv</string>
      <string name="common_name">Pravo ime:</string>
+     <string name="concurrent_display_notification_active_content">%1$s uporablja oba zaslona za prikaz vsebine.</string>
+     <string name="concurrent_display_notification_active_title">Dvojni zaslon je vklopljen</string>
+     <string name="concurrent_display_notification_name">Dvojni zaslon</string>
+     <string name="concurrent_display_notification_power_save_content">Dual Screen ni na voljo, ker je vklopljeno varčevanje z energijo baterije. To lahko izklopite v nastavitvah.</string>
+     <string name="concurrent_display_notification_power_save_title">Dual Screen ni na voljo</string>
+     <string name="concurrent_display_notification_thermal_content">Dvojni zaslon ni na voljo, ker se telefon pregreva.</string>
+     <string name="concurrent_display_notification_thermal_title">Naprava se pregreva</string>
      <string name="condition_provider_service_binding_label">Ponudnik storitev</string>
      <string name="conference_call">Konferenčni klic</string>
      <string name="config_rawContactsLocalAccountName">privzeto</string>
@@ -473,6 +486,12 @@ To bližnjico lahko v meniju »Nastavitve« > »Storitve za ljudi s posebnimi po
      <string name="create_contact_using">"Ustvari stik
 s številko %s"</string>
      <string name="crossSimFormat_spn_cross_sim_calling">Pomožno klicanje prek operaterja %s</string>
+     <string name="csd_dose_reached_warning">"Želite še naprej poslušati pri visoki glasnosti?
+
+Glasnost v slušalkah je bila visoka dalj časa, kot je priporočeno, kar vam lahko poškoduje sluh."</string>
+     <string name="csd_momentary_exposure_warning">"Zaznan je bil glasen zvok
+
+Glasnost v slušalkah je višja od priporočene, kar vam lahko poškoduje sluh."</string>
      <string name="cut">Izreži</string>
      <string name="data_saver_description">Zaradi zmanjševanja prenesene količine podatkov varčevanje s podatki nekaterim aplikacijam preprečuje, da bi v ozadju pošiljale ali prejemale podatke. Aplikacija, ki jo trenutno uporabljate, lahko prenaša podatke, vendar to morda počne manj pogosto. To na primer pomeni, da se slike ne prikažejo, dokler se jih ne dotaknete.</string>
      <string name="data_saver_enable_button">Vklop</string>
@@ -517,6 +536,7 @@ s številko %s"</string>
      <string name="default_audio_route_category_name">Sistem</string>
      <string name="default_audio_route_name">Telefon</string>
      <string name="default_audio_route_name_dock_speakers">Zvočniki stojala</string>
+     <string name="default_audio_route_name_external_device">Zunanja naprava</string>
      <string name="default_audio_route_name_hdmi">HDMI</string>
      <string name="default_audio_route_name_headphones">Slušalke</string>
      <string name="default_audio_route_name_usb">USB</string>
@@ -534,6 +554,7 @@ s številko %s"</string>
      <string name="demo_user_inactivity_timeout_title">Ali želite ponastaviti napravo na privzeto?</string>
      <string name="deny">Zavrni</string>
      <string name="deny_button">Zavrni</string>
+     <string name="deprecated_abi_message">Ta aplikacija ni združljiva z najnovejšo različico Androida. Preverite, ali je na voljo posodobitev, ali pa se obrnite na razvijalca aplikacije.</string>
      <string name="deprecated_target_sdk_app_store">Preveri, ali je na voljo posodobitev</string>
      <string name="deprecated_target_sdk_message">Ta aplikacija je bila zasnovana za starejšo različico Androida in morda ne bo delovala pravilno. Preverite, ali so na voljo posodobitve, ali pa se obrnite na razvijalca.</string>
      <string name="description_direction_down">Povlecite navzdol za %s.</string>
@@ -548,6 +569,8 @@ s številko %s"</string>
      <string name="description_target_unlock_tablet">Povlecite če želite odkleniti.</string>
      <string name="device_ownership_relinquished">Skrbnik je napravo prepustil osebni uporabi</string>
      <string name="device_policy_manager_service">Device Policy Manager Service</string>
+     <string name="device_state_notification_settings_button">Odpri nastavitve</string>
+     <string name="device_state_notification_turn_off_button">Izklopi</string>
      <string name="device_storage_monitor_notification_channel">Shramba v napravi</string>
      <string name="dial">Telefon</string>
      <string name="dial_desc">Pokliči izbrano telefonsko številko</string>
@@ -563,6 +586,8 @@ s številko %s"</string>
      <string name="display_manager_overlay_display_name">Prekrivanje št. %1$d</string>
      <string name="display_manager_overlay_display_secure_suffix">, varno</string>
      <string name="display_manager_overlay_display_title">%1$s: %2$d x %3$d, %4$d pik na palec</string>
+     <string name="display_rotation_camera_compat_toast_after_rotation">Zasukajte za boljši pregled.</string>
+     <string name="display_rotation_camera_compat_toast_in_multi_window">Aplikacijo %s odprite v celozaslonskem načinu za boljši pregled.</string>
      <string name="dlg_confirm_kill_storage_users_text">Če vklopite pomnilnik USB se bodo nekatere aplikacije ki jih uporabljate ustavile in ne bodo na voljo, dokler ne izklopite pomnilnika USB.</string>
      <string name="dlg_confirm_kill_storage_users_title">Vklop pomnilnika USB</string>
      <string name="dlg_error_title">Operacija v pomnilniku USB ni uspela</string>
@@ -571,6 +596,7 @@ s številko %s"</string>
      <string name="done_label">Dokončano</string>
      <string name="double_tap_toast">Nasvet: Tapnite dvakrat če želite povečati ali pomanjšati.</string>
      <string name="downtime_condition_summary">Dokler se ne konča zastoj ob %1$s</string>
+     <string name="dream_preview_title">Predogled, %1$s</string>
      <string name="dump_heap_notification">Proces %1$s je presegel omejitev spomina</string>
      <string name="dump_heap_notification_detail">Ustvarjen je posnetek spomina procesa. Tapnite za deljenje.</string>
      <string name="dump_heap_ready_notification">Izvoz kopice procesa %1$s je pripravljen</string>
@@ -681,18 +707,21 @@ s številko %s"</string>
      <string name="ext_media_unmountable_notification_title">Težava z nosilcem %s</string>
      <string name="ext_media_unmounting_notification_message">Ne odstanjujte</string>
      <string name="ext_media_unmounting_notification_title">Izvrženje nosilca %s …</string>
-     <string name="ext_media_unsupported_notification_message">Naprava ne podpira tega medija (%s). Tapnite za nastavitev v podprtem formatu.</string>
-     <string name="ext_media_unsupported_notification_title">Nepodprt medij za shranjevanje %s</string>
+     <string name="ext_media_unsupported_notification_message">Dotaknite se za nastavitev.</string>
+     <string name="ext_media_unsupported_notification_title">Zaznana je bila naprava %s</string>
      <string name="extmedia_format_button_format">Formatiraj</string>
      <string name="extmedia_format_message">Vse datoteke shranjene v vašem USB pomnilniku bodo izbrisane. To se ne da povrniti!</string>
      <string name="extmedia_format_title">Format. USB pomnilnik?</string>
      <string name="extract_edit_menu_button">Uredi</string>
+     <string name="face_acquired_dark_glasses_detected_alt">Zaznana so temna očala. Videti se mora cel obraz.</string>
      <string name="face_acquired_insufficient">Točnih podatkov o obrazu ni bilo mogoče zajeti. Poskusite znova.</string>
+     <string name="face_acquired_mouth_covering_detected_alt">Zaznano je obrazno pokrivalo. Videti se mora ves obraz.</string>
      <string name="face_acquired_not_detected">Obraz ni viden. Poglejte v telefon.</string>
      <string name="face_acquired_obscured">Umaknite vse, kar vam morda zakriva obraz.</string>
      <string name="face_acquired_pan_too_extreme">Glejte malce bolj naravnost.</string>
      <string name="face_acquired_poor_gaze">Glejte bolj naravnost v napravo.</string>
      <string name="face_acquired_recalibrate">Znova prijavite svoj obraz.</string>
+     <string name="face_acquired_recalibrate_alt">Modela obraza ni mogoče ustvariti. Poskusite znova.</string>
      <string name="face_acquired_roll_too_extreme">Glejte malce bolj naravnost.</string>
      <string name="face_acquired_sensor_dirty">Očistite tipalo na zgornjem robu zaslona.</string>
      <string name="face_acquired_tilt_too_extreme">Malce manj nagnite glavo.</string>
@@ -759,6 +788,7 @@ s številko %s"</string>
      <string name="fingerprint_acquired_immobile">Vsakič nekoliko spremenite položaj prsta.</string>
      <string name="fingerprint_acquired_insufficient">Obdelava prstnih odtisov ni uspela. Poskusite ponovno.</string>
      <string name="fingerprint_acquired_partial">Najden delni prstni odtis. Poskusite ponovno.</string>
+     <string name="fingerprint_acquired_power_press">Zaznan je bil pritisk gumba za vklop.</string>
      <string name="fingerprint_acquired_too_bright">Presvetlo je.</string>
      <string name="fingerprint_acquired_too_fast">Prehitro premikanje prsta. Poskusite ponovno.</string>
      <string name="fingerprint_acquired_too_slow">Prepočasno premikanje prsta. Poskusite ponovno.</string>
@@ -775,6 +805,7 @@ s številko %s"</string>
      <string name="fingerprint_error_no_fingerprints">Ni včlanjenih prstnih odtisov.</string>
      <string name="fingerprint_error_no_space">Prstnega odtisa ni mogoče shraniti. Odstranite obstoječi prstni odtis.</string>
      <string name="fingerprint_error_not_match">Prstni odtis ni prepoznan.</string>
+     <string name="fingerprint_error_power_pressed">Gumb za vklop je pritisnjen.</string>
      <string name="fingerprint_error_security_update_required">Tipalo je začasno onemogočeno.</string>
      <string name="fingerprint_error_timeout">Čas čakanja je potekel. Poskusite ponovno.</string>
      <string name="fingerprint_error_unable_to_process">Poskusite ponovno.</string>
@@ -814,6 +845,7 @@ Za preverjanje prstnega odtisa se poskusite narahlo dotakniti."</string>
      <string name="fp_power_button_bp_negative_button">Nadaljuj</string>
      <string name="fp_power_button_bp_positive_button">Izklopi zaslon</string>
      <string name="fp_power_button_bp_title">Želite nadaljevati preverjanje prstnega odtisa?</string>
+     <string name="fp_power_button_enrollment_button_text">Izklopi</string>
      <string name="fp_power_button_enrollment_message">"Pritisnili ste gumb za vklop, s čimer običajno izklopite zaslon.
 
 Poskusite se narahlo dotakniti med nastavljanjem prstnega odtisa."</string>
@@ -873,6 +905,7 @@ Poskusite se narahlo dotakniti med nastavljanjem prstnega odtisa."</string>
      <string name="harmful_app_warning_open_anyway">VSEENO ODPRI</string>
      <string name="harmful_app_warning_title">Zaznana je bila škodljiva aplikacija</string>
      <string name="harmful_app_warning_uninstall">ODSTRANI</string>
+     <string name="hearing_aids_feature_name">Slušni pripomočki</string>
      <string name="heavy_weight_notification">%1$s se izvaja</string>
      <string name="heavy_weight_notification_detail">Dotaknite se da preklopite na aplikacijo</string>
      <string name="heavy_weight_switcher_text">Preden zaženete novo aplikacijo ustavite izvajano.</string>
@@ -950,6 +983,13 @@ Ali res želite zapustiti to stran?"</string>
      <string name="js_dialog_before_unload_title">Potrditev krmarjenja</string>
      <string name="js_dialog_title">Stran na naslovu \"%s\" vsebuje naslednje:</string>
      <string name="keyboard_headset_required_to_hear_password">Priključite slušalke če želite slišati geslo.</string>
+     <string name="keyboard_layout_notification_more_than_three_selected_message">Razporeditev tipkovnice je nastavljena na »%1$s«, »%2$s«, »%3$s« … Za spremembo se dotaknite.</string>
+     <string name="keyboard_layout_notification_multiple_selected_message">Dotaknite se za ogled tipkovnic</string>
+     <string name="keyboard_layout_notification_multiple_selected_title">Fizične tipkovnice so konfigurirane</string>
+     <string name="keyboard_layout_notification_one_selected_message">Razporeditev tipkovnice je nastavljena na »%s«. Za spremembo se dotaknite.</string>
+     <string name="keyboard_layout_notification_selected_title">Naprava %s je konfigurirana</string>
+     <string name="keyboard_layout_notification_three_selected_message">Razporeditev tipkovnice je nastavljena na »%1$s«, »%2$s«, »%3$s«. Za spremembo se dotaknite.</string>
+     <string name="keyboard_layout_notification_two_selected_message">Razporeditev tipkovnice je nastavljena na »%1$s«, »%2$s«. Za spremembo se dotaknite.</string>
      <string name="keyboard_password_character_no_headset">Pika.</string>
      <string name="keyboardview_keycode_alt">Tipka Alt</string>
      <string name="keyboardview_keycode_cancel">Prekliči</string>
@@ -1034,8 +1074,10 @@ Znova poskusite čez %d s."</string>
      <string name="kg_wrong_pattern">Napačen vzorec</string>
      <string name="kg_wrong_pin">Napačna PIN</string>
      <string name="kilobyteShort">KB</string>
+     <string name="language_picker_regions_section_suggested">Predlagano</string>
      <string name="language_picker_section_all">Vsi jeziki</string>
      <string name="language_picker_section_suggested">Predlagano</string>
+     <string name="language_picker_section_suggested_bilingual">Predlagani jeziki</string>
      <string name="language_selection_title">Dodajanje jezika</string>
      <string name="last_month">Pretekli mesec</string>
      <string name="last_num_days">{ count, plural, =1 {Zadnji # dan} other {Zadnjih # dni} }</string>
@@ -1152,6 +1194,7 @@ Nekateri dnevniki morda vsebujejo občutljive podatke, zato dostop do vseh dnevn
      <string name="low_internal_storage_view_text_no_boot">V pomnilniku ni dovolj prostora za sistem. Sprostite 250 MB prostora in znova zaženite napravo.</string>
      <string name="low_internal_storage_view_title">Prostor za shranjevanje bo pošel</string>
      <string name="low_memory">Pomnilnik telefona je poln. Izbrišite nekaj datotek da sprostite prostor.</string>
+     <string name="managed_profile_app_label">Preklopi na delovno aplikacijo %1$s</string>
      <string name="managed_profile_label">Služba</string>
      <string name="managed_profile_label_badge">%1$s za delo</string>
      <string name="managed_profile_label_badge_2">2. %1$s za delo</string>
@@ -1283,6 +1326,8 @@ Nekateri dnevniki morda vsebujejo občutljive podatke, zato dostop do vseh dnevn
      <string name="menu_shift_shortcut_label">Shift+</string>
      <string name="menu_space_shortcut_label">presledek</string>
      <string name="menu_sym_shortcut_label">Sym+</string>
+     <string name="mic_access_off_toast">Mikrofon je blokiran</string>
+     <string name="mic_access_on_toast">Mikrofon je na voljo</string>
      <string name="midnight">polnoč</string>
      <string name="mime_type_apk">Aplikacija za Android</string>
      <string name="mime_type_audio">Zvočna datoteka</string>
@@ -1302,8 +1347,15 @@ Nekateri dnevniki morda vsebujejo občutljive podatke, zato dostop do vseh dnevn
      <string name="mime_type_spreadsheet_ext">Preglednica %1$s</string>
      <string name="mime_type_video">Videoposnetek</string>
      <string name="mime_type_video_ext">Videoposnetek %1$s</string>
+     <string name="miniresolver_call">Pokliči</string>
+     <string name="miniresolver_call_in_work">Želite poklicati iz delovne aplikacije?</string>
+     <string name="miniresolver_call_information">Organizacija vam omogoča klicanje samo iz delovnih aplikacij.</string>
      <string name="miniresolver_open_in_personal">Želite odpreti v aplikaciji %s v osebnem profilu?</string>
      <string name="miniresolver_open_in_work">Želite odpreti v aplikaciji %s v delovnem profilu?</string>
+     <string name="miniresolver_open_work">Želite odpreti delovno aplikacijo %s?</string>
+     <string name="miniresolver_sms_information">Organizacija vam omogoča pošiljanje sporočil samo iz delovnih aplikacij.</string>
+     <string name="miniresolver_switch">Preklopi</string>
+     <string name="miniresolver_switch_to_work">Želite preklopiti na delovno aplikacijo?</string>
      <string name="miniresolver_use_personal_browser">Uporabi osebni brskalnik</string>
      <string name="miniresolver_use_work_browser">Uporabi delovni brskalnik</string>
      <string name="minute">min</string>
@@ -1320,6 +1372,7 @@ Nekateri dnevniki morda vsebujejo občutljive podatke, zato dostop do vseh dnevn
      <string name="mmcc_imsi_unknown_in_hlr_msim_template">Kartica SIM %d ni omogočena za uporabo</string>
      <string name="mmiComplete">MMI dokončan.</string>
      <string name="mmiError">Težava s povezavo ali neveljavna koda MMI.</string>
+     <string name="mmiErrorNotSupported">Storitev ni podprta.</string>
      <string name="mmiErrorWhileRoaming">Ne morem spremeniti nastavitev preusmeritve dokler ste v gostovanju.</string>
      <string name="mmiFdnError">Operacija je omejena samo na številke s fiksnim klicanjem.</string>
      <string name="mobile_no_internet">Mobilno omrežje nima dostopa do spleta</string>
@@ -1561,6 +1614,7 @@ Pametna obvestila lahko preberejo vso vsebino obvestil, vključno z osebnimi pod
      <string name="permdesc_checkinProperties">Aplikaciji omogoča dostop za branje/pisanje lastnosti prenesenih iz prijave. Ni za uporabo z navadnimi aplikacijami.</string>
      <string name="permdesc_clearAppCache">Aplikaciji omogoča sproščanje pomnilnika telefona tako da izbriše datoteke v imenikih predpomnilnika drugih aplikacij. To lahko povzroči počasnejši zagon drugih aplikacij, saj morajo znova prenesti svoje podatke.</string>
      <string name="permdesc_clearAppUserData">Aplikaciji omogoča izbris podatkov uporabnika.</string>
+     <string name="permdesc_companionProfileWatch">Spremljevalni aplikaciji dovoljuje upravljanje ur.</string>
      <string name="permdesc_configureWifiDisplay">Aplikaciji omogoča konfiguriranje zaslonov WiFi in povezovanje z njimi.</string>
      <string name="permdesc_confirm_full_backup">Aplikaciji omogoča zagon uporabniškega vmesnika za potrditev popolnega varnostnega kopiranja. Ni za uporabo z aplikacijami.</string>
      <string name="permdesc_connection_manager">Aplikaciji omogoča urejanje telekomunikacijskih povezav.</string>
@@ -1571,6 +1625,8 @@ Pametna obvestila lahko preberejo vso vsebino obvestil, vključno z osebnimi pod
      <string name="permdesc_createNetworkSockets">Aplikaciji omogoča ustvarjanje vtičnic omrežja in uporabo omrežnih protokolov po meri. Brskalnik in drugi programi omogočajo pošiljanje podatkov v omrežje, zato to dovoljenje ni potrebno za pošiljanje podatkov na splet.</string>
      <string name="permdesc_deleteCacheFiles">Aplikaciji omogoča izbris datotek predpomnilnika.</string>
      <string name="permdesc_deletePackages">Aplikaciji omogoča brisanje paketov sistema Android. Zlonamerne aplikacije lahko to uporabijo za izbris pomembnih aplikacij.</string>
+     <string name="permdesc_deliverCompanionMessages">Spremljevalni aplikaciji dovoljuje dostavljanje sporočil v druge naprave.</string>
+     <string name="permdesc_detectScreenCapture">Ta aplikacija bo obveščena o vsakem posnetku zaslona, ustvarjenem med njeno uporabo.</string>
      <string name="permdesc_devicePower">Aplikaciji omogoča vklop ali izklop telefona.</string>
      <string name="permdesc_diagnostic">Aplikaciji omogoča branje in pisanje na poljuben vir ki je v lasti skupine za diagnostiko; na primer datoteke v mapi /dev. To lahko vpliva na stabilnost in varnost sistema. To naj uporablja SAMO izdelovalec ali operater za diagnostiko, specifično za strojno opremo.</string>
      <string name="permdesc_disableKeyguard">Aplikaciji dovoljuje da onemogoči zaklep tipkovnice in morebitno povezano varnostno geslo. Telefonu na primer onemogoči zaklep tipkovnice pri dohodnem klicu ter vnovič omogoči zaklep ko je klic končan.</string>
@@ -1584,6 +1640,19 @@ Pametna obvestila lahko preberejo vso vsebino obvestil, vključno z osebnimi pod
      <string name="permdesc_forceBack">Aplikaciji omogoča da vsili zaprtje dejavnosti v ospredju. Tega ni potrebno nikoli uporabiti za navadne aplikacije.</string>
      <string name="permdesc_forceStopPackages">Aplikaciji omogoča da prisilno zaustavi druge aplikacije.</string>
      <string name="permdesc_foregroundService">Aplikaciji dovoljuje uporabo storitev v ospredju.</string>
+     <string name="permdesc_foregroundServiceCamera">Aplikaciji dovoljuje, da uporablja storitve v ospredju vrste »camera«.</string>
+     <string name="permdesc_foregroundServiceConnectedDevice">Aplikaciji dovoljuje, da uporablja storitve v ospredju vrste »connectedDevice«.</string>
+     <string name="permdesc_foregroundServiceDataSync">Aplikaciji dovoljuje, da uporablja storitve v ospredju vrste »dataSync«.</string>
+     <string name="permdesc_foregroundServiceFileManagement">Aplikaciji dovoljuje, da uporablja storitve v ospredju vrste »fileManagement«.</string>
+     <string name="permdesc_foregroundServiceHealth">Aplikaciji dovoljuje, da uporablja storitve v ospredju vrste »health«.</string>
+     <string name="permdesc_foregroundServiceLocation">Aplikaciji dovoljuje, da uporablja storitve v ospredju vrste »location«.</string>
+     <string name="permdesc_foregroundServiceMediaPlayback">Aplikaciji dovoljuje, da uporablja storitve v ospredju vrste »mediaPlayback«.</string>
+     <string name="permdesc_foregroundServiceMediaProjection">Aplikaciji dovoljuje, da uporablja storitve v ospredju vrste »mediaProjection«.</string>
+     <string name="permdesc_foregroundServiceMicrophone">Aplikaciji dovoljuje, da uporablja storitve v ospredju vrste »microphone«.</string>
+     <string name="permdesc_foregroundServicePhoneCall">Aplikaciji dovoljuje, da uporablja storitve v ospredju vrste »phoneCall«.</string>
+     <string name="permdesc_foregroundServiceRemoteMessaging">Aplikaciji dovoljuje, da uporablja storitve v ospredju vrste »remoteMessaging«.</string>
+     <string name="permdesc_foregroundServiceSpecialUse">Aplikaciji dovoljuje, da uporablja storitve v ospredju vrste »specialUse«.</string>
+     <string name="permdesc_foregroundServiceSystemExempted">Aplikaciji dovoljuje, da uporablja storitve v ospredju vrste »systemExempted«.</string>
      <string name="permdesc_frameStats">Aplikaciji omogoča zbiranje statističnih podatkov. Zlonamerne aplikacije lahko spremljajo statistične podatke okvira okna iz drugih aplikacij.</string>
      <string name="permdesc_freezeScreen">Aplikaciji omogoča začasno zamrznitev zaslona za prehod na celozaslonski način.</string>
      <string name="permdesc_fullScreenIntent">Aplikaciji dovoli, da prikaže obvestila kot celozaslonske dejavnosti v zaklenjeni napravi.</string>
@@ -1596,6 +1665,7 @@ Pametna obvestila lahko preberejo vso vsebino obvestil, vključno z osebnimi pod
      <string name="permdesc_grantRevokePermissions">Aplikaciji omogoča dodeljevanje ali preklic posebnih dovoljenj zanjo ali za druge aplikacije. Zlonamerne aplikacije lahko to uporabijo za dostop do opravil za katere jim niste dodelili pravic.</string>
      <string name="permdesc_handoverStatus">Aplikaciji omogoča prejemanje podatkov o trenutnih prenosih z opravilom Android Beam</string>
      <string name="permdesc_hardware_test">Aplikaciji omogoča nadzor različnih zunanjih naprav za preskušanje strojne opreme.</string>
+     <string name="permdesc_hideOverlayWindows">Ta aplikacija lahko od sistema zahteva, naj prekrivna okna drugih aplikacij skrije, da ne bodo prikazana čeznjo.</string>
      <string name="permdesc_highSamplingRateSensors">Aplikaciji dovoljuje, da vzorči podatke tipal s hitrostjo, večjo od 200 Hz</string>
      <string name="permdesc_imagesWrite">Aplikaciji omogoča spreminjanje zbirke fotografij.</string>
      <string name="permdesc_injectEvents">Aplikaciji omogoča da svoje dogodke vnosa (pritiske tipk ipd.) dostavi drugim aplikacijam. Zlonamerne aplikacije lahko s tem prevzamejo nadzor nad telefonom.</string>
@@ -1641,6 +1711,7 @@ Pametna obvestila lahko preberejo vso vsebino obvestil, vključno z osebnimi pod
      <string name="permdesc_movePackage">Aplikaciji omogoča premikanje sredstev aplikacij iz notranjih medijev v zunanje in obratno.</string>
      <string name="permdesc_nearby_wifi_devices">Aplikaciji dovoljuje objavljanje in določanje relativnega položaja naprav WiFi v bližini ter povezovanje z njimi</string>
      <string name="permdesc_nfc">Podpira komunikacijo med računalnikom in oznakami, karticami in bralniki komunikacije s tehnologijo NFC.</string>
+     <string name="permdesc_observeCompanionDevicePresence">Spremljevalni aplikaciji dovoljuje ugotavljanje prisotnosti spremljevalnih naprav, kadar so te blizu ali daleč.</string>
      <string name="permdesc_packageVerificationAgent">Aplikaciji omogoča da preveri ali je paket mogoče namestiti.</string>
      <string name="permdesc_performCdmaProvisioning">Aplikaciji omogoča zagon omogočanja uporabe CDMA. Zlonamerne aplikacije lahko po nepotrebnem zaženejo omogočanje uporabe CDMA.</string>
      <string name="permdesc_persistentActivity">Aplikaciji omogoča da nekatere svoje dele naredi trajne v pomnilniku. S tem je lahko pomnilnik omejen za druge aplikacije, zaradi česar je delovanje telefona upočasnjeno.</string>
@@ -1673,6 +1744,7 @@ Pametna obvestila lahko preberejo vso vsebino obvestil, vključno z osebnimi pod
      <string name="permdesc_readSocialStream">Aplikaciji omogoča dostop do vaših objav in objav vaših prijateljev v družbenih omrežjih ter njihovo sinhronizacijo. Previdno pri objavljanju informacij – aplikacija lahko s tem bere komunikacijo med vami in prijatelji v družbenih omrežjih, ne glede na zasebnost. Opomba: Tega dovoljenja ni mogoče uveljaviti v vseh družbenih omrežjih.</string>
      <string name="permdesc_readSyncSettings">Aplikaciji omogoča branje nastavitev sinhronizacije za račun. S tem lahko aplikacija na primer ugotovi ali je mapa Ljudje sinhronizirana z računom.</string>
      <string name="permdesc_readSyncStats">Aplikaciji omogoča branje statističnih podatkov o sinhronizaciji za račun, vključno z zgodovino dogodkov sinhronizacije in količino sinhroniziranih podatkov.</string>
+     <string name="permdesc_readVisualUserSelect">Aplikaciji omogoča branje slikovnih datotek in videodatotek, ki jih izberete v deljeni shrambi.</string>
      <string name="permdesc_readVoicemail">Aplikaciji omogoča branje vaše govorne pošte.</string>
      <string name="permdesc_reboot">Dovoljuje da aplikacija vsili vnovični zagon telefona.</string>
      <string name="permdesc_receiveBluetoothMap">Aplikaciji omogoča prejem in obdelavo Bluetooth MAP sporočil. To pomeni da aplikacija nadzira ali briše sporočila a vam jih ne prikaže.</string>
@@ -1699,6 +1771,7 @@ Pametna obvestila lahko preberejo vso vsebino obvestil, vključno z osebnimi pod
      <string name="permdesc_route_media_output">Aplikaciji omogoča preusmerjanje predstavnosti v druge zunanje naprave.</string>
      <string name="permdesc_runInBackground">Aplikacija se lahko izvaja v ozadju. To pospeši porabo bateriju.</string>
      <string name="permdesc_runSetActivityWatcher">Aplikaciji omogoča spremljanje in nadziranje načina kako sistem zažene dejavnosti. Zlonamerne aplikacije lahko v celoti ogrozijo varnost sistema. To dovoljenje je potrebno samo za razvoj, vendar nikoli za običajno uporabo.</string>
+     <string name="permdesc_schedule_exact_alarm">Ta aplikacija lahko načrtuje izvedbo opravil ob želeni uri v prihodnosti. To pomeni tudi, da se aplikacija lahko izvaja, kadar naprave ne uporabljate aktivno.</string>
      <string name="permdesc_scoreNetworks">Aplikaciji omogoča rangiranje omrežij in vplivanje na izbiro priljubljenih omrežij na telefonu.</string>
      <string name="permdesc_sdcardAccessAll">Aplikaciji omogoča dostop do zunanje naprave za shranjevanje za vse uporabnike.</string>
      <string name="permdesc_sdcardRead">Aplikaciji omogoča branje vsebine pomnilnika USB.</string>
@@ -1725,6 +1798,7 @@ Pametna obvestila lahko preberejo vso vsebino obvestil, vključno z osebnimi pod
      <string name="permdesc_signalPersistentProcesses">Aplikaciji omogoča da zahteva da je posredovani signal poslan vsem trajnim procesom.</string>
      <string name="permdesc_sim_communication">Aplikaciji dovoli pošiljanje ukazov kartici SIM. To je lahko zelo nevarno.</string>
      <string name="permdesc_startAnyActivity">Aplikaciji omogoča zagon poljubne dejavnosti, ne glede na zaščito dovoljenj ali izvoženo stanje.</string>
+     <string name="permdesc_startForegroundServicesFromBackground">Spremljevalni aplikaciji dovoljuje, da storitve v ospredju zažene iz ozadja.</string>
      <string name="permdesc_startReviewPermissionDecisions">Imetniku omogoča prikaz zaslona za pregled odločitev o dovoljenjih. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
      <string name="permdesc_startTasksFromRecents">Aplikaciji omogoča uporabo ActivityManager RecentTaskInfo objekta za zagon naloge ki ni več v opravilih vrnjenih iz ActivityManager.</string>
      <string name="permdesc_startViewAppFeatures">Imetniku omogoča začetek ogledovanja informacij o funkcijah poljubne aplikacije.</string>
@@ -1738,15 +1812,18 @@ Pametna obvestila lahko preberejo vso vsebino obvestil, vključno z osebnimi pod
      <string name="permdesc_systemCamera">Ta prednostna ali sistemska aplikacija lahko z vgrajenim fotoaparatom kadar koli snema fotografije in videoposnetke. Aplikacija mora imeti omogočeno tudi dovoljenje android.permission.CAMERA</string>
      <string name="permdesc_temporary_enable_accessibility">Aplikaciji omogoča da v napravi začasno omogoči pripomočke za ljudi s posebnimi potrebami. Zlonamerne aplikacije jih lahko omogočijo brez soglasja uporabnika.</string>
      <string name="permdesc_transmitIr">Aplikaciji dovoljuje uporabo infrardečega oddajnika telefona.</string>
+     <string name="permdesc_turnScreenOn">Aplikaciji dovoli vklop zaslona.</string>
      <string name="permdesc_uninstall_shortcut">Aplikaciji omogoča odstranjevanje bližnjic z začetnega zaslona brez posredovanja uporabnika.</string>
      <string name="permdesc_updateAppOpsStats">Aplikaciji dovoli spreminjanje zbranih statističnih podatkov o delovanju aplikacij. Ni za uporabo v navadnih aplikacijah.</string>
      <string name="permdesc_updateBatteryStats">Aplikaciji omogoča spreminjanje zbranih statističnih podatkov o akumulatorju. Ni primerno za uporabo z običajnimi aplikacijami.</string>
      <string name="permdesc_updateLock">Dovoli da lastnik sistemu ponudi informacije o tem kdaj je primeren čas za neinteraktiven vnovični zagon, s katerim nadgradi napravo.</string>
+     <string name="permdesc_updatePackagesWithoutUserAction">Dovoli shranjevalniku, da posodobi aplikacijo, ki jo je pred tem namestil brez dejanja uporabnika</string>
      <string name="permdesc_useBiometric">Aplikaciji omogoča uporabo strojne opreme za biometrične podatke za preverjanje pristnosti</string>
      <string name="permdesc_useCredentials">Aplikaciji omogoča da zahteva žetone za preverjanje pristnosti.</string>
      <string name="permdesc_useDataInBackground">Aplikacija lahko uporablja podatke v ozadju. To lahko poveča porabo podatkov.</string>
      <string name="permdesc_useFaceAuthentication">Aplikaciji omogoča uporabo strojne opreme za preverjanje pristnosti obraza</string>
      <string name="permdesc_useFingerprint">Aplikaciji omogoča uporabo hardvera za branje prstnih odtisov.</string>
+     <string name="permdesc_use_exact_alarm">Ta aplikacija lahko načrtuje obveščanje o dejanjih, kot so alarmi in opomniki, ob željeni uri v prihodnosti.</string>
      <string name="permdesc_use_sip">Aplikaciji omogoča opravljanje in sprejemanje klicev SIP.</string>
      <string name="permdesc_userActivity">Aplikaciji omogoča ponovno nastavljanje časa čakanja zaslona.</string>
      <string name="permdesc_uwb_ranging">Aplikaciji dovoli, da določi relativno oddaljenost med napravami UWB v bližini</string>
@@ -1794,7 +1871,7 @@ Pametna obvestila lahko preberejo vso vsebino obvestil, vključno z osebnimi pod
      <string name="permgroupdesc_microphone">Snemanje zvoka</string>
      <string name="permgroupdesc_nearby_devices">odkrivanje naprav v bližini in povezovanje z njimi</string>
      <string name="permgroupdesc_network">Dostop do različnih opravil omrežja.</string>
-    <string name="permgroupdesc_notifications">prikaz obvestil</string>
+     <string name="permgroupdesc_notifications">prikaz obvestil</string>
      <string name="permgroupdesc_personalInfo">Neposreden dostop do podatkov o vas, shranjenih v vizitki.</string>
      <string name="permgroupdesc_phone">Spremljanje in obdelava klicev</string>
      <string name="permgroupdesc_readMediaAural">dostop do glasbe in zvoka v napravi</string>
@@ -1969,6 +2046,7 @@ za račun %2$s."</string>
      <string name="permlab_checkinProperties">dostop do lastnosti sprostitve</string>
      <string name="permlab_clearAppCache">brisanje vseh podatkov predpomnilnika aplikacij</string>
      <string name="permlab_clearAppUserData">brisanje podatkov drugih aplikacij</string>
+     <string name="permlab_companionProfileWatch">Dovoljenje za upravljanje ur v profilu ure v spremljevalni aplikaciji</string>
      <string name="permlab_configureWifiDisplay">konfiguriranje zaslonov WiFi</string>
      <string name="permlab_confirm_full_backup">potrditev popolnega varnostnega kopiranja ali obnovitve</string>
      <string name="permlab_connection_manager">urejanje telekomunikacijskih omrežij</string>
@@ -1979,6 +2057,8 @@ za račun %2$s."</string>
      <string name="permlab_createNetworkSockets">poln dostop do omrežja</string>
      <string name="permlab_deleteCacheFiles">brisanje predpomnilnika drugih aplikacij</string>
      <string name="permlab_deletePackages">brisanje aplikacij</string>
+     <string name="permlab_deliverCompanionMessages">Dostavljanje sporočil spremljevalne aplikacije</string>
+     <string name="permlab_detectScreenCapture">zaznavanje zajemov zaslonskih slik v oknih aplikacij</string>
      <string name="permlab_devicePower">vklop ali izklop telefona</string>
      <string name="permlab_diagnostic">branje/pisanje v sredstva, ki so v lasti skupine za diagnostiko</string>
      <string name="permlab_disableKeyguard">onemogočanje zaklepanja zaslona</string>
@@ -1992,6 +2072,19 @@ za račun %2$s."</string>
      <string name="permlab_forceBack">vsiljeno zapiranje aplikacij</string>
      <string name="permlab_forceStopPackages">vsiljena zaustavitev drugih aplikacij</string>
      <string name="permlab_foregroundService">Izvajanje storitve v ospredju</string>
+     <string name="permlab_foregroundServiceCamera">izvajanje storitve v ospredju vrste »camera«</string>
+     <string name="permlab_foregroundServiceConnectedDevice">izvajanje storitve v ospredju vrste »connectedDevice«</string>
+     <string name="permlab_foregroundServiceDataSync">izvajanje storitve v ospredju vrste »dataSync«</string>
+     <string name="permlab_foregroundServiceFileManagement">izvajanje storitve v ospredju vrste »fileManagement«</string>
+     <string name="permlab_foregroundServiceHealth">izvajanje storitve v ospredju vrste »health«</string>
+     <string name="permlab_foregroundServiceLocation">izvajanje storitve v ospredju vrste »location«</string>
+     <string name="permlab_foregroundServiceMediaPlayback">izvajanje storitve v ospredju vrste »mediaPlayback«</string>
+     <string name="permlab_foregroundServiceMediaProjection">izvajanje storitve v ospredju vrste »mediaProjection«</string>
+     <string name="permlab_foregroundServiceMicrophone">izvajanje storitve v ospredju vrste »microphone«</string>
+     <string name="permlab_foregroundServicePhoneCall">izvajanje storitve v ospredju vrste »phoneCall«</string>
+     <string name="permlab_foregroundServiceRemoteMessaging">izvajanje storitve v ospredju vrste »remoteMessaging«</string>
+     <string name="permlab_foregroundServiceSpecialUse">izvajanje storitve v ospredju vrste »specialUse«</string>
+     <string name="permlab_foregroundServiceSystemExempted">izvajanje storitve v ospredju vrste »systemExempted«</string>
      <string name="permlab_frameStats">branje statističnih kazalcev okvira</string>
      <string name="permlab_freezeScreen">zamrznitev zaslona</string>
      <string name="permlab_fullScreenIntent">Prikaz obvestil kot celozaslonskih dejavnosti v zaklenjeni napravi</string>
@@ -2004,6 +2097,7 @@ za račun %2$s."</string>
      <string name="permlab_grantRevokePermissions">dodeljevanje ali preklic dovoljenj</string>
      <string name="permlab_handoverStatus">Prejemanje stanja prenosov z opravilom Android Beam</string>
      <string name="permlab_hardware_test">preskušanje strojne opreme</string>
+     <string name="permlab_hideOverlayWindows">Skrij prekrivna okna drugih aplikacij</string>
      <string name="permlab_highSamplingRateSensors">dostop do podatkov tipal z večjo hitrostjo vzorčenja</string>
      <string name="permlab_imagesWrite">spreminjanje zbirke fotografij</string>
      <string name="permlab_injectEvents">pritiskanje tipk in gumbov za nadzor</string>
@@ -2050,6 +2144,7 @@ za račun %2$s."</string>
      <string name="permlab_movePackage">premikanje sredstev aplikacij</string>
      <string name="permlab_nearby_wifi_devices">komunikacija z napravami WiFi v bližini</string>
      <string name="permlab_nfc">nadzor nad komunikacijo s tehnologijo NFC</string>
+     <string name="permlab_observeCompanionDevicePresence">Ugotavljanje prisotnosti spremljevalnih naprav</string>
      <string name="permlab_packageVerificationAgent">preveri pakete</string>
      <string name="permlab_performCdmaProvisioning">neposredni zagon nastavitve telefona CDMA</string>
      <string name="permlab_persistentActivity">neprekinjeno izvajanje aplikacij</string>
@@ -2082,6 +2177,7 @@ za račun %2$s."</string>
      <string name="permlab_readSocialStream">branje vašega družabnega toka</string>
      <string name="permlab_readSyncSettings">branje nastavitev sinhronizacije</string>
      <string name="permlab_readSyncStats">branje statističnih podatkov sinhronizacije</string>
+     <string name="permlab_readVisualUserSelect">branje uporabniško izbranih slikovnih datotek in videodatotek v deljeni shrambi</string>
      <string name="permlab_readVoicemail">branje glasovne pošte</string>
      <string name="permlab_reboot">vsiljevanje vnovičnega zagona telefona</string>
      <string name="permlab_receiveBluetoothMap">sprejemanje Bluetooth sporočil (MAP)</string>
@@ -2108,6 +2204,7 @@ za račun %2$s."</string>
      <string name="permlab_route_media_output">Preusmeritev predstavnosti</string>
      <string name="permlab_runInBackground">se izvajati v ozadju</string>
      <string name="permlab_runSetActivityWatcher">spremljanje in nadzor vseh zagonov aplikacij</string>
+     <string name="permlab_schedule_exact_alarm">Načrtovanje natančno časovno odmerjenih dejanj</string>
      <string name="permlab_scoreNetworks">ocenjevanje omrežij</string>
      <string name="permlab_sdcardAccessAll">dostop do zunanje naprave za shranjevanje za vse uporabnike</string>
      <string name="permlab_sdcardRead">branje vsebine pomnilnika USB</string>
@@ -2134,6 +2231,7 @@ za račun %2$s."</string>
      <string name="permlab_signalPersistentProcesses">pošiljanje signalov Linuxa aplikacijam</string>
      <string name="permlab_sim_communication">komuniciranje s kartico SIM</string>
      <string name="permlab_startAnyActivity">zagon poljubne dejavnosti</string>
+     <string name="permlab_startForegroundServicesFromBackground">Zaganjanje storitev v ospredju iz ozadja</string>
      <string name="permlab_startReviewPermissionDecisions">prikaz odločitev o dovoljenjih</string>
      <string name="permlab_startTasksFromRecents">zagon nalog iz nedavnih opravil</string>
      <string name="permlab_startViewAppFeatures">začetek ogledovanja storitev aplikacije</string>
@@ -2148,15 +2246,18 @@ za račun %2$s."</string>
      <string name="permlab_temporary_enable_accessibility">začasno omogočenje pripomočkov za ljudi s posebnimi potrebami</string>
      <string name="permlab_transmitIr">prenašanje z infrardečim oddajnikom</string>
      <string name="permlab_trust_listener">Spremljanje spremembe zaupnega stanja.</string>
+     <string name="permlab_turnScreenOn">vklop zaslona</string>
      <string name="permlab_uninstall_shortcut">odstranjevanje bližnjic</string>
      <string name="permlab_updateAppOpsStats">spreminjanje statističnih podatkov o delovanju aplikacij</string>
      <string name="permlab_updateBatteryStats">spreminjanje statističnih podatkov o akumulatorju</string>
      <string name="permlab_updateLock">odvrnitev samodejnih posodobitev naprave</string>
+     <string name="permlab_updatePackagesWithoutUserAction">posodobitev aplikacije brez dejanja uporabnika</string>
      <string name="permlab_useBiometric">uporaba biometrijske stojne opreme</string>
      <string name="permlab_useCredentials">uporaba računov v napravi</string>
      <string name="permlab_useDataInBackground">prenos podatkov v ozadju</string>
      <string name="permlab_useFaceAuthentication">uporaba strojne opreme za preverjanje pristnosti obraza</string>
      <string name="permlab_useFingerprint">uporaba strojne opreme za prstne odtise</string>
+     <string name="permlab_use_exact_alarm">Načrtovanje alarmov ali opomnikov o dogodkih</string>
      <string name="permlab_use_sip">opravljanje/sprejemanje klicev SIP</string>
      <string name="permlab_userActivity">ponovno nastavljanje časa čakanja zaslona</string>
      <string name="permlab_uwb_ranging">določite relativni položaj med bližnjimi ultra-širokopasovnimi napravami</string>
@@ -2256,6 +2357,7 @@ Preostalo poskusov :"</string>
      <string name="progress_nomediapresent">Ni prenosnega medija …</string>
      <string name="progress_unmounting">Izpenjanje pomnilnika USB ...</string>
      <string name="quick_contacts_not_available">Ni aplikacij za ogled tega stika.</string>
+     <string name="rating_label">{rating,plural, =1{Ena zvezdica od {max}}one{# zvezdica od {max}}two{# zvezdici od {max}}few{# zvezdice od {max}}other{# zvezdic od {max}}}</string>
      <string name="reason_service_unavailable">Storitev tiskanja storitev ni omogočena</string>
      <string name="reason_unknown">neznano</string>
      <string name="reboot_confirm">Telefon se bo ponovno zagnal.</string>
@@ -2273,6 +2375,7 @@ Preostalo poskusov :"</string>
      <string name="redo">Ponovi</string>
      <string name="reduce_bright_colors_feature_name">Zelo zatemnjeno</string>
      <string name="region_picker_section_all">Vse regije</string>
+     <string name="region_picker_section_suggested_bilingual">Predlagana območja</string>
      <string name="relationTypeAssistant">Pomočnik</string>
      <string name="relationTypeBrother">Brat</string>
      <string name="relationTypeChild">Otrok</string>
@@ -2383,11 +2486,12 @@ Preostalo poskusov :"</string>
      <string name="select_day">Izberite mesec in dan</string>
      <string name="select_hours">Izberite ure</string>
      <string name="select_input_method">Izberite način vnosa</string>
-     <string name="select_keyboard_layout_notification_message">Dotaknite se da izberete razporeditev tipkovnice</string>
-     <string name="select_keyboard_layout_notification_title">Izberite razporeditev tipkovnice</string>
+     <string name="select_keyboard_layout_notification_message">Dotaknite se, če želite izbrati jezik in postavitev.</string>
+     <string name="select_keyboard_layout_notification_title">Konfiguriranje naprave %s</string>
      <string name="select_minutes">Izberite minute</string>
+     <string name="select_multiple_keyboards_layout_notification_title">Konfiguriranje fizičnih tipkovnic</string>
      <string name="select_year">Izberite leto</string>
-     <string name="selected">selected</string>
+     <string name="selected">izbrano</string>
      <string name="sendText">Izberite dejanje za besedilo</string>
      <string name="sending">Pošiljanje ...</string>
      <string name="sensor_notification_service">Storitev obvestil tipal</string>
@@ -2597,6 +2701,7 @@ Preostalo poskusov :"</string>
      <string name="usb_tether_notification_title">Vključeno je modemsko povezovanje preko USB-ja</string>
      <string name="usb_unsupported_audio_accessory_message">Povezana naprava ni kompatibilna s tem telefonom. Tapnite za več info.</string>
      <string name="usb_unsupported_audio_accessory_title">Odkrit analogni avdio pribor</string>
+     <string name="usb_uvc_notification_title">Naprava je povezana kot spletna kamera</string>
      <string name="use_a_different_app">Uporaba druge aplikacije</string>
      <string name="use_physical_keyboard">Fizična tipkovnica</string>
      <string name="user_authentication_failed" />
@@ -2606,11 +2711,14 @@ Preostalo poskusov :"</string>
      <string name="user_encrypted_message">Dotaknite se, da odklenete</string>
      <string name="user_encrypted_title">Nekatera opravila bodo omejena</string>
      <string name="user_logging_out_message">Odjavljanje uporabnika %1$s …</string>
+     <string name="user_owner_app_label">Preklopi na osebno aplikacijo %1$s</string>
      <string name="user_owner_label">Osebno</string>
      <string name="user_switched">Trenutni uporabnik %1$s.</string>
      <string name="user_switching_message">Preklop na uporabnika %1$s …</string>
      <string name="validity_period">Veljavnost:</string>
      <string name="vdm_camera_access_denied">Ne morem dostopati do fotoaparata telefona prek naprave %1$s.</string>
+     <string name="vdm_pip_blocked">Slike v sliki ni mogoče prikazati med pretočnim predvajanjem.</string>
+     <string name="vdm_secure_window">Do te vsebine ni mogoče dostopati med pretočnim predvajanjem. Poskusite s telefonom.</string>
      <string name="view_and_control_notification_content">Storitev %s si lahko ogleda in upravlja vaš zaslon. Dotaknite se za pregled.</string>
      <string name="view_and_control_notification_title">Preverite nastavitve dostopa</string>
      <string name="view_calendar">Ogled</string>
@@ -2711,6 +2819,7 @@ Preostalo poskusov :"</string>
      <string name="wfcSpnFormat_spn_wlan_call">Klic preko omrežja WiFi operaterja %s</string>
      <string name="wfcSpnFormat_vowifi">Govor preko WiFi-ja</string>
      <string name="wfcSpnFormat_wifi">WiFi</string>
+     <string name="wfcSpnFormat_wifi_call">WiFi klic</string>
      <string name="wfcSpnFormat_wifi_calling">Klicanje preko WiFi-ja</string>
      <string name="wfcSpnFormat_wifi_calling_bar_spn">Klicanje preko WiFi-ja | %s</string>
      <string name="wfcSpnFormat_wifi_calling_wo_hyphen">Klicanje preko WiFi-ja</string>
@@ -2797,6 +2906,7 @@ Preostalo poskusov :"</string>
      <string name="window_magnification_prompt_content">Zdaj lahko povečate del zaslona</string>
      <string name="window_magnification_prompt_title">Nove nastavitve povečave</string>
      <string name="wireless_display_route_description">Brezžični prikaz</string>
+     <string name="work_mode_emergency_call_button">Nujni primer</string>
      <string name="work_mode_off_message">Dovoljeno delovanje delovnega profila, vključno z aplikacijami, sinhronizacijo v ozadju in povezanimi opravili.</string>
      <string name="work_mode_off_title">Delovni način IZKLOPLJEN</string>
      <string name="work_mode_turn_on">Vklop</string>
@@ -2805,6 +2915,9 @@ Preostalo poskusov :"</string>
      <string name="work_profile_deleted_description_dpm_wipe">Vaš delovni profil ni več na voljo v tej napravi.</string>
      <string name="work_profile_deleted_details">Skrbniška aplikacija delovnega profila manjka ali pa je poškodovana, zaradi česar je bil delovni profil s povezanimi podatki izbrisan. Za pomoč se obrnite na skrbnika.</string>
      <string name="work_profile_deleted_reason_maximum_password_failure">Preveč poskusov vnosa gesla</string>
+     <string name="work_profile_telephony_paused_text">Delovne aplikacije so začasno zaustavljene. Telefonskih klicev in sporočil SMS ne boste prejemali.</string>
+     <string name="work_profile_telephony_paused_title">Klici in sporočila so izklopljeni</string>
+     <string name="work_profile_telephony_paused_turn_on_button">Aktiviraj delovne aplikacije</string>
      <string name="write_fail_reason_cancelled">Preklicano</string>
      <string name="write_fail_reason_cannot_write">Napaka pri pisanju vsebine</string>
      <string name="year">leto</string>
