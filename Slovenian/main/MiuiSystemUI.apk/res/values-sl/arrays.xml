@@ -403,6 +403,11 @@
         <item>Izključeno</item>
         <item>Vključeno</item>
      </string-array>
+     <string-array name="tile_states_color_correction">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+     </string-array>
      <string-array name="tile_states_controls">
         <item>Ni na voljo</item>
         <item>Izključeno</item>
@@ -418,7 +423,17 @@
         <item>Izključeno</item>
         <item>Vključeno</item>
      </string-array>
+     <string-array name="tile_states_dream">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+     </string-array>
      <string-array name="tile_states_flashlight">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+     </string-array>
+     <string-array name="tile_states_font_scaling">
         <item>Ni na voljo</item>
         <item>Izključeno</item>
         <item>Vključeno</item>
@@ -449,6 +464,16 @@
         <item>Vključeno</item>
      </string-array>
      <string-array name="tile_states_night">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+     </string-array>
+     <string-array name="tile_states_onehanded">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+     </string-array>
+     <string-array name="tile_states_qr_code_scanner">
         <item>Ni na voljo</item>
         <item>Izključeno</item>
         <item>Vključeno</item>
@@ -517,6 +542,12 @@
         <item>Rapidno</item>
         <item>Zelo rapidno</item>
         <item>Najhitrejše</item>
+     </string-array>
+     <string-array name="udfps_accessibility_touch_hints">
+        <item>Levo</item>
+        <item>Dol</item>
+        <item>Desno</item>
+        <item>Gor</item>
      </string-array>
      <string-array name="usb_configuration_titles">
         <item>Polnjenje</item>

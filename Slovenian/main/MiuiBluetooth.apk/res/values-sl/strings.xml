@@ -251,6 +251,7 @@ Avdio"</string>
      <string name="bottomsheet_action_expand_halfway">Razširjanje na pol višine</string>
      <string name="bt_hci_snoop_log">Omogoči zajem dnevnika Bluetooth HCI</string>
      <string name="bt_hci_snoop_log_summary">Zajemanje paketov Bluetooth. (po spremembi te nastavitve vklopite Bluetooth)</string>
+     <string name="bt_plugin_is_update_loading_dialog">Posodabljam…</string>
      <string name="bt_plugin_update_dialog_cancle">Ne zdaj</string>
      <string name="bt_plugin_update_dialog_title">Bluetooth posodobitev</string>
      <string name="bt_plugin_update_dialog_update">Posodobitev</string>
@@ -258,6 +259,8 @@ Avdio"</string>
      <string name="bt_plugin_update_done_dialog_msg">Če želite uporabiti spremembe, bodo nastavitve zaprte in povezava Bluetooth bo prekinjena.</string>
      <string name="bt_plugin_update_done_dialog_title">Uporabi spremembe</string>
      <string name="bt_plugin_update_done_toast">Posodobljeno</string>
+     <string name="bt_plugin_update_failed_toast">"Napaka. Ne morem naložiti."</string>
+     <string name="bt_plugin_update_loading_dialog">Delam…</string>
      <string name="bt_plugin_update_notification_updating">Bluetooth posodobitev</string>
      <string name="bugreport_in_power">Bližnjica za poročanje o napakah</string>
      <string name="bugreport_in_power_summary">Prikaz gumba za ustvarjanje poročila o napakah v meniju za vklop/izklop</string>
@@ -503,6 +506,15 @@ Hitrejši protokol povezave."</string>
      <string name="guest_resetting">Ponastavljanje gosta …</string>
      <string name="hdcp_checking_dialog_title">Nastavi preverjanje HDCP</string>
      <string name="hdcp_checking_title">Preverjanje HDCP</string>
+     <string name="headset_autoswitch_connect_button">Povezava</string>
+     <string name="headset_autoswitch_connect_title">Priključite slušalke</string>
+     <string name="headset_autoswitch_connected">Povezano</string>
+     <string name="headset_autoswitch_connecting">Povezovanje…</string>
+     <string name="headset_autoswitch_disconnected">Povezano z %1$s</string>
+     <string name="headset_autoswitch_fialed">"Ne morem se povezati"</string>
+     <string name="headset_autoswitch_test_connecting">povezovanje...</string>
+     <string name="headset_autoswitch_test_no_alert_permission">ni dovoljenja za ogled opozorila</string>
+     <string name="headset_autoswitch_test_no_device">ni razpoložljive naprave, počakajte 3 sekunde</string>
      <string name="headset_battery_fw_failed">Slaba baterija</string>
      <string name="headset_battery_low">Slaba baterija. Napolnite slušalke.</string>
      <string name="headset_connect_device">poveži napravo</string>
@@ -557,6 +569,7 @@ Hitrejši protokol povezave."</string>
      <string name="inactive_app_active_summary">Aktivno. Dotaknite se za preklop.</string>
      <string name="inactive_app_inactive_summary">Neaktivno. Dotaknite se za preklop.</string>
      <string name="inactive_apps_title">Aplikacije v stanju pripravljenosti</string>
+     <string name="information_go_to_fitness">Povezane nastavitve najdete v Mi Fitness</string>
      <string name="install_all_deferred">Namesti odloženo</string>
      <string name="install_all_features_now">Namesti vse storitve</string>
      <string name="install_other_apps">Nameščanje neznanih aplikacij</string>
@@ -581,6 +594,8 @@ Hitrejši protokol povezave."</string>
      <string name="keywords_alarms_and_reminders">načrtovanje, urnik, alarm, opomnik, ura</string>
      <string name="launch_defaults_none">Ni privzetih nastavitev</string>
      <string name="launch_defaults_some">Nastavljene so nekatere privzete nastavitve</string>
+     <string name="lea_disable_successfully">Za povezavo slušalk in prenos zvoka se zdaj uporablja običajni Bluetooth</string>
+     <string name="lea_enable_successfully">LE Audio se zdaj uporablja za povezavo slušalk in prenos zvoka</string>
      <string name="load_all_features_deferred">Naloži vse funkcije odloženo</string>
      <string name="load_assets">Pokaži sredstva</string>
      <string name="load_feature_hello">Začni Hello storitev</string>
@@ -644,6 +659,7 @@ Hitrejši protokol povezave."</string>
      <string name="miheadset_notification_Disconnect">Prekini povezavo</string>
      <string name="miheadset_notification_LeftEar">L</string>
      <string name="miheadset_notification_RightEar">D</string>
+     <string name="miheadset_spatial_audio_change_to_phone">V tej napravi preklopljeno na dimenzionalni zvok</string>
      <string name="mihome_app_download">Namesti zdaj</string>
      <string name="mihome_app_update">Posodobi zdaj</string>
      <string name="mihome_download_tips">Namestite aplikacijo Mi Home za seznanitev naprave. Namestite aplikacijo Mi Home, prijavite se in imejte telefon v bližini naprave.</string>
@@ -665,6 +681,7 @@ Hitrejši protokol povezave."</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -1031,6 +1048,14 @@ Hitrejši protokol povezave."</string>
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
+     <string name="tv_calibration_doing">Umerjanje…</string>
+     <string name="tv_calibration_doing_text">Hrbtno stran telefona prislonite na sredino TV-zaslona</string>
+     <string name="tv_calibration_done">Umerjanje končano</string>
+     <string name="tv_calibration_done_text">"Barvni zaslon vašega televizorja je bil uspešno umerjen."</string>
+     <string name="tv_calibration_pre">Barvno umerjanje</string>
+     <string name="tv_calibration_pre_text">"S telefonom umerite barvni zaslon televizorja"</string>
+     <string name="tv_calibration_start">"Hrbtno kamero telefona postavite trdno ob sredino zaslona"</string>
+     <string name="tv_calibration_start_button">Začni</string>
      <string name="unbind_device_alert_cancel">Prekini</string>
      <string name="unbind_device_alert_content">Povezava z %1$s je izgubljena. Da varčujete z baterijo, prekinite povezavo z to napravo.</string>
      <string name="unbind_device_alert_ok">Prekini povezavo</string>

@@ -36,6 +36,7 @@
      <string name="app_label">Prostor za shranjevanje</string>
      <string name="artist_label">Izvajalec</string>
      <string name="bottomsheet_action_expand_halfway">Razširi do polovice</string>
+     <string name="bottomsheet_drag_handle_content_description">Ročaj za vlečenje</string>
      <string name="cache_clearing_dialog_text">%s bi rad počistil nekaj začasnih datotek. To lahko povzroči povečano porabo baterije ali mobilnih podatkov.</string>
      <string name="cache_clearing_dialog_title">Počisti začasne datoteke aplikacij</string>
      <string name="cache_clearing_in_progress_title">Čiščenje začasnih datotek aplikacij…</string>
@@ -43,11 +44,13 @@
      <string name="character_counter_overflowed_content_description">Omejitev znakov presežena %1$d od %2$d</string>
      <string name="clear">Izbriši</string>
      <string name="clear_text_end_icon_content_description">Izbriši besedilo</string>
+     <string name="copy">Kopiraj</string>
      <string name="delete_ringtone_text">Izbriši</string>
      <string name="deny">Zavrni</string>
-     <string name="deselect">Deselect</string>
-     <string name="deselected">Deselected</string>
-     <string name="error_icon_content_description">Error</string>
+     <string name="deselect">Prekliči</string>
+     <string name="deselected">Preklicano</string>
+     <string name="error_a11y_label">Napaka: neveljavno</string>
+     <string name="error_icon_content_description">Napaka</string>
      <string name="exo_controls_cc_disabled_description">Omogoči podnapise</string>
      <string name="exo_controls_cc_enabled_description">Onemogoči podnapise</string>
      <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
@@ -101,6 +104,7 @@
      <string name="exo_track_surround_5_point_1">5.1 prostorski zvok</string>
      <string name="exo_track_surround_7_point_1">7.1 prostorski zvok</string>
      <string name="exo_track_unknown">Neznano</string>
+     <string name="expand_button_title">Napredno</string>
      <string name="exposed_dropdown_menu_content_description">Pokaži spustni meni</string>
      <string name="grant_dialog_button_allow">Dovoli</string>
      <string name="grant_dialog_button_deny">Zavrni</string>
@@ -127,6 +131,7 @@
      <string name="mtrl_picker_a11y_next_month">Zamenjaj na naslednji mesec</string>
      <string name="mtrl_picker_a11y_prev_month">Zamenjaj na prejšnji mesec</string>
      <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>
+     <string name="mtrl_picker_cancel">Prekliči</string>
      <string name="mtrl_picker_confirm">V redu</string>
      <string name="mtrl_picker_date_header_selected">%1$s</string>
      <string name="mtrl_picker_date_header_title">Izberite datum</string>
@@ -155,7 +160,8 @@
      <string name="mtrl_picker_toggle_to_text_input_mode">Prestavite na način vnosa teksta</string>
      <string name="mtrl_picker_toggle_to_year_selection">Tapnite za prehod na izbiro leta</string>
      <string name="mtrl_timepicker_confirm">V redu</string>
-     <string name="not_selected">ni izbrano</string>
+     <string name="not_selected">Ni izbrano</string>
+     <string name="not_set">Ni nastavljeno</string>
      <string name="notification_sound_default">Privzeti zvok obvestila</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
      <string name="permission_audio">Želite dovoliti aplikaciji <b>^1</b> da zamenja ali izbriše to glasbo?</string>
@@ -198,16 +204,34 @@
      <string name="permission_write_image">{count, plural, =1 {Allow ^1 to modify this photo?} other {Dovolim ^1 da spremeni ^2 fotografij?} }</string>
      <string name="permission_write_video">{count, plural, =1 {Allow ^1 to modify this video?} other {Dovolim ^1 da spremeni ^2 videoposnetkov?} }</string>
      <string name="picker_add_button_multi_select">Dodaj (^1)</string>
+     <string name="picker_add_button_multi_select_permissions">Dovoli (^1)</string>
      <string name="picker_album_item_count">{count, plural, =1 {^1 stvar} other {^1 stvari} }</string>
+     <string name="picker_album_media_empty_message">Ni podprtih fotografij ali videoposnetkov</string>
      <string name="picker_albums">Albumi</string>
      <string name="picker_albums_empty_message">Ni albumov</string>
      <string name="picker_app_label">Izbirnik fotografij</string>
+     <string name="picker_banner_cloud_account_changed_desc">Fotografije od %1$s so zdaj vključene tukaj</string>
+     <string name="picker_banner_cloud_account_changed_title">Račun %1$s posodobljen</string>
+     <string name="picker_banner_cloud_choose_account_desc">Če želite sem vključiti fotografije od %1$s, izberite račun v aplikaciji</string>
+     <string name="picker_banner_cloud_choose_account_title">Izberite %1$s račun</string>
+     <string name="picker_banner_cloud_choose_app_button">Izberite aplikacijo</string>
+     <string name="picker_banner_cloud_choose_app_desc">Če želite sem vključiti varnostno kopirane fotografije, v nastavitvah izberite aplikacijo za predstavnost v oblaku</string>
+     <string name="picker_banner_cloud_choose_app_title">Izberite aplikacijo za predstavnosti v oblaku</string>
+     <string name="picker_banner_cloud_dismiss_button">Opusti</string>
+     <string name="picker_banner_cloud_first_time_available_desc">Izberete lahko fotografije iz %1$s računa %2$s</string>
+     <string name="picker_banner_cloud_first_time_available_title">Varnostno kopirane fotografije so zdaj vključene</string>
+     <string name="picker_browse">Brskanje…</string>
      <string name="picker_category_camera">Kamera</string>
      <string name="picker_category_downloads">Prenosi</string>
      <string name="picker_category_favorites">Priljubljeno</string>
      <string name="picker_category_screenshots">Posnetki zaslona</string>
      <string name="picker_cloud_sync">Predstavnost v oblaku je zdaj na voljo pri %1$s</string>
+     <string name="picker_error_dialog_body">Preverite spletno povezavo in poskusite znova</string>
+     <string name="picker_error_dialog_positive_action">Poskusi znova</string>
+     <string name="picker_error_dialog_title">Težave predvajanja videa</string>
+     <string name="picker_error_snackbar">"Ne morem predvajati video"</string>
      <string name="picker_gif">GIF</string>
+     <string name="picker_header_permissions">Izberite fotografije in videoposnetke, do katerih tej aplikaciji dovolite dostop</string>
      <string name="picker_item_content_desc">%1$s posneto %2$s</string>
      <string name="picker_motion_photo">Gibljiva fotografija</string>
      <string name="picker_motion_photo_text">Gibljiva fotografija</string>
@@ -225,20 +249,33 @@
      <string name="picker_profile_admin_title">Blokiral vaš skrbnik</string>
      <string name="picker_profile_work_paused_msg">Če želite odpreti službene fotografije, vklopite službene aplikacije in poskusite znova</string>
      <string name="picker_profile_work_paused_title">Delovne aplikacije so ustavljene</string>
+     <string name="picker_settings">Aplikacija za predstavnosti v oblaku</string>
+     <string name="picker_settings_description">Dostopa do predstavnosti v oblaku, ko vas aplikacija ali spletno mesto prosi, da izberete fotografije ali videoposnetke</string>
+     <string name="picker_settings_no_provider">Nič</string>
+     <string name="picker_settings_selection_message">Dostop do predstavnosti v oblaku iz</string>
+     <string name="picker_settings_system_settings_menu_title">Aplikacija za predstavnosti v oblaku</string>
+     <string name="picker_settings_title">Aplikacija za predstavnosti v oblaku</string>
+     <string name="picker_settings_toast_error">Medijske aplikacije v oblaku trenutno ni bilo mogoče spremeniti.</string>
      <string name="picker_unmute_video">Vklop zvoka videa</string>
      <string name="picker_video_item_content_desc">Video posnet %1$s s trajanjem %2$s</string>
      <string name="picker_view_selected">Ogled izbranega</string>
      <string name="picker_work_profile">Preklopi na delo</string>
+     <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
+     <string name="preloading_progress_message">%1$d od %2$d pripravljeno</string>
      <string name="recent">Nedavno</string>
      <string name="ringtone_default">Privzeti melodija zvonjenja</string>
      <string name="root_audio">Zvok</string>
      <string name="root_documents">Dokumenti</string>
      <string name="root_images">Slike</string>
      <string name="root_videos">Videoposnetki</string>
+     <string name="safety_protection_icon_label">Varnostna zaščita</string>
      <string name="search_menu_title">Išči</string>
      <string name="select">Izberite</string>
      <string name="select_up_to">{count, plural, =1 {Izberite do ^1 stvari} other {Izberite do ^1 stvari} }</string>
      <string name="selected">Izbrano</string>
+     <string name="settings_label">Nastavitve</string>
+     <string name="settingslib_category_personal">Osebno</string>
+     <string name="settingslib_category_work">Delo</string>
      <string name="sound_name_awaken">Bujenje</string>
      <string name="sound_name_bounce">Odskakovanje</string>
      <string name="sound_name_drip">Kapljanje</string>
@@ -249,6 +286,7 @@
      <string name="sound_name_sway">Zibanje</string>
      <string name="sound_name_wag">Mahanje</string>
      <string name="storage_description">Lokalna shramba</string>
+     <string name="transcode_alert_channel">Opozorila izvornega prekodiranja</string>
      <string name="transcode_cancel">Prekliči</string>
      <string name="transcode_denied">"%s ne more obdelati predstavnostnih datotek"</string>
      <string name="transcode_processing">Obdelovanje…</string>
@@ -256,10 +294,13 @@
      <string name="transcode_processing_error">Obdelovanje napaka</string>
      <string name="transcode_processing_started">Obdelovanje se je začelo</string>
      <string name="transcode_processing_success">Obdelovanje uspešno</string>
+     <string name="transcode_progress_channel">Napredek izvornega prekodiranja</string>
      <string name="transcode_wait">Čakaj</string>
      <string name="uid_label">Medij</string>
      <string name="unable_to_add_ringtone">Dodajanje prilagojene melodije zvonjenja ni mogoče</string>
      <string name="unable_to_delete_ringtone">Brisanje prilagojene melodije zvonjenja ni mogoče</string>
      <string name="unknown">Neznano</string>
      <string name="upgrade_msg">Nadgradnja baze podatkov medija.</string>
+     <string name="v7_preference_off">IZKLJUČENO</string>
+     <string name="v7_preference_on">VKLJUČENO</string>
 </resources>

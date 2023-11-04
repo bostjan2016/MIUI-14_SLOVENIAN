@@ -29,6 +29,10 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
      </plurals>
+     <plurals name="accessibility_auto_night_tip">
+        <item quantity="other">%d-sekundni časovnik za nočni način</item>
+        <item quantity="one">%d-sekundni časovnik za nočni način</item>
+     </plurals>
      <plurals name="accessibility_focus_face_detect">
         <item quantity="other">Fokusirano. Najdeno %d obrazov</item>
         <item quantity="one">Fokusirano. Najden %d obraz</item>
@@ -44,6 +48,14 @@
      <plurals name="accessibility_vv_duartion">
         <item quantity="other">Trajanje: %d sekund</item>
         <item quantity="one">Trajanje: %d sekunda</item>
+     </plurals>
+     <plurals name="cinemaster_toast_camera_overflow">
+        <item quantity="other">V isto omrežje lahko povežete do %d kamer</item>
+        <item quantity="one">V isto omrežje lahko povežete do %d kamero</item>
+     </plurals>
+     <plurals name="cinemaster_toast_monitor_overflow">
+        <item quantity="other">V isto omrežje lahko povežete do %d monitorjev</item>
+        <item quantity="one">V isto omrežje lahko povežete do %d monitor</item>
      </plurals>
      <plurals name="clone_guide_tip2">
         <item quantity="other">Istočasno lahko naredite do %d klonov.</item>
@@ -72,6 +84,10 @@
      <plurals name="fastmotion_pro_sec_unit">
         <item quantity="other">%1$d sek.</item>
         <item quantity="one">%1$d sek.</item>
+     </plurals>
+     <plurals name="friend_mode_display_first_dialog">
+        <item quantity="other">Vklopljen časovnik (%1$d sek). Fotografije bodo prenesene v to napravo.</item>
+        <item quantity="one">Vklopljen časovnik (%1$d sek). Fotografije bodo prenesene v to napravo.</item>
      </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Half an hour ago</item>

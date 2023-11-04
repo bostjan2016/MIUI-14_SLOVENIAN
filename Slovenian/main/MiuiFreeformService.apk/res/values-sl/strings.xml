@@ -102,6 +102,13 @@
      <string name="freeform_demo_previous_tutorial">Nazaj</string>
      <string name="freeform_demo_title_finish">Lepo!</string>
      <string name="freeform_demo_title_skip">Preskoči</string>
+     <string name="freeform_guide_free_drag_summary">Povlecite besedilo, slike ali datoteke med različnimi okni podprtih aplikacij.</string>
+     <string name="freeform_guide_free_drag_title">Povlecite stvari po oknih</string>
+     <string name="freeform_guide_free_drag_title_phone">Povlecite za kopiranje v druge aplikacije</string>
+     <string name="freeform_guide_how_to_free_drag_summary_phone">Pritisnite in držite sliko ter jo povlecite v drugo aplikacijo</string>
+     <string name="freeform_guide_multiple_window_summary">"Pritisnite in pridržite ikono aplikacije na doku, da odprete novo okno.
+*Ta funkcija deluje z beležko, pošto, brskalnikom in WPS."</string>
+     <string name="freeform_guide_multiple_window_title">Odpri več oken</string>
      <string name="freeform_guide_slide_to_small_freeform_summary_pad">Povlecite vogal, da zmanjšate aplikacijo</string>
      <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Povlecite vogal, da zmanjšate aplikacijo</string>
      <string name="freeform_guide_to_sidehide_summary">Hitro povlecite okno za vrstico dejanj na rob zaslona</string>
@@ -116,7 +123,13 @@
      <string name="fullscreen_slide_to_small_freeform">Zmanjšajte aplikacijo</string>
      <string name="fullscreen_slide_to_small_freeform_summary">Povlecite od dna zaslona do zgornjega desnega kota</string>
      <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Povlecite od spodnjega do zgornjega roba zaslona</string>
+     <string name="gesture_fullscreen_to_splitscreen">Preklopi na razdeljeni zaslon</string>
+     <string name="gesture_split_left_to_right_summary">S tremi prsti povlecite desno</string>
+     <string name="gesture_split_right_to_left_summary">S tremi prsti povlecite levo</string>
+     <string name="gesture_to_split_screen">Kretnje</string>
      <string name="how_to_close_or_fullscreen_freeform">Zapiranje plavajočih oken ali preklop na celozaslonski način</string>
+     <string name="how_to_create_split_screen_combination">Ustvarite kombinacijo razdeljenega zaslona</string>
+     <string name="how_to_create_split_screen_combination_summary">Pritisnite in držite kombinacijo ter jo dodajte na začetni zaslon</string>
      <string name="how_to_drop_down_to_fullscreen">Preklopi na celozaslonski način dela</string>
      <string name="how_to_drop_down_to_fullscreen_summary">Dotaknite se in pridržite, nato povlecite navzdol delovni trak plavajočega okna</string>
      <string name="how_to_hang_freeform">Zmanjšanje plavajočih oken</string>
@@ -130,6 +143,8 @@
      <string name="how_to_open_freeform">Odpiranje obvestil v plavajočem oknu</string>
      <string name="how_to_slide_up_to_close">Zapiranje plavajočih oken</string>
      <string name="how_to_slide_up_to_close_summary">Povlecite navzgor iz opravilne vrstice plavajočega okna</string>
+     <string name="how_to_split_screen_combination">Kombinacija razdeljenega zaslona</string>
+     <string name="how_to_split_screen_combination_summary_pad">Ustvarite bližnjice za kombinacije razdeljenega zaslona z uporabo dock aplikacije</string>
      <string name="how_to_use_freeform">Kako uporabiti plavajoča okna</string>
      <string name="midnight">Polnoč</string>
      <string name="miuix_access_state_desc">Izbrano</string>

@@ -65,6 +65,7 @@
      <string name="accessibility_action_start_one_handed">Zagon enoročnega načina</string>
      <string name="accessibility_action_stop_one_handed">Izhod iz enoročnega načina</string>
      <string name="accessibility_airplane_mode">Letalo</string>
+     <string name="accessibility_allow_diagonal_scrolling">Dovoli diagonalno drsenje</string>
      <string name="accessibility_ambient_display_charging">Polnjenje</string>
      <string name="accessibility_aspect_button">Cel zaslon</string>
      <string name="accessibility_assistant">Asistent na dotik.</string>
@@ -75,7 +76,7 @@
      <string name="accessibility_battery_full">Baterija je polna.</string>
      <string name="accessibility_battery_level">Baterija %d procentov.</string>
      <string name="accessibility_battery_level_charging">Baterija se polni, %d procentov.</string>
-     <string name="accessibility_battery_level_with_estimate">Baterija je na %1$s odstotkov, približno še %2$s na osnovi vaše uporabe</string>
+     <string name="accessibility_battery_level_with_estimate">Baterija %1$d odstotkov, %2$s</string>
      <string name="accessibility_battery_one_bar">Baterija ena črtica.</string>
      <string name="accessibility_battery_three_bars">Baterija tri črtice.</string>
      <string name="accessibility_battery_two_bars">Baterija dve črtice.</string>
@@ -137,6 +138,7 @@
      <string name="accessibility_desc_notification_shade">Plošča obvestil.</string>
      <string name="accessibility_desc_off">Izključeno.</string>
      <string name="accessibility_desc_on">Vključeno.</string>
+     <string name="accessibility_desc_qs_notification_shade">Hitre nastavitve in plošča obvestil.</string>
      <string name="accessibility_desc_quick_settings">Hitre nastavitve.</string>
      <string name="accessibility_desc_quick_settings_edit">Urejanje hitrih nastavitev.</string>
      <string name="accessibility_desc_recent_apps">Pregled</string>
@@ -169,13 +171,17 @@
      <string name="accessibility_floating_button_action_move_to_edge_and_hide_to_half">Premakni na rob in skrij</string>
      <string name="accessibility_floating_button_action_move_top_left">Premakni zgoraj levo</string>
      <string name="accessibility_floating_button_action_move_top_right">Premakni zgoraj desno</string>
+     <string name="accessibility_floating_button_action_remove_menu">Odstrani</string>
      <string name="accessibility_floating_button_docking_tooltip">Če želite gumb začasno skriti, ga premaknite ob rob.</string>
-    <string name="accessibility_floating_button_migration_tooltip">"Gumb za funkcije za ljudi s posebnimi potrebami je zamenjal pripadajočo potezo
+     <string name="accessibility_floating_button_migration_tooltip">"Gumb za funkcije za ljudi s posebnimi potrebami je zamenjal pripadajočo potezo
 
 "<annotation id="link">Pokaži nastavitve</annotation>"</string>
-    <string name="accessibility_floating_button_switch_migration_tooltip">"Iz poteze za ljudi s posebnimi potrebami lahko preklopite na gumb
+     <string name="accessibility_floating_button_switch_migration_tooltip">"Iz poteze za ljudi s posebnimi potrebami lahko preklopite na gumb
 
 "<annotation id="link">Nastavitve</annotation>"</string>
+     <string name="accessibility_floating_button_undo">Razveljavi</string>
+     <string name="accessibility_floating_button_undo_message_label_text">%s bližnjica odstranjena</string>
+     <string name="accessibility_floating_button_undo_message_number_text">{count, plural, =1 {# bližnjica odstranjena} other {# bližnjic odstranjenih} }</string>
      <string name="accessibility_gps_acquiring">Pridobivanje GPS-a.</string>
      <string name="accessibility_gps_enabled">GPS je omogočen.</string>
      <string name="accessibility_home">Domov</string>
@@ -195,6 +201,15 @@
      <string name="accessibility_location_active">Zahteve za lokacijo so aktivne</string>
      <string name="accessibility_lock_icon">Naprava je zaklenjena.</string>
      <string name="accessibility_long_click_tile">Odpiranje nastavitev</string>
+     <string name="accessibility_magnification_done">Končano</string>
+     <string name="accessibility_magnification_fullscreen">Celozaslonski način</string>
+     <string name="accessibility_magnification_large">Veliko</string>
+     <string name="accessibility_magnification_medium">Srednje</string>
+     <string name="accessibility_magnification_settings_panel_description">Nastavitve povečave</string>
+     <string name="accessibility_magnification_small">Majhno</string>
+     <string name="accessibility_magnification_zoom">Zoom</string>
+     <string name="accessibility_magnifier_edit">Uredi</string>
+     <string name="accessibility_magnifier_size">Velikost lupe</string>
      <string name="accessibility_manage_notification">Urejanje obvestil</string>
      <string name="accessibility_managed_profile">Delovni profil</string>
      <string name="accessibility_manual_zen_less_time">Manj časa.</string>
@@ -202,6 +217,7 @@
      <string name="accessibility_menu">Meni</string>
      <string name="accessibility_menu_item_split_disable">"Aplikacija ne podpira deljeni zaslon."</string>
      <string name="accessibility_menu_item_split_enable">Aplikacija podpira deljeni zaslon</string>
+     <string name="accessibility_multi_user_list_switcher">spustni meni</string>
      <string name="accessibility_multi_user_switch_inactive">Trenutni uporabnik %s</string>
      <string name="accessibility_multi_user_switch_quick_contact">Prikaz profila</string>
      <string name="accessibility_multi_user_switch_switcher">Menjava uporabnika</string>
@@ -342,6 +358,10 @@
      <string name="accessibility_settings">Nastavitve</string>
      <string name="accessibility_settings_button">Sporočila sistema.</string>
      <string name="accessibility_signal_full">Signal poln.</string>
+     <string name="accessibility_split_bottom">Razcep dno</string>
+     <string name="accessibility_split_left">Razcep levo</string>
+     <string name="accessibility_split_right">Razcep desno</string>
+     <string name="accessibility_split_top">Razcep vrh</string>
      <string name="accessibility_splite_screen_primary">Dodana kot primarna aplikacija v deljenem zaslonu</string>
      <string name="accessibility_splite_screen_secondary">Dodana kot sekundarna aplikacija v deljenem zaslonu</string>
      <string name="accessibility_status_bar_headphones">Slušalke so povezane</string>
@@ -354,6 +374,7 @@
      <string name="accessibility_status_bar_slave_wifi_three_bars">Pomožni WiFi ima tri stolpce.</string>
      <string name="accessibility_status_bar_slave_wifi_two_bars">Pomožni WiFi ima dva stolpca.</string>
      <string name="accessibility_three_bars">Trije stolpci.</string>
+     <string name="accessibility_tile_disabled_by_policy_action_description">več o tem</string>
      <string name="accessibility_tty_enabled">Teleprinter omogočen.</string>
      <string name="accessibility_two_bars">Dva stolpca.</string>
      <string name="accessibility_udfps_disabled_button">Tipalo prstnih odtisov je onemogočeno.</string>
@@ -453,6 +474,8 @@
      <string name="aod_lock_screen_date_12">EE, dd.MM.</string>
      <string name="apn_settings_not_available">Nastavitve dostopne točke niso na voljo temu uporabniku</string>
      <string name="app_accessed_mic">Aplikacija %1$s je dostopala do mikrofona</string>
+     <string name="app_clips_save_add_to_note">Dodaj v beležke</string>
+     <string name="app_icon_text">Ikona aplikacije</string>
      <string name="app_info">Informacije o aplikaciji</string>
      <string name="app_label">Sistem UI</string>
      <string name="app_name">Zakl. zaslon</string>
@@ -472,6 +495,7 @@
      <string name="aspect_message">Aplikacija bo ponovno zaganana v načinu cel zaslon. V primeru težav izključite način celega zaslona za to aplikacijo v Nastavitve &gt; Prikaz preko celega zaslona &gt; Cel zaslon.</string>
      <string name="aspect_ok">V redu</string>
      <string name="aspect_title">Način cel zaslon</string>
+     <string name="assistant_attention_content_description">Pomočnik vključen</string>
      <string name="audio_effect_custom">Nastavi</string>
      <string name="audio_effect_info">Optimiziraj avdio</string>
      <string name="audio_effect_settings">Določi tip slušalk</string>
@@ -479,6 +503,10 @@
      <string name="auto_brightness_off">Samodejna svetlost je onemogočena</string>
      <string name="auto_brightness_on">Samodejna svetlost je omogočena</string>
      <string name="auto_connect_disable">Samodejna povezava je izključena</string>
+     <string name="auto_data_switch_dialog_negative_button">Ne, hvala</string>
+     <string name="auto_data_switch_dialog_positive_button">Da, zamenjaj</string>
+     <string name="auto_data_switch_disable_message">Mobilni podatki se ne bodo samodejno preklopili glede na razpoložljivost</string>
+     <string name="auto_data_switch_disable_title">Preklopim nazaj na %s?</string>
      <string name="auto_disable_screenbuttons_disable_toast_text">Navigacijske tipke onemogočene, dvakrat tapnite katerokoli tipko da jih ponovno vključite.</string>
      <string name="auto_disable_screenbuttons_enable_toast_text">Navigacijske tipke omogočene</string>
      <string name="auto_saver_enabled_text">Varčevanje baterije se vključi samodejno ko nivo baterije pade pod %d%%.</string>
@@ -491,6 +519,7 @@
      <string name="available_via_passpoint">Na voljo preko %1$s</string>
      <string name="avatar_picker_title">Izberite profilno sliko</string>
      <string name="back">Nazaj</string>
+     <string name="back_button_text">Nazaaj</string>
      <string name="back_navigation_animation">Predvidevanje animacij za nazaj</string>
      <string name="back_navigation_animation_dialog">Ta nastavitev omogoča sistemske animacije za predvideno animacijo potez. V datoteki manifesta zahteva nastavitev enableOnBackInvokedCallback za posamezno aplikacijo na true.</string>
      <string name="back_navigation_animation_summary">Omogoči sistemske animacije za predvidevanje nazaj.</string>
@@ -570,6 +599,9 @@ Poskusite znova čez %d s."</string>
      <string name="biometric_dialog_wrong_password">Napačno geslo</string>
      <string name="biometric_dialog_wrong_pattern">Napačen vzorec</string>
      <string name="biometric_dialog_wrong_pin">Napačna koda PIN</string>
+     <string name="biometric_re_enroll_dialog_cancel">Ne zdaj</string>
+     <string name="biometric_re_enroll_dialog_confirm">Nastavi</string>
+     <string name="biometric_re_enroll_notification_content">To je potrebno za izboljšanje varnosti in učinkovitosti</string>
      <string name="birthday_status">Rojstni dan</string>
      <string name="birthday_status_content_description">%1$s ima rojstni dan.</string>
      <string name="blob_expires_text">Poteče dne %s</string>
