@@ -29,6 +29,13 @@
      <string name="abc_toolbar_collapse_description">Strni</string>
      <string name="accessing_notification_title">Dostop do datotek od %1$s</string>
      <string name="app_label">MTP Gost</string>
+     <string name="call_notification_answer_action">Odgovor</string>
+     <string name="call_notification_answer_video_action">Video</string>
+     <string name="call_notification_decline_action">Zavrni</string>
+     <string name="call_notification_hang_up_action">Prekini</string>
+     <string name="call_notification_incoming_text">Dohodni klic</string>
+     <string name="call_notification_ongoing_text">Odhodni klic</string>
+     <string name="call_notification_screening_text">Preverjanje dohodnega klica</string>
      <string name="downloads_app_label">Prenosi</string>
      <string name="error_busy_device">"Druga naprava je zasedena. Ne morete prenašati datotek, dokler niso na voljo."</string>
      <string name="error_locked_device">Ni najdenih datotek. Druga naprava je morda zaklenjena. Če je tako, jo odklenite in poskusite znova.</string>

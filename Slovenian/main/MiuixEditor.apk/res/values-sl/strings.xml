@@ -2,6 +2,13 @@
 <resources>
      <string name="add_frequent_phrases">Dodaj pogoste fraze</string>
      <string name="call">Klic</string>
+     <string name="call_notification_answer_action">Odgovor</string>
+     <string name="call_notification_answer_video_action">Video</string>
+     <string name="call_notification_decline_action">Zavrni</string>
+     <string name="call_notification_hang_up_action">Prekini</string>
+     <string name="call_notification_incoming_text">Dohodni klic</string>
+     <string name="call_notification_ongoing_text">Odhodni klic</string>
+     <string name="call_notification_screening_text">Preverjanje dohodnega klica</string>
      <string name="edit_frequent_phrases">Uredi pogoste fraze</string>
      <string name="floating_toolbar_close_overflow_description">Zapri preliv</string>
      <string name="floating_toolbar_open_overflow_description">Več možnosti</string>

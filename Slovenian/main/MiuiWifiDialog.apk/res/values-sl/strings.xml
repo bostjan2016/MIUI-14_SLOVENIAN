@@ -31,6 +31,13 @@
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Popoldne</string>
      <string name="am">dop.</string>
+     <string name="call_notification_answer_action">Odgovori</string>
+     <string name="call_notification_answer_video_action">Video</string>
+     <string name="call_notification_decline_action">Zavrni</string>
+     <string name="call_notification_hang_up_action">Prekini</string>
+     <string name="call_notification_incoming_text">Dohodni klic</string>
+     <string name="call_notification_ongoing_text">Odhodni klic</string>
+     <string name="call_notification_screening_text">Preverjanje dohodnega klica</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
@@ -105,6 +112,7 @@
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -273,6 +281,7 @@ Ta sprememba bo morda omogočila, da bodo naprave v bližini sledile lokaciji va
      <string name="wifi_p2p_enter_pin_message">Vnesite zahtevani PIN:</string>
      <string name="wifi_p2p_frequency_conflict_message">"Telefon bo začasno prekinil povezavo z WiFi, medtem ko je povezan z %1$s"</string>
      <string name="wifi_p2p_from_message">Od:</string>
+     <string name="wifi_p2p_invitation_seconds_remaining">{0, plural, =1 {Sprejmi čez # sekundo.} other {Sprejmi čez # sekund.} }</string>
      <string name="wifi_p2p_invitation_sent_title">Povabilo poslano</string>
      <string name="wifi_p2p_invitation_to_connect_title">Povabilo k povezovanju</string>
      <string name="wifi_p2p_show_pin_message">PIN:</string>
