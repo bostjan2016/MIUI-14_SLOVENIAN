@@ -2955,7 +2955,6 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_state_wlan_select_nearby_ap">Izberite omrežja WiFi v bližini</string>
      <string name="quick_settings_sync_label">Sinhr.</string>
      <string name="quick_settings_tethering_label">Splet prek mobilne naprave</string>
-     <string name="quick_settings_tiles">privzeto</string>
      <string name="quick_settings_time_label">Čas</string>
      <string name="quick_settings_toast_drag_to_enable_custom_tile">Za dodajanje stvari jo tapnite in podržite, potem pa jo odvlecite na zgornji del plošče.</string>
      <string name="quick_settings_ui_mode_night_label">Temna tema</string>
