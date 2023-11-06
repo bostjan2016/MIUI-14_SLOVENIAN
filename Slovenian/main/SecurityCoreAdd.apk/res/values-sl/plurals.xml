@@ -29,6 +29,14 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
      </plurals>
+     <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Nikoli ne onemogoči za %d aplikacij</item>
+        <item quantity="one">Nikoli ne onemogoči za %d aplikacijo</item>
+     </plurals>
+     <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Zmeraj onemogoči za %d aplikacij</item>
+        <item quantity="one">Zmeraj onemogoči za %d aplikacijo</item>
+     </plurals>
      <plurals name="fileCount">
         <item quantity="other">Stvari: %d</item>
         <item quantity="one">%d stvar</item>
@@ -59,6 +67,10 @@
      <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">izbrano %d stvari</item>
         <item quantity="one">izbrana %d stvar</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
      </plurals>
      <plurals name="num_minutes_ago">
         <item quantity="other">pred %d min</item>

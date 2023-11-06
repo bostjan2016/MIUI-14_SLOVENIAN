@@ -127,7 +127,7 @@
      <string name="download_introduction">Prenosi je aplikacija Xunlei, ki se uporablja za prenose in upravljanje prenesene vsebine (vključno z vsebino v trgovini App, videoposnetki, posodobitvami sistema, temami in vsebino brskalnika) za uporabnike naprav Xiaomi.</string>
      <string name="early_morning">Jutro</string>
      <string name="enable_accessibility_canceled">Dostopnost je preklicana.</string>
-     <string name="enable_accessibility_dialog_message">Vključili ste TalkBack s pritiskom na zaslon z 2 prstoma dlje od 10 sekund. TalkBack ponuja govorne povratne informacije osebam z poškodbo vida. Če ste ga vključili slučajno tapnite tipko Prekliči, potem pa dvakrat tapnite zaslon.</string>
+     <string name="enable_accessibility_dialog_message">Vključili ste TalkBack s pritiskom na zaslon z %1$d prsti dlje od %2$d sekund. TalkBack ponuja govorne povratne informacije osebam z poškodbo vida. Če ste ga vključili slučajno tapnite tipko Prekliči, potem pa dvakrat tapnite zaslon.</string>
      <string name="enable_accessibility_dialog_negative_btn">Prekliči</string>
      <string name="enable_accessibility_dialog_positive_btn">V redu</string>
      <string name="enable_or_disable_bluetooth">Vklop in izklop Bluetootha</string>
@@ -281,6 +281,7 @@ Storitve se lahko spreminjajo. Nekatere od zgornjih storitev morda niso na voljo
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -351,7 +352,7 @@ Storitve se lahko spreminjajo. Nekatere od zgornjih storitev morda niso na voljo
      <string name="msim_setting_default_voice">Privzeta SIM za klice</string>
      <string name="multisim_settings_category">Nastavitve izbrane SIM kartice</string>
      <string name="multisim_settings_sb_title">Najdena %d SIM kartica</string>
-     <string name="multisim_settings_title">Najdeni 2 SIM kartici</string>
+     <string name="multisim_settings_title">Najdeni %d SIM kartici</string>
      <string name="navigation_picker_gesture_guide">Vodič za gibe</string>
      <string name="navigation_picker_radio_text_full_screen">Gibi v celem zaslonu</string>
      <string name="navigation_picker_radio_text_virtual_key">Tipke</string>
@@ -621,6 +622,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
+     <string name="switch_network">Preklop omrežja</string>
      <string name="system_navigation_mode">Način navigacije s sistemom</string>
      <string name="systemdesktop_introduction">Storitveni vtičnik za domači zaslon ponuja osnovne funkcije, kot so začetni zaslon, sistemski uporabniški vmesnik in posnetki zaslona.</string>
      <string name="term_condition_detail">"Vsak dan prejmite osupljive slike in vznemirljive zgodbe na zaklenjeni zaslon. Ta storitev ne bo uporabljala vaših podatkov za prilagajanje brez vašega soglasja. Preberite in se strinjajte s ponudniki vsebine tretjih oseb &lt;a href =%1$s>Pravila o zasebnosti&lt;/a> in &lt;a href =%2$s>Pogoji uporabe&lt;/a> pred uporabo."</string>

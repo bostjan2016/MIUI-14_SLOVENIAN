@@ -57,6 +57,13 @@
      <string name="beam_tap_to_view">Tapnite za prikaz</string>
      <string name="beam_touch_to_view">Dotaknite se za prikaz</string>
      <string name="beam_try_again">Znova združi naprave</string>
+     <string name="call_notification_answer_action">Odgovor</string>
+     <string name="call_notification_answer_video_action">Video</string>
+     <string name="call_notification_decline_action">Zavrni</string>
+     <string name="call_notification_hang_up_action">Prekini</string>
+     <string name="call_notification_incoming_text">Dohodni klic</string>
+     <string name="call_notification_ongoing_text">Odhodni klic</string>
+     <string name="call_notification_screening_text">Preverjanje dohodnega klica</string>
      <string name="cancel">Prekliči</string>
      <string name="clearable_edittext_clear_description">Očisti</string>
      <string name="close">Zapri</string>

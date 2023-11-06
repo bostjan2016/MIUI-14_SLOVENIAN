@@ -71,6 +71,7 @@
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
      <string name="cloud_addr_info">Cloud informacije</string>
+     <string name="cloud_allow_change_addr">Spremeni stanje samodejne sinhronizacije v oblaku</string>
      <string name="cloud_china_addr">Posodobi podatke kitajskega strežnika</string>
      <string name="cloud_international_addr">Posodobi podatke mednarodnega strežnika</string>
      <string name="cloud_russion_addr">Posodobi podatke ruskega strežnika</string>
@@ -80,7 +81,8 @@
      <string name="config_mode_title">Nastavitve ozadja</string>
      <string name="config_no_restrict_description">"Varčevanje z baterijo ne omejuje aktivnosti aplikacij"</string>
      <string name="config_no_restrict_title">Ni omejitev</string>
-     <string name="config_restrict_function_description">"Zaprite aplikacije po 10 minutah dejavnosti v ozadju"</string>
+     <string name="config_restrict_function_description">"Zapri aplikacije po 10 minutah dejavnosti v ozadju"</string>
+     <string name="config_restrict_function_description_new">Zapri aplikacije po %d minutah dejavnosti v ozadju</string>
      <string name="config_restrict_function_title">Omeji aplikacije v ozadju</string>
      <string name="config_restrict_running_description">Aplikacije bodo zaprte za prihranek energije</string>
      <string name="config_restrict_running_title">Omeji aktivnosti v ozadju</string>
@@ -93,17 +95,20 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
      <string name="confirm">V redu</string>
      <string name="connect_intranet_hint">Povežite se z intranetom</string>
      <string name="copy">Kopiraj</string>
+     <string name="current_allow_sync_is">Samodejna posodobitev v oblaku:</string>
      <string name="current_cloud_addr_is">Naslov Cloud kontrolnega strežnika:</string>
      <string name="dark_mode">Temni način dela</string>
      <string name="dark_mode_summary">Prestavite na tamno paleto barv za prihranek baterije</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
      <string name="delete_data_confirm">Želite zdaj izbrisati to stvar?</string>
+     <string name="disable">onemogočeno</string>
      <string name="disable_hide_mode">Izključi Varčevanje baterije</string>
      <string name="disable_hide_mode_warning">Izključitev Varčevanje baterije lahko povzroči večjo porabo energije</string>
      <string name="disabled">Izklj.</string>
      <string name="early_morning">Jutro</string>
      <string name="empty_title_apps_container_list">Ni aplikacij</string>
+     <string name="enable">dovoljeno</string>
      <string name="enable_hide_mode">Vključite Varčevanje baterije</string>
      <string name="enable_sleep_mode">Vključite način mirovanja za optimiziranje porabe baterije ponoči</string>
      <string name="error_filename_too_long">Ime datoteke je predolgo.</string>
@@ -240,6 +245,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
