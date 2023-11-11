@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accept">Dovoli</string>
+     <string name="apm_enabled_first_time_message">"Vaša naprava si zapomni, da mora WiFi ostati vklopljen v letalskem načinu. Izklopite WiFi, če ne želite, da ostane vklopljen."</string>
+     <string name="apm_enabled_first_time_title">WiFi ostane vklopljen</string>
      <string name="decline">Zavrni</string>
      <string name="dlg_ok">V redu</string>
+     <string name="notification_channel_apm_alerts">APM opozorila</string>
      <string name="notification_channel_network_alerts">Opozorila omrežja</string>
      <string name="notification_channel_network_available">Omrežja na voljo</string>
      <string name="notification_channel_network_status">Omrežja status</string>
@@ -86,14 +89,28 @@ Ta sprememba bo morda omogočila, da bodo naprave v bližini sledile lokaciji va
      <string name="wifi_enable_request_dialog_negative_button">"Ne dovoli"</string>
      <string name="wifi_enable_request_dialog_positive_button">Dovoli</string>
      <string name="wifi_enable_request_dialog_title">Dovolim %1$s da vklopi WiFi?</string>
+     <string name="wifi_enabled_apm_first_time_message">"Če pustite WiFi vklopljen, si ga naprava zapomni, da ga mora ohraniti vklopljenega, ko boste naslednjič v letalskem načinu"</string>
+     <string name="wifi_enabled_apm_first_time_title">WiFi vklopljen v letalskem načinu</string>
      <string name="wifi_interface_priority_approve">Dovoli</string>
+     <string name="wifi_interface_priority_interface_name_ap">WiFi dostopna točka</string>
+     <string name="wifi_interface_priority_interface_name_ap_bridge">WiFi dostopna točka</string>
+     <string name="wifi_interface_priority_interface_name_nan">WiFi zavest</string>
+     <string name="wifi_interface_priority_interface_name_p2p">WiFi Direkt</string>
      <string name="wifi_interface_priority_message">To lahko povzroči težave za %3$s.</string>
      <string name="wifi_interface_priority_message_plural">To lahko povzroči težave pri teh aplikacijah: %3$s.</string>
      <string name="wifi_interface_priority_reject">"Ne dovoli"</string>
      <string name="wifi_interface_priority_title">%1$s želi uporabiti omrežni vir</string>
+     <string name="wifi_network_disabled_by_admin_button">Zapri</string>
+     <string name="wifi_network_disabled_by_admin_message">%1$s je onemogočil vaš skrbnik.</string>
+     <string name="wifi_network_disabled_by_admin_title">Omrežje ni na voljo</string>
+     <string name="wifi_network_switch_dialog_negative_button">"Ne menjaj"</string>
+     <string name="wifi_network_switch_dialog_positive_button">Zamenjaj</string>
+     <string name="wifi_network_switch_dialog_title_bad_internet">%1$s je nizke kakovosti. Preklopim na %2$s?</string>
+     <string name="wifi_network_switch_dialog_title_no_internet">Kaže da %1$s ni povezan s spletom. Preklopim na %2$s?</string>
      <string name="wifi_p2p_enter_pin_message">Vnesite zahtevani PIN:</string>
      <string name="wifi_p2p_frequency_conflict_message">"Telefon bo začasno prekinil povezavo z WiFi, medtem ko je povezan z %1$s"</string>
      <string name="wifi_p2p_from_message">Od:</string>
+     <string name="wifi_p2p_invitation_seconds_remaining">{0, plural, =1 {Sprejmi čez # sekundo.} other {Sprejmi čez # sekund.} }</string>
      <string name="wifi_p2p_invitation_sent_title">Povabilo poslano</string>
      <string name="wifi_p2p_invitation_to_connect_title">Povabilo k povezovanju</string>
      <string name="wifi_p2p_show_pin_message">PIN:</string>

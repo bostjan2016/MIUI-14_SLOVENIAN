@@ -360,6 +360,11 @@
         <item quantity="other">Počakajte %d sek. in poskusite ponovno.</item>
         <item quantity="one">Počakajte %d sek. in poskusite ponovno.</item>
      </plurals>
+     <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="other">%1$s, %2$s</item>
+        <item quantity="zero">Nič</item>
+        <item quantity="one">%1$s</item>
+     </plurals>
      <plurals name="manage_condition_providers_summary_nonzero">
         <item quantity="other">Število aplikacij ki nudijo pogoje: %d</item>
         <item quantity="one">%d aplikacija nudi pogoje</item>
@@ -440,10 +445,10 @@
         <item quantity="other">~%d obvestil tedensko</item>
         <item quantity="one">~%d obvestilo tedensko</item>
      </plurals>
-    <plurals name="nrca_info">
+     <plurals name="nrca_info">
         <item quantity="other">Spremembe bodo uporabljene čez %d sekund</item>
         <item quantity="one">Spremembe bodo uporabljene čez %d sekundo</item>
-    </plurals>
+     </plurals>
      <plurals name="num_minutes_ago">
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>

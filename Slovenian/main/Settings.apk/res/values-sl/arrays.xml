@@ -469,6 +469,11 @@
         <item>" | Aktivno (predstavnosti)"</item>
         <item>" | Aktivno (telefon)"</item>
      </string-array>
+     <string-array name="bluetooth_audio_routing_titles">
+        <item>Uporabi privzeto aplikacijo</item>
+        <item>Predvajaj na slušalkah</item>
+        <item>Predvajaj na zvočniku telefona</item>
+     </string-array>
      <string-array name="bluetooth_avrcp_version_values">
         <item>avrcp15</item>
         <item>avrcp13</item>
@@ -524,6 +529,24 @@
         <item>Omogočeno</item>
         <item>Glave filtrirane</item>
         <item>Medijski paketi filtrirani</item>
+	<item>Omogčeni profili filtrirani</item>
+     </string-array>
+     <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Pusti samo glave ACL</item>
+        <item>Filtriraj medijske pakete A2DP</item>
+        <item>Filtriraj RFCOMM kanal</item>
+     </string-array>
+     <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Onemogoči</item>
+        <item>Izpolni z nizom znakov</item>
+        <item>Pusti samo glavo</item>
+        <item>Odstrani</item>
+     </string-array>
+     <string-array name="bt_hci_snoop_log_profile_filter_values">
+        <item>onemogočeno</item>
+        <item>magija</item>
+        <item>glava</item>
+        <item>polni filter</item>
      </string-array>
      <string-array name="bt_hci_snoop_log_values">
         <item>onemogočeno</item>
@@ -531,6 +554,7 @@
         <item>polno</item>
         <item>snoopheadersfiltered</item>
         <item>mediapktsfiltered</item>
+	<item>profilesfiltered</item>
      </string-array>
      <string-array name="button_light_timeout_entries">
         <item>1 sekunda</item>
@@ -767,6 +791,16 @@
         <item>Izključeno</item>
         <item>Omejene prekinitve</item>
         <item>Brez prekinitev</item>
+     </string-array>
+     <string-array name="first_day_of_week">
+        <item>privzeto</item>
+        <item>ned</item>
+        <item>pon</item>
+        <item>tor</item>
+        <item>sre</item>
+        <item>čet</item>
+        <item>pet</item>
+        <item>sob</item>
      </string-array>
      <string-array name="fluency_mode_confirms">
         <item>Ponovno zaženem za uporabo te storitve?</item>
@@ -1452,6 +1486,12 @@
         <item>Dotik</item>
         <item>Neposredni dotik</item>
      </string-array>
+     <string-array name="udfps_accessibility_touch_hints">
+        <item>Premik levo</item>
+        <item>Premik dol</item>
+        <item>Premik desno</item>
+        <item>Premik gor</item>
+     </string-array>
      <string-array name="uplmn_prefer_network_mode_td_choices">
         <item>GSM</item>
         <item>TDSCDMA</item>
@@ -1641,6 +1681,10 @@
         <item>Samo 2,4 GHz</item>
      </string-array>
      <string-array name="wifi_hidden_entries">
+        <item>Ne</item>
+        <item>Da</item>
+     </string-array>
+     <string-array name="wifi_hidden_gbk_entries">
         <item>Ne</item>
         <item>Da</item>
      </string-array>
