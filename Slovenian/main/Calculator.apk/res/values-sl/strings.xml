@@ -37,6 +37,7 @@
      <string name="activating">Aktiviranje…</string>
      <string name="address">Naslov</string>
      <string name="afternoon">pop.</string>
+     <string name="age">Starost</string>
      <string name="age_label_add_to_calendar">Dodaj v koledar</string>
      <string name="age_label_dob">Datum rojstva</string>
      <string name="age_label_hours">Ure</string>
@@ -53,15 +54,24 @@
      <string name="arccos">arccos</string>
      <string name="arcsin">arcsin</string>
      <string name="arctan">arctan</string>
+     <string name="baby_care">Nega dojenčka</string>
      <string name="base_rate">Osnovna obrestna mera</string>
+     <string name="base_rate_first_house">Osnovna obrestna mera za prvo nepremičnino (%1$s)</string>
+     <string name="base_rate_second_house">Osnovna obrestna mera za drugo nepremičnino (%1$s)</string>
      <string name="birthday">Rojstni dan</string>
+     <string name="bmi">ITM</string>
      <string name="bmi_error_text">Vnesite veljavne parametre</string>
+     <string name="bmi_input_age_error">"ITM ni mogoče izračunati za osebe, mlajše od 14 let"</string>
+     <string name="bmi_input_error">"Podatki, ki ste jih vnesli, niso pravilni"</string>
+     <string name="bmi_label">O ITM</string>
      <string name="bmi_label_information">Informacije</string>
      <string name="bmi_label_normal">Normalno</string>
      <string name="bmi_label_overweight">Pretežek</string>
      <string name="bmi_label_underweight">Podhranjen</string>
      <string name="bmi_normal">Normalno</string>
      <string name="bmi_over_weight">Pretežek</string>
+     <string name="bmi_result_label">Indeks telesne mase</string>
+     <string name="bmi_tips">"Indeks telesne mase (ITM) je teža osebe v kilogramih, deljena s kvadratom višine v metrih. ITM je enostavna metoda presejanja za kategorijo teže."</string>
      <string name="bmi_underweight">Podhranjen</string>
      <string name="btn_float_window_alpha">Nastavite neprozornost</string>
      <string name="btn_float_window_back_to_app">Povečaj kalkulator</string>
@@ -80,6 +90,7 @@
      <string name="choose_radix">Izberite številčni sistem</string>
      <string name="choose_unit">Izberite enoto</string>
      <string name="city">Mesto</string>
+     <string name="city_picker_hint">Izberi</string>
      <string name="clear">C</string>
      <string name="clearDesc">izbriši</string>
      <string name="clear_history">Izbriši zgodovino</string>
@@ -122,6 +133,7 @@
      <string name="convertion_unit">Pretvarjanje enot</string>
      <string name="convertion_unit_area">Pretvarjanje površine</string>
      <string name="convertion_unit_data">Pretvarjanje podatkov</string>
+     <string name="convertion_unit_finance">Finančni izračun</string>
      <string name="convertion_unit_length">Pretvarjanje dolžine</string>
      <string name="convertion_unit_radix">Številčni sistem</string>
      <string name="convertion_unit_temperature">Pretvarjanje temperature</string>
@@ -134,11 +146,13 @@
      <string name="cos">cos</string>
      <string name="cosDesc">kosinus</string>
      <string name="cos_mathematical_value">cos</string>
+     <string name="cta_desc">Dobrodošli v Kalkulatorju! Ta aplikacija združuje storitve običajnega kalkulatorja z več pretvorniki in storitvami življenjskega sloga. Ta aplikacija mora za normalno delovanje vzpostaviti povezavo s spletom.</string>
      <string name="currency_dialog_privacy_content">Pretvorba valut se mora povezati na splet, da dobite najnovejše menjalne tečaje. Preberite in sprejmite naše &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo.</string>
      <string name="currency_update_connect_to_get_data">Tečajno listo ponuja Webull. Povežite se na omrežje da boste dobili najnovejše informacije.</string>
      <string name="currency_update_support">Tečajno listo ponuja Webull.</string>
      <string name="currency_update_time_format">Devizni tečaj zagotavlja Webull (%s)</string>
      <string name="currency_update_updating">Posodobitev tečajev…</string>
+     <string name="data_analysis">Analiza</string>
      <string name="date_format">dd.MMM.yyyy</string>
      <string name="date_picker_dialog_title">Nastavi datum</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
@@ -148,10 +162,14 @@
      <string name="day">dan</string>
      <string name="degDesc">Kot</string>
      <string name="del">DEL</string>
+     <string name="delete">Izbriši</string>
      <string name="deleteDesc">Izbriši</string>
+     <string name="delete_tips">Brisanje stvari</string>
      <string name="description_content">Poleg osnovnih storitev Kalkulator deluje tudi kot večnamenski pretvornik, hipotekarni in davčni kalkulator. Preden odstranite aplikacijo, se prepričajte ali ste lahko brez teh storitev.</string>
      <string name="description_title">O Kalkulatorju</string>
      <string name="deselect_all">Prekliči izbiro</string>
+     <string name="detail_close_btn">Skrij izjavo o vračilu</string>
+     <string name="detail_expand_btn">Pokaži izjavo o vračilu</string>
      <string name="devided_by_zero_reminder_message">"Ne morete deliti z ničlo"</string>
      <string name="dialog_privacy_content"><Data>Razen osnovnih storitev kalkulatorja naša aplikacija vsebuje tudi znanstveni kalkulator in večnamenski pretvornik. Nekatere storitve se morajo povezati na splet da delajo normalno. Pred uporabo aplikacije preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a> pred uporabo.</Data></string>
      <string name="dialog_privacy_disagree_msg">Z izklopom stikala umaknete soglasje k pravilniku o zasebnosti kalkulatorja. Nehali bomo zbirati vaše osebne podatke. Že zbrani in hranjeni osebni podatki bodo izbrisani v določenem roku, kot to zahteva veljavna zakonodaja. Kalkulator mora zbrati potrebne osebne podatke, da vam omogoči osnovne storitve. Vaš umik soglasja z njegovo politiko zasebnosti bo zavrnjen kot sprejem storitev na podlagi zbranih osebnih podatkov.</string>
@@ -175,6 +193,7 @@
      <string name="early_morning">Jutro</string>
      <string name="email">E-pošta</string>
      <string name="empty" />
+     <string name="empty_history">Tu še ni ničesar</string>
      <string name="enter">↓</string>
      <string name="equal">=</string>
      <string name="equalDesc">je enako</string>
@@ -192,6 +211,9 @@
      <string name="extra_deduction_title">Dodatni odbitki</string>
      <string name="factorial">!</string>
      <string name="factorialDesc">faktorsko</string>
+     <string name="fat">Prekomerna teža</string>
+     <string name="female">Spol: ženski</string>
+     <string name="float_window">Zmanjšaj</string>
      <string name="float_window_guide_text">Tapnite da boste zmanjšali kalkulator</string>
      <string name="fmt_date">D</string>
      <string name="fmt_date_day">d</string>
@@ -199,7 +221,7 @@
      <string name="fmt_date_long_month_day">dd.MM</string>
      <string name="fmt_date_long_year_month">MMMM, yyyy</string>
      <string name="fmt_date_long_year_month_day">dd.MM. yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
+     <string name="fmt_date_numeric_day">d</string>
      <string name="fmt_date_numeric_month">MM.</string>
      <string name="fmt_date_numeric_month_day">dd.MM.</string>
      <string name="fmt_date_numeric_year">yyyy</string>
@@ -253,6 +275,8 @@
      <string name="from_unit_short">km/h</string>
      <string name="fund_loan">Posojilo sklada</string>
      <string name="further_education">Nadaljnje izobraževanje</string>
+     <string name="get_loaction_permission_title">Dostop do lokacije</string>
+     <string name="get_location_fail_prompt">"Lokacije ni bilo mogoče pridobiti"</string>
      <string name="global_network_confirm_content">"Pretvornik valut kalkulatorja za normalno delovanje potrebuje spletno povezavo naprave."</string>
      <string name="global_search_key_area_convertion">Površina;Pretvornik površine;Pretvarjanje površine</string>
      <string name="global_search_key_calculation">Izračunaj;Kalkulator;Pretvorba enote;Pretvornik;Pretvorba enote</string>
@@ -272,10 +296,16 @@
      <string name="gst_percentage">%s</string>
      <string name="height_prompt">Višina</string>
      <string name="help_content_desc">Pomoč</string>
+     <string name="hint_age">Vnesite starost</string>
      <string name="hint_annual_rate">Vnesite letno stopnjo</string>
      <string name="hint_enter_amount">Vnesite znesek</string>
      <string name="hint_floatwindow_alpha_guide_text">Tapnite za nastavljanje neprozornosti</string>
+     <string name="hint_height">Vnesite višino</string>
+     <string name="hint_weight">Vnesite težo</string>
+     <string name="histories">Zgodovina</string>
      <string name="history_delete_confirmation">Izbrišem zgodovino?</string>
+     <string name="history_guidance">Oglejte si zgodovino tukaj</string>
+     <string name="history_time_date_format">dd/MM/yyyy</string>
      <string name="home_loan">Obresti kredita</string>
      <string name="home_title_calculator">Kalkulator</string>
      <string name="house_rent">Najem</string>
@@ -283,12 +313,14 @@
      <string name="im">IM</string>
      <string name="immersion_button_close_description">Zapri</string>
      <string name="income_type" />
+     <string name="input_limit">"Ni mogoče vnesti več stvari"</string>
      <string name="install">Namesti</string>
      <string name="install_scanner_to_continued_use">Skener je odstranjen. Ga namestim ponovno?</string>
      <string name="instruction">Navodila</string>
      <string name="interest_rate_hint">Vnesite obrestno mero</string>
      <string name="investment_invalid_duration">Trajanje naložbe mora biti večje od nič</string>
      <string name="investment_loan_result">Podrobnosti</string>
+     <string name="investment_type">Pot</string>
      <string name="investment_type_once">Enkrat</string>
      <string name="investment_type_recurring">Ponavljajoče</string>
      <string name="item_page_title_investment">Naložbeni kalkulator</string>
@@ -303,14 +335,18 @@
      <string name="item_title_discount">Popust</string>
      <string name="item_title_dress_size">Velikost obleke</string>
      <string name="item_title_emi">Osebno posojilo</string>
+     <string name="item_title_finance">Finančno</string>
      <string name="item_title_gst">GST</string>
      <string name="item_title_investment">Naložbe</string>
      <string name="item_title_length_conversion">Dolžina</string>
      <string name="item_title_loan">Posojilo</string>
+     <string name="item_title_menu_income_tax">Davek na prihodek</string>
+     <string name="item_title_menu_mortgage">Hipoteka</string>
      <string name="item_title_mortgage">Stanovanjski kredit</string>
      <string name="item_title_percentage">Odstotek</string>
      <string name="item_title_radix">Številčni sistem</string>
      <string name="item_title_relationship">Pogoji sorodstva</string>
+     <string name="item_title_result">Vaš trenutni ¸ITM</string>
      <string name="item_title_scientific_calculator">Znanstveno</string>
      <string name="item_title_spilt_bill">Razdeli račun</string>
      <string name="item_title_tax">Davek</string>
@@ -395,6 +431,7 @@
 
 Enoletni in petletni LPR bodo objavljeni 20. v mesecu (zamude lahko nastanejo zaradi državnih praznikov) na spletnem mestu Ljudske banke Kitajske. "</string>
      <string name="lpr_tips_title">LPR (Obrestna mera posojila)</string>
+     <string name="male">Spol: Moški</string>
      <string name="medical_treatment">Zdravljenje</string>
      <string name="menuDesc">Meni</string>
      <string name="midnight">Polnoč</string>
@@ -412,6 +449,7 @@ Enoletni in petletni LPR bodo objavljeni 20. v mesecu (zamude lahko nastanejo za
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -468,6 +506,7 @@ Enoletni in petletni LPR bodo objavljeni 20. v mesecu (zamude lahko nastanejo za
      <string name="month_september_short">Sep</string>
      <string name="month_september_shortest">S</string>
      <string name="more">Več</string>
+     <string name="more_analysis">Več</string>
      <string name="morning">dop.</string>
      <string name="mortgage_amount">Skupaj (×10K)</string>
      <string name="mortgage_average_repayment_first_month">Prvi mesec odplačila</string>
@@ -480,6 +519,8 @@ Enoletni in petletni LPR bodo objavljeni 20. v mesecu (zamude lahko nastanejo za
      <string name="mortgage_detail_monthly_principal">Glavnica</string>
      <string name="mortgage_detail_monthly_remain">Ostalo</string>
      <string name="mortgage_detail_monthly_repayment">Obrok</string>
+     <string name="mortgage_detail_monthly_repayment_commercial">Komercialno</string>
+     <string name="mortgage_detail_monthly_repayment_lending">Varnostni sklad</string>
      <string name="mortgage_detail_yearly_interest">Obresti</string>
      <string name="mortgage_detail_yearly_repayment">Odplačilo</string>
      <string name="mortgage_details">Podrobnosti o kreditu</string>
@@ -493,6 +534,8 @@ Enoletni in petletni LPR bodo objavljeni 20. v mesecu (zamude lahko nastanejo za
      <string name="mortgage_item_repayment">Način odplačila</string>
      <string name="mortgage_item_start_time">Začetek odplačila</string>
      <string name="mortgage_item_years">Trajanje kredita</string>
+     <string name="mortgage_item_years_commercial">Trajanje komercialnega posojila</string>
+     <string name="mortgage_item_years_lending">Rok posojila skrbniškega sklada</string>
      <string name="mortgage_loans_amount">Znesek kredita</string>
      <string name="mortgage_provident_found_interest_rate">"Obrestna mera sklada"</string>
      <string name="mortgage_provider_east_money">Podatke zagotavlja East Money</string>
@@ -532,6 +575,7 @@ Enoletni in petletni LPR bodo objavljeni 20. v mesecu (zamude lahko nastanejo za
      <string name="no_sim">Ni SIM kartice</string>
      <string name="none">Nič</string>
      <string name="noon">Poldne</string>
+     <string name="normal">Normalno</string>
      <string name="not_set">Ni nastavljeno</string>
      <string name="not_supported_due_to_language">Ta storitev je dostopna samo za kitajski jezik</string>
      <string name="note">Beležka</string>
@@ -545,12 +589,19 @@ Enoletni in petletni LPR bodo objavljeni 20. v mesecu (zamude lahko nastanejo za
      <string name="permdesc_sendSmsNoConfirmation">Aplikacija lahko pošilja SMS sporočila brez vašega dovoljenja. To lahko pripelje do nepričakovanih stroškov.</string>
      <string name="permission_location">Dostop do lokacije</string>
      <string name="permission_location_desc">Za nudenje storitev baziranih na lokaciji</string>
+     <string name="permission_location_desc_miui12">Za uporabo davčnih in hipotekarnih stopenj, ki ustrezajo vaši lokaciji</string>
+     <string name="permission_location_miui12">Dostop do lokacije</string>
+     <string name="permission_option_desc_miui12">"Ta dovoljenja so potrebna, ko uporabljate dodatne storitve."</string>
+     <string name="permission_option_miui12">Izbirna dovoljenja</string>
      <string name="permission_phone">Dostop do statusa in ID naprave</string>
      <string name="permission_phone_desc">Za prepoznavanje različnih naprav</string>
      <string name="permission_privacy_link">&lt;Data&gt;Pred uporabo morate prebrati in se strinjati z &amp;lt;a href=%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
      <string name="permission_purpose">"Dobrodošli v Kalkulator! Razen osnovne funkcionalnosti vam Kalkulator omogoča pretvarjanje valut in merskih enot, izračunavanje plačil kredita in še več. Zaščitili bomo vaše osebne podatke skladno z zakoni, predpisi in pravili o zasebnosti.
 Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja za zbiranje vaših osebnih podatkov:"</string>
+     <string name="permission_purpose_miui12_system">Dobrodošli v Kalkulatorju! Ta aplikacija združuje storitve običajnega kalkulatorja z več pretvorniki in storitvami življenjskega sloga.</string>
      <string name="permission_remove_desc">Lahko odstranite aplikacijo ali ji omejite dovoljenja in odvzamete avtorizacijo v nastavitvah.</string>
+     <string name="permission_remove_desc_miui12">Dovolite tej aplikaciji povezavo s spletom in podelite izbirna dovoljenja za uporabo vseh njenih storitev.</string>
+     <string name="permission_title_miui12">Pozor</string>
      <string name="permlab_sendSmsNoConfirmation">Pošiljanje SMS sporočil brez dovoljenja</string>
      <string name="phone">Telefon</string>
      <string name="pi">π</string>
@@ -578,8 +629,14 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
      <string name="preference_follow_wechat_title">WeChat</string>
      <string name="preference_follow_weibo_summary">\@MIUI</string>
      <string name="preference_follow_weibo_title">Sina Weibo</string>
+     <string name="preference_get_device_address">Dostop do lokacije</string>
+     <string name="preference_get_local_tax_info">Za zagotavljanje ustreznih informacij o posojilih in davkih</string>
+     <string name="preference_has_allowed">Dovoljeno</string>
      <string name="preference_help">Pomoč &amp; povratne inf.</string>
+     <string name="preference_not_allowance">Ni dovoljeno</string>
      <string name="preference_other">Ostalo</string>
+     <string name="preference_permission_info">Podrobnosti o dovoljenjih</string>
+     <string name="preference_privacy_setting">Zasebnost</string>
      <string name="preference_privacy_title">Pravila o zasebnosti</string>
      <string name="preference_rating_title">Ocenite našo aplikacijo</string>
      <string name="preference_settings">Nastavitve</string>
@@ -589,17 +646,24 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
      <string name="preference_use_voice_summary">Vključite za uporabo govorjenega izhoda med izračunom</string>
      <string name="preference_use_voice_title">Govorjeni izhod</string>
      <string name="preference_user_feedback_title">Povratna inf.</string>
+     <string name="preference_view_privacy_title">Pokaži Pravila o zasebnosti</string>
      <string name="privacy_dialog_title">Zasebnost</string>
-     <string name="privacy_disagree">Potem ko ne sprejmete naših pogojev in pogojev Pravilnika o zasebnosti, kalkulator ustavi zbiranje podatkov in vsi povezani podatki bodo izbrisani s strežnika. Nekaterih storitev v aplikaciji morda ne boste mogli uporabljati. Še vedno ne sprejmete?</string>
+     <string name="privacy_disagree">Potem ko ne sprejmete naših pogojev in pogojev Pravil o zasebnosti, kalkulator ustavi zbiranje podatkov in vsi povezani podatki bodo izbrisani s strežnika. Nekaterih storitev v aplikaciji morda ne boste mogli uporabljati. Še vedno ne sprejmete?</string>
      <string name="privacy_policy">Pravila o zasebnosti</string>
      <string name="privacy_revoke_error">"Preklic ni možen. Poskusi ponovno."</string>
      <string name="privacy_revoke_progress">Preklic…</string>
      <string name="privacy_switch">Preklic soglasja</string>
      <string name="privacy_switch_disagree">Ne strinjam se</string>
+     <string name="pull_to_refresh">Povlecite navzdol za ogled zgodovine</string>
      <string name="radDesc">Radian</string>
      <string name="radian">rad</string>
      <string name="rate_data_provider">Obresti zagotovlja hexun.com</string>
+     <string name="rate_number_first_house">Faktorska stopnja %1$s prve nepremičnine (%2$s)</string>
+     <string name="rate_number_second_house">Faktorska stopnja %1$s druge nepremičnine (%2$s)</string>
+     <string name="re_compute">Preračunaj</string>
      <string name="reciprocalDesc">Recipročno</string>
+     <string name="relationship">Razmerje</string>
+     <string name="release_to_refresh">Spustite za ogled zgodovine</string>
      <string name="reverceDesc">arc</string>
      <string name="rightParen">)</string>
      <string name="rightParenDesc">desni oklepaj</string>
@@ -668,9 +732,11 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
      <string name="statistic_label_monthly">Mesečno</string>
      <string name="statistic_label_yearly">Letno</string>
      <string name="statistic_year">Let %d</string>
+     <string name="suggest_weight">Priporočena teža (kg)</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
+     <string name="super_fat">Debelost</string>
      <string name="support_elder">Podpora za starejše osebe</string>
      <string name="switchDesc">Zamenjaj</string>
      <string name="sync_one_time_sync">Sinhronizacija (%1$s)</string>
@@ -778,6 +844,7 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
      <string name="the_united_nations_day">Dan ZN</string>
      <string name="the_valentines_day">"Valentinovo"</string>
      <string name="the_water_lantern_festival">Festival vodnih lampijonov</string>
+     <string name="thin">Premajhna teža</string>
      <string name="things_album_empty_title">Fotografije se lahko razporedijo po objektih</string>
      <string name="throwing_print">Natisni</string>
      <string name="throwing_screen">Predvajaj</string>
@@ -796,10 +863,14 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
+     <string name="turn_on_location_permission_prompt">Dovoljenja za lokacijo so izklopljena</string>
      <string name="tv_recurrence_monthly">Mesečno</string>
      <string name="tv_recurrence_quaterly">Četrtletno</string>
      <string name="tv_recurrence_yearly">Letno</string>
      <string name="unKnow_error">Neznana napaka</string>
+     <string name="uninstall_warning_content">"Kalkulator je sistemska aplikacija. Ko ga odstranite, ne boste mogli uporabljati njegovih osnovnih storitev, pa tudi pretvorbe valut in merskih enot, izračunavanja odplačil hipoteke ali uporabe drugih storitev."</string>
+     <string name="uninstall_warning_title">Odstranim kalkulator?</string>
+     <string name="unit_">ted</string>
      <string name="unit_cm">Centimeter</string>
      <string name="unit_data_default_area_0">kv.m</string>
      <string name="unit_data_default_area_1">kv.cm</string>
@@ -952,7 +1023,6 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
      <string name="unit_data_short_time_ps">ps</string>
      <string name="unit_data_short_time_s">s</string>
      <string name="unit_data_short_time_us">μs</string>
-     <string name="unit_">ted</string>
      <string name="unit_data_short_time_yr">l</string>
      <string name="unit_data_short_velocity_c">c</string>
      <string name="unit_data_short_velocity_ftps">fps</string>
@@ -992,8 +1062,11 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
+     <string name="weight">Teža (kg)</string>
      <string name="weight_prompt">Teža</string>
      <string name="wf_word_figure">Finančni znaki</string>
+     <string name="widget_calculator_name">Osnovno</string>
+     <string name="widget_currency_name">Valuta</string>
      <string name="withdraw_network_error">Vaša naprava se mora povezati z omrežjem, da boste lahko umaknili soglasje. Preverite omrežne nastavitve in poskusite znova.</string>
      <string name="word_figure_guide_text">Pritisnite in držite tekst za pretvorbo med slučaji.</string>
      <string name="xiaomi_calculator_delete_description">"Kalkulator je sistemska aplikacija. Po odstranitvi aplikacije ne boste več mogli uporabljati pretvornikov in dodatnih storitev."</string>
@@ -1002,6 +1075,9 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
      <string name="xiaomi_calculator_remove_icon_title">Odstranim \"Kalkulator\" iz zač. zaslona?</string>
      <string name="xiaomi_connect_download_manager_fail">"Ne morem se povezati z aplikacijo v prenosu. Preverite ali ima aplikacija vsa potrebna dovoljenja v Nastavitve &gt; Nameščene aplikacije."</string>
      <string name="xiaomi_external_storage_unavailable">Shranjevanje ni možno, preverite SD kartico.</string>
+     <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
+     <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
+     <string name="xiaomi_market_sdk_update_dialog_title">Posodobitev na voljo</string>
      <string name="xiaomi_mobile">Mi Mobile</string>
      <string name="xiaomi_update_dialog_message">"Predstavljamo verzijo %1$s
 Velikost: %2$s"</string>

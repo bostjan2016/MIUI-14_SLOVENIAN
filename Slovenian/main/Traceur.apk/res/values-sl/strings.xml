@@ -98,6 +98,7 @@
      <string name="alarms_and_reminders_label">Alarmi in opomniki</string>
      <string name="alarms_and_reminders_switch_title">Dovoli nastavljanje alarmov in opomnikov</string>
      <string name="alarms_and_reminders_title">Alarmi in opomniki</string>
+     <string name="all_recordings_will_be_deleted">Vsi posnetki bodo izbrisani iz /data/local/traces</string>
      <string name="all_traces_will_be_deleted">Vse sledi v imeniku /data/local/traces bodo izbrisane</string>
      <string name="allow_mock_location">Dovoli lažne lokacije</string>
      <string name="allow_mock_location_summary">Dovoli lažne lokacije</string>
@@ -268,6 +269,9 @@ Izbor"</string>
      <string name="choose_profile">Izbira profila</string>
      <string name="clear">Izbriši</string>
      <string name="clear_adb_keys">Preklic dovoljenj za odpravljanje težav preko povezave USB</string>
+     <string name="clear_saved_files">Počisti shranjene datoteke</string>
+     <string name="clear_saved_files_question">Počistim shranjene datoteke?</string>
+     <string name="clear_saved_files_summary">Posnetki se izbrišejo po enem mesecu</string>
      <string name="clear_saved_traces">Izbriši shranjene sledi</string>
      <string name="clear_saved_traces_question">Želite izbrisati shranjene sledi?</string>
      <string name="clear_saved_traces_summary">Sledi bodo izbrisane čez en mesec</string>
@@ -407,6 +411,7 @@ Izbor"</string>
      <string name="inactive_app_inactive_summary">Neaktivno. Dotaknite se za preklop.</string>
      <string name="inactive_apps_title">Aplikacije v stanju pripravljenosti</string>
      <string name="install_other_apps">Nameščanje neznanih aplikacij</string>
+     <string name="install_type_instant">Takojšnja aplikacija</string>
      <string name="item_view_role_description">Zavihek</string>
      <string name="keep_screen_on">Brez izklopa zaslona</string>
      <string name="keep_screen_on_summary">Med polnjenjem se zaslon ne bo nikoli izklopil</string>
@@ -524,6 +529,7 @@ Izbor"</string>
      <string name="mtrl_picker_a11y_next_month">Spremeni na naslednji mesec</string>
      <string name="mtrl_picker_a11y_prev_month">Spremeni na prejšnji mesec</string>
      <string name="mtrl_picker_announce_current_selection">Trenutna izbira: %1$s</string>
+     <string name="mtrl_picker_cancel">Prekliči</string>
      <string name="mtrl_picker_confirm">V redu</string>
      <string name="mtrl_picker_date_header_selected">%1$s</string>
      <string name="mtrl_picker_date_header_title">Izberite datum</string>
@@ -598,6 +604,9 @@ Izbor"</string>
      <string name="power_remaining_settings_home_page">%1$s – %2$s</string>
      <string name="power_suggestion_battery_run_out">Energije baterije lahko zmanjka do %1$s</string>
      <string name="power_suggestion_extend_battery">Podaljšanje časa delovanja akumulatorja za dlje kot %1$s</string>
+     <string name="pref_category_misc">Razno</string>
+     <string name="pref_category_saved_files">Shranjene datoteke</string>
+     <string name="pref_category_trace_settings">Nastavitve sledenja</string>
      <string name="preference_copied">Povzetek \"%1$s\" je bil kopiran v odložišče.</string>
      <string name="preference_summary_default_combination">%1$s/%2$s</string>
      <string name="private_dns_broken">Do zasebnega strežnika DNS ni mogoče dostopati</string>
@@ -608,8 +617,11 @@ Izbor"</string>
      <string name="private_dns_mode_provider_hostname_hint">Vnesite ime gostitelja pri ponudniku DNS</string>
      <string name="profile_connect_timeout_subtext">Težava pri povezovanju. Napravo izklopite in znova vklopite.</string>
      <string name="profile_info_settings_title">Podatki za profil</string>
+     <string name="record_stack_samples">Posnemi profil CPE</string>
+     <string name="record_stack_samples_summary">Vzorčenje sklada klicev je mogoče omogočiti tudi v sledovih, tako da označite \"cpe\" kategorijo</string>
      <string name="record_system_activity">Sledenje in naknadno analiziranje dejavnosti sistema za izboljšanje učinkovitosti delovanja</string>
      <string name="record_trace">Beleženje sledi</string>
+     <string name="record_trace_summary">Zajame sistemsko sled z uporabo konfiguracije, nastavljene v \"Nastavitve sledenja\"</string>
      <string name="remaining_length_format">Še %1$s</string>
      <string name="restore_default_categories">Obnovi privzete kategorije</string>
      <string name="retail_demo_reset_message">Geslo za tovar. nast. v predstav. načinu</string>
@@ -619,6 +631,7 @@ Izbor"</string>
      <string name="runningservices_settings_summary">Preglejte in nadzorujte storitve, ki so trenutno zagnane</string>
      <string name="runningservices_settings_title">Zagnane storitve</string>
      <string name="saved_network">Shranil(-a): %1$s</string>
+     <string name="saving_stack_samples">Shranjevanje vzorcev skladov</string>
      <string name="saving_trace">Shranjevanje sledi</string>
      <string name="screen_zoom_summary_custom">Po meri (%d)</string>
      <string name="screen_zoom_summary_default">Privzeto</string>
@@ -643,6 +656,7 @@ Izbor"</string>
      <string name="settings_label">Nastavitve</string>
      <string name="settingslib_learn_more_text">Več o tem</string>
      <string name="share">Deli</string>
+     <string name="share_file">Delim datoteko?</string>
      <string name="share_trace">Želite deliti sled?</string>
      <string name="shared_data_delete_failure_text">Pri brisanju deljenih podatkov je prišlo do napake.</string>
      <string name="shared_data_no_accessors_dialog_text">Za te deljene podatke ni pridobljen noben zakup. Ali želite podatke izbrisati?</string>
@@ -673,9 +687,10 @@ Izbor"</string>
      <string name="speed_label_slow">Počasna</string>
      <string name="speed_label_very_fast">Zelo hitra</string>
      <string name="speed_label_very_slow">Zelo počasna</string>
+     <string name="stack_samples_are_being_recorded">Vzorci skladov se snemajo</string>
+     <string name="stack_samples_saved">Vzorci sklada so shranjeni</string>
      <string name="standby_bucket_summary">"Stanje pripravljenosti aplikacije:  %s"</string>
      <string name="start_new_trace">Začni novo sledenje</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="status_unavailable">Ni na voljo</string>
      <string name="stop_on_bugreport">Ustavitev sledenja pri poročilih o napakah</string>
      <string name="stop_on_bugreport_summary">Konča aktivne posnetke sledi ob zagonu poročila o napakah.</string>
@@ -693,6 +708,7 @@ Izbor"</string>
      <string name="tap_to_renew_subscription_and_connect">Dotaknite se za podaljšanje naročnine in vzpostavitev povezave</string>
      <string name="tap_to_share">Dotaknite se, če želite deliti sled</string>
      <string name="tap_to_sign_up">Dotaknite se, če se želite registrirati</string>
+     <string name="tap_to_stop_stack_sampling">Tapnite, da ustavite vzorčenje sklada</string>
      <string name="tap_to_stop_tracing">Dotaknite se, da ustavite sledenje</string>
      <string name="ten_gb">10 GB</string>
      <string name="ten_minutes">10 minut</string>
@@ -902,6 +918,7 @@ Shramba poverilnic mogoče ni omogočena"</string>
      <string name="wifitrackerlib_auto_connect_disable">Samodejno povezovanje izklopljeno</string>
      <string name="wifitrackerlib_available_via_app">Na voljo prek aplikacije %1$s</string>
      <string name="wifitrackerlib_certinstaller_package">com.android.certinstaller</string>
+     <string name="wifitrackerlib_checking_for_internet_access">Preverjanje dostopa do spleta...</string>
      <string name="wifitrackerlib_connected_via_app">Povezava vzpostavljena prek omrežja %1$s</string>
      <string name="wifitrackerlib_connected_via_network_scorer">Povezava je samodejno vzpostavljena prek: %1$s</string>
      <string name="wifitrackerlib_connected_via_network_scorer_default">Samodejno vzpostavljena povezava prek ponudnika ocenjevanja omrežij</string>
@@ -928,6 +945,7 @@ Shramba poverilnic mogoče ni omogočena"</string>
      <string name="wifitrackerlib_wifi_disabled_generic">Onemogočeno</string>
      <string name="wifitrackerlib_wifi_disabled_network_failure">Konfiguracija IP-ja ni uspela</string>
      <string name="wifitrackerlib_wifi_disabled_password_failure">Težava preverjanja pristnosti</string>
+     <string name="wifitrackerlib_wifi_disabled_transition_disable_indication">Ni na voljo s trenutnimi varnostnimi nastavitvami</string>
      <string name="wifitrackerlib_wifi_disconnected">Ni povezave</string>
      <string name="wifitrackerlib_wifi_limited_connection">Omejena povezava</string>
      <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">Povezave ni mogoče vzpostaviti. Poskusite znova pozneje.</string>

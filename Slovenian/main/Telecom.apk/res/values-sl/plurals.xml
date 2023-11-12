@@ -56,6 +56,10 @@
         <item quantity="other">%d novih obvestil</item>
         <item quantity="one">%d novo obvestilo</item>
      </plurals>
+     <plurals name="notification_All_AI_MissedCallTitle">
+        <item quantity="other">Mi AI je namesto vas odgovoril na %1$d klicev</item>
+        <item quantity="one">Mi AI je namesto vas odgovoril na %1$d klic</item>
+     </plurals>
      <plurals name="notification_missedCallTitle_miui">
         <item quantity="other">Neodgovorjeni klici</item>
         <item quantity="one">Neodgovorjen klic</item>
