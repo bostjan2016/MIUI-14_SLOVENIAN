@@ -1675,6 +1675,7 @@ prednostno"</string>
      <string name="keyboard_key_tab">Tab</string>
      <string name="keyboard_layout_default_label">Privzeto</string>
      <string name="keyboard_layout_dialog_title">Izberite postavitev tipkovnice</string>
+     <string name="keyboard_shortcut_clear_text">Očisti besedilo</string>
      <string name="keyboard_shortcut_group_applications">Aplikacije</string>
      <string name="keyboard_shortcut_group_applications_assist">Pomoč</string>
      <string name="keyboard_shortcut_group_applications_browser">Brskalnik</string>

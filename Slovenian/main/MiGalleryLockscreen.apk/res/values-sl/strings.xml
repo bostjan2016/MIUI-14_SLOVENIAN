@@ -69,6 +69,13 @@
      <string name="account_user_phone">Obnovitveni telefon</string>
      <string name="account_user_region">Regija</string>
      <string name="action_add_phone">Dodajte telefonsko številko</string>
+     <string name="action_more_dlg_add_to_loop">Dodaj v diaprojekcijo</string>
+     <string name="action_more_dlg_apply">Nastavi kot ozadje zaklenjenega zaslona</string>
+     <string name="action_more_dlg_dislike">"Ni mi všeč"</string>
+     <string name="action_more_dlg_my_favor">Dodaj med priljubljene</string>
+     <string name="action_more_dlg_save">Prenesi ozadje</string>
+     <string name="action_more_dlg_settings">Več nastavitev</string>
+     <string name="action_more_dlg_share">Deli</string>
      <string name="action_update_phone">Zamenjaj telefonsko številko</string>
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="activate_email_notice">Aktivirajte vaš račun v 24 urah</string>
@@ -110,6 +117,7 @@
      <string name="app_self_upgrade_toast_downloading_install">Začetek prenosa in namestitve nove verzije</string>
      <string name="applied_and_added_to_custom_wallpaper">"Uspešno dodano v vašo diaprojekcijo. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Ogled&lt;/font>&lt;/a>"</string>
      <string name="apply">Nastavi</string>
+     <string name="apply_success_toast">Ozadje nastavljeno</string>
      <string name="apply_to_above_all">Nastavi oboje</string>
      <string name="apply_to_screenlock">Nastavi za zak. zaslon</string>
      <string name="apply_to_wallpaper">Nastavi za ozadje</string>
@@ -266,6 +274,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="disable_dlg_ok">Izključi</string>
      <string name="disable_dlg_title">Izključim Wallpaper Carousel?</string>
      <string name="dislike">Izbriši</string>
+     <string name="dlg_add_to_loop_success_toast">Diaprojekciji je dodano ozadje</string>
      <string name="dlg_cancel">Prekliči</string>
      <string name="dlg_ok">Uporabi</string>
      <string name="doing_login">Prijava</string>
@@ -384,6 +393,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="just_a_second">Samo trenutek…</string>
      <string name="later">"Ne izključi"</string>
      <string name="launch_bg_permission_exception">Dovolite Wallpaper Carousel prikazovanje skočnih oken ko se izvaja v ozadju v aplikaciji Varnost</string>
+     <string name="left_lks_detail_entrance">Poglej več</string>
      <string name="like">Všeč mi je</string>
      <string name="liked">Mi je že všeč</string>
      <string name="lks_cta_dont_mention">"Ne kaži več"</string>
@@ -418,6 +428,11 @@ To lahko povzroči dodatne stroške."</string>
      <string name="lks_loop_icon_open_ok">Razumem</string>
      <string name="lks_more">Več</string>
      <string name="lks_more_pics_coming_toast">Nove slike so na poti</string>
+     <string name="lks_new_data_loaded">Uspešno naloženo</string>
+     <string name="lks_new_data_warning">Ta storitev uporablja mobilne podatke</string>
+     <string name="lks_new_user_guide_horizontal">Povlecite levo in desno za ogled več slik</string>
+     <string name="lks_new_user_guide_left">Povlecite levo za ogled več slik</string>
+     <string name="lks_new_user_guide_up">Za več informacij povlecite navzgor</string>
      <string name="lks_new_user_help_anime">Povlecite navzgor, da vidite več od Wallpaper Carousel</string>
      <string name="lks_no_network">"Ne morem se povezati na omrežje"</string>
      <string name="lks_please_reload">Ponovno naloži</string>
@@ -485,6 +500,16 @@ To lahko povzroči dodatne stroške."</string>
      <string name="logout_summary">"Ko se odjavite, ne boste mogli sinhronizirati svojih naročnin in prilagojenih nastavitev med napravami. Vseeno odjava?"</string>
      <string name="logout_title">Odjava?</string>
      <string name="look_str">Popularno</string>
+     <string name="loop_service_dlg_content">Diaprojekcija samodejno kroži med slikami zaklenjenega zaslona, prilagojenimi vašim željam, vključno s temami, kot so potovanja, hrana, umetnost, zabava in drugo. Vklopim diaprojekcijo na zaklenjenem zaslonu in dodam to sliko?</string>
+     <string name="loop_service_dlg_negative">Ne zdaj</string>
+     <string name="loop_service_dlg_positive">Vklopi</string>
+     <string name="loop_service_dlg_positive_toast_day">Diaprojekcija je vklopljena. Ozadje se bo spreminjalo vsak dan. Trajanje lahko prilagodite v nastavitvah Wallpaper Carousel.</string>
+     <string name="loop_service_dlg_positive_toast_hour_1">Diaprojekcija je vklopljena. Ozadje se bo spreminjalo vsako uro. Trajanje lahko prilagodite v nastavitvah Wallpaper Carousel.</string>
+     <string name="loop_service_dlg_positive_toast_hour_3">Diaprojekcija je vklopljena. Ozadje se bo spreminjalo vsake 3 ure. Trajanje lahko prilagodite v nastavitvah Wallpaper Carousel.</string>
+     <string name="loop_service_dlg_positive_toast_minutes_15">Diaprojekcija je vklopljena. Ozadje se bo spreminjalo vsakih 15 minut. Trajanje lahko prilagodite v nastavitvah Wallpaper Carousel.</string>
+     <string name="loop_service_dlg_positive_toast_minutes_5">Diaprojekcija je vklopljena. Ozadje se bo spreminjalo vsakih 5 minut. Trajanje lahko prilagodite v nastavitvah Wallpaper Carousel.</string>
+     <string name="loop_service_dlg_positive_toast_unlock">Diaprojekcija je vklopljena. Ozadje se bo spreminjalo vsakič ob odklepu naprave. Trajanje lahko prilagodite v nastavitvah Wallpaper Carousel.</string>
+     <string name="loop_service_dlg_title">Vklopim diaprojekcijo zaklenjenega zaslona?</string>
      <string name="main_fragment_title_discover">Odkrijte</string>
      <string name="main_fragment_title_home">Priporočila</string>
      <string name="main_fragment_title_home_excellent">Predstavljeno</string>
@@ -1171,6 +1196,13 @@ mm"</string>
      <string name="setting_title">Uspešno dodano</string>
      <string name="settings">Nastavitve</string>
      <string name="share">Deli</string>
+     <string name="share_dlg_more">Več</string>
+     <string name="share_dlg_qq">Pošlji v QQ</string>
+     <string name="share_dlg_save">Shrani v Galerijo</string>
+     <string name="share_dlg_title">Deli ozadje</string>
+     <string name="share_dlg_wechat">Pošlji prijatelju</string>
+     <string name="share_dlg_wechat_moment">WeChat trenutki</string>
+     <string name="share_dlg_weibo">Pošlji v Weibo</string>
      <string name="share_today_morning">Skupna raba</string>
      <string name="shield">"Blokiraj: "</string>
      <string name="shield_failed">"Ne morem blokirati"</string>
@@ -1370,6 +1402,7 @@ mm"</string>
      <string name="v_code_title">Vnesite kontrolno kodo v 2 korakih</string>
      <string name="view_privacy_policy">Pravila o zasebnosti</string>
      <string name="wallpaper">Slika za ozadje</string>
+     <string name="wallpaper_added_success_toast">Ozadje dodano</string>
      <string name="wallpaper_feed_title">Morda vam bo všeč</string>
      <string name="wallpaper_relations_title">Priporočila</string>
      <string name="wednesday">Sreda</string>

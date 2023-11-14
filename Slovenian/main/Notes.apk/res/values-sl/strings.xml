@@ -388,6 +388,8 @@ Tapnite + da napravite mapo"</string>
      <string name="image_annotation_edit_hint">Opis slike</string>
      <string name="image_annotation_edit_length_warning">Opis slike lahko vsebuje do %d znakov</string>
      <string name="info_note_enter_desktop">Dodano na začetni zaslon</string>
+     <string name="insert_image_menu_take_photo_by_local_device">Fotografirajte s to napravo</string>
+     <string name="insert_image_menu_take_photo_by_remote_device">Fotografirajte z %1$s</string>
      <string name="insert_image_size_limit_tip">"Ta slika je večja od %d MB. Samodejno je stisnjena."</string>
      <string name="item_view_role_description">Zavihek</string>
      <string name="last_excerpt_unfinish_hint">Zadnji izvleček je nepopoln</string>
@@ -475,6 +477,7 @@ Tapnite + da napravite mapo"</string>
      <string name="miui_penengine_setting_show_black_background">Črno</string>
      <string name="miui_penengine_setting_show_grid_background">Pikčasto</string>
      <string name="miui_penengine_setting_show_white_background">Belo</string>
+     <string name="miui_penengine_toast_add_to_clip">Kopirano</string>
      <string name="miui_penengine_tool_brush">Izbrano orodje</string>
      <string name="miui_penengine_tool_brush_stroke1">Širina poteza ena</string>
      <string name="miui_penengine_tool_brush_stroke2">Širina poteza dva</string>
@@ -671,6 +674,7 @@ Tapnite + da napravite mapo"</string>
      <string name="option_menu_save_as_pic">Shrani kot sliko</string>
      <string name="option_menu_share">Deli</string>
      <string name="pad_collpase_navigation">Skrij navigacijsko ploščo</string>
+     <string name="pad_dialog_take_photo_by_device">Fotografiranje z %1$s</string>
      <string name="pad_dialog_tip_content_take_photo_by_phone">Uporaba kamere…</string>
      <string name="pad_expand_navigation">Pokaži navigacijsko ploščo</string>
      <string name="pad_insert_image_menu_select_from_pad_gallery">Galerija</string>
@@ -728,6 +732,7 @@ Tapnite + da napravite mapo"</string>
      <string name="permission_storage_desc_pad_v12">Za dodajanje slik v beležke in shranjevanje beležk kot slik</string>
      <string name="permission_storage_desc_v12">Za dodajanje slik v beležke in shranjevanje beležk kot slike</string>
      <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI bo zbral vaše zvočne posnetke in ID naprave da prepiše zvok in napravi zvočne beležke. Izvedite več v Mi AI &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+     <string name="permission_xiaoai_desc_m"><Data>Za zagotavljanje storitev prepisa govora v besedilo mora Mi AI zbrati zvočni vnos in IMEI vaše naprave. Preberite in se strinjate z &lt;a href=\"%1$s\">Beležke Izjava o izmenjavi podatkov tretjih oseb&lt;/a> preden nadaljujete. Več lahko izveste tudi z branjem Mi AI &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>.</Data></string>
      <string name="permission_xiaoai_desc_new"><Data>Za zagotavljanje storitev prepisovanja govora v besedilo mora Mi AI zbrati zvočni vhod in ID vaše naprave, ki se generira naključno. Preberite in se strinjate z &lt;a href=\"%1$s\">Beležka Izjava o skupni rabi podatkov tretjih oseb&lt;/a> preden nadaljujete. Več lahko izveste tudi z branjem Mi AI &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>.</Data></string>
      <string name="permission_xiaoai_title">Pretvorba govora v besedilo</string>
      <string name="permlab_accessNote">Dostop do beležk</string>

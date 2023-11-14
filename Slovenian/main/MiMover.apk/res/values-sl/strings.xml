@@ -196,6 +196,12 @@ Obiščite https://appleid.apple.com/#!&amp;page=signin za izklop"</string>
      <string name="dialog_rating_desc_less">Pustite nam vaše predloge kako naj izboljšamo našo aplikacijo</string>
      <string name="dialog_rating_desc_perfect">Hvala! Želite oceniti Mi Mover tudi v GetApps?</string>
      <string name="dialog_rating_title">Ocenite Mi Mover</string>
+     <string name="dialog_request_all_permission_content">"Če želite prenesti podatke iz vaše stare naprave v novo, se mora ta aplikacija povezati na splet in zahteva naslednja dovoljenja:
+• Dostop do fotografij, zvoka in videoposnetkov
+• Dostop do sporočil, stikov in zgodovine klicev
+• Dostop do shrambe
+• Dostop do seznama aplikacij, nameščenih v napravi"</string>
+     <string name="dialog_request_all_permission_title">Permissions required</string>
      <string name="dialog_request_network_btn_negative">Izhod</string>
      <string name="dialog_request_network_btn_positive">Strinjam se</string>
      <string name="dialog_request_network_message">"Dobrodošli v Mi Mover! Aplikacijo lahko uporabite za prenos podatkov iz stare naprave na novo.
@@ -253,7 +259,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="fmt_date_long_month_day">dd.MM</string>
      <string name="fmt_date_long_year_month">MMMM, yyyy</string>
      <string name="fmt_date_long_year_month_day">dd.MM. yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
+     <string name="fmt_date_numeric_day">d</string>
      <string name="fmt_date_numeric_month">MM.</string>
      <string name="fmt_date_numeric_month_day">dd.MM.</string>
      <string name="fmt_date_numeric_year">yyyy</string>
@@ -400,7 +406,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="install_new_app_link_text">Namestite Mi Mover na vašo novo napravo, da se lahko povežete. Tapnite za namestitev.</string>
      <string name="instruction">Važne varnostne informacije</string>
      <string name="international_new_trans_intro_desc_8">Sporočila ne morejo biti prenesena zaradi problemov z združljivostjo. Aplikacije tretjih oseb lahko omejijo prenos podatkov njihov aplikacij zaradi varnostnih razlogov.</string>
-     <string name="international_new_trans_intro_question_8">8. Zakaj se sporočila in podatki nekaterih aplikacij tretjih oseb ne morejo prenesti?</string>
+     <string name="international_new_trans_intro_question_8">"%d. Zakaj se sporočila in podatki nekaterih aplikacij tretjih oseb ne morejo prenesti?</string>
      <string name="international_scanner_send_dialog_message">Sporočila in podatki nekaterih aplikacij tretjih oseb se ne morejo prenesti. Med prenosom ne izklopite WiFi omrežja ali preklapljajte med omrežji.</string>
      <string name="label_null" />
      <string name="lack_perm_msg">Mi Mover zahteva naslednja dovoljenja: &lt;b&gt;%s&lt;/b&gt;.</string>
@@ -471,6 +477,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -551,17 +558,18 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="new_trans_intro_desc_6">Vaš novi Mi telefon mogoče nima zahtevanih dovoljenj za to.</string>
      <string name="new_trans_intro_desc_7">Mi Mover lahko nadaljuje od tam, kjer ste končali. Vendar boste morda morali začeti znova, če težave z združljivostjo preprečujejo nadaljevanje prenosa.</string>
      <string name="new_trans_intro_desc_8">Med prenosom bo WeChat zgodovina vaše stare naprave prepisala WeChat zgodovino nove naprave.</string>
-     <string name="new_trans_intro_desc_new">1. Preverite ali je aplikacija Mi Mover na vaši napravi posodobljena. Lahko prenesete najnovejšo različico aplikacije Mi Mover v GetApps ali z uporabo naslednje povezave: %1$s.</string>
+     <string name="new_trans_intro_desc_new">"%1$d. Prepričajte se, da je Mi Mover v vaši novi napravi posodobljen. Najnovejšo različico Mi Moverja lahko prenesete v GetApps ali tapnete tukaj:%2$s
+%3$d. Če se dostopna točka še vedno ne prikaže v Mi Moverju, odprite nastavitve WiFi in preverite, ali jo vidite tam. Če je tako, se vrnite v Mi Mover in tapnite ime dostopne točke."</string>
      <string name="new_trans_intro_desc_new_click">Prenesi</string>
      <string name="new_trans_intro_desc_old">2. Če v aplikaciji Mi Mover še zmeraj ne vidite dostopne točke, odprite WiFi nastavitve in preverite, če jo lahko vidite. Če jo vidite, pojdite nazaj v Mi Mover in tapnite na ime dostopne točke.</string>
-     <string name="new_trans_intro_question_1">1. Zakaj na stari napravi ne vidim dostopno točko nove naprave?</string>
-     <string name="new_trans_intro_question_2">2. Kaj je geslo dostopne točke?</string>
-     <string name="new_trans_intro_question_3">3. Zakaj piše, da na stari napravi ni dovolj prostora?</string>
-     <string name="new_trans_intro_question_4">4. Zakaj niso bile vse aplikacije uspešno prenešene?</string>
-     <string name="new_trans_intro_question_5">5. Zakaj gesla nekaterih računov aplikacij tretjih oseb niso bila prenešena?</string>
-     <string name="new_trans_intro_question_6">6. Zakaj podatki aplikacij iz naprav tretjih oseb niso prenešeni?</string>
-     <string name="new_trans_intro_question_7">7. Če med prenosom zapustim Mi Mover, ali moram naslednjič začeti znova?</string>
-     <string name="new_trans_intro_question_8">8. Zakaj je zgodovina WeChat pogovorov izginila na novi napravi?</string>
+     <string name="new_trans_intro_question_1">"%d. Zakaj na stari napravi ne vidim dostopno točko nove naprave?</string>
+     <string name="new_trans_intro_question_2">%d. Kaj je geslo dostopne točke?</string>
+     <string name="new_trans_intro_question_3">%d. Zakaj piše, da na stari napravi ni dovolj prostora?</string>
+     <string name="new_trans_intro_question_4">%d. Zakaj niso bile vse aplikacije uspešno prenešene?</string>
+     <string name="new_trans_intro_question_5">%d. Zakaj gesla nekaterih računov aplikacij tretjih oseb niso bila prenešena?</string>
+     <string name="new_trans_intro_question_6">%d. Zakaj podatki aplikacij iz naprav tretjih oseb niso prenešeni?</string>
+     <string name="new_trans_intro_question_7">%d. Če med prenosom zapustim Mi Mover, ali moram naslednjič začeti znova?</string>
+     <string name="new_trans_intro_question_8">%d. Zakaj je zgodovina WeChat pogovorov izginila na novi napravi?</string>
      <string name="new_wait_link_first">"1. Odprite Mi mover na vaši stari napravi.
 2. Tapnite \"Sem pošiljatelj\" in počakajte.
 3. Na stari napravi izberite naslednjo dostopno točko."</string>
@@ -577,9 +585,9 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="noon">Poldne</string>
      <string name="not_set">Ni nastavljeno</string>
      <string name="not_support">Ni podprto</string>
-     <string name="not_support_data_content1">1. Stvari specifične za model naprave</string>
-     <string name="not_support_data_content2">2. Podatki izbranih aplikacij</string>
-     <string name="not_support_data_content3">3. Podatki Drugega prostora</string>
+     <string name="not_support_data_content1">%d. Stvari specifične za model naprave</string>
+     <string name="not_support_data_content2">%d. Podatki izbranih aplikacij</string>
+     <string name="not_support_data_content3">%d. Podatki Drugega prostora</string>
      <string name="not_support_data_content4">4. Dvojne aplikacije</string>
      <string name="not_support_data_link">"Stvari ki se ne morejo prenesti"</string>
      <string name="not_support_data_summary1">"Kartic za prevoz in dostop ni mogoče prenesti; teme in ozadja je mogoče prenesti na nekatere modele."</string>
@@ -649,6 +657,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="permdesc_sendSmsNoConfirmation">Aplikacija lahko pošilja SMS sporočila, ne da bi vas vprašala za dovoljenje. To lahko pri ponudniku storitev povzroči nepričakovane stroške.</string>
      <string name="permission_about_contacts">Za urejanje stikov in zgodovine klicev je potrebno dovoljenje</string>
      <string name="permission_about_storage">Za dostop do pomnilnika naprave je potrebno dovoljenje</string>
+     <string name="permission_about_storage_pad">Potrebno je dovoljenje za dostop do pomnilnika naprave</string>
      <string name="permission_alert_message_usage_access">Mi Mover potrebuje dostop do podatkov o uporabi aplikacij. Dodelite aplikaciji zahtevana dovoljenja v Nastavitvah.</string>
      <string name="permission_alert_title">Potrebno je dovoljenje</string>
      <string name="permission_bluetooth_summary">Iskanje razpoložljivih naprave v bližini</string>
@@ -686,12 +695,17 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="prompt_before_transmission_message4_title">Ostanite povezani ves čas prenosa</string>
      <string name="prompt_before_transmission_message5_summary">"Brezžični prenos velikih količin podatkov lahko povzroči rahlo pregrevanje, kar ni redkost. Vaša naprava se bo kmalu po prenosu ohladila."</string>
      <string name="prompt_before_transmission_message5_title">Vaša naprava se med prenosom lahko segreje.</string>
+     <string name="provisiion_set_old_pad_summary">Uporabite Mi Mover za uvoz podatkov iz vaše stare naprave brez povezave s spletom</string>
      <string name="provisiion_set_old_phone">Uvoz iz stare naprave</string>
      <string name="provisiion_set_old_phone_summary">Uporabite Mi Mover za uvoz podatkov iz stare naprave brez povezave na splet</string>
      <string name="provision_cta_title">Prenos iz stare naprave</string>
+     <string name="provision_cta_title_pad">Prenos iz stare naprave</string>
      <string name="provision_receiver_finish_button">Naprej</string>
      <string name="provision_select_data_null">Izberite stvari za prenos</string>
+     <string name="provision_select_data_one">Izberite stvari za prenos</string>
+     <string name="provision_set_new_pad">Uporabi kot novo napravo</string>
      <string name="provision_set_new_phone">Uporabi kot novo napravo</string>
+     <string name="provision_set_old_pad">Uvoz iz stare naprave</string>
      <string name="qq_app">QQ</string>
      <string name="qq_app_receive_fail">"Ne morem sprejeti QQ"</string>
      <string name="qq_app_send_fail">"Ne morem poslati QQ"</string>
@@ -705,7 +719,9 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="receiver_finish_title">"Vse je nastavljeno!"</string>
      <string name="receiver_finish_transferred">Preneseno</string>
      <string name="receiver_video_summary">Odklenite staro napravo, tapnite \"Prenesi\" in optično preberite to sliko</string>
+     <string name="receiver_video_summary_pad">Odklenite svojo staro napravo, tapnite \"Prenesi\" in skenirajte to sliko</string>
      <string name="receiver_video_title">Prenos iz stare naprave</string>
+     <string name="receiver_video_title_pad">Prenos iz stare naprave</string>
      <string name="recent_one_year">Zadnje 1 leto</string>
      <string name="recent_seven_days">Zadnjih 7 dni</string>
      <string name="recent_thirty_days">Zadnjih 30 dni</string>
@@ -893,7 +909,7 @@ Prenesite in namestite Mi Mover."</string>
 na vaš iPhone"</string>
      <string name="trans_sync_transfer_data_list_hint">Delam…</string>
      <string name="trans_sync_transfer_data_list_summary_for_pad">Izberite stvari v stari napravi in se dotaknite \"Pošlji\".</string>
-     <string name="trans_time_format_second">Manj od 1 minute</string>
+     <string name="trans_time_format_second">Manj od %d minute</string>
      <string name="trans_time_spent">Čas: %s</string>
      <string name="transfer_bottom_tip">"Ne boste mogli uporabljali WiFi ali Bluetooth med prenosom. Ne zapustite te strani."</string>
      <string name="transfer_connect_fail_summary">Dotaknite se gumba spodaj, da se ročno povežete</string>
