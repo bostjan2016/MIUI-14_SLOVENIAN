@@ -1696,12 +1696,12 @@ Tega klica ni mogoče dokončati. Poskusite znova, ko se telefon ohladi.
      <string name="lgu_emm_cause_others">"Ne morem se povezati na omrežje. Obiščite servisni center ((+%1$d-%2$d-%3$d-%4$d)."</string>
      <string name="lgu_msim_emm_cause_11_12_13_15">"SIM %d ne more registrirati omrežja"</string>
      <string name="lgu_msim_emm_cause_16_17_22">SIM %d registrira omrežje… Počakajte minuto ali dve in poskusite ponovno.</string>
-     <string name="lgu_msim_emm_cause_2">SIM %d zahteva aktivacijo. Obiščite servisni center (+%1$d-%2$d-%3$d-%4$d).</string>
-     <string name="lgu_msim_emm_cause_3">"SIM %d ne more potrditi uporabnika. Obiščite servisni center (+%1$d-%2$d-%3$d-%4$d)."</string>
-     <string name="lgu_msim_emm_cause_6">"SIM %d ne more potrditi naprave. Obiščite servisni center (+%1$d-%2$d-%3$d-%4$d)."</string>
+     <string name="lgu_msim_emm_cause_2">SIM %1$d zahteva aktivacijo. Obiščite servisni center (+%2$d-%3$d-%4$d-%5$d).</string>
+     <string name="lgu_msim_emm_cause_3">"SIM %1$d ne more potrditi uporabnika. Obiščite servisni center (+%2$d-%3$d-%4$d-%5$d)."</string>
+     <string name="lgu_msim_emm_cause_6">"SIM %1$d ne more potrditi naprave. Obiščite servisni center (+%2$d-%3$d-%4$d-%5$d)."</string>
      <string name="lgu_msim_emm_cause_7_14">"SIM %d omrežje ne ponuja mobilnih podatkovnih storitev"</string>
-     <string name="lgu_msim_emm_cause_8">"SIM %d ne more registrirati omrežja. Obiščite servisni center (+%1$d-%2$d-%3$d-%4$d)."</string>
-     <string name="lgu_msim_emm_cause_others">"SIM %d se ne more povezati na omrežje. Obiščite servisni center (+%1$d-%2$d-%3$d-%4$d)."</string>
+     <string name="lgu_msim_emm_cause_8">"SIM %1$d ne more registrirati omrežja. Obiščite servisni center (+%2$d-%3$d-%4$d-%5$d)."</string>
+     <string name="lgu_msim_emm_cause_others">"SIM %1$d se ne more povezati na omrežje. Obiščite servisni center (+%2$d-%3$d-%4$d-%5$d)."</string>
      <string name="limited_service_alert_dialog_description">"<b>Klici v sili preko WiFi</b>"
 Klici v sili prek klicev WiFi niso mogoči. 
 
