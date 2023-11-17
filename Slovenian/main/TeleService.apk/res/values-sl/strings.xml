@@ -3107,10 +3107,10 @@ Potrdite privzeto nastavitev računa za klicanje."</string>
      <string name="skt_emm_cause_6">"Ne morem potrditi naprave. Izključite napravo, jo ponovo vključite in poskusite ponovno. Če se problem ponavlja obiščite servisni center (%1$d-%2$d%3$d%4$d)."</string>
      <string name="skt_emm_cause_7_8_15">"Ne morem registrirati omrežje. Izključite napravo, jo ponovo vključite in poskusite ponovno. Če se problem ponavlja obiščite servisni center (%1$d-%2$d%3$d%4$d)."</string>
      <string name="skt_msim_emm_cause_12_13_16_17_22">"SIM %d ne more registrirati omrežje. Izključite napravo, jo ponovo vključite in poskusite ponovno."</string>
-     <string name="skt_msim_emm_cause_2">"SIM %d ne more registrirati telefonsko številko. Izključite napravo, jo ponovo vključite in poskusite ponovno. Če se problem ponavlja obiščite servisni center (%1$d-%2$d%3$d%4$d)."</string>
-     <string name="skt_msim_emm_cause_3">"SIM %d ne more potrditi uporabnika. Izključite napravo, jo ponovo vključite in poskusite ponovno. Če se problem ponavlja obiščite servisni center (%1$d-%2$d%3$d%4$d)."</string>
-     <string name="skt_msim_emm_cause_6">"SIM %d ne more potrditi naprave. Izključite napravo, jo ponovo vključite in poskusite ponovno. Če se problem ponavlja obiščite servisni center (%1$d-%2$d%3$d%4$d)."</string>
-     <string name="skt_msim_emm_cause_7_8_15">"SIM %d ne more registrirati omrežja. Izključite napravo, jo ponovo vključite in poskusite ponovno. Če se problem ponavlja obiščite servisni center (%1$d-%2$d%3$d%4$d)."</string>
+     <string name="skt_msim_emm_cause_2">"SIM %1$d ne more registrirati telefonsko številko. Izključite napravo, jo ponovo vključite in poskusite ponovno. Če se problem ponavlja obiščite servisni center (%2$d-%3$d%4$d%5$d)."</string>
+     <string name="skt_msim_emm_cause_3">"SIM %1$d ne more potrditi uporabnika. Izključite napravo, jo ponovo vključite in poskusite ponovno. Če se problem ponavlja obiščite servisni center (%2$d-%3$d%4$d%5$d)."</string>
+     <string name="skt_msim_emm_cause_6">"SIM %1$d ne more potrditi naprave. Izključite napravo, jo ponovo vključite in poskusite ponovno. Če se problem ponavlja obiščite servisni center (%2$d-%3$d%4$d%5$d)."</string>
+     <string name="skt_msim_emm_cause_7_8_15">"SIM %1$d ne more registrirati omrežja. Izključite napravo, jo ponovo vključite in poskusite ponovno. Če se problem ponavlja obiščite servisni center (%2$d-%3$d%4$d%5$d)."</string>
      <string name="slot">Reža</string>
      <string name="smart_divert_summary">CFNRc nastavitve</string>
      <string name="smart_divert_title">Smart-Divert</string>
