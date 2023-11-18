@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-     <string name="Parse_error_dlg_text">Nastal je problem pri analizi paketa.</string>
+     <string name="Parse_error_dlg_text">Nastal je problem pri analizi paketa.(%1$s)</string>
      <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
      <string name="abc_action_bar_up_description">Pomik navzgor</string>
      <string name="abc_action_menu_overflow_description">Več možnosti</string>
@@ -79,14 +79,17 @@
      <string name="ads_summary_default_value">Ljudem ki so namestili to aplikacijo je všeč tudi</string>
      <string name="after_install_to_delete">Po namestitvi izbriši namestitvene pakete</string>
      <string name="afternoon">Popoldne</string>
+     <string name="aleady_understand_the_app_is_hight_risk">razumem, da lahko ta aplikacija predstavlja varnostno tveganje.</string>
      <string name="allPerms">Vse</string>
      <string name="all_permissions">Vsa dovoljenja</string>
      <string name="allow_current_install">Dovoli enkrat</string>
      <string name="allowed_this_time">Dovoli enkrat</string>
+     <string name="already_understood_bundle_app">Razumem tveganja aplikacij v paketu</string>
      <string name="am">dop.</string>
      <string name="anonymous_source_continue">Nadaljuj</string>
      <string name="anonymous_source_warning">Vaš telefon in osebni podatki so podvrženi napadom neznanih aplikacij. Z namestitvijo te aplikacije sprejemate odgovornost za poškodovanje telefona ali krajo podatkov do katere lahko pride z njeno uporabo.</string>
      <string name="anonymous_source_warning_tablet">Naprave in osebni podatki so bolj izpostavljeni napadom neznanih aplikacij. Z namestitvijo te aplikacije se strinjate, da ste odgovorni za kakršno koli škodo na svojih napravah ali izgubo podatkov, ki bi lahko nastala zaradi njene uporabe.</string>
+     <string name="app_already_on_the_app_store">Prenesi iz GetApps</string>
      <string name="app_crash_test_text">Namestitveni program paketa prisilno zaprt</string>
      <string name="app_description_picture">Opis aplikacije</string>
      <string name="app_detail_change_log">"Kaj je novega"</string>
@@ -95,6 +98,7 @@
      <string name="app_detail_other_publish">Razvijalec: %1$s</string>
      <string name="app_detail_other_update_time">Posodobljeno: %1$s</string>
      <string name="app_detail_other_version">Verzija: %1$s</string>
+     <string name="app_get_source">Vir aplikacije</string>
      <string name="app_info_permissions">Dovoljenja</string>
      <string name="app_info_permissions_format">%1$s %2$s</string>
      <string name="app_info_size">Velikost: %1$s</string>
@@ -146,25 +150,29 @@
      <string name="btn_text_scaning">Preverjanje</string>
      <string name="btn_text_security_install">Zamenjaj z varno verzijo</string>
      <string name="bundle_app_learn_how_to_install">Kako namestiti \"%1$s\"</string>
+     <string name="bundle_app_market__tips_install">To je varna različica, ki jo ponuja GetApps</string>
      <string name="bundle_app_market_install_background">Namesti</string>
      <string name="bundle_app_market_install_permissions">Dovoljenja</string>
      <string name="bundle_app_market_install_privacy">Zasebnost</string>
-     <string name="bundle_app_market_install_title">Namesti \"%1$s\"?</string>
+     <string name="bundle_app_market_install_title">Namestim \"%1$s\"?</string>
      <string name="bundle_app_on_self_desc_text">Aplikacija, ki ste jo izbrali, je že prenesena. Če želite prenesti tudi \"%1$s\", tapnite tukaj.</string>
      <string name="bundle_app_on_self_desc_text_click">tapnite tukaj.</string>
      <string name="bundle_app_on_self_tips">Ta aplikacija je navedena v GetApps. Lahko prenesete z zaupanjem.</string>
      <string name="bundle_app_on_self_tips_no_store">"Prenesli boste \"%1$s\""</string>
      <string name="bundle_app_on_self_title_text">\"%1$s\" je del prenosa v paketu</string>
+     <string name="bundle_app_sure_description">Na primer, če želite prenesti \"Vreme\", vnesite \"Vreme\" v spodnje polje.</string>
      <string name="bundle_app_sure_name">Potrdite aplikacijo, ki jo želite namestiti</string>
      <string name="bundle_app_sure_no_market_description">"Aplikacija, ki jo nameravate namestiti, morda ni tista, ki jo iščete. Ta aplikacija je lahko tvegana ali goljufiva. Nadaljujte previdno."</string>
      <string name="bundle_app_sure_no_market_tip">Tapnite tukaj za nadaljevanje namestitve \"%1$s\"</string>
      <string name="bundle_app_sure_title">Ta aplikacija morda ni \"%1$s\"</string>
+     <string name="bundle_app_tip_test">"S pregledom in povratnimi informacijami uporabnikov smo ugotovili, da ta aplikacija združuje ali vsiljuje namestitev drugih aplikacij. \"%1$s\" morda ni aplikacija, ki jo iščete."</string>
      <string name="bundle_no_store_app_on_self_desc_text">\"%1$s\" je del prenosa v paketu. Če še vedno želite prenesti \"%2$s\", tapnite tukaj.</string>
      <string name="button_text_back">Nazaj</string>
      <string name="caller_app">Zahteva dovoljenje od %1$s</string>
      <string name="cancel">Prekliči</string>
      <string name="cancel_install">Prekliči</string>
      <string name="cancel_update">"Ne posodabljaj"</string>
+     <string name="cannot_do_app_check">Varnostnih pregledov ni bilo mogoče izvesti</string>
      <string name="cb_back">gumb nazaj</string>
      <string name="change_activate_email">Spremeni e-poštni naslov</string>
      <string name="change_password">Spremeni geslo</string>
@@ -252,6 +260,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="dialog_security_mode_guide_open">Vklopi</string>
      <string name="dialog_security_mode_guide_title">Vklopi Mi zaščito</string>
      <string name="dialog_title_default">Pozor</string>
+     <string name="discover_risk_app">Odkrita tveganja</string>
      <string name="dlg_app_replacement_statement">"Aplikacija ki jo nameščate bo zamenjala drugo aplikacijo. 
 Obstoječi podatki aplikacije bodo shranjeni."</string>
      <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) bo zamenjala trenutno nameščeno verzijo (%3$s). Obstoječi podatki aplikacije bodo shranjeni."</string>
@@ -382,6 +391,7 @@ Vsi obstoječi podatki aplikacije bodo shranjeni."</string>
      <string name="general_mode_subtitle">Zaščitite se pred tveganimi aplikacijami in kršitvami zasebnosti</string>
      <string name="general_mode_title">Splošna zaščita</string>
      <string name="get_phone_verifycode_exceed_limit">Na to številko je bilo poslanih preveč kod za preverjanje. Počakajte 24 ur in poskusite znova.</string>
+     <string name="get_the_app_through_mi_app_store">Prenesite varne različice iz GetApps</string>
      <string name="give_up">Prekliči</string>
      <string name="gold_mi_prize">Zlata Mi nagrada</string>
      <string name="google_login_btn_content_description">Prijava z Google</string>
@@ -411,6 +421,7 @@ Vsi obstoječi podatki aplikacije bodo shranjeni."</string>
      <string name="install_abi_error_des_market">Prenesite 32-bitno različico te aplikacije iz GetApps</string>
      <string name="install_app_loading">Preverjanje namestitvenega paketa…</string>
      <string name="install_app_progress_clear_apk">Izbriši aplikacijo</string>
+     <string name="install_apps_user_restriction_dlg_text">Ta uporabnik ne sme nameščati aplikacij</string>
      <string name="install_completed_pure_open_tip_title">Vklopite Mi zaščito, da blokirate tvegane aplikacije in zagotovite svojo varnost.</string>
      <string name="install_confirm_dialog_message">To aplikacijo je ustvaril Google. Pred normalno uporabo te aplikacije bi morali namestiti storitve Google Play. Če namestite to aplikacijo, se lahko vaša naprava slabo obnaša. Vseeno namestim?</string>
      <string name="install_confirm_dialog_negative_button">Prekliči</string>
@@ -472,6 +483,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="item_view_role_description">Zavihek</string>
      <string name="label">Nalepka</string>
      <string name="launch">Odpri</string>
+     <string name="learn_bundle_app_install">Več o tem</string>
      <string name="learn_more">Izvedite več</string>
      <string name="lift_ban">Dovoli</string>
      <string name="lift_ban_once">Dovoli enkrat</string>
@@ -624,6 +636,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -744,6 +757,8 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="old_sdk_deny_warning">Ta aplikacija je bila zasnovana za starejšo različico sistema Android. Če dovoljenje zavrnete lahko preneha delovati kot bi morala.</string>
      <string name="once_authorize_dialog_message">"Ta aplikacija ni prestala varnostnih testov Xiaomi in še ni na voljo v GetApps. Namestitev te aplikacije lahko dovolite, če ji zaupate. Ne pozabite, da lahko aplikacije, ki niso prestale naših varnostnih testov, predstavljajo tveganje."</string>
      <string name="once_authorize_dialog_title">Dovolim namestitev %s?</string>
+     <string name="only_get_app_for_mi_store">Aplikacije prenašajte samo prek GetApps in preverjenih razvijalcev</string>
+     <string name="only_get_app_for_mi_store_sub">Ta aplikacija je prestala naše stroge varnostne preglede</string>
      <string name="open">Vključi</string>
      <string name="open_app_install_safe_check">Preverite aplikacije pred namestitvijo</string>
      <string name="open_app_install_safe_des">Pred namestitvijo preverite aplikacije glede morebitnih tveganj in varnostnih težav</string>
@@ -1035,8 +1050,11 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="pref_key_about_privacy_title">Pravila o zasebnosti</string>
      <string name="pref_key_antivirus">Kontrola varnosti</string>
      <string name="pref_key_antivirus_summary">Preverite aplikacije za viruse pred nameščanjem</string>
+     <string name="pref_key_app_appeal">Zahtevaj aplikacijo</string>
      <string name="pref_key_app_store_summary">Vprašaj za prenos aplikacij iz varnih virov pred namestitvijo</string>
      <string name="pref_key_app_store_title">Priporoči varne verzije</string>
+     <string name="pref_key_developer_services">Storitve razvijalcev</string>
+     <string name="pref_key_shelf_app">Seznam aplikacij na GetApps</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
      <string name="prepare_install">Priprava namestitve…</string>
      <string name="privacyPerms">Zasebnost</string>
@@ -1063,6 +1081,11 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="pure_mode_des">Varni način zagotavlja, da je vsaka aplikacija, nameščena v vaši napravi, prestala varnostne teste Xiaomi.</string>
      <string name="pure_mode_elderly_recommend_title">"Vklopi Varni način"</string>
      <string name="pure_mode_give_up_protect">Ne, hvala</string>
+     <string name="pure_mode_install_completed_setting"><u>Urejaj to aplikacijo</u></string>
+     <string name="pure_mode_install_completed_tip1">· Skrij identifikatorje in prepreči sledenje</string>
+     <string name="pure_mode_install_completed_tip2">"· Shrani podatke o vsaki aplikaciji ločeno"</string>
+     <string name="pure_mode_install_completed_tip3">· Prepreči zavajajoče in vsiljene namestitve aplikacij</string>
+     <string name="pure_mode_install_completed_tip4">· Prepreči nenameren zagon aplikacij</string>
      <string name="pure_mode_open_toast">Varni način je vklopljen</string>
      <string name="pure_mode_tip_dialog_des">Dovolite, da dokonča namestitev?</string>
      <string name="pure_mode_tip_dialog_elderly_des">Za zaščito vaše zasebnosti in varnosti Mi zaščita blokira namestitev aplikacij iz neznanih ali tveganih virov.</string>
@@ -1080,6 +1103,9 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="review_button_cancel">Prekini</string>
      <string name="review_button_continue">Nadaljuj</string>
      <string name="risk_app">Predstavlja tveganje</string>
+     <string name="risk_app_default_description_text">Ta aplikacija lahko predstavlja varnostno tveganje</string>
+     <string name="risk_app_default_title_text">Odkrita tveganja</string>
+     <string name="risk_app_description">Podrobnosti</string>
      <string name="risk_app_go_to_browser_download">To aplikacijo lahko prenesete v brskalniku</string>
      <string name="risk_app_has_trust">Zaupanja vredno</string>
      <string name="risk_app_install_agree_button">Zaupaj tej aplikaciji</string>
@@ -1312,6 +1338,8 @@ izvirajo aplikacije"</string>
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
+     <string name="understand_risk_app">Več o tem</string>
+     <string name="understand_risk_app_and_continue_install">Vseeno namesti</string>
      <string name="understanding_of_security_guard">Več o tem</string>
      <string name="uninstall_activity_text">Aktivnost %1$s je del te aplikacije:</string>
      <string name="uninstall_all_blocked_profile_owner">Ta aplikacija je potrebna za neke uporabnike in profile in jo ni možno odstraniti</string>
@@ -1333,6 +1361,7 @@ izvirajo aplikacije"</string>
      <string name="uninstall_update_title">Odstranim to posodobitev?</string>
      <string name="uninstalling">Odstranjevanje…</string>
      <string name="unknown">Neznano</string>
+     <string name="unknown_app">Neznana aplikacija</string>
      <string name="unknown_apps_admin_dlg_text">Vaš skrbnik ne dovoli nameščanje aplikacij iz neznanih virov.</string>
      <string name="unknown_apps_dlg_text">Vaša naprava je nastavljena tako da blokira namestitve aplikacij iz neznanih virov.</string>
      <string name="unknown_error_info">Neznana napaka</string>

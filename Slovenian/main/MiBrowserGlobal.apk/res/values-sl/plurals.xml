@@ -234,12 +234,16 @@
         <item quantity="one">Blokiran %d oglas</item>
      </plurals>
      <plurals name="privacy_dialog_next_plurals">
-        <item quantity="other">Naprej (%1$d secs)</item>
-        <item quantity="one">Naprej (%1$d sec)</item>
+        <item quantity="other">Naprej (%1$d sek)</item>
+        <item quantity="one">Naprej (%1$d sek)</item>
      </plurals>
      <plurals name="privacy_dialog_revoke_plurals">
-        <item quantity="other">Dvig (%1$d secs)</item>
-        <item quantity="one">Dvig (%1$d sec)</item>
+        <item quantity="other">Dvig (%1$d sek)</item>
+        <item quantity="one">Dvig (%1$d sek)</item>
+     </plurals>
+     <plurals name="recommend_top_guide">
+        <item quantity="other">%d novih priporočenih videoposnetkov</item>
+        <item quantity="one">%d nov priporočen videoposnetek</item>
      </plurals>
      <plurals name="scanning_notyfy">
         <item quantity="other">Najdeno %d datotek…</item>

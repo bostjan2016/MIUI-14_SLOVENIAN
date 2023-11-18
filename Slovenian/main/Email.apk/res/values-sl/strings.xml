@@ -182,8 +182,8 @@
      <string name="account_setup_incoming_delete_policy_delete_label">Ko izbrišem iz Koša</string>
      <string name="account_setup_incoming_delete_policy_never_label">Nikoli</string>
      <string name="account_setup_incoming_imap_path_prefix_hint">Neobvezno</string>
-     <string name="account_setup_incoming_imap_path_prefix_label">IMAP
- predpona poti</string>
+     <string name="account_setup_incoming_imap_path_prefix_label">"IMAP
+ predpona poti"</string>
      <string name="account_setup_incoming_password_label">Geslo</string>
      <string name="account_setup_incoming_port_label">Vrata</string>
      <string name="account_setup_incoming_security_label">Tip varnosti</string>
@@ -725,7 +725,7 @@
      <string name="fmt_date_long_month_day">dd.MM</string>
      <string name="fmt_date_long_year_month">MMMM, yyyy</string>
      <string name="fmt_date_long_year_month_day">dd.MM. yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
+     <string name="fmt_date_numeric_day">d</string>
      <string name="fmt_date_numeric_month">MM.</string>
      <string name="fmt_date_numeric_month_day">dd.MM.</string>
      <string name="fmt_date_numeric_year">yyyy</string>
@@ -1129,6 +1129,7 @@ To težavo lahko povzroči dvostopenjsko preverjanje pristnosti računa. Poskusi
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -1725,6 +1726,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="sign_in_dialog_outlook_enterprise">Office365 Exchange Enterprise Edition</string>
      <string name="sign_in_dialog_outlook_exchange">EXCHANGE (z koledarjem)</string>
      <string name="sign_in_dialog_outlook_imap">IMAP (brez koledarja)</string>
+     <string name="sign_in_dialog_title">Izberite način prijave</string>
      <string name="sign_in_graph_error">"Prijavite se lahko z uporabo protokolov IMAP ali EXCHANGE za prijavo samo, če vaša organizacija ni spremenila splošne konfiguracije strežnika. Če organizacija prilagodi naslov vašega strežnika ali so povezani protokoli onemogočeni, se prijavite z novim Microsoftovim protokolom."</string>
      <string name="sign_in_no_useful_provider_error">"Ne morem dobiti konfiguracij protokola od Microsofta. Uporabite drug protokol ali posodobite protokol Microsofta."</string>
      <string name="signature">"

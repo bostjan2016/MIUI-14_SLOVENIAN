@@ -658,6 +658,9 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
      <string name="local_mode_hint">"Uporabljate način brez povezave.
 Tapnite za izklop."</string>
      <string name="local_mode_open">Način brez povezave</string>
+     <string name="local_notification_default_title">Teme</string>
+     <string name="local_notification_font_trial_title">Oglejte si nove pisave</string>
+     <string name="local_notification_update_theme_title">Posodobite vaše teme</string>
      <string name="local_photos">Lokalne fotografije</string>
      <string name="local_resouce_creator_name">Razvijalec: %1$s</string>
      <string name="lock_screen_apply">Nastavi za Zakl. zaslon</string>
@@ -1282,6 +1285,7 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="resource_restore_succ">Uspešno vrnjeno</string>
      <string name="resource_ringtone_default">Zvonjenje</string>
      <string name="resource_ringtone_playing_error">Napaka v predvajanju</string>
+     <string name="resource_ringtone_too_large_waring">Datoteke z melodijami zvonjenja morajo imeti %1$d MB ali manj</string>
      <string name="resource_ringtone_volume_mute">Vaše zvonjenje je utišano</string>
      <string name="resource_save_to_note">Shrani v beležko</string>
      <string name="resource_search_color_hint_blue">Modra</string>

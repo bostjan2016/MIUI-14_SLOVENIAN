@@ -315,6 +315,7 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="browser_wallpaper_subtitle">Prilagodite Mi brskalnik s čudovitimi ozadji.</string>
      <string name="browser_wallpaper_system_default">Privzeto</string>
      <string name="browser_wallpaper_title">Ozadja</string>
+     <string name="browser_wallpaper_toast">Če želite zamenjati ozadja, izklopite stikalo Promocije</string>
      <string name="btn_agree">Strinjam se</string>
      <string name="btn_cancel">Prekliči</string>
      <string name="btn_confirm">Razumem</string>
@@ -502,6 +503,7 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="content_recommend">Priporočeno</string>
      <string name="contextmenu_add_contact">Dodaj stik</string>
      <string name="contextmenu_copy">Kopiraj</string>
+     <string name="contextmenu_copy_image">Kopiraj sliko</string>
      <string name="contextmenu_copylink">Kopiraj povezavo</string>
      <string name="contextmenu_dial_dot">Kličem…</string>
      <string name="contextmenu_download_image">Shrani sliko</string>
@@ -526,6 +528,8 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="continue_reading">Nadaljujte z branjem</string>
      <string name="continue_watch_video">Nadaljujte z gledanjem</string>
      <string name="copy">Kopiraj</string>
+     <string name="copy_image_failed">"Ne morem kopirati"</string>
+     <string name="copy_image_success">Kopirano</string>
      <string name="copy_success">Kopirano</string>
      <string name="copy_toast_msg">Povezava je bila kopirana v odložišče</string>
      <string name="copy_url">Kopiraj povezavo</string>
@@ -561,6 +565,11 @@ Strani, ki si jih ogledate ne bodo zabeležene v zgodovini."</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
      <string name="debug_crash">Omogoči odpravljanje napak pri zrušitvah</string>
+     <string name="debug_user_firebase_config_list_title">Seznam konfiguracij Firebase</string>
+     <string name="debug_user_firebase_config_reset">Ponastavi</string>
+     <string name="debug_user_firebase_config_reset_confirm_dialog">Konfiguracije Firebase bodo ponastavljene</string>
+     <string name="debug_user_firebase_config_reset_loading_dialog">Delam…</string>
+     <string name="debug_user_firebase_config_search_hint">Iskanje konfiguracij</string>
      <string name="debug_youtube_file">Odpravi napake v YouTube datotekah</string>
      <string name="debug_youtube_in_release">Odpravi napake v YouTubu v izdaji</string>
      <string name="decompress">Razširi</string>
@@ -1392,6 +1401,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="more_option">Več možnosti</string>
      <string name="more_privacy">Več možnosti zasebnosti</string>
      <string name="more_recommend">Več priporočil</string>
+     <string name="more_videos">Več videov</string>
      <string name="morning">Jutro</string>
      <string name="most_visited_sites">Najbolj obiskano</string>
      <string name="most_visited_sites_switch">Na začetni strani pokaži najbolj obiskana spletna mesta</string>
@@ -2323,6 +2333,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="reboot">Ponovni zagon</string>
      <string name="recent_apk_status_install">NAMEŠČENO</string>
      <string name="recommend">Priporočeno</string>
+     <string name="recommend_bottom_guide">Za ogled več videoposnetkov povlecite navzgor</string>
      <string name="recommend_button">Sledi (%s)</string>
      <string name="recommend_description">"Izbrali smo nekaj ustvarjalcev, ki bi jih morda radi spremljali."</string>
      <string name="record_permission_name">Snemanje zvoka</string>
@@ -2925,7 +2936,10 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
      <string name="video_push_multi_title">Posodobitev je na voljo</string>
      <string name="video_push_single_message">Tapnite za posodobitev na %1$d.</string>
      <string name="video_replay_btn">Ponovno predvajaj</string>
+     <string name="video_report_entrance">Prijavi</string>
+     <string name="video_report_submit">Predloži</string>
      <string name="video_retry_btn">Poskusite ponovno</string>
+     <string name="video_select_report_reason">Izberite razlog</string>
      <string name="video_service_notification_title">Predvajanje pop-up videoposnetka…</string>
      <string name="video_subtitle_last_message1">Še manj kot 1 minuto</string>
      <string name="video_subtitle_prefix1">Gledano</string>
