@@ -68,18 +68,18 @@ vaših naprav?"</string>
      <string name="appcirculate_toast_success_2">Predvajanje v zasebnem načinu…</string>
      <string name="appcirculate_toast_success_3">Predvajanje…</string>
      <string name="audio_record_des">Za prenos zvoka iz mobilne naprave na zunanje monitorje</string>
-     <string name="auth_MIUI_and_phone_model">"This page is only available to
-MIUI 13 Beta testers."</string>
-     <string name="auth_check_loading">Just a sec…</string>
-     <string name="auth_no_user">"This page is only available to Beta testers.
-Sign in to your Mi Account in Settings > Mi Account to sync permissions."</string>
-     <string name="auth_phone_model">"This page can't be viewed on this device."</string>
-     <string name="auth_show_to_test_user">This page is only available to Beta testers.</string>
+     <string name="auth_MIUI_and_phone_model">"Ta stran je na voljo samo za
+MIUI 13 Beta preizkuševalce."</string>
+     <string name="auth_check_loading">Delam…</string>
+     <string name="auth_no_user">"Ta stran je na voljo samo za Beta preizkuševalce.
+Za sinhronizacijo dovoljenj se prijavite v svoj račun Mi v Nastavitve > Račun Mi."</string>
+     <string name="auth_phone_model">"Te strani si ni mogoče ogledati v tej napravi."</string>
+     <string name="auth_show_to_test_user">Ta stran je na voljo samo za Beta preizkuševalce.</string>
      <string name="ball_hint_connect_fail">"Couldn't perform this action. Wait a minute or two and try again."</string>
      <string name="ball_hint_text_loading">Just a sec…</string>
      <string name="ball_hint_text_success">Connected successfully</string>
      <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
-     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
+     <string name="bottomsheet_action_expand_halfway">Razširi do polovice</string>
      <string name="cast_image_des">Navodila za pretakanje</string>
      <string name="casting_tips">Predvajanje…</string>
      <string name="character_counter_content_description">Vnesenih znakov %1$d od %2$d</string>
