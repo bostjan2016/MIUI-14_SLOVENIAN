@@ -1549,7 +1549,7 @@ Tega klica ni mogoče dokončati. Poskusite znova, ko se telefon ohladi.
      <string name="incall_error_supp_service_unknown">Storitev ni podprta</string>
      <string name="incall_error_turn_off_airplane_mode">Izključite Letalski način</string>
      <string name="incall_error_wfc_only_no_wireless_network">Povežite se v omrežje WiFi če želite opraviti klic.</string>
-     <string name="incall_number_anonymous">Neznana številka</string>
+     <string name="incall_number_anonymous">Skrita številka</string>
      <string name="incall_number_anonymous_kd">ID Neposlano</string>
      <string name="incall_number_unavailable_kd">Ni podprto</string>
      <string name="incall_status_dialed_mmi">Začetek MMI zaporedja…</string>
