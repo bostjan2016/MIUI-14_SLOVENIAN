@@ -187,7 +187,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="enable_micloud">Prijavite se za uporabo Mi Clouda</string>
      <string name="enable_sync">Sinhr.</string>
      <string name="enable_sync_dspt">"Ne sinhr."</string>
-     <string name="enable_sync_setting_title">Konfiguriranje cloud usluga…</string>
+     <string name="enable_sync_setting_title">Konfiguriranje cloud storitev…</string>
      <string name="error_canceled">Preklicano</string>
      <string name="error_credential_fail">Napačno geslo</string>
      <string name="error_data_in_transfer">Sinhronizacija se bo zaključila v %s urah.</string>
@@ -762,7 +762,7 @@ Prepričajte se, da uporabljate povezani račun Xiaomi kot sistemski račun MIUI
      <string name="micloud_sync_result_io_exception">I/O napaka</string>
      <string name="micloud_sync_result_parse_exception">Ne morem analizirati podatke</string>
      <string name="micloud_sync_result_permission_error">Napaka glede dovoljenj</string>
-     <string name="micloud_sync_result_request_error">Pogreška zahteve za sinhronizacijo</string>
+     <string name="micloud_sync_result_request_error">Napaka zahteve za sinhronizacijo</string>
      <string name="micloud_sync_result_secure_space_limit">"Ne sinhroniziraj stvari iz drugega prostora"</string>
      <string name="micloud_sync_result_sim_activated_error">"Ne morem aktivirati SIM kartico"</string>
      <string name="micloud_sync_result_wifi_only">Ta stvar je prevelika. Sinhronizirajte ko ste povezani na WiFi</string>
