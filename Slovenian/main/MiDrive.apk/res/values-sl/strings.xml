@@ -695,7 +695,7 @@ Prepričajte se, da Mi račun uporabljate kot račun sistema."</string>
      <string name="phone_hint">Številka telefona</string>
      <string name="phone_num_use_for">Številka telefona se uporablja za:</string>
      <string name="phone_number">Številka telefona</string>
-     <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
+     <string name="photoPickerNotFoundText">Ni fotografij.</string>
      <string name="pick_from_fileexplor_failed">Najprej posodobite aplikacijo Raziskovalec.</string>
      <string name="picker_bottom_btn_text">Naloži</string>
      <string name="picker_bottom_text_desc">"Naloži v "</string>
@@ -849,7 +849,7 @@ Prepričajte se, da Mi račun uporabljate kot račun sistema."</string>
      <string name="storage_unit_gb">%s GB</string>
      <string name="storage_unit_kb">%s KB</string>
      <string name="storage_unit_mb">%s MB</string>
-     <string name="storage_usb">USB uređaj</string>
+     <string name="storage_usb">USB naprava</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>

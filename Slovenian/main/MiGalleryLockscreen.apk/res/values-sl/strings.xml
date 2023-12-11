@@ -480,7 +480,7 @@ To lahko povzroči dodatne stroške."</string>
      <string name="lockscreen_h5_close_tv">Izključi</string>
      <string name="lockscreen_h5_refresh_btn_tv">Osveži</string>
      <string name="lockscreen_h5_refresh_tip">Preverite omrežne nastavitve in poskusite ponovno</string>
-     <string name="lockscreen_magazine_summary">Dodajte vaše slike ozadij v mapo Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
+     <string name="lockscreen_magazine_summary">Izberite kategorije</string>
      <string name="lockscreen_magazine_system_title">Izvenmrežno</string>
      <string name="lockscreen_magazine_title">Dnevna ozadja zakl. zaslona</string>
      <string name="lockscreen_wallpaper_changed">Slika ozadja zamenjana</string>

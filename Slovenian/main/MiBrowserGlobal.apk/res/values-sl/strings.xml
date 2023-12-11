@@ -2249,7 +2249,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="privacy_message_welcome_tip_first">- Hitro in varno brskanje po spletu</string>
      <string name="privacy_message_welcome_tip_second">- Prenašanje slik in videa iz družbenih omrežji</string>
      <string name="privacy_new_function">Nova storitev</string>
-     <string name="privacy_permission_name">"Don't allow tracking your activity"</string>
+     <string name="privacy_permission_name">"Ne dovolite sledenja vaši dejavnosti"</string>
      <string name="privacy_policy">Pravila o zasebnosti</string>
      <string name="privacy_reset_fail">"Ne morem ponastaviti. Poskusite ponovno."</string>
      <string name="privacy_security">Zasebnost in varnost</string>
@@ -2864,7 +2864,7 @@ Kadarkoli se lahko izpišete iz programa v Nastavitve > Zasebnost in varnost."</
      <string name="username">Ime</string>
      <string name="uuid">UUID(Kliknite Za izvoz)</string>
      <string name="v5_deselect_all">Prekliči izbrano</string>
-     <string name="v5_edit_mode_title_empty">0 izbranih</string>
+     <string name="v5_edit_mode_title_empty">Izberite stvari</string>
      <string name="v5_select_all">Izberi vse</string>
      <string name="v7_preference_off">IZKLOPLJENO</string>
      <string name="v7_preference_on">VKLOPLJENO</string>

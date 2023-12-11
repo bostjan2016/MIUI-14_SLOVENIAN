@@ -263,7 +263,7 @@
      <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
      <string name="preloading_progress_message">%1$d od %2$d pripravljeno</string>
      <string name="recent">Nedavno</string>
-     <string name="ringtone_default">Privzeti melodija zvonjenja</string>
+     <string name="ringtone_default">Privzeta melodija zvonjenja</string>
      <string name="root_audio">Zvok</string>
      <string name="root_documents">Dokumenti</string>
      <string name="root_images">Slike</string>
