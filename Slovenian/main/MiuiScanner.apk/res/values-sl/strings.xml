@@ -102,9 +102,9 @@
      <string name="check_for_updates">Preveri za Beta posodobitve</string>
      <string name="check_phone_num">Našel sem telefonsko številko</string>
      <string name="choose_open_code_app">Izberite aplikacijo</string>
-     <string name="choose_pay_title">Odaberi način plačanja</string>
+     <string name="choose_pay_title">Izberite način plačanja</string>
      <string name="choose_picture">Izberite sliko QR kode</string>
-     <string name="choosed_title">Itbrano</string>
+     <string name="choosed_title">Izbrano</string>
      <string name="classesNameNull_toast">"Polje za ime razreda ne sme biti prazno"</string>
      <string name="classes_canfirmTitle">Potrdite rezultate in začnite z uvozom</string>
      <string name="classes_company">Uvoz</string>
@@ -113,7 +113,7 @@
      <string name="classes_deleteMessage">Želite trajno izbrisati ta razred?</string>
      <string name="classes_edit_dialog_title">Ime razreda</string>
      <string name="classes_edit_name">Vnesite ime razreda</string>
-     <string name="classes_fail">"Ne morem prepoznati Poskusite ponovno."</string>
+     <string name="classes_fail">"Ne morem prepoznati. Poskusite ponovno."</string>
      <string name="classes_isNull">"Niste še dodali nobenega razreda"</string>
      <string name="classes_titlt">Razpored ur</string>
      <string name="classes_topTitle">Skenirajte razpored svojega razreda</string>
@@ -801,7 +801,7 @@
      <string name="store_feedback_prompt">Najprej vnesite povratne informacije</string>
      <string name="store_location_dialog">Storitev ponuja Dianping. Vse fotografije uporabljene v tej storitvi kot tudi z njimi povezane informacije o lokaciji, bodo deljene Dianpingu da dobite informacije o trgovinah.</string>
      <string name="store_location_fail">"Ne morem dobiti informacije o lokaciji"</string>
-     <string name="store_location_prompt">Dovoli Skenerju dostop do lokaciei da bo lahko našel trgovine</string>
+     <string name="store_location_prompt">Dovoli Skenerju dostop do lokacije da bo lahko našel trgovine</string>
      <string name="store_module_title">Trgovina</string>
      <string name="store_no_date">"Ne morem prepoznati trgovino"</string>
      <string name="store_title">Skeniraj znak trgovine</string>

@@ -145,7 +145,7 @@ Tapnite za ogled"</string>
      <string name="low_battery_for_pad">Pred začetkom snemanja napolnite baterijo</string>
      <string name="low_battery_title">Slaba baterija</string>
      <string name="low_battery_warning">Baterija je preslaba. Ustavite snemanje in shranite videoposnetek.</string>
-     <string name="low_memory">Imate manje od 1GB prostora. Lahko snemate do 20 minut.</string>
+     <string name="low_memory">Imate manj od 1GB prostora. Lahko snemate do 20 minut.</string>
      <string name="low_memory_dior">Imate manj kot 500MB prostora. Lahko snemate do 12 minut.</string>
      <string name="low_memory_for_pad">Imate manj kot %1$d GB prostora. Lahko snemate do %2$d minut.</string>
      <string name="low_memory_for_phone">Imate manj kot %1$d GB prostora. Lahko snemate do %2$d minut.</string>

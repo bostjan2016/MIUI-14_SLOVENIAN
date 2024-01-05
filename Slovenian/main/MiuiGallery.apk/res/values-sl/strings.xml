@@ -2695,7 +2695,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="retry_to_create_album">Poskusi ponovno</string>
      <string name="retry_to_request_qr_code">Poskusi ponovno</string>
      <string name="return_from_clear_local_file_fragment_toast">Optimizirane fotografije so shranjene v napravo. Tapnite fotografijo da prenesete original iz Mi Clouda.</string>
-     <string name="revert">Vrati</string>
+     <string name="revert">Vrni</string>
      <string name="rise">Toplo</string>
      <string name="risk_control_deleted_date">dd/MM</string>
      <string name="risk_control_deleted_message">Nekdo je izbrisal vaše nastavitve Galerije iz Mi Clouda z uporabo %3$s %1$s ob %2$s. Ste to bili vi?</string>
