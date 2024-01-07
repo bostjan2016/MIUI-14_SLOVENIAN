@@ -101,7 +101,7 @@
      <string name="controls_edit_go_to_app_guide">Odpri %s</string>
      <string name="controls_edit_not_added_title">Na voljo</string>
      <string name="controls_edit_panel_not_added_title">Naprave na voljo</string>
-     <string name="controls_edit_panel_save_button">Gotovo</string>
+     <string name="controls_edit_panel_save_button">Končano</string>
      <string name="controls_edit_panel_subtitle">Povlecite stvari da jih boste preuredili</string>
      <string name="controls_edit_panel_title">Dodane naprave</string>
      <string name="controls_error_failed">Napaka, poskusite znova</string>
@@ -129,7 +129,7 @@
      <string name="controls_offline_device_toast">Ta naprava je brez povezave. Pritisnite in držite, da odprete aplikacijo.</string>
      <string name="controls_pin_instructions">Vnesite PIN</string>
      <string name="controls_pin_instructions_retry">Poskusite z drugim PIN-om</string>
-     <string name="controls_pin_use_alphanumeric">PIN vsebuje čke ali simbole</string>
+     <string name="controls_pin_use_alphanumeric">PIN vsebuje črke ali simbole</string>
      <string name="controls_pin_verify">Potrdite %s</string>
      <string name="controls_pin_wrong">Napačna PIN</string>
      <string name="controls_providers_title">Izberite aplikacijo za dodajanje kontrol</string>

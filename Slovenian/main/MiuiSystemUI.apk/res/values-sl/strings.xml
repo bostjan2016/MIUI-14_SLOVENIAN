@@ -288,7 +288,7 @@
      <string name="accessibility_quick_settings_detail">Hitre nastavitve, %s.</string>
      <string name="accessibility_quick_settings_dnd">Ne moti.</string>
      <string name="accessibility_quick_settings_dnd_alarms_on">\"Ne moti\" vključeno, samo za alarme.</string>
-     <string name="accessibility_quick_settings_dnd_changed_off">\"Ne ometaj\" izključeno.</string>
+     <string name="accessibility_quick_settings_dnd_changed_off">\"Ne moti\" izključeno.</string>
      <string name="accessibility_quick_settings_dnd_changed_on">\"Ne moti\" vključeno.</string>
      <string name="accessibility_quick_settings_dnd_none_on">\"Ne moti\" vključeno, popolna tišina.</string>
      <string name="accessibility_quick_settings_dnd_off">\"Ne moti\" izključeno.</string>
@@ -296,9 +296,9 @@
      <string name="accessibility_quick_settings_edit">Urejanje vrstnega reda nastavitev.</string>
      <string name="accessibility_quick_settings_expand">Odpiranje hitrih nastavitev.</string>
      <string name="accessibility_quick_settings_flashlight_changed_off">Svetilka izključena.</string>
-     <string name="accessibility_quick_settings_flashlight_changed_on">Svjetiljka vključena.</string>
+     <string name="accessibility_quick_settings_flashlight_changed_on">Svetilka vključena.</string>
      <string name="accessibility_quick_settings_flashlight_off">Svetilka izključena.</string>
-     <string name="accessibility_quick_settings_flashlight_on">Svetilka uvljučena.</string>
+     <string name="accessibility_quick_settings_flashlight_on">Svetilka vključena.</string>
      <string name="accessibility_quick_settings_flashlight_unavailable">Svetilka ni na voljo.</string>
      <string name="accessibility_quick_settings_hotspot_changed_off">Hotspot izključen.</string>
      <string name="accessibility_quick_settings_hotspot_changed_on">Hotspot vključen.</string>
@@ -386,7 +386,7 @@
      <string name="accessibility_volume_collapse">Strinjanje</string>
      <string name="accessibility_volume_expand">Razširjanje</string>
      <string name="accessibility_volume_settings">Nastavitve zvoka</string>
-     <string name="accessibility_vpn_on">VPN uvljučen.</string>
+     <string name="accessibility_vpn_on">VPN vključen.</string>
      <string name="accessibility_waiting_for_fingerprint">Čakam na prstni odtis</string>
      <string name="accessibility_wallet_button">Denarnica</string>
      <string name="accessibility_wifi_name">Povezan z %s.</string>
@@ -1757,13 +1757,13 @@ prednostno"</string>
      <string name="keyguard_left_mi_wallet">Mi denarnica</string>
      <string name="keyguard_left_music">Glasba</string>
      <string name="keyguard_left_notes">Beležke</string>
-     <string name="keyguard_left_remotecentral">Mi Remote</string>
+     <string name="keyguard_left_remotecentral">Mi daljinec</string>
      <string name="keyguard_left_smarthome">Stiki</string>
      <string name="keyguard_left_torch">Svetilka</string>
      <string name="keyguard_left_view_lock_wallpaper">Wallpaper Carousel</string>
      <string name="keyguard_low_battery">Priključite napajalnik.</string>
      <string name="keyguard_missing_sim_instructions">Vstavite kartico SIM.</string>
-     <string name="keyguard_missing_sim_instructions_long">Ni kartkarticeica SIM ali je ni mogoče prebrati. Vstavite kartico SIM.</string>
+     <string name="keyguard_missing_sim_instructions_long">Ni kartice SIM ali je ni mogoče prebrati. Vstavite kartico SIM.</string>
      <string name="keyguard_missing_sim_message">V telefonu ni kartice SIM.</string>
      <string name="keyguard_missing_sim_message_short">Ni kartice SIM</string>
      <string name="keyguard_network_locked_message">Omrežje je zaklenjeno</string>
@@ -2642,7 +2642,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="pip_edu_text">" Double press "<annotation icon="home_icon"> DOMOV </annotation>" za kontrolnike "</string>
      <string name="pip_expand">Razširi</string>
      <string name="pip_fullscreen">Celozaslonsko</string>
-     <string name="pip_menu_accessibility_title">Picture-in-Picture Menu</string>
+     <string name="pip_menu_accessibility_title">Meni slika v sliki</string>
      <string name="pip_menu_title">Meni</string>
      <string name="pip_move">Premakni</string>
      <string name="pip_notification_message">Če ne želite, da aplikacija %s uporablja to opravilo, se dotaknite, da odprete nastavitve, in opravilo izklopite.</string>
@@ -3105,7 +3105,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="screenrecord_audio_label">Snemanje zvoka</string>
      <string name="screenrecord_background_processing_label">Obdelava snemanja zaslona</string>
      <string name="screenrecord_cancel_label">Prekliči</string>
-     <string name="screenrecord_cancel_success">Seimanje zaslona preklicano</string>
+     <string name="screenrecord_cancel_success">Snemanje zaslona preklicano</string>
      <string name="screenrecord_channel_description">Tekoče obvestilo za sejo zajema zaslona</string>
      <string name="screenrecord_continue">Začni</string>
      <string name="screenrecord_delete_description">Snemanje zaslona izbrisano</string>
@@ -3372,7 +3372,7 @@ morda nadzira"</string>
      <string name="stream_system">Sistem</string>
      <string name="stream_system_enforced">Prenesi preko sistema</string>
      <string name="stream_tts">Prenesi preko zvočnika</string>
-     <string name="stream_voice_assist">Voice Assist</string>
+     <string name="stream_voice_assist">Glasovni pomočnik</string>
      <string name="stream_voice_call">Klic</string>
      <string name="strict_mode">Strog način je omogočen</string>
      <string name="strict_mode_summary">Osveži zaslon pri dolgih oper. progr. v gl. niti</string>
@@ -3779,7 +3779,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
      <string name="wifi_auto_sel_wapi_cert">Izberi samodejno</string>
      <string name="wifi_cant_connect">"Ne morem se povezati"</string>
      <string name="wifi_cant_connect_to_ap">"Ne morem se povezati na '%1$s'"</string>
-     <string name="wifi_check_password_try_again">Preverite geslo in pokušajte ponovno</string>
+     <string name="wifi_check_password_try_again">Preverite geslo in poskusite ponovno</string>
      <string name="wifi_connected_low_quality">Nizka kakovost</string>
      <string name="wifi_connected_mac_randomization">Naključna izbira MAC-a pri povezovanju</string>
      <string name="wifi_connected_mac_randomization_summary">Naključno izberi MAC naslov pri povezavi v WiFi omrežje</string>
